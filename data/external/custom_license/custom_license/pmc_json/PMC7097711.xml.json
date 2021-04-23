@@ -1,0 +1,3116 @@
+{
+    "paper_id": "PMC7097711",
+    "metadata": {
+        "title": "Viral evasion and subversion of pattern-recognition receptor signalling",
+        "authors": [
+            {
+                "first": "Andrew",
+                "middle": [
+                    "G."
+                ],
+                "last": "Bowie",
+                "suffix": "",
+                "email": "agbowie@tcd.ie",
+                "affiliation": {}
+            },
+            {
+                "first": "Leonie",
+                "middle": [],
+                "last": "Unterholzner",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Representative viral proteins that interfere with PPR signalling pathways at multiple points\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: All of the pattern-recognition receptors (PRRs) initiate signalling pathways that converge at the activation of the transcription factors interferon (IFN)-regulatory factor 3 (IRF3), IRF7 and/or nuclear factor-\u03baB (NF\u03baB); this leads to the expression of IFN\u03b2. IFN\u03b2 then initiates an antiviral effector programme in the infected cell and neighbouring cells, which involves the expression of numerous IFN-stimulated genes (ISGs). Some of the ISGs shown here, such as RIG-I (retinoic-acid-inducible gene I), MDA5 (melanoma differentiation-associated gene 5), DAI (DNA-dependent activator of IRFs), some microRNAs and the TRIM (tripartite motif-containing) family of proteins, are involved in the amplification and regulation of the IFN response. Other ISGs shown here, such as 2\u20325\u2032-oligoadenylate synthetase (OAS) and ribonuclease L (RNaseL), IFN-inducible dsRNA-dependent protein kinase (PKR), myxovirus resistance (Mx) protein, adenosine deaminase RNA-specific (ADAR) and apolipoprotein B mRNA-editing enzyme, catalytic polypeptide 3 (APOBEC3), are involved in antiviral mechanisms that interfere with the life cycle of individual viruses . OAS and PKR are further activated by double-stranded RNA (dsRNA). IFNAR1, interferon-\u03b1 receptor; IPS1, IFNB-promoter stimulator 1; ISG15, IFN-stimulated protein of 15 kDa; MD2, myeloid differentiation protein 2; PPP, 5\u2032 triphosphate; ssRNA, single-stranded RNA; STAT, signal transducer and activator of transcription; TLR, Toll-like receptor.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Following activation, Toll-like receptors (TLRs) recruit the adaptor proteins myeloid differentiation primary-response gene 88 (MyD88), TIR-domain-containing adaptor protein inducing IFN\u03b2 (TRIF), MyD88-adaptor-like (MAL) and TRIF-related adaptor protein (TRAM), as indicated. These then initiate signalling cascades involving IL-1R-associated kinase (IRAK) and TNFR-associated factor (TRAF) proteins, which finally converge at the activation of the I\u03baB kinase (IKK) family members IKK\u03b1, IKK\u03b2, IKK\u025b and TBK1 (TANK-binding kinase 1). The vaccinia virus (VACV) protein A46R sequesters all these adaptor proteins, whereas the hepatitis C virus (HCV) protein NS5A selectively binds MyD88 and the HCV NS3\u20134A protease cleaves TRIF. Human T-cell leukaemia virus type 1 (HTLV-1) protein p30 acts even further upstream by reducing the expression of TLR4. VACV A52R binds to and inhibits IRAK2, thereby affecting several TLR pathways that lead to nuclear factor-\u03baB (NF\u03baB) activation. dsRNA, double-stranded RNA; IFN, interferon; IL-1R, interleukin-1 receptor; IRF, IFN-regulatory factor; I\u03baB, inhibitor of NF\u03baB; MD2, myeloid differentiation protein 2; ssRNA, single-stranded RNA; RIP1, receptor-interacting protein 1; TAB, TAK1-binding protein; TAK1, transforming-growth-factor-\u03b2-activated kinase 1; TANK, TRAF-family-member-associated NF\u03baB activator; TIR, TLR/IL-1R; TNFR, tumour-necrosis factor receptor; TRADD, TNFR-associated via death domain.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: RIG-I (retinoic-acid-inducible gene I) and MDA5 (melanoma differentiation-associated gene 5), termed RIG-I-like receptors (RLRs), are activated by cytoplasmic RNA during viral infection. Both signal using IFNB-promoter stimulator 1 (IPS1), which is tethered to the mitochondrial membrane. When IPS1 is engaged by RLRs, it recruits downstream signalling complexes that lead to the activation of the IFN-regulatory factors (IRFs) and nuclear factor-\u03baB (NF\u03baB). In addition, signalling through RIG-I requires the adaptor STING (stimulator of IFN genes), which resides in the endoplasmic reticulum (ER). RLR signalling is inhibited by viral proteins that either bind RIG-I, MDA5 or IPS1 directly or cause their degradation. The I\u03baB kinase (IKK) family members are also a common target for viral proteins. DDX3, DEAD-box protein 3; dsRNA, double-stranded RNA; FADD, FAS-associated via death domain; HAV, hepatitis A virus; HCV, hepatitis C virus; IFN, interferon; I\u03baB, inhibitor of NF\u03baB; LGP2, laboratory of genetics and physiology 2; NAP1, NF\u03baB-activating kinase-associated protein 1; NS1, nonstructural protein 1; PPP, 5\u2032 triphosphate; RIP1, receptor-interacting protein 1; SINTBAD, similar to NAP1 TBK1 adaptor; ssRNA, single-stranded RNA; TANK, TRAF-family-member-associated NF\u03baB activator; TBK1, TANK-binding kinase 1; TNFR, tumour-necrosis factor receptor; TRADD, TNFR-associated via death domain; TRAF, TNFR-associated factor; TRIM25, tripartite motif-containing 25; ub, ubiquitin; VACV, vaccinia virus.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: IRF3 and IRF7 are activated by phosphorylation, they then homodimerize and translocate to the nucleus, where they interact with their co-activators CREB-binding protein (CBP) and p300 and induce the expression of genes such as interferon-\u03b1 (IFNA) and IFNB. Viruses inhibit IRFs by inducing their degradation, sequestering them or competing with them for binding to promoter sequences. AP1, activator protein 1; ATF2, activating transcription factor 2; BHV, bovine herpesvirus; CREB, cyclic-AMP-responsive-element-binding protein; CSFV, classical swine fever virus; HHV, human herpesvirus; HSV, herpes simplex virus; ICP0, infected cell protein 0; NDV, Newcastle disease virus; NF\u03baB, nuclear factor-\u03baB; NSP1, non-structural protein 1; KSHV, Kaposi's sarcoma-associated herpesvirus.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Interferon-inducible antiviral effectors",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Sadler",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "559-568",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Immunopathology of highly virulent pathogens: insights from Ebola virus",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Zampieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Nabel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Immunol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1159-1164",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Detrimental contribution of the Toll-like receptor (TLR)3 to influenza A virus-induced acute pneumonia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Le Goffic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Pathog.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "TLR3 Increases Disease Morbidity and Mortality from Vaccinia Infection",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Hutchens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Luker",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Sottile",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sonstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Lukacs",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Nunez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Curtis",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Luker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "The Journal of Immunology",
+            "volume": "180",
+            "issn": "1",
+            "pages": "483-491",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "TLR3 deletion limits mortality and disease severity due to Phlebovirus infection",
+            "authors": [
+                {
+                    "first": "BB",
+                    "middle": [],
+                    "last": "Gowen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Immunol.",
+            "volume": "177",
+            "issn": "",
+            "pages": "6301-6307",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "TLR3 deficiency in patients with herpes simplex encephalitis",
+            "authors": [
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Science",
+            "volume": "317",
+            "issn": "",
+            "pages": "1522-1527",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Interleukin-10 determines viral clearance or persistence in vivo",
+            "authors": [
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Brooks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Med.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1301-1309",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Resolution of a chronic viral infection after interleukin-10 receptor blockade",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ejrnaes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Exp. Med.",
+            "volume": "203",
+            "issn": "",
+            "pages": "2461-2472",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Vaccinia virus protein A52R activates p38 mitogen-activated protein kinase and potentiates lipopolysaccharide-induced interleukin-10",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Maloney",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schroder",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "30838-30844",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Subversion of the innate immune system by a retrovirus",
+            "authors": [
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Jude",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Immunol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "573-578",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "DDX3 DEAD-box RNA helicase is required for hepatitis C virus RNA replication",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ariumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "13922-13926",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Requirement of DDX3 DEAD Box RNA helicase for HIV-1 Rev-RRE export function",
+            "authors": [
+                {
+                    "first": "VSRK",
+                    "middle": [],
+                    "last": "Yedavalli",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Neuveut",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-H",
+                    "middle": [],
+                    "last": "Chi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kleiman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-T",
+                    "middle": [],
+                    "last": "Jeang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cell",
+            "volume": "119",
+            "issn": "",
+            "pages": "381-392",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Whole-genome expression profiling reveals that inhibition of host innate immune response pathways by Ebola virus can be reversed by a single amino acid change in the VP35 protein",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Hartman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Nichol",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Hibberd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "5348-5358",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Association of TLR4 polymorphisms with symptomatic respiratory syncytial virus infection in high-risk infants and young children",
+            "authors": [
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Awomoyi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Immunol.",
+            "volume": "179",
+            "issn": "",
+            "pages": "3171-3177",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Functional and therapeutic analysis of hepatitis c virus NS3.4a protease control of antiviral immune defense",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Owen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "10792-10803",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Ebola virus VP35 protein binds double-stranded RNA and inhibits \u03b1/\u03b2 interferon production induced by RIG-I signaling",
+            "authors": [
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Cardenas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "5168-5178",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Evidence that hepatitis C virus resistance to interferon is mediated through repression of the PKR protein kinase by the nonstructural 5A protein",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr"
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "230",
+            "issn": "",
+            "pages": "217-227",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Hepatitis C virus NS5A protein interacts with 2\u2032, 5\u2032-oligoadenylate synthetase and inhibits antiviral activity of IFN in an IFN sensitivity-determining region-independent manner",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "959-969",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "The E3L gene of vaccinia virus encodes an inhibitor of the interferon-induced, double-stranded RNA-dependent protein kinase",
+            "authors": [
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "4825-4829",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Inhibition of double-stranded RNA-dependent protein kinase PKR by vaccinia virus E3: role of complex formation and the E3 N-terminal domain",
+            "authors": [
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Romano",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "7304-7316",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Binding of influenza A virus NS1 protein to dsRNA in vitro",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hatada",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fukuda",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Gen. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "3325-3329",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Genetic analysis of resistance to viral infection",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Beutler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "753-766",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Pattern recognition receptors TLR4 and CD14 mediate response to respiratory syncytial virus",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Kurt-Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Immunol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "398-401",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "A46R and A52R from vaccinia virus are antagonists of host IL-1 and toll-like receptor signaling",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "10162-10167",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Viral interference with IL-1 and toll signaling",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Janeway",
+                    "suffix": "Jr."
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Medzhitov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "10682-10683",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Recognition of double-stranded RNA and activation of NF-\u03baB by Toll-like receptor 3",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Alexopoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Medzhitov",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Flavell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "413",
+            "issn": "",
+            "pages": "732-738",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Does Toll-like receptor 3 play a biological role in virus infections?",
+            "authors": [
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Edelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "322",
+            "issn": "",
+            "pages": "231-238",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "TLR3 in antiviral immunity: key player or bystander?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schroder",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Trends Immunol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "462-468",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Sensing of viral infection and activation of innate immunity by Toll-like receptor 3",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Vercammen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Staal",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beyaert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Clin. Microbiol Rev.",
+            "volume": "21",
+            "issn": "",
+            "pages": "13-25",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Approaching the asymptote? Evolution and revolution in immunology",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Janeway",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 1989,
+            "venue": "Cold Spring Harb. Symp. Quant. Biol.",
+            "volume": "54",
+            "issn": "",
+            "pages": "1-13",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Immunology in natura: clinical, epidemiological and evolutionary genetics of infectious diseases",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Quintana-Murci",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alcais",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Abel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-L",
+                    "middle": [],
+                    "last": "Casanova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Immunol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1165-1171",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Translational mini-review series on Toll-like receptors: recent advances in understanding the role of Toll-like receptors in anti-viral immunity",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin. Exp. Immunol.",
+            "volume": "147",
+            "issn": "",
+            "pages": "217-226",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Toll-like receptor 9-mediated recognition of herpes simplex virus-2 by plasmacytoid dendritic cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Medzhitov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Iwasaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "198",
+            "issn": "",
+            "pages": "513-520",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Herpes simplex virus type 1 activates murine natural interferon-producing cells through toll-like receptor 9",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Krug",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Blood",
+            "volume": "103",
+            "issn": "",
+            "pages": "1433-1437",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Lymphocytoid choriomeningitis virus activates plasmacytoid dendritic cells and induces a cytotoxic T-cell response via MyD88",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "196-206",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "The family of five: TIR-domain-containing adaptors in Toll-like receptor signalling",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "O'Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "353-364",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "The function of TRADD in signaling through tumor necrosis factor receptor 1 and TRIF-dependent Toll-like receptors",
+            "authors": [
+                {
+                    "first": "YL",
+                    "middle": [],
+                    "last": "Pobezinskaya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Immunol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1047-1054",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "TRADD protein is an essential component of the RIG-like helicase antiviral pathway",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Michallet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Immunity",
+            "volume": "28",
+            "issn": "",
+            "pages": "651-661",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Function of TRADD in tumor necrosis factor receptor 1 signaling and in TRIF-dependent inflammatory responses",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Ermolaeva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Immunol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1037-1046",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Evasion of innate immunity by vaccinia virus",
+            "authors": [
+                {
+                    "first": "IR",
+                    "middle": [],
+                    "last": "Haga",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Parasitology",
+            "volume": "130",
+            "issn": "",
+            "pages": "S11-S25",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "A Toll-like receptor-independent antiviral response induced by double-stranded B-form DNA",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Ishii",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Immunol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "40-48",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Innate immune signaling pathways: lessons from vaccinia virus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hurst",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Future Virol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "147-156",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Vaccinia virus protein A46R targets multiple Toll-like\u2013interleukin-1 receptor adaptors and contributes to virulence",
+            "authors": [
+                {
+                    "first": "Julianne",
+                    "middle": [],
+                    "last": "Stack",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ismar",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Haga",
+                    "suffix": ""
+                },
+                {
+                    "first": "Martina",
+                    "middle": [],
+                    "last": "Schr\u00f6der",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nathan",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Bartlett",
+                    "suffix": ""
+                },
+                {
+                    "first": "Geraldine",
+                    "middle": [],
+                    "last": "Maloney",
+                    "suffix": ""
+                },
+                {
+                    "first": "Patrick",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Reading",
+                    "suffix": ""
+                },
+                {
+                    "first": "Katherine",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                },
+                {
+                    "first": "Geoffrey",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "Andrew",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "The Journal of Experimental Medicine",
+            "volume": "201",
+            "issn": "6",
+            "pages": "1007-1018",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "The human adaptor SARM negatively regulates adaptor protein TRIF-dependent Toll-like receptor signaling",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Immunol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "1074-1081",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Identification and characterization of a novel bacterial virulence factor that shares homology with mammalian Toll/interleukin-1 receptor family proteins",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Salunkhe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Godzik",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Infect. Immun.",
+            "volume": "74",
+            "issn": "",
+            "pages": "594-601",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Subversion of Toll-like receptor signaling by a unique family of bacterial Toll/interleukin-1 receptor domain-containing proteins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cirl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Med.",
+            "volume": "14",
+            "issn": "",
+            "pages": "399-406",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Hepatitis C virus nonstructural protein 5A modulates the Toll-like receptor-MyD88-dependent signaling pathway in macrophage cell lines",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Abe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "8953-8966",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "The poxvirus protein A52R targets Toll-like receptor signaling complexes to suppress host defense",
+            "authors": [
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Harte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "197",
+            "issn": "",
+            "pages": "343-351",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "IRAK-2 participates in multiple toll-like receptor signaling pathways to NF\u03baB via activation of TRAF6 ubiquitination",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Keating",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Maloney",
+                    "suffix": ""
+                },
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Moran",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "33435-33443",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Sequential control of Toll-like receptor-dependent responses by IRAK1 and IRAK2",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kawagoe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Immunol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "684-691",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "DAI (DLM-1/ZBP1) is a cytosolic DNA sensor and an activator of innate immune response",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Takaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "448",
+            "issn": "",
+            "pages": "501-505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "The HTLV-I p30 interferes with TLR4 signaling and modulates the release of pro- and anti-inflammatory cytokines from human macrophages",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Datta",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Sinha-Datta",
+                    "suffix": ""
+                },
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Dhillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Buch",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Nicot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "23414-23424",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "West Nile Virus nonstructural protein 1 inhibits TLR-3 signal transduction",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "de Sessions",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Leon",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Scholle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "8262-8271",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Hepatitis C virus NS5A: tales of a promiscuous protein",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Macdonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "2485-2502",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "The RNA helicase RIG-I has an essential function in double-stranded RNA-induced innate antiviral responses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yoneyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Immunol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "730-737",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Shared and unique functions of the DExD/H-Box helicases RIG-I, MDA5, and LGP2 in antiviral innate immunity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yoneyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Immunol.",
+            "volume": "175",
+            "issn": "",
+            "pages": "2851-2858",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "The V proteins of paramyxoviruses bind the IFN-inducible RNA helicase, MDA-5, and inhibit its activation of the IFN-\u03b2 promoter",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Andrejeva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "17264-17269",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "IPS-1, an adaptor triggering RIG-I- and Mda5-mediated type I interferon induction",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kawai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Immunol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "981-988",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Identification and characterization of MAVS, a mitochondrial antiviral signaling protein that activates NF-\u03baB and IRF3",
+            "authors": [
+                {
+                    "first": "RB",
+                    "middle": [],
+                    "last": "Seth",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-K",
+                    "middle": [],
+                    "last": "Ea",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "122",
+            "issn": "",
+            "pages": "669-682",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Cardif is an adaptor protein in the RIG-I antiviral pathway and is targeted by hepatitis C virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Meylan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "437",
+            "issn": "",
+            "pages": "1167-1172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "VISA is an adapter protein required for virus-triggered IFN-\u03b2 signaling",
+            "authors": [
+                {
+                    "first": "L-G",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Cell",
+            "volume": "19",
+            "issn": "",
+            "pages": "727-740",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Regulation of innate immune responses by DAI (DLM-1/ZBP1) and other DNA-sensing molecules",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "5477-5482",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ishikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "GN",
+                    "middle": [],
+                    "last": "Barber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "455",
+            "issn": "",
+            "pages": "674-678",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "RIG-I-mediated antiviral responses to single-stranded RNA bearing 5\u2032-phosphates",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pichlmair",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "314",
+            "issn": "",
+            "pages": "997-1001",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "5\u2032-triphosphate RNA is the ligand for RIG-I",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hornung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "314",
+            "issn": "",
+            "pages": "994-997",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "The C-terminal regulatory domain is the RNA 5\u2032-triphosphate sensor of RIG-I",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Cell",
+            "volume": "29",
+            "issn": "",
+            "pages": "169-179",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Innate immunity induced by composition-dependent RIG-I recognition of hepatitis C virus RNA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Owen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Marcotrigiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "454",
+            "issn": "",
+            "pages": "523-527",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Length-dependent recognition of double-stranded ribonucleic acids by retinoic acid-inducible gene-I and melanoma differentiation-associated gene 5",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Exp. Med.",
+            "volume": "205",
+            "issn": "",
+            "pages": "1601-1610",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Essential role of MDA-5 in type I IFN responses to polyriboinosinic:polyribocytidylic acid and encephalomyocarditis picornavirus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gitlin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "8459-8464",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Differential roles of MDA5 and RIG-I helicases in the recognition of RNA viruses",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "441",
+            "issn": "",
+            "pages": "101-105",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "A unique cap(m7GpppXm)-dependent influenza virion endonuclease cleaves capped RNAs to generate the primers that initiate viral RNA transcription",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Plotch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ulmanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Krug",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Cell",
+            "volume": "23",
+            "issn": "",
+            "pages": "847-858",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Processing of genome 5\u2032 termini as a strategy of negative-strand RNA viruses to avoid RIG-I-dependent interferon induction",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Habjan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS ONE",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Structures of TLR-ligand complexes",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JO",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Curr. Opin. Immunol.",
+            "volume": "29",
+            "issn": "",
+            "pages": "182-191",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Covalent linkage of a protein to a defined nucleotide sequence at the 5\u2032-terminus of virion and replicative intermediate RNAs of poliovirus",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Flanegan",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Petterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Ambros",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Hewlett",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baltimore",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "74",
+            "issn": "",
+            "pages": "961-965",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "A protein covalently linked to poliovirus genome RNA",
+            "authors": [
+                {
+                    "first": "YF",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nomoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Detjen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "74",
+            "issn": "",
+            "pages": "59-63",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Double-stranded RNA is produced by positive-strand RNA viruses and DNA viruses but not in detectable amounts by negative-strand RNA viruses",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Rasmussen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Paludan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "5059-5064",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "The Ebola virus VP35 protein is a suppressor of RNA silencing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haasnoot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Pathog.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Fragments of the HIV-1 Tat protein specifically bind TAR RNA",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Weeks",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ampe",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Schultz",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Steitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Crothers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Science",
+            "volume": "249",
+            "issn": "",
+            "pages": "1281-1285",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "The Tat protein of human immunodeficiency virus type 1 is a substrate and inhibitor of the interferon-induced, virally activated protein kinase, PKR",
+            "authors": [
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Brand",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Mathews",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Biol. Chem.",
+            "volume": "272",
+            "issn": "",
+            "pages": "8388-8395",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "inhibition of retinoic acid-inducible gene I-mediated induction of \u03b2 interferon by the NS1 protein of influenza A virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mibayashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "514-524",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "MDA-5 is cleaved in poliovirus-infected cells",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Barral",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "3677-3684",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Disruption of innate immunity due to mitochondrial targeting of a picornaviral protease precursor",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "7253-7258",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Viral and therapeutic control of IFN-\u03b2 promoter stimulator 1 during hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Loo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "6001-6006",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Differential recognition of double-stranded RNA by RIG-I-like receptors in antiviral immunity",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Exp. Med.",
+            "volume": "205",
+            "issn": "",
+            "pages": "1523-1527",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Dissociation of a MAVS/IPS-1/VISA/Cardif-IKK\u025b molecular complex from the mitochondrial outer membrane by hepatitis C virus NS3\u20134A proteolytic cleavage",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "6072-6083",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Recognition of cytosolic DNA activates an IRF3-dependent innate immune response",
+            "authors": [
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Stetson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Medzhitov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Immunity",
+            "volume": "24",
+            "issn": "",
+            "pages": "93-103",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Toll-like receptor-independent gene induction program activated by mammalian DNA escaped from apoptotic DNA degradation",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Okabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kawane",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Taniguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nagata",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Exp. Med.",
+            "volume": "202",
+            "issn": "",
+            "pages": "1333-1339",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Sensing infection by adenovirus: Toll-like receptor-independent viral DNA recognition signals activation of the interferon regulatory factor 3 master regulator",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nociari",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Ocheretina",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Schoggins",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Falck-Pedersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "4145-4157",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "TANK-binding kinase-1 delineates innate and adaptive immune responses to DNA vaccines",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Ishii",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "451",
+            "issn": "",
+            "pages": "725-729",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Interaction between the HCV NS3 protein and the host TBK1 protein leads to inhibition of cellular antiviral responses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Otsuka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Hepatology",
+            "volume": "41",
+            "issn": "",
+            "pages": "1004-1012",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Poxvirus protein N1L targets the I-\u03baB kinase complex, inhibits signaling to NF-\u03baB by the tumor necrosis factor superfamily of receptors, and inhibits NF-\u03baB and IRF3 signaling by Toll-like receptors",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "DiPerna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "36570-36578",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Viral targeting of the interferon-\u03b2-inducing Traf family member-associated NF-\u03baB activator (TANK)-binding kinase-1",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Unterstab",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "13640-13645",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Identification of the rabies virus \u03b1/\u03b2 interferon antagonist: phosphoprotein P interferes with phosphorylation of interferon regulatory factor 3",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Brzozka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Finke",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-K",
+                    "middle": [],
+                    "last": "Conzelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7673-7681",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "The NY-1 hantavirus Gn cytoplasmic tail co-precipitates TRAF3 and inhibits cellular interferon responses by disrupting TBK\u2013TRAF3 complex formation",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Alff",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gorbunova",
+                    "suffix": ""
+                },
+                {
+                    "first": "IN",
+                    "middle": [],
+                    "last": "Gavrilovskaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Mackow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "9676-9686",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "MDA5/RIG-I and virus recognition",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Curr. Opin. Immunol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "17-22",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Regulation of IRF-3-dependent innate immunity by the papain-like protease domain of the severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Devaraj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "32208-32221",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Viral targeting of DEAD box protein 3 reveals its role in TBK1/IKKvar\u025b-mediated IRF activation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schroder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baran",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Bowie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Embo J.",
+            "volume": "27",
+            "issn": "",
+            "pages": "2147-2157",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "The DEAD-box helicase DDX3X is a critical component of the TANK-binding kinase 1-dependent innate immune response",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Soulat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Embo J.",
+            "volume": "27",
+            "issn": "",
+            "pages": "2135-2146",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Select paramyxoviral V proteins inhibit IRF3 activation by acting as alternative substrates for inhibitor of \u03baB kinase \u025b (IKK\u025b)/TBK1",
+            "authors": [
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Puri",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Biol. Chem.",
+            "volume": "283",
+            "issn": "",
+            "pages": "14269-14276",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "HHV-8 encoded vIRF-1 represses the interferon antiviral response by blocking IRF-3 recruitment of the CBP/p300 coactivators",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Oncogene",
+            "volume": "20",
+            "issn": "",
+            "pages": "800-811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Inhibition of interferon regulatory factor 7 (IRF7)-mediated interferon signal transduction by the Kaposi's sarcoma-associated herpesvirus viral IRF homolog vIRF3",
+            "authors": [
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Joo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "8282-8292",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "Binding of Kaposi's sarcoma-associated herpesvirus K-bZIP to interferon-responsive factor 3 elements modulates antiviral gene expression",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lefort",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Soucy-Faulkner",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Grandvaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Flamand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "10950-10960",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Recruitment of activated IRF-3 and CBP/p300 to herpes simplex virus ICP0 nuclear foci: potential role in blocking IFN-\u03b2 induction",
+            "authors": [
+                {
+                    "first": "GT",
+                    "middle": [],
+                    "last": "Melroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Schaffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Knipe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "360",
+            "issn": "",
+            "pages": "305-321",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "The infected cell protein 0 encoded by bovine herpesvirus 1 (bICP0) induces degradation of interferon response factor 3 and, consequently, inhibits \u03b2 interferon promoter activity",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Saira",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "3077-3086",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "HIV-1 accessory proteins VPR and Vif modulate antiviral response by targeting IRF-3 for degradation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Okumura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virology",
+            "volume": "373",
+            "issn": "",
+            "pages": "85-97",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "When signaling pathways collide: positive and negative regulation of toll-like receptor signal transduction",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "O'Neill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Immunity",
+            "volume": "29",
+            "issn": "",
+            "pages": "12-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "Classical swine fever virus Npro interacts with interferon regulatory factor 3 and induces its proteasomal degradation",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bauhofer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "3087-3096",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Rotavirus NSP1 inhibits expression of type I interferon by antagonizing the function of interferon regulatory factors IRF3, IRF5, and IRF7",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barro",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Patton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "4473-4481",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "ISG15 enhances the innate antiviral response by inhibition of IRF-3 degradation",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell. Mol. Biol. (Noisy-le-grand)",
+            "volume": "52",
+            "issn": "",
+            "pages": "29-41",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "Vaccinia virus E3 protein prevents the antiviral action of ISG15",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Guerra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Caceres",
+                    "suffix": ""
+                },
+                {
+                    "first": "KP",
+                    "middle": [],
+                    "last": "Knobeloch",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Horak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Esteban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Pathog.",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Manipulation of the nuclear factor-\u03baB pathway and the innate immune response by viruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hiscott",
+                    "suffix": ""
+                },
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Arguello",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nakhaei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Oncogene",
+            "volume": "25",
+            "issn": "",
+            "pages": "6844-6867",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Mechanism of inactivation of NF-\u03baB by a viral homologue of I\u03baB\u03b1. Signal-induced release of I\u03baB\u03b1 results in binding of the viral homologue to NF-\u03baB",
+            "authors": [
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Tait",
+                    "suffix": ""
+                },
+                {
+                    "first": "EB",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Greaves",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Wileman",
+                    "suffix": ""
+                },
+                {
+                    "first": "PP",
+                    "middle": [],
+                    "last": "Powell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "34656-34664",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "African swine fever virus IAP-like protein induces the activation of nuclear factor \u03baB",
+            "authors": [
+                {
+                    "first": "CI",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3936-3942",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "Inhibition of I\u03baB kinase by vaccinia virus virulence factor B14",
+            "authors": [
+                {
+                    "first": "RAJ",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ryzhakov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cooray",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Randow",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Pathog.",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "Kaposi's sarcoma-associated herpesvirus (KSHV) oncoprotein K13 bypasses TRAFs and directly interacts with the I\u03baB kinase complex to selectively activate NF-\u03baB without JNK activation",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Matta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "24858-24865",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Toll-like receptor 3 mediates West Nile virus entry into the brain causing lethal encephalitis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Med.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1366-1373",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

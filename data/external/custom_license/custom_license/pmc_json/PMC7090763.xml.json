@@ -1,0 +1,981 @@
+{
+    "paper_id": "PMC7090763",
+    "metadata": {
+        "title": "Reference gene selection for normalization of PCR analysis in chicken embryo fibroblast infected with H5N1 AIV",
+        "authors": [
+            {
+                "first": "Hua",
+                "middle": [],
+                "last": "Yue",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xiao-wen",
+                "middle": [],
+                "last": "Lei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Fa-long",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ming-Yi",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Cheng",
+                "middle": [],
+                "last": "Tang",
+                "suffix": "",
+                "email": "tangcheng101@yahoo.com.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Avian influenza A virus (H5N1) outbreaks, Kuwait, 2007",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Al-Azemi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Bahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Al-Zenki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Emerg Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "958-961",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1406.080056"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Avian genomics and the innate immune response to viruses",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Lowenthal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cytogenet Genome Res",
+            "volume": "117",
+            "issn": "",
+            "pages": "207-212",
+            "other_ids": {
+                "DOI": [
+                    "10.1159/000103181"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Evaluation of the suitability of six host genes as internal control in real-time RT-PCR assays in chicken embryo cell cultures infected with infectious bursal disease virus",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Band",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Handberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Vet Microbiol",
+            "volume": "110",
+            "issn": "",
+            "pages": "155-165",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2005.06.014"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Real-time PCR in virology",
+            "authors": [
+                {
+                    "first": "I.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Mackay",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Arden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Nitsche",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nucl Acids Res",
+            "volume": "30",
+            "issn": "",
+            "pages": "1292-1305",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/30.6.1292"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "A new mathematical model for relative quantification in real-time RT-PCR",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Pfaffl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nucl Acids Res",
+            "volume": "29",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/29.9.e45"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Reference gene selection for quantitative real-time PCR analysis in virus infected cells: SARS corona virus, Yellow fever virus, Human Herpesvirus-6, Camelpox virus and Cytomegalovirus infections",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Radoni\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Thulke",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Bae",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology J",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1743-422X-2-7"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Differential host gene expression in cells infected with highly pathogenic H5N1 avian influenza viruses",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Sarmento",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Afonso",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Estevez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Immunol Immunopathol",
+            "volume": "125",
+            "issn": "",
+            "pages": "291-302",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetimm.2008.05.021"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Beta- actin-an unsuitable internal control for RT-PCR",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Selvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Matthaei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol Cell Probes",
+            "volume": "15",
+            "issn": "",
+            "pages": "307-311",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mcpr.2001.0376"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "replication of different genotypes of infectious bursal disease virus on chicken embryo fibroblasts",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virus Genes",
+            "volume": "39",
+            "issn": "",
+            "pages": "46-52",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11262-008-0313-2"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Transcriptional response of avian cellsto infection with Newcastle disease virus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Shirin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Jagdev",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Sharm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virus Res",
+            "volume": "107",
+            "issn": "",
+            "pages": "103-108",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2004.07.001"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Control selection for RNA quantitation",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Crawford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biotechniques",
+            "volume": "29",
+            "issn": "",
+            "pages": "332-337",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Deep sequencing of chicken microRNAs",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Burnside",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Ouyang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMC Genomics",
+            "volume": "22",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2164-9-185"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Housekeeping genes as internal standards: use and limits",
+            "authors": [
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Thellin",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Zorzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Lakaye",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Biotechnol",
+            "volume": "75",
+            "issn": "",
+            "pages": "291-295",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1656(99)00163-7"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Vandesompele",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "De Preter",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Pattyn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genome Biol",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/gb-2002-3-7-research0034"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Comparison of human adult and fetal expression and identification of 535 housekeeping/maintenance genes",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Warrington",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Nair",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mahadevappa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Physiol Genomics",
+            "volume": "2",
+            "issn": "",
+            "pages": "143-147",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Determination of suitable housekeeping genes for normalisation of quantitative real time PCR analysis of cells infected with human immunodeficiency virus and herpes viruses",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mercier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Bye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virol J",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1743-422X-4-130"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "H5N1 outbreaks and enzootic influenza",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Emerg Infect Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "3-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Avian influenza virus infections in humans",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chest",
+            "volume": "129",
+            "issn": "",
+            "pages": "156-168",
+            "other_ids": {
+                "DOI": [
+                    "10.1378/chest.129.1.156"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Analysis of the expression profiles of Marek\u2019s disease virus-encoded microRNAs by real-time quantitative PCR",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Virol Methods",
+            "volume": "149",
+            "issn": "",
+            "pages": "201-208",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2008.02.005"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Animal virology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Direct comparison of GAPDH, beta-actin, cyclophilin, and 28S rRNA as internal standards for quantifying RNA levels under hypoxia",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Simons",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "259",
+            "issn": "",
+            "pages": "523-526",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1999.0815"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Absolute quantification of mRNA using real-time reverse transcription polymerase chain reaction assays",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Bustin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Mo Endocrinol",
+            "volume": "25",
+            "issn": "",
+            "pages": "169-193",
+            "other_ids": {
+                "DOI": [
+                    "10.1677/jme.0.0250169"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Normalization of gene expression measurements in tumor tissues: comparison of 13 endogenous control genes",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "de Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Roelofs",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Giesendorf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Lab Invest",
+            "volume": "85",
+            "issn": "",
+            "pages": "154-159",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Environmental factors contributing to the spread of H5N1 avian influenza in mainland China",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "de Vlas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS One",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0002268"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "An overview of real-time quantitative PCR: applications to quantify cytokine gene expression",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Giulietti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Overbergh",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Valckx",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Methods",
+            "volume": "25",
+            "issn": "",
+            "pages": "386-401",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/meth.2001.1261"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Beta-Actin and GAPDH housekeeping gene expression in asthmatic airways is variable and not suitable for normalising mRNA levels",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Glare",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Divjak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Bailey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Thorax",
+            "volume": "57",
+            "issn": "",
+            "pages": "765-770",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/thorax.57.9.765"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Comparative study of different standardization concepts in quantitative competitive reverse transcription-PCR assays",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Haberhausen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Pinsl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Clin Microbiol",
+            "volume": "36",
+            "issn": "",
+            "pages": "628-633",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Overexpression of Newcastle disease virus (NDV) V protein enhances NDV production kinetics in chicken embryo fibroblasts",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Jang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Appl Microbiol Biotechnol",
+            "volume": "85",
+            "issn": "",
+            "pages": "1509-1520",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00253-009-2189-z"
+                ]
+            }
+        }
+    }
+}

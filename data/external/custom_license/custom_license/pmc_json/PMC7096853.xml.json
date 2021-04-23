@@ -1,0 +1,3696 @@
+{
+    "paper_id": "PMC7096853",
+    "metadata": {
+        "title": "Modification of intracellular membrane structures for virus replication",
+        "authors": [
+            {
+                "first": "Sven",
+                "middle": [],
+                "last": "Miller",
+                "suffix": "",
+                "email": "millersven@gmx.de",
+                "affiliation": {}
+            },
+            {
+                "first": "Jacomine",
+                "middle": [],
+                "last": "Krijnse-Locker",
+                "suffix": "",
+                "email": "krijnse@embl-heidelberg.de",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Overview of viruses and their induced membranes*\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Overview of viruses and their induced membranes*\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: Schematic representation of a cell and different intracellular organelles. Proteins that are destined for secretion enter the secretory pathway by co-translational translocation into the endoplasmic reticulum (ER) (pink dots represent ribosomes). These proteins are then transported in a coatomer protein complex (COP) II-dependent way to the Golgi complex in a process that probably involves COPII-coated vesicles and membrane structures that are located in the intermediate compartment between the ER and the Golgi complex. Proteins can be recycled back to the ER using COPI-coated vesicles or can be transported through the Golgi complex. At the trans\u2013Golgi network, they leave the Golgi and are transported to the plasma membrane. Endocytosis is initiated at the plasma membrane, and proteins are packed into clathrin-coated vesicles before being transported to early and late endosomes. From there, they are either recycled back to the plasma membrane or are degraded in lysosomes. The putative sites where different viruses modify intracellular membranes to assemble their replication complexes are indicated. EAV, equine arteritis virus; FHV, flock house virus; HCV, hepatitis C virus; KUNV, Kunjin virus; MHV, murine hepatitis virus; SARS-CoV, severe acute respiratory syndrome coronavirus; SFV, Semliki Forest virus; TMV, tobacco mosaic virus.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | Poliovirus-infected HeLa cells fixed 6\u20138 hours post infection. b | Hepatitis C virus-infected Huh7 cells. c | Dengue virus-infected Huh7 cells fixed 24 hours post infection. d | Severe acute respiratory syndrome coronavirus-infected Vero cells, showing a cluster of double-membrane vesicles (DMVs). The inset shows one DMV at a higher magnification. e | Vaccinia virus-infected cells, showing a replication site that is surrounded by the rough ER. The inset shows the ER membrane at a higher magnification, with the ribosomes on the outer membrane facing the cytoplasm. f | Semliki Forest virus-infected baby hamster kidney cells fixed 3 hours post infection, showing the typical cytopathic vacuoles that are induced upon infection. ER, endoplasmic reticulum; G, Golgi apparatus; M, mitochondrion; N, nucleus; RS, replication site. Part a is courtesy of K. Bienz and D. Egger, University of Basel, Switzerland; parts b and c are courtesy of R. Bartenschlager, University of Heidelberg, Germany; part d is courtesy of E. Snijder, M. Mommas and K. Knoops, Leiden University, The Netherlands; part e is reproduced, with permission, from Ref. 77 \u00a9 (2005) Blackwell Publishing; and part f is courtesy of T. Ahola and G. Balistrer, University of Helsinki, Finland.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: The protrusion and detachment model (a) proposes that part of the endoplasmic reticulum (ER) cisterna starts to bend, pinches off and then seals to form a double-membrane vesicle (DMV). Interactions between the lumenal domains of viral membrane proteins (coloured yellow in the ER membrane) could mediate the tight apposition of the two bilayers and induce curvature. In the double-budding model (b), a single-membrane vesicle buds into the lumen of the ER and then buds out again, and the membrane proteins could mediate inward as well as outward budding. Figure adapted, with permission, from Ref. 20 \u00a9 (1999) American Society for Microbiology.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Several mechanisms of membrane deformation by cellular proteins have been described. a | Integration of membrane proteins that have a conical shape induces curvature, as they act like a wedge that is inserted into the membrane. b | Amphipathic helices, stretches of alpha helices that have one polar and one hydrophobic side, are positioned flat on the membrane, with the hydrophobic side dipping into one of the two membrane layers: this causes destabilization of the membrane and membrane bending. c,d | Membrane bending can be induced by oligomerization of proteins that are integrated into, or associated with, cellular membranes. Proteins form a scaffold that makes the membrane bend. e | The lipid composition of a membrane can also induce membrane curvature. In this context, the head group, as well as the acyl chain of the membrane constituents, can have an effect on membrane curvature. Figure adapted, with permission, from Nature Ref. 79 \u00a9 (2005) Macmillan Publishers Ltd.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: Upon release of viral genomic RNA into the cytoplasm of the infected cell (1), the viral genome is translated into a polyprotein that carries the structural (pink) and non-structural (green) proteins (2). The viral non-structural protein NS4B induces the formation of membrane alterations, which serve as a scaffold for the assembly of the viral replication complex (RC) (3). The RC consists of viral non-structural proteins, viral RNA and host cell factors. Within the induced vesicles, viral RNA is amplified via a negative-strand RNA intermediate. Figure adapted, with permission, from Ref. 116 \u00a9 (2005) American Society for Microbiology.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Transport between ER and Golgi",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Klumperman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Curr. Opin. Cell Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "445-449",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0955-0674(00)00115-0"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Association of polioviral proteins of the P2 genomic region with the viral replication complex and virus-induced membrane synthesis as visualized by electron microscopic immunocytochemistry and autoradiography",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pasamontes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Virology",
+            "volume": "160",
+            "issn": "",
+            "pages": "220-226",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(87)90063-8"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Cellular autophagy machinery is not required for vaccinia virus replication and maturation",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Autophagy",
+            "volume": "2",
+            "issn": "",
+            "pages": "91-95",
+            "other_ids": {
+                "DOI": [
+                    "10.4161/auto.2.2.2297"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Flock house virus RNA polymerase is a transmembrane protein with amino-terminal sequences sufficient for mitochondrial localization and membrane insertion",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "9856-9867",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.19.9856-9867.2002"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Subcellular localization and membrane topology of the dengue virus type 2 non-structural protein 4B",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sparacio",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bartenschlager",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "8854-8863",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M512697200"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Studies of a putative amphipathic helix in the N-terminus of poliovirus protein 2C",
+            "authors": [
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Paul",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Molla",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Virology",
+            "volume": "199",
+            "issn": "",
+            "pages": "188-199",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1994.1111"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "A class of membrane proteins with a C-terminal anchor",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kutay",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Rapoport",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Trends Cell Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "72-75",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0962-8924(93)90066-A"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Semliki Forest virus mRNA capping enzyme requires association with anionic membrane phospholipids for activity",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahola",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lampio",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Auvinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kaariainen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "EMBO J.",
+            "volume": "18",
+            "issn": "",
+            "pages": "3164-3172",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/18.11.3164"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Amphipathic helix-dependent localization of NS5A mediates hepatitis C virus RNA replication",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Elazar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "6055-6061",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.10.6055-6061.2003"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Effects of palmitoylation of replicase protein nsP1 on alphavirus infection",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "6725-6733",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.15.6725-6733.2000"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Poliovirus-encoded 2C polypeptide specifically binds to the 3\u2032-terminal sequences of viral negative-strand RNA",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Echeverri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dasgupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "9570-9578",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "A small region of the dengue virus-encoded RNA-dependent RNA polymerase, NS5, confers interaction with both the nuclear transport receptor importin-\u03b2 and the viral helicase, NS3",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Johansson",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Brooks",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Jans",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Vasudevan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Gen. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "735-745",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-82-4-735"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Structural and functional characterization of the poliovirus replication complex",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pfister",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Troxler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "2740-2747",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Identification of the domains required for direct interaction of the helicase-like and polymerase-like RNA replication proteins of brome mosaic virus",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "7293-7302",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Phosphorylation of cucumber mosaic virus RNA polymerase 2a protein inhibits formation of replicase complex",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palukaitis",
+                    "suffix": ""
+                },
+                {
+                    "first": "YI",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J.",
+            "volume": "21",
+            "issn": "",
+            "pages": "2292-2300",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/21.9.2292"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Analysis of the interaction of viral RNA replication proteins by using the yeast two-hybrid assay",
+            "authors": [
+                {
+                    "first": "EK",
+                    "middle": [],
+                    "last": "O'Reilly",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Paul",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "7526-7532",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Efficient rescue of hepatitis C virus RNA replication by trans-complementation with nonstructural protein 5A",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Appel",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Herian",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bartenschlager",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "896-909",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.2.896-909.2005"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Intracellular location and translocation of silent and active poliovirus replication complexes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Gen. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "707-718",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.80442-0"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Formation of the poliovirus replication complex requires coupled viral translation, vesicle production, and viral RNA synthesis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Teterina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "6570-6580",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.14.6570-6580.2000"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Quantitative analysis of the hepatitis C virus replication complex",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Quinkert",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bartenschlager",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Lohmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "13594-13605",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.21.13594-13605.2005"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "New views of cells in 3D: an introduction to electron tomography",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "McIntosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nicastro",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mastronarde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Trends Cell Biol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "43-51",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tcb.2004.11.009"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Three-dimensional analysis of a viral RNA replication complex reveals a virus-induced mini-organelle",
+            "authors": [
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Kopek",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Ellisman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Biol.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pbio.0050220"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "COPI activity coupled with fatty acid biosynthesis is required for viral replication",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cherry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Pathog.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0020102"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Intracellular distribution of poliovirus proteins and the induction of virus-specific cytoplasmic structures",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Rasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Bossart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Virology",
+            "volume": "131",
+            "issn": "",
+            "pages": "39-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(83)90531-7"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Intracellular localisation of dengue-2 RNA in mosquito cell culture using electron microscopic in situ hybridisation",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Grief",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Galler",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                },
+                {
+                    "first": "OM",
+                    "middle": [],
+                    "last": "Barth",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Arch. Virol.",
+            "volume": "142",
+            "issn": "",
+            "pages": "2347-2357",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s007050050247"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Intracellular location and translocation of silent and active poliovirus replication complexes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Gen. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "707-718",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.80442-0"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Cellular origin and ultrastructure of membranes induced during poliovirus infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schlegel",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Ladinsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "6576-6588",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "A viral protein that blocks Arf1-mediated COP-I assembly by inhibiting the guanine nucleotide exchange factor GBF1",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wessels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Dev. Cell",
+            "volume": "11",
+            "issn": "",
+            "pages": "191-201",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.devcel.2006.06.005"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Expression of hepatitis C virus proteins induces distinct membrane alterations including a candidate viral replication complex",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "5974-5984",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.12.5974-5984.2002"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Identification of the hepatitis C virus RNA replication complex in Huh-7 cells harboring subgenomic replicons",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gosert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "5487-5492",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.9.5487-5492.2003"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Kunjin virus: an Australian variant of West Nile?",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Scherret",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Ann. NY Acad. Sci.",
+            "volume": "951",
+            "issn": "",
+            "pages": "153-160",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1749-6632.2001.tb02693.x"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Kunjin RNA replication and applications of Kunjin replicons",
+            "authors": [
+                {
+                    "first": "EG",
+                    "middle": [],
+                    "last": "Westaway",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Khromykh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Adv. Virus Res.",
+            "volume": "59",
+            "issn": "",
+            "pages": "99-140",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(03)59004-2"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Three ways to make a vesicle",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kirchhausen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "187-198",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35043117"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Open reading frame 1a-encoded subunits of the arterivirus replicase induce endoplasmic reticulum-derived double-membrane vesicles which carry the viral replication complex",
+            "authors": [
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Pedersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van der Meer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "2016-2026",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "ORF1a-encoded replicase subunits are involved in the membrane association of the arterivirus replication complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van der Meer",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van Tol",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Locker",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "6689-6698",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Ultrastructure and origin of membrane vesicles associated with the severe acute respiratory syndrome coronavirus replication complex",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "5927-5940",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02501-05"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "The intracellular sites of early replication and budding of SARS-coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "361",
+            "issn": "",
+            "pages": "304-315",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.11.027"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Detection and subcellular localization of the turnip yellow mosaic virus 66K replication protein in infected cells",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Prod'homme",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Le Panse",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Drugeon",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Jupin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "281",
+            "issn": "",
+            "pages": "88-101",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2000.0769"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Brome mosaic virus helicase- and polymerase-like proteins colocalize on the endoplasmic reticulum at sites of viral RNA synthesis",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Restrepo-Hartwig",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "8908-8916",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Partial purification and characterization of foxtail mosaic potexvirus RNA-dependent RNA polymerase",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rouleau",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Bancroft",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Mackie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "197",
+            "issn": "",
+            "pages": "695-703",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1993.1645"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Alfalfa mosaic virus replicase proteins P1 and P2 interact and colocalize at the vacuolar membrane",
+            "authors": [
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Van Der Heijden",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Carette",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Reinhoud",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Haegi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Bol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "1879-1887",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.4.1879-1887.2001"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Replication of tobacco mosaic virus on endoplasmic reticulum and role of the cytoskeleton and virus movement protein in intracellular distribution of viral RNA",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mas",
+                    "suffix": ""
+                },
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Beachy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Cell Biol.",
+            "volume": "147",
+            "issn": "",
+            "pages": "945-958",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.147.5.945"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Tobacco mosaic virus infection induces severe morphological changes of the endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reichel",
+                    "suffix": ""
+                },
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Beachy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "11169-11174",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.95.19.11169"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Emerging flaviviruses: the spread and resurgence of Japanese encephalitis, West Nile and dengue viruses",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Gubler",
+                    "suffix": ""
+                },
+                {
+                    "first": "LR",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Med.",
+            "volume": "10",
+            "issn": "",
+            "pages": "S98-S109",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1144"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "The initiation of vaccinia infection",
+            "authors": [
+                {
+                    "first": "HJF",
+                    "middle": [],
+                    "last": "Cairns",
+                    "suffix": ""
+                }
+            ],
+            "year": 1960,
+            "venue": "Virology",
+            "volume": "11",
+            "issn": "",
+            "pages": "603-623",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(60)90103-3"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Biochemistry of vaccinia-infected mouse fibroblasts (strain L-M). III. Radioautographic and biochemical studies of thymidine-3H uptake into DNA of L-M cells and rabbit cells in primary culture",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kit",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Dubbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1963,
+            "venue": "Virology",
+            "volume": "19",
+            "issn": "",
+            "pages": "13-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(63)90019-9"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Vaccinia virus DNA-replication occurs in ER-enclosed cytoplasmic mini-nuclei",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tolonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Doglio",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schleich",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krijnse-Locker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Biol. Cell",
+            "volume": "12",
+            "issn": "",
+            "pages": "2031-2046",
+            "other_ids": {
+                "DOI": [
+                    "10.1091/mbc.12.7.2031"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Intracellular distribution of rubella virus nonstructural protein P150",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kujala",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "7805-7811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Biogenesis of the Semliki Forest virus RNA replication complex",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kujala",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "3873-3884",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.8.3873-3884.2001"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Characterization of rubella virus replication complexes using antibodies to double-stranded RNA",
+            "authors": [
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Bowden",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Virology",
+            "volume": "200",
+            "issn": "",
+            "pages": "307-312",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1994.1192"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Rubella virus replication complexes are virus-modified lysosomes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Magliano",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "240",
+            "issn": "",
+            "pages": "57-63",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1997.8906"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Alphavirus RNA replicase is located on the cytoplasmic surface of endosomes and lysosomes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Froshauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kartenbeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helenius",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Cell Biol.",
+            "volume": "107",
+            "issn": "",
+            "pages": "2075-2086",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.107.6.2075"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Cytoplasmic structures associated with an arbovirus infection: loci of viral ribonucleic acid synthesis",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Grimley",
+                    "suffix": ""
+                },
+                {
+                    "first": "IK",
+                    "middle": [],
+                    "last": "Berezesky",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Friedman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "J. Virol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "1326-1338",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Specific membranous structures associated with the replication of group A arboviruses",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Grimley",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                },
+                {
+                    "first": "IK",
+                    "middle": [],
+                    "last": "Berezesky",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Friedman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "J. Virol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "492-503",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Replication of hepatitis C virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Moradpour",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Penin",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "453-463",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1645"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Flock house virus RNA replicates on outer mitochondrial membranes in Drosophila cells",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "11664-11676",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.23.11664-11676.2001"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Localization of the tomato bushy stunt virus replication protein p33 reveals a peroxisome-to-endoplasmic reticulum sorting pathway",
+            "authors": [
+                {
+                    "first": "AW",
+                    "middle": [],
+                    "last": "McCartney",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Greenwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Fabian",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "RT",
+                    "middle": [],
+                    "last": "Mullen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Plant Cell",
+            "volume": "17",
+            "issn": "",
+            "pages": "3513-3531",
+            "other_ids": {
+                "DOI": [
+                    "10.1105/tpc.105.036350"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Exploiting alternative subcellular location for replication: tombusvirus replication switches to the endoplasmic reticulum in the absence of peroxisomes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jonczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Pathak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Nagy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "362",
+            "issn": "",
+            "pages": "320-330",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2007.01.004"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "A human virus protein, poliovirus protein 2BC, induces membrane proliferation and blocks the exocytic pathway in the yeast Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "3349-3364",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1995.tb07341.x"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Membrane rearrangement and vesicle induction by recombinant poliovirus 2C and 2BC in human cells",
+            "authors": [
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Teterina",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Virology",
+            "volume": "202",
+            "issn": "",
+            "pages": "129-145",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1994.1329"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Remodeling the endoplasmic reticulum by poliovirus infection and by individual viral proteins: an autophagy-like origin for virus-induced vesicles",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Suhy",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "8953-8965",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.19.8953-8965.2000"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Subcellular localization and some biochemical properties of the flavivirus Kunjin nonstructural proteins NS2A and NS4A",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Khromykh",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "EG",
+                    "middle": [],
+                    "last": "Westaway",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "245",
+            "issn": "",
+            "pages": "203-215",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9156"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "The non-structural protein 4A of dengue virus is an integral membrane protein inducing membrane alterations in a 2K-regulated manner",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kastner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krijnse-Locker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Buhler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bartenschlager",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "8873-8882",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M609919200"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Regulated cleavages at the West Nile virus NS4A-2K-NS4B junctions play a major role in rearranging cytoplasmic membranes and Golgi trafficking of the NS4A protein",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Roosendaal",
+                    "suffix": ""
+                },
+                {
+                    "first": "EG",
+                    "middle": [],
+                    "last": "Westaway",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khromykh",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "4623-4632",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.9.4623-4632.2006"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Non-structural proteins 2 and 3 interact to modify host cell membranes during the formation of the arterivirus replication complex",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van Tol",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                },
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Pedersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Gen. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "985-994",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-82-5-985"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "2849-2883",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Cellular COPII proteins are involved in production of the vesicles that form the poliovirus replication complex",
+            "authors": [
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "9808-9818",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.20.9808-9818.2001"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "ARF proteins: roles in membrane traffic and beyond",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "D'Souza-Schorey",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chavrier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "347-358",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm1910"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Hijacking components of the cellular secretory pathway for replication of poliovirus RNA",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Belov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "558-567",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01820-06"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Poliovirus proteins induce membrane association of GTPase ADP-ribosylation factor",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Belov",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Fogg",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7207-7216",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.11.7207-7216.2005"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Involvement of cellular membrane traffic proteins in poliovirus replication",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Belov",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell Cycle",
+            "volume": "6",
+            "issn": "",
+            "pages": "36-38",
+            "other_ids": {
+                "DOI": [
+                    "10.4161/cc.6.1.3683"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "A viral protein that blocks Arf1-mediated COP-I assembly by inhibiting the guanine nucleotide exchange factor GBF1",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wessels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Dev. Cell",
+            "volume": "11",
+            "issn": "",
+            "pages": "191-201",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.devcel.2006.06.005"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "MHC I-dependent antigen presentation is inhibited by poliovirus protein 3A",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Deitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Dodd",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Parham",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "13790-13795",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.250483097"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Poliovirus 3A protein limits interleukin-6 (IL-6), IL-8, and beta interferon secretion during viral infection",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Dodd",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "8158-8165",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.17.8158-8165.2001"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Inhibition of endoplasmic reticulum-to-Golgi traffic by poliovirus protein 3A: genetic and ultrastructural analysis",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "9054-9064",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Inhibition of cellular protein secretion by poliovirus proteins 2B and 3A",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "894-907",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1995.tb07071.x"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "Wrapping things up about virus RNA replication",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Traffic",
+            "volume": "6",
+            "issn": "",
+            "pages": "967-977",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-0854.2005.00339.x"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Brefeldin A inhibits cell-free, de novo synthesis of poliovirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cuconati",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Molla",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "6456-6464",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Secretory pathway function, but not cytoskeletal integrity, is required in poliovirus infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Maynell",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Klymkowsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Arch. Virol. Suppl.",
+            "volume": "9",
+            "issn": "",
+            "pages": "159-172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Differential requirements for COPI coats in formation of replication complexes among three genera of Picornaviridae",
+            "authors": [
+                {
+                    "first": "EV",
+                    "middle": [],
+                    "last": "Gazina",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Gorrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "11113-11122",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.21.11113-11122.2002"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "Inhibition of poliovirus RNA synthesis by brefeldin A",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Maynell",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Klymkowsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "1985-1994",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Human VAP-B is involved in hepatitis C virus replication through interaction with NS5A and NS5B",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hamamoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "13473-13482",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.21.13473-13482.2005"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "A functional role for VAP-33 in insulin-stimulated GLUT4 traffic",
+            "authors": [
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Traffic",
+            "volume": "1",
+            "issn": "",
+            "pages": "512-521",
+            "other_ids": {
+                "DOI": [
+                    "10.1034/j.1600-0854.2000.010609.x"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "VAP-33 localizes to both an intracellular vesicle population and with occludin at the tight junction",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Lapierre",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Tuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Navarre",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Goldenring",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Cell Sci.",
+            "volume": "112",
+            "issn": "",
+            "pages": "3723-3732",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Molecular cloning and characterization of mammalian homologues of vesicle-associated membrane protein-associated (VAMP-associated) proteins",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nishimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Inada",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "254",
+            "issn": "",
+            "pages": "21-26",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1998.9876"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "SNARE function analyzed in synaptobrevin/VAMP knockout mice",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schoch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "294",
+            "issn": "",
+            "pages": "1117-1122",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1064335"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "Mouse VAP33 is associated with the endoplasmic reticulum and microtubules",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fabian-Fine",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Kandel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "1101-1106",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.97.3.1101"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Virus factories: associations of cell organelles for viral replication and morphogenesis",
+            "authors": [
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Novoa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biol. Cell",
+            "volume": "97",
+            "issn": "",
+            "pages": "147-172",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BC20040058"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "A VAMP-binding protein from Aplysia required for neurotransmitter release",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Kandel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bartsch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Science",
+            "volume": "269",
+            "issn": "",
+            "pages": "1580-1583",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.7667638"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Evidence for a COP-I-independent transport route from the Golgi complex to the endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Girod",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature Cell Biol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "423-430",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/15658"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "ERG30, a VAP-33-related protein, functions in protein transport mediated by COPI vesicles",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Soussan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Cell Biol.",
+            "volume": "146",
+            "issn": "",
+            "pages": "301-311",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.146.2.301"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Interactions between viral nonstructural proteins and host protein hVAP-33 mediate the formation of hepatitis C virus RNA replication complex on lipid raft",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Aizaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "3480-3488",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.7.3480-3488.2004"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Differential regulation of endoplasmic reticulum structure through VAP\u2013Nir protein interaction",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Amarilio",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ramachandran",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sabanay",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "5934-5944",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M409566200"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "The role of the Nir/rdgB protein family in membrane trafficking and cytoskeleton remodeling",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Exp. Cell Res.",
+            "volume": "297",
+            "issn": "",
+            "pages": "1-10",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.yexcr.2004.02.033"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Host factors involved in the replication of hepatitis C virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Moriishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Matsuura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Rev. Med. Virol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "343-354",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/rmv.542"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Cytoplasmic organization of POXvirus DNA-replication",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schramm",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krijnse-Locker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Traffic",
+            "volume": "6",
+            "issn": "",
+            "pages": "839-846",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-0854.2005.00324.x"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Membrane deformation by protein coats",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Antonny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. Opin. Cell Biol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "386-394",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ceb.2006.06.003"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "Membrane curvature and mechanisms of dynamic cell membrane remodelling",
+            "authors": [
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "McMahon",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Gallop",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "590-596",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04396"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Viral RNA replication in association with cellular membranes",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Salonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahola",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kaariainen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "285",
+            "issn": "",
+            "pages": "139-173",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "How proteins produce cellular membrane curvature",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zimmerberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Kozlov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "9-19",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm1784"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "Regulation of Sar1 NH2 terminus by GTP binding and hydrolysis promotes membrane deformation to control COPII vesicle fission",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bielli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell Biol.",
+            "volume": "171",
+            "issn": "",
+            "pages": "919-924",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.200509095"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "Sar1p N-terminal helix initiates membrane curvature and completes the fission of a COPII vesicle",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "122",
+            "issn": "",
+            "pages": "605-617",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2005.07.025"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "An amino-terminal amphipathic \u03b1-helix mediates membrane association of the hepatitis C virus nonstructural protein 5A",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Brass",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "8130-8139",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M111289200"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Conserved determinants for membrane association of nonstructural protein 5A from hepatitis C virus and related viruses",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Brass",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "2745-2757",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01279-06"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "An N-terminal amphipathic helix in hepatitis C virus (HCV) NS4B mediates membrane association, correct localization of replication complex proteins, and HCV RNA replication",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Elazar",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Glenn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "11393-11400",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.20.11393-11400.2004"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "NMR structure and molecular dynamics of the in-plane membrane anchor of nonstructural protein 5A from bovine viral diarrhea virus",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sapay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochemistry",
+            "volume": "45",
+            "issn": "",
+            "pages": "2221-2233",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi0517685"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "Role of the amphipathic peptide of Semliki forest virus replicase protein nsP1 in membrane association and virus replication",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Spuul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "872-883",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01785-06"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Testing the modularity of the N-terminal amphipathic helix conserved in picornavirus 2C proteins and hepatitis C NS5A protein",
+            "authors": [
+                {
+                    "first": "NL",
+                    "middle": [],
+                    "last": "Teterina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "344",
+            "issn": "",
+            "pages": "453-467",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2005.08.044"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lundin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Topology and Membrane Rearrangements of the Hepatitis C Virus Protein NS4B",
+            "volume": "",
+            "issn": "",
+            "pages": "1-55",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "Electron microscopic study of the formation of poliovirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dales",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Eggers",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tamm",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Palade",
+                    "suffix": ""
+                }
+            ],
+            "year": 1965,
+            "venue": "Virology",
+            "volume": "26",
+            "issn": "",
+            "pages": "379-389",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(65)90001-2"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "Palmitoylation and polymerization of hepatitis C virus NS4B protein",
+            "authors": [
+                {
+                    "first": "GY",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "6013-6023",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00053-06"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "Towards an understanding of the poliovirus replication complex: the solution structure of the soluble domain of the poliovirus 3A protein",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Strauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "LW",
+                    "middle": [],
+                    "last": "Glustrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Wuttke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol.",
+            "volume": "330",
+            "issn": "",
+            "pages": "225-234",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(03)00577-1"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "Coxsackie B3 virus protein 2B contains cationic amphipathic helix that is required for viral RNA replication",
+            "authors": [
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Galama",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "van den Hurk",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "3876-3886",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "Visualization and functional analysis of RNA-dependent RNA polymerase lattices",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Lyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bullitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Science",
+            "volume": "296",
+            "issn": "",
+            "pages": "2218-2222",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1070585"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Cellular autophagy: surrender, avoidance and subversion by microorganisms",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "301-314",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro865"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Molecular machinery of autophagosome formation in yeast, Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ohsumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "FEBS Lett.",
+            "volume": "581",
+            "issn": "",
+            "pages": "2156-2161",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2007.01.096"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Endoplasmic reticulum and Golgi complex: contributions to, and turnover by, autophagy",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mijalijca",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Prescott",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Dvenish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Traffic",
+            "volume": "7",
+            "issn": "",
+            "pages": "1590-1595",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-0854.2006.00495.x"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Subversion of cellular autophagosomal machinery by RNA viruses",
+            "authors": [
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pbio.0030156"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Coronavirus replication complex formation utilizes components of cellular autophagy",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Prentice",
+                    "suffix": ""
+                },
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Jerome",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mizushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "10136-10141",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M306124200"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "Assembly of vaccinia virus revisited: de novo membrane synthesis or acquisition from the host?",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sodeik",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krijnse-Locker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends Microbiol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "15-24",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(01)02256-9"
+                ]
+            }
+        }
+    }
+}

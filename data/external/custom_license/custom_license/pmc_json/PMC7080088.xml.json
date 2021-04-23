@@ -1,0 +1,1763 @@
+{
+    "paper_id": "PMC7080088",
+    "metadata": {
+        "title": "High host density favors greater virulence: a model of parasite\u2013host dynamics based on multi-type branching processes",
+        "authors": [
+            {
+                "first": "K.",
+                "middle": [],
+                "last": "Borovkov",
+                "suffix": "",
+                "email": "borovkov@unimelb.edu.au",
+                "affiliation": {}
+            },
+            {
+                "first": "R.",
+                "middle": [],
+                "last": "Day",
+                "suffix": "",
+                "email": "r.day@unimelb.edu.au",
+                "affiliation": {}
+            },
+            {
+                "first": "T.",
+                "middle": [],
+                "last": "Rice",
+                "suffix": "",
+                "email": "t.rice@ms.unimelb.edu.au",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Risk factors for the evolutionary emergence of pathogens",
+            "authors": [
+                {
+                    "first": "HK",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J R Soc Interface",
+            "volume": "7",
+            "issn": "",
+            "pages": "1455-1474",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2010.0123"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Some evolutionary stochastic processes",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1949,
+            "venue": "J R Stat Soc B",
+            "volume": "11",
+            "issn": "",
+            "pages": "211-229",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1955,
+            "venue": "An introduction to stochastic processes",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Analysis of infectious disease data",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "The dual myths of the healthy wild fish and the unhealthy farmed fish",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bergh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Dis Aquat Org",
+            "volume": "75",
+            "issn": "",
+            "pages": "159-164",
+            "other_ids": {
+                "DOI": [
+                    "10.3354/dao075159"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Comparison of populations whose growth can be described by a branching stochastic process",
+            "authors": [
+                {
+                    "first": "AT",
+                    "middle": [],
+                    "last": "Bharucha-Reid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1958,
+            "venue": "Sankhy\u0101",
+            "volume": "19",
+            "issn": "",
+            "pages": "1-14",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Infectious animal disease and its control",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Biggs",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Phil Trans R Soc Lond B",
+            "volume": "310",
+            "issn": "",
+            "pages": "259-274",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.1985.0115"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Transient virulence of emerging pathogens",
+            "authors": [
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Bolker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nanda",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J R Soc Interface",
+            "volume": "7",
+            "issn": "",
+            "pages": "811-822",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2009.0384"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Invasion thresholds and the evolution of non-equilibrium virulence",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ebert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Evol Appl",
+            "volume": "1",
+            "issn": "",
+            "pages": "172-182",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1752-4571.2007.00003.x"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Virulence evolution and the trade-off hypothesis: history, current state of affairs and the future",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alizon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hurford",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mideo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "van Baalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Evol Biol",
+            "volume": "22",
+            "issn": "",
+            "pages": "245-259",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1420-9101.2008.01658.x"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Crawford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Deadly companions: how microbes shaped our history",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Daley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gani",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Epidemic modelling: an introduction",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "On the evolution of virulence and the relationship between various measures of mortality",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc R Soc Lond B",
+            "volume": "269",
+            "issn": "",
+            "pages": "1317-1323",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2002.2021"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Virulence evolution and the timing of disease life-history events",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Ecol Evol",
+            "volume": "18",
+            "issn": "",
+            "pages": "113-118",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0169-5347(02)00049-6"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "A general theory for the evolutionary dynamics of virlence",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Proulx",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am Nat",
+            "volume": "163",
+            "issn": "",
+            "pages": "E41-E63",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/382548"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Virulence\u2014transmission trade-offs and population divergence in virulence in a naturally occurring butterfly parasite",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "de Roode",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Yates",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Altizer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "7489-7494",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0710909105"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Mathematical models for infectious disease statistics",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dietz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schenke",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "A celebration of statistics",
+            "volume": "",
+            "issn": "",
+            "pages": "167-204",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "The evolution and expression of parasite virulence",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ebert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Evolution in health and disease",
+            "volume": "",
+            "issn": "",
+            "pages": "161-172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Host\u2013parasite relations, vectors, and the evolution of disease severity",
+            "authors": [
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Ewald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Annu Rev Ecol Syst",
+            "volume": "14",
+            "issn": "",
+            "pages": "465-485",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.es.14.110183.002341"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Ewald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Evolution of infectious disease",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Models of parasite virulence",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Frank",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Q Rev Biol",
+            "volume": "71",
+            "issn": "",
+            "pages": "37-78",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/419267"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Animal welfare and the intensification of animal production: an alternative interpretation",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Variation in HIV-1 set-point viral load: epidemiological analysis and an evolutionary hypothesis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Hollingsworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chapman",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "de Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Hanage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "17441-17446",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0708559104"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Imperfect vaccines and the evolution of pathogen virulence",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gandon",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Mackinnon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nee",
+                    "suffix": ""
+                },
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Read",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "414",
+            "issn": "",
+            "pages": "751-756",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/414751a"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "FR",
+                    "middle": [],
+                    "last": "Gantmakher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "The theory of matrices, vol 1",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "A simple model of epidemics with pathogen mutation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Girvan",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Callaway",
+                    "suffix": ""
+                },
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Strogatz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Phys Rev E",
+            "volume": "65",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.65.031915"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "On the statistical measure of infectiousness",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Greenwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1931,
+            "venue": "J Hyg Camb",
+            "volume": "31",
+            "issn": "",
+            "pages": "336-351",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S002217240001086X"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Coevolution of hosts and parasites",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Parasitology",
+            "volume": "85",
+            "issn": "",
+            "pages": "411-426",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0031182000055360"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "YQ",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "276-278",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1087139"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Haccou",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jagers",
+                    "suffix": ""
+                },
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Vatutin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Branching processes: variation, growth, and extinction of populations",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "",
+            "authors": [],
+            "year": 2004,
+            "venue": "Ecology, genetics and evolution of metapopulations",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Emerging marine diseases\u2014climate links and anthropogenic factors",
+            "authors": [
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Harvell",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Burkholder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "285",
+            "issn": "",
+            "pages": "1505-1510",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.285.5433.1505"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "The rising tide of ocean diseases: unsolved problems and research priorities",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Harvell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aronson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Baron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Front Ecol Environ",
+            "volume": "2",
+            "issn": "",
+            "pages": "375-382",
+            "other_ids": {
+                "DOI": [
+                    "10.1890/1540-9295(2004)002[0375:TRTOOD]2.0.CO;2"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Extinction times in multitype Markov branching processes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Heinzmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Appl Probab",
+            "volume": "46",
+            "issn": "",
+            "pages": "296-307",
+            "other_ids": {
+                "DOI": [
+                    "10.1239/jap/1238592131"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jagers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Branching processes with biological applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Pattern formation triggered by rare events: lessons from the spread of rabies",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jeltsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Grimm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wissel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Brandl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc R Soc Lond B",
+            "volume": "264",
+            "issn": "",
+            "pages": "495-503",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.1997.0071"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Karlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "A second course in stochastic processes",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Infectious diseases of humans: dynamics and control",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "A contribution to the mathematcial theory of epidemics",
+            "authors": [
+                {
+                    "first": "WO",
+                    "middle": [],
+                    "last": "Kermack",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "McKendrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1927,
+            "venue": "Proc R Soc Lond A",
+            "volume": "115",
+            "issn": "",
+            "pages": "700-721",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspa.1927.0118"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kijima",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Markov processes for stochastic modeling",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Host density and the evolution of parasite virulence",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Knolle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J Theor Biol",
+            "volume": "136",
+            "issn": "",
+            "pages": "199-207",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-5193(89)80226-7"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "The evolution of virulence in parasites and pathogens: reconciliation between two competing hypotheses",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lenski",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Theor Biol",
+            "volume": "169",
+            "issn": "",
+            "pages": "253-265",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jtbi.1994.1146"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Are parasites \u2018prudent\u2019 in space",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lion",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boots",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Ecol Lett",
+            "volume": "13",
+            "issn": "",
+            "pages": "1245-1255",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1461-0248.2010.01516.x"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Virulence and transmissibility of pathogens: what is the relationship",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Moxon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Trends Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "31-37",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(97)81772-6"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Qualitative behavior of stochastic epidemics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ludwig",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Math Biosci",
+            "volume": "23",
+            "issn": "",
+            "pages": "47-73",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0025-5564(75)90120-0"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Transmission rates and the evolution of pathogenicity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Massad",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Evolution",
+            "volume": "41",
+            "issn": "",
+            "pages": "1127-1130",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2409198"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "Understanding influenza transmission, immunity and pandemic threats",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Mathews",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Chesson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "McCaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "McVernon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Influenza Other Respir Viruses",
+            "volume": "3",
+            "issn": "4",
+            "pages": "143-149",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1750-2659.2009.00089.x"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Stochastic epidemic models and their statistical analysis. Lecture Notes in Statistics, 151",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Covering problems for Brownian motion on spheres",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Ann Probab",
+            "volume": "18",
+            "issn": "",
+            "pages": "189-199",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/aop/1176991894"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Applications of mathematics to medical problems",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "McKendrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1926,
+            "venue": "Proc Edinb Math Soc",
+            "volume": "14",
+            "issn": "",
+            "pages": "98-130",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Modeling and real-time prediction of classical swine fever epidemics",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Meester",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "de Koning",
+                    "suffix": ""
+                },
+                {
+                    "first": "MCC",
+                    "middle": [],
+                    "last": "de Jong",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Diekmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biometrics",
+            "volume": "58",
+            "issn": "",
+            "pages": "178-184",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.0006-341X.2002.00178.x"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Mode",
+                    "suffix": ""
+                },
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Sleeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Stochastic processes in epidemiology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Intensive fish farming and the evolution of pathogen virulence: the case of coumnaris disease in Finland",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pulkinnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-R",
+                    "middle": [],
+                    "last": "Suomalainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Read",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ebert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rintam\u00e4ki",
+                    "suffix": ""
+                },
+                {
+                    "first": "ET",
+                    "middle": [],
+                    "last": "Valtonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc R Soc B",
+            "volume": "277",
+            "issn": "",
+            "pages": "593-600",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2009.1659"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "The effects of environmental stress on outbreaks of infectious diseases of fishes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sniezko",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "J Fish Biol",
+            "volume": "6",
+            "issn": "",
+            "pages": "197-208",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1095-8649.1974.tb04537.x"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Thieme",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mathematics in population biology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Contact networks and the evolution of virulence",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "van Baalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Adaptive dynamics of infectious diseases: in pursuit of virulence management",
+            "volume": "",
+            "issn": "",
+            "pages": "85-103",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Increased virulence of Marek\u2019s disease virus field isolates",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Witter",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Avian Dis",
+            "volume": "41",
+            "issn": "",
+            "pages": "149-163",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/1592455"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Virulence evolution in emerging infectious diseases",
+            "authors": [
+                {
+                    "first": "J-B",
+                    "middle": [],
+                    "last": "Andr\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Hochberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Evolution",
+            "volume": "59",
+            "issn": "",
+            "pages": "1406-1412",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "The outcome of a stochastic epidemic\u2014a note on Bailey\u2019s paper",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Whittle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1955,
+            "venue": "Biometrica",
+            "volume": "42",
+            "issn": "",
+            "pages": "116-122",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "How do pathogen evolution and host heterogeneity interact in disease emergence?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yates",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Antia",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Regoes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc R Soc Lond B",
+            "volume": "273",
+            "issn": "",
+            "pages": "3075-3083",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2006.3681"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "La peste bubonique \u00e1 Hong Kong",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yersin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1894,
+            "venue": "Ann Inst Pasteur",
+            "volume": "8",
+            "issn": "",
+            "pages": "662-667",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Athreya",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Ney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Branching processes",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Strong approximations for epidemic models",
+            "authors": [
+                {
+                    "first": "FG",
+                    "middle": [],
+                    "last": "Ball",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Donelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Stoch Process Appl",
+            "volume": "55",
+            "issn": "",
+            "pages": "1-21",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0304-4149(94)00034-Q"
+                ]
+            }
+        }
+    }
+}

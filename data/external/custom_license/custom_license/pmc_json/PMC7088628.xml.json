@@ -1,0 +1,863 @@
+{
+    "paper_id": "PMC7088628",
+    "metadata": {
+        "title": "Prokaryote phylogeny based on ribosomal proteins and aminoacyl tRNA synthetases by using the compositional distance approach",
+        "authors": [
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Haibin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qi",
+                "middle": [],
+                "last": "Ji",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hao",
+                "middle": [],
+                "last": "Bailin",
+                "suffix": "",
+                "email": "hao@itp.ac.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The winds of (evolutionary) change: Breathing new life into microbiology",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Woese",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Overbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Bacteriol.",
+            "volume": "176",
+            "issn": "",
+            "pages": "1-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Genome trees constructed using five different approaches suggest new major bacterial clades",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Rogozin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Grishin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "BMC Evolutionary Biology",
+            "volume": "1",
+            "issn": "",
+            "pages": "8-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2148-1-8"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Genome trees and the tree of life",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Rogozin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Grishin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends in Genetics",
+            "volume": "18",
+            "issn": "",
+            "pages": "472-479",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-9525(02)02744-0"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Universal trees based on large combined protein sequence data sets",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Douady",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Italia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Genetics",
+            "volume": "28",
+            "issn": "",
+            "pages": "281-285",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/90129"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Whole genome prokaryote phylogeny without sequence alignment: A K-string composition approach",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Mol. Evol.",
+            "volume": "58",
+            "issn": "",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00239-003-2493-7"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Origin and phylogeny of chloroplasts: A simple correlation analysis of complete genomes",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "70 -76",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Molecular phylogeny of coronoaviruses including human SARS-Cov",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Science Bulletin",
+            "volume": "48",
+            "issn": "12",
+            "pages": "1170-1174",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03wc0254"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Archael phylogeny based on ribosomal protein",
+            "authors": [
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Matte-Tailliez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Brochier",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Forterre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "19",
+            "issn": "5",
+            "pages": "631-639",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Evolutionary anomalies among the aminoacyl-tRNA synthetases",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Doolittle",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Handy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Current Opinion in Genetic & Development",
+            "volume": "8",
+            "issn": "",
+            "pages": "630-636",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0959-437X(98)80030-0"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Evolution of aminoacyl-tRNA synthetases-Analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Aravind",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Grishin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Genome Research",
+            "volume": "9",
+            "issn": "",
+            "pages": "689-710",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Aminoacyl-tRNA synthetases, the genetic code, and the evolutionary process",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Woese",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Ibba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Microbiology and Molecular Biology Reviews",
+            "volume": "64",
+            "issn": "1",
+            "pages": "202-236",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MMBR.64.1.202-236.2000"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Phylogenetic structure of the prokaryotic domain: The primary kingdoms",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Woese",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "74",
+            "issn": "",
+            "pages": "5088-5090",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.74.11.5088"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "GenBank",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Benson",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Karsch-Mizrachi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Lipman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucl. Acids Res.",
+            "volume": "31",
+            "issn": "",
+            "pages": "23-27",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg057"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Database resources of the National Center for Biotechnology",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Wheeler",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Church",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Federhen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucl. Acids Res.",
+            "volume": "31",
+            "issn": "",
+            "pages": "28-33",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg033"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Molecular Evolution and Phylogenetics",
+            "volume": "",
+            "issn": "",
+            "pages": "87-103",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Garrity",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Bell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Taxonomic Outline of the Procaryotes, Bergey\u2019s Manual of Systematic Bacteriology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Methanopyrus kandleri: An archeal methanogen unrelated to all other known methanogens",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Burggraf",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "O."
+                    ],
+                    "last": "Stetter",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Rouviere",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Syst. Appl. Microbiol.",
+            "volume": "14",
+            "issn": "",
+            "pages": "346-351",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "The complete genome of hyperthermophile Methanopyrus kandleri AV19 and monophyly of archaeal methanogens",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Slesarev",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Mezhevaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Makarova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "4644-4649",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.032671499"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Garrity",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Bell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Lilburn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Taxonomic Outline of the Procaryotes, Bergey\u2019s Manual of Systematic Bacteriology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "The Ribosomal Database Project (RDP-II): Previewing a new autoaligner that allows regular updates and the new prokaryotic taxonomy",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Cole",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Marsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucl. Acids Res.",
+            "volume": "31",
+            "issn": "",
+            "pages": "442-443",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg039"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "",
+            "authors": [],
+            "year": 2001,
+            "venue": "Bergey\u2019s Manual of Systematic Bacteriology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Phylogenetic inferences from molecular sequences: Review and critique",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Brocchieri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Theoretical Population Biology",
+            "volume": "59",
+            "issn": "",
+            "pages": "27-40",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/tpbi.2000.1485"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Engineering of bacterial ribosomes: Replacement of all seven Escherichia coli rRNA operons by a single plasmid-encoded operon",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nomura",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "96",
+            "issn": "5",
+            "pages": "1820-1822",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.5.1820"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Phylogenetic classification and the universal tree",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Doolittle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "284",
+            "issn": "",
+            "pages": "2124-2128",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.284.5423.2124"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Detection of lateral gene transfer among microbial genomes",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Ragan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Current Opinion in Genetics & Development",
+            "volume": "11",
+            "issn": "",
+            "pages": "620-626",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0959-437X(00)00244-6"
+                ]
+            }
+        }
+    }
+}

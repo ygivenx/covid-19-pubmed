@@ -1,0 +1,917 @@
+{
+    "paper_id": "PMC5999160",
+    "metadata": {
+        "title": "A barnavirus sequence mined from a transcriptome of the Antarctic pearlwort Colobanthus quitensis",
+        "authors": [
+            {
+                "first": "Max",
+                "middle": [
+                    "L."
+                ],
+                "last": "Nibert",
+                "suffix": "",
+                "email": "mnibert@hms.harvard.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Austin",
+                "middle": [
+                    "R."
+                ],
+                "last": "Manny",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Humberto",
+                "middle": [
+                    "J."
+                ],
+                "last": "Debat",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Andrew",
+                "middle": [
+                    "E."
+                ],
+                "last": "Firth",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Laura",
+                "middle": [],
+                "last": "Bertini",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Carla",
+                "middle": [],
+                "last": "Caruso",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Fig.\u00a01: Genome organizations. Diagrams are drawn to scale and aligned to the proposed frameshifting (fs) site in each. For RsBV1, diagrams for both reported and newly revised sequences are included. Main ORFs are shown as gray rectangles, along with first and last nt positions (not including stop codons). The reading frame that includes ORF2 is defined as frame 0 in each genome. ORF3 is defined by bracketing stop codons; the other ORFs are defined as spanning from the first in-frame AUG codon to the first downstream stop codon. In MBV, three small ORFs with potential to encode proteins of 51\u201365 aa each [19] are shown as rectangles with dashed outlines; a few similarly sized small ORFs, with potential to encode proteins 52\u2013100 aa each, are also found in CqABV1 and RsBV1 but are not located in the same genomic positions and are considered unlikely to be expressed. TM regions in encoded proteins, as predicted by SOSUI, are shown as diamonds. Regions of similarity in encoded proteins to viral proteases (pro), RdRps, or CPs, as determined by HHpred, are shown as thick lines within the respective ORFs. Known cleavage products of the ORF2-encoded polyprotein of representative sobemovirus SBMV are labeled. The ORF spanning nt 421\u2013684 in SBMV encodes the essential sobemovirus protein Px [11], which may be analogous to barnavirus P1 based on the coding organizations of these viruses. The other 5\u2032-proximal ORF in SBMV, spanning nt 93\u2013533, has been reported to encode a movement protein (P1 [3]), which is not expected to be present in the fungal barnaviruses",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Fig.\u00a02: Signals for \u22121 programmed ribosomal frameshifting. The stop codon defining the maximal possible 5\u2032 extent of ORF3 in each virus is shaded. The proposed \u22121 slippery sequence in each is underlined. Stems in the RNA structures predicted directly downstream of the slippery sequence in each are overlined; interactions between the half stems are indicated by brackets. The predicted two-stem structure in CqABV1 is a compact pseudoknot. The nt position of the 3\u2032-most residue shown for each virus is indicated at right. A folding diagram of the proposed CqABV1 pseudoknot is shown at far right (generated using PseudoViewer 3.0 as implemented at http://pseudoviewer.inha.ac.kr/)",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Fig.\u00a03: Unrooted radial phylogram. Deduced protein sequences for the P3 (RdRp) region of P2+3 of barnaviruses (black) and sobemoviruses (gray) were aligned using MAFFT 7.3 (G-INS-i) and then subjected to maximum-likelihood phylogenetic analyses using ModelFinder, IQ-TREE, and UFBoot [10, 13, 14] as implemented with the \u201cFind best and apply\u201d option at https://www.hiv.lanl.gov/content/sequence/IQTREE/iqtree.html. The following were found to apply: best-fit model according to BIC, LG+F+I+G4; model of rate heterogeneity, Invar+Gamma with 4 categories; proportion of invariable sites, 0.0743; and gamma shape alpha, 0.8970. Branch support values (from 1000 bootstrap replicates) are shown in %; branches with < 50% support have been collapsed to the preceding node. The scale bar indicates the average number of substitutions per alignment position. See Table S4 for a summary of abbreviations and GenBank numbers",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The MPI bioinformatics Toolkit as an integrative platform for advanced protein sequence and structure analysis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Alva",
+                    "suffix": ""
+                },
+                {
+                    "first": "SZ",
+                    "middle": [],
+                    "last": "Nam",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "S\u00f6ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "AN",
+                    "middle": [],
+                    "last": "Lupas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "W1",
+            "pages": "W410-W415",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkw348"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "ModelFinder: fast model selection for accurate phylogenetic estimates",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kalyaanamoorthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "BQ",
+                    "middle": [],
+                    "last": "Minh",
+                    "suffix": ""
+                },
+                {
+                    "first": "TKF",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "von Haeseler",
+                    "suffix": ""
+                },
+                {
+                    "first": "LS",
+                    "middle": [],
+                    "last": "Jermiin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nat Methods",
+            "volume": "14",
+            "issn": "",
+            "pages": "587-589",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nmeth.4285"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "An essential fifth coding ORF in the sobemoviruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Pate",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Carr",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Firth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Virology",
+            "volume": "446",
+            "issn": "",
+            "pages": "397-408",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2013.05.033"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Identification of diverse mycoviruses through metatranscriptomics characterization of the viromes of five major fungal plant pathogens",
+            "authors": [
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Marzano",
+                    "suffix": ""
+                },
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Ajayi-Oyetunde",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Hartman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Eastburn",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Domier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Virol",
+            "volume": "90",
+            "issn": "",
+            "pages": "6846-6863",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00357-16"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Ultrafast approximation for phylogenetic bootstrap",
+            "authors": [
+                {
+                    "first": "BQ",
+                    "middle": [],
+                    "last": "Minh",
+                    "suffix": ""
+                },
+                {
+                    "first": "MAT",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "von Haeseler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Mol Biol Evol",
+            "volume": "30",
+            "issn": "",
+            "pages": "1188-1195",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/mst024"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "IQ-TREE: A fast and effective stochastic algorithm for estimating maximum likelihood phylogenies",
+            "authors": [
+                {
+                    "first": "LT",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "von Haeseler",
+                    "suffix": ""
+                },
+                {
+                    "first": "BQ",
+                    "middle": [],
+                    "last": "Minh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Mol Biol Evol",
+            "volume": "32",
+            "issn": "",
+            "pages": "268-274",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msu300"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Genus Ourmiavirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rastgou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Turina",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Milne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Virus taxonomy, ninth report of the International Committee on Taxonomy of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "1177-1180",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Family Barnaviridae",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Revill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Virus taxonomy, ninth report of the International Committee on Taxonomy of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "961-964",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Identification of a subgenomic mRNA encoding the capsid protein of mushroom bacilliform virus, a single-stranded RNA mycovirus",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Revill",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Virology",
+            "volume": "260",
+            "issn": "",
+            "pages": "273-276",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1999.9839"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Mushroom bacilliform virus RNA: the initiation of translation at the 5\u00b4end of the genome and identification of the VPg",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Revill",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "249",
+            "issn": "",
+            "pages": "231-237",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9345"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The nucleotide sequence and genome organization of mushroom bacilliform virus: a single-stranded RNA virus of Agaricus bisporus (Lange) Imbach",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Revill",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Virology",
+            "volume": "202",
+            "issn": "",
+            "pages": "904-911",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1994.1412"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Ribosomal frameshifting and transcriptional slippage: from genetic steganography and cryptography to adventitious use",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Atkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Loughran",
+                    "suffix": ""
+                },
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Bhatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Firth",
+                    "suffix": ""
+                },
+                {
+                    "first": "PV",
+                    "middle": [],
+                    "last": "Baranov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "7007-7078",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Purification and partial characterization of a bacilliform virus from Agaricus bisporus: a single-stranded RNA mycovirus",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Tavantzis",
+                    "suffix": ""
+                },
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Romaine",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Virology",
+            "volume": "105",
+            "issn": "",
+            "pages": "94-102",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(80)90159-2"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Genus Sobemovirus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Truve",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fargette",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Virus taxonomy, ninth report of the International Committee on Taxonomy of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "1185-1189",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Expression of the rice yellow mottle virus P1 protein in vitro and in vivo and its involvement in virus spread",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bonneau",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Brugidou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Beachy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fauquet",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "244",
+            "issn": "",
+            "pages": "79-86",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9100"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Mutational analysis of the \u201cslippery-sequence\u201d component of a coronavirus ribosomal frameshifting signal",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Brierley",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Jenner",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Inglis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Mol Biol",
+            "volume": "227",
+            "issn": "",
+            "pages": "463-479",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-2836(92)90901-U"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Fast and sensitive protein alignment using DIAMOND",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Buchfink",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Huson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat Methods",
+            "volume": "12",
+            "issn": "",
+            "pages": "59-60",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nmeth.3176"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Multiple viral infections in Agaricus bisporus\u2014characterisation of 18 unique RNA viruses and 8 ORFans identified by deep sequencing",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Deakin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dobbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Grogan",
+                    "suffix": ""
+                },
+                {
+                    "first": "KS",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Rep",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41598-017-01592-9"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Organelle-like membrane compartmentalization of positive-strand RNA virus replication factories",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "den Boon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Annu Rev Microbiol",
+            "volume": "64",
+            "issn": "",
+            "pages": "241-256",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.micro.112408.134012"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Genomic Resources Notes accepted 1 February 2015\u201331 March 2015",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Arthofer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bertini",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Caruso",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cicconardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Delph",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Fields",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Minegishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Proietti",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ritthammer",
+                    "suffix": ""
+                },
+                {
+                    "first": "BC",
+                    "middle": [],
+                    "last": "Schlick-Steiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "FM",
+                    "middle": [],
+                    "last": "Steiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Wachter",
+                    "suffix": ""
+                },
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Weingartner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Mol Ecol Resour",
+            "volume": "15",
+            "issn": "",
+            "pages": "1014-1015",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1755-0998.12419"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "SOSUI: classification and secondary structure prediction system for membrane proteins",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hirokawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boon-Chieng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mitaku",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Bioinformatics",
+            "volume": "14",
+            "issn": "",
+            "pages": "378-379",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/14.4.378"
+                ]
+            }
+        }
+    }
+}

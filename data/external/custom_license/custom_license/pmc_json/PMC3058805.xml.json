@@ -1,0 +1,1038 @@
+{
+    "paper_id": "PMC3058805",
+    "metadata": {
+        "title": "2\u2032-O methylation of the viral mRNA cap evades host restriction by IFIT family members",
+        "authors": [
+            {
+                "first": "Stephane",
+                "middle": [],
+                "last": "Daffis",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Kristy",
+                "middle": [
+                    "J."
+                ],
+                "last": "Szretter",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jill",
+                "middle": [],
+                "last": "Schriewer",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jianqing",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Soonjeon",
+                "middle": [],
+                "last": "Youn",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "John",
+                "middle": [],
+                "last": "Errett",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Tsai-Yu",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Stewart",
+                "middle": [],
+                "last": "Schneller",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Roland",
+                "middle": [],
+                "last": "Zust",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hongping",
+                "middle": [],
+                "last": "Dong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Volker",
+                "middle": [],
+                "last": "Thiel",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Theodore",
+                "middle": [
+                    "C."
+                ],
+                "last": "Pierson",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "R.",
+                "middle": [
+                    "Mark"
+                ],
+                "last": "Buller",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Gale",
+                "suffix": "Jr.",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Pei-Yong",
+                "middle": [],
+                "last": "Shi",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Michael",
+                "middle": [
+                    "S."
+                ],
+                "last": "Diamond",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "WNV-WT and WNV-E218A were propagated in BHK21 cells as described 8. VACV-WT and VACV-J3-K175R 22 (gift of R. Condit) and EMCV (strain K) were propagated in HeLa and L929 cells, respectively. Generation of MHV-WT (strain A59) and MHV-D130A recombinant coronaviruses has been described 25.",
+            "cite_spans": [
+                {
+                    "start": 65,
+                    "end": 66,
+                    "mention": "8",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 94,
+                    "end": 96,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 284,
+                    "end": 286,
+                    "mention": "25",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "section": "Viruses ::: Methods Summary",
+            "ref_spans": []
+        },
+        {
+            "text": "C57BL/6 wild type and immunodeficient (IFN\u03b1\u03b2R-/-, IFIT-1-/-, IRF-3-/-, IRF-7-/-, IRF-3-/- \u00d7 IRF-7-/-, and IPS-1-/-) mice were bred at Washington University. Infection experiments were performed with approval of the Washington University and Saint Louis University Animal Studies Committees. Viral titers in blood and organs were quantified as previously described 11.",
+            "cite_spans": [
+                {
+                    "start": 364,
+                    "end": 366,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "section": "Mouse experiments ::: Methods Summary",
+            "ref_spans": []
+        },
+        {
+            "text": "Bone marrow derived M\u03d5 and MEF were generated as described 11. 3T3 fibroblasts expressing GFP or ISG were previously described 18. Cells were infected with WNV, VACV, MHV, or EMCV at MOI of 0.01, 1, 1, and 0.001, respectively. Lysates or supernatants were titered by plaque assay on BHK21-15 cells for WNV and EMCV, BSC-1 cells for VACV, and L929 cells for MHV.",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 61,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 127,
+                    "end": 129,
+                    "mention": "18",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "section": "Cell culture and viral infection ::: Methods Summary",
+            "ref_spans": []
+        },
+        {
+            "text": "IFN-\u03b1\u03b2R-/- MEF were infected at an MOI of 10 with WNV-WT or WNV-E218A. Total RNA was isolated, treated with DNAse (Qiagen), and IFN-\u03b2 mRNA were amplified by qRT-PCR as described previously 11.",
+            "cite_spans": [
+                {
+                    "start": 189,
+                    "end": 191,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "section": "Quantification of IFN-\u03b2 mRNA ::: Methods Summary",
+            "ref_spans": []
+        },
+        {
+            "text": "IPS-1-/- MEF were pre-treated with increasing doses of mouse IFN-\u03b2 (PBL Laboratories) for 24 h and then infected with WNV or MHV at an MOI of 0.1. Supernatants were harvested at 48 or 12 h post infection, respectively, and titered by plaque assay.",
+            "cite_spans": [],
+            "section": "IFN-\u03b2 pretreatment experiment ::: Methods Summary",
+            "ref_spans": []
+        },
+        {
+            "text": "Quantitation of positive and negative strand WNV RNA was performed using a T7-tagged primer strategy 26. Fibroblasts expressing GFP or mouse IFIT-2 were infected with WNV-WT or WNV-E218A at an MOI of 1 and total RNA was harvested at indicated time points.",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 103,
+                    "mention": "26",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "section": "Strand-specific real time RT-PCR ::: Methods Summary",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: WNV-E218A is attenuated in wild type mice and cells but is virulent in IFN\u03b1\u03b2R-/- mice and cells. a. Survival curves of wild type and IFN\u03b1\u03b2R-/- C57BL/6 mice after subcutaneous infection with WNV-WT or WNV-E218A. b. Virus replication in wild type mice in blood (day 4), spleen (day 4), or brain (day 8) after subcutaneous infection with WNV-WT or WNV-E218A. c. Survival curves of wild type mice after intracranial infection with WNV-WT (101) or WNV-E218A (105 PFU). d. Viral burden in the serum, spleen, kidney, spinal cord, and brain from IFN\u03b1\u03b2R-/- mice at day 3 after infection. e-f. Replication of WNV-WT and WNV-E218A in wild type or IFN\u03b1\u03b2R-/- MEF (e) or M\u03d5 (f). Results are the average of three experiments performed in triplicate. Error bars indicate standard deviations and dashed line indicates the limit of sensitivity of the assay.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: 2\u2032-O methylation of viral RNA alters the sensitivity of WNV to the antiviral effects of IFN. a. IFN-\u03b2 gene induction in IFN\u03b1\u03b2R-/- MEF after WNV-WT or WNV-E218A infection. Results are representative of three independent experiments performed in duplicate. b. Viral replication in IPS-1-/- MEF after IFN-\u03b2 pretreatment. The data are the average of two independent experiments performed in triplicate, and the asterisks indicate differences that are statistically significant (***, P < 0.0001, **, P < 0.005, *, P < 0.05). Error bars indicate standard deviations.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: WNV-E218A is more sensitive to the antiviral actions of IFIT genes. a-c. Viral replication of WNV-WT or WNV-E218A in 3T3 MEF transgenically expressing GFP (a, b, and c), ISG20 (a), IFIT-2 (b), or IFIT-1 (c). The data are the average of three experiments performed in duplicate, and the asterisks indicate statistically significant differences. d. siRNA knockdown of IFIT-2 enhances replication of WNV-E218A. 3T3 cells were transfected with a non-target (NT) or IFIT-2 siRNA and then infected with WNV-E218A. One-day post infection cells were harvested and (top) viral RNA was assayed by qRT-PCR. The data are the average of three experiments performed in duplicate. (Bottom) Knockdown of IFIT-2 protein was confirmed by Western blot. e-f. Murine IFIT-2 expression prevents accumulation of negative and positive strand viral RNA in WNV-E218A-infected cells. g. Replication of WNV-E218A is attenuated in wild type and IFIT-2-/- M\u03d5 but restored in IFIT-1-/- cells. h. Survival curves of wild type or IFIT-1-/- mice after intracranial challenge with 105 PFU of WNV-WT or WNV-E218A. Error bars indicate standard deviations and dashed line indicates the limit of sensitivity of the assay.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Poxvirus and coronavirus mutants lacking 2\u2032-O methylation are more sensitive to the antiviral effects of murine IFIT-2. a-d. Studies with VACV. (a) Viral replication of VACV-WT or VACV-J3-K175R in wild type or IFN\u03b1\u03b2R-/- M\u03d5 (a) or 3T3 MEF expressing GFP (b, c, and d), ISG20 (b), IFIT-2 (c), or IFIT-1 (d). e. Viral replication of MHV-WT or MHV-D130A in 3T3 cells expressing GFP or IFIT-2. f. Viral replication of EMCV in 3T3 cells expressing GFP or IFIT-2. Error bars indicate standard deviations and dashed line indicates the limit of sensitivity of the assay.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Viral and cellular mRNA capping: past and prospects",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Furuichi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Shatkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Adv Virus Res",
+            "volume": "55",
+            "issn": "",
+            "pages": "135-184",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Interferon regulatory factor IRF-7 induces the antiviral alpha interferon response and protects against lethal West Nile virus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Daffis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of virology",
+            "volume": "82",
+            "issn": "",
+            "pages": "8465-8475",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Induction of IFN-beta and the innate antiviral response in myeloid cells occurs through an IPS-1-dependent signal that does not require IRF-3 and IRF-7",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Daffis",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Suthar",
+                    "suffix": ""
+                },
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Szretter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Toll-like receptor 3 has a protective role against West Nile virus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Daffis",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Samuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Suthar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of virology",
+            "volume": "82",
+            "issn": "",
+            "pages": "10349-10358",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Identification of genes differentially regulated by interferon alpha, beta, or gamma using oligonucleotide arrays",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Der",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Silverman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "95",
+            "issn": "",
+            "pages": "15623-15628",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Coordinated regulation and widespread cellular expression of interferon-stimulated genes (ISG) ISG-49, ISG-54, and ISG-56 in the central nervous system after infection with distinct viruses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wacher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of virology",
+            "volume": "81",
+            "issn": "",
+            "pages": "860-871",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Cell-specific IRF-3 responses protect against West Nile virus infection by interferon-dependent and -independent mechanisms",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Daffis",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Samuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "BC",
+                    "middle": [],
+                    "last": "Keller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Pathog",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Novel characteristics of the function and induction of murine p56 family proteins",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Fensterl",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yamashita",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of virology",
+            "volume": "82",
+            "issn": "",
+            "pages": "11045-11053",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Regulating intracellular antiviral defense and permissiveness to hepatitis C virus RNA replication through a cellular RNA helicase, RIG-I",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sumpter",
+                    "suffix": "Jr"
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of virology",
+            "volume": "79",
+            "issn": "",
+            "pages": "2689-2699",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Identification and characterization of interferon-induced proteins that inhibit alphavirus replication",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Burke",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Ryman",
+                    "suffix": ""
+                },
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Klimstra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of virology",
+            "volume": "81",
+            "issn": "",
+            "pages": "11246-11255",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Distinct induction patterns and functions of two closely related interferon-inducible human genes, ISG54 and ISG56",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Terenzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Merrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "The Journal of biological chemistry",
+            "volume": "281",
+            "issn": "",
+            "pages": "34064-34071",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Methylated nucleotides block 5\u2032-terminus of vaccinia virus messenger RNA",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "72",
+            "issn": "",
+            "pages": "318-322",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Mouse p56 blocks a distinct function of eukaryotic initiation factor 3 in translation initiation",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Terenzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Merrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "The Journal of biological chemistry",
+            "volume": "280",
+            "issn": "",
+            "pages": "3433-3440",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Novel functions of proteins encoded by viral stress-inducible genes",
+            "authors": [
+                {
+                    "first": "SN",
+                    "middle": [],
+                    "last": "Sarkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pharmacology & therapeutics",
+            "volume": "103",
+            "issn": "",
+            "pages": "245-259",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "The positive transcription elongation factor activity of the vaccinia virus J3 protein is independent from its (nucleoside-2\u2032-O-) methyltransferase and poly(A) polymerase stimulatory functions",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Latner",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Gershon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Storrs",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Condit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "301",
+            "issn": "",
+            "pages": "64-80",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Coronavirus nonstructural protein 16 is a cap-0 binding enzyme possessing (nucleoside-2\u2032O)-methyltransferase activity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of virology",
+            "volume": "82",
+            "issn": "",
+            "pages": "8071-8084",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Viral stress-inducible protein p56 inhibits translation by blocking the interaction of eIF3 with the ternary complex eIF2.GTP.Met-tRNAi",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Bhasker",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Merrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Journal of biological chemistry",
+            "volume": "278",
+            "issn": "",
+            "pages": "39477-39482",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Recombinant mouse hepatitis virus strain A59 from cloned, full-length cDNA replicates to high titers in vitro and is fully pathogenic in vivo",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Coley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of virology",
+            "volume": "79",
+            "issn": "",
+            "pages": "3097-3106",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Alpha/beta interferon protects against lethal West Nile virus infection by restricting cellular tropism and enhancing neuronal survival",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Samuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of virology",
+            "volume": "79",
+            "issn": "",
+            "pages": "13350-13361",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Methylated nucleotides block 5\u2032 terminus of HeLa cell messenger RNA",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gershowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Cell",
+            "volume": "4",
+            "issn": "",
+            "pages": "379-386",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Influence of 5\u2032-terminal cap structure on the initiation of translation of vaccinia virus mRNA",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Muthukrishnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Maxwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "The Journal of biological chemistry",
+            "volume": "253",
+            "issn": "",
+            "pages": "1710-1715",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Post-transcriptional modifications of mRNA. Purification and characterization of cap I and cap II RNA (nucleoside-2\u2032-)-methyltransferases from HeLa cells",
+            "authors": [
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Langberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "The Journal of biological chemistry",
+            "volume": "256",
+            "issn": "",
+            "pages": "10054-10060",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Recognition of mRNA cap structures by viral and cellular proteins",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Fechter",
+                    "suffix": ""
+                },
+                {
+                    "first": "GG",
+                    "middle": [],
+                    "last": "Brownlee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "The Journal of general virology",
+            "volume": "86",
+            "issn": "",
+            "pages": "1239-1249",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Flavivirus methyltransferase: a novel antiviral target",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Antiviral Res",
+            "volume": "80",
+            "issn": "",
+            "pages": "1-10",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Structure and function of flavivirus NS5 methyltransferase",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of virology",
+            "volume": "81",
+            "issn": "",
+            "pages": "3891-3903",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Type I IFN protects against lethal West Nile Virus infection by restricting cellular tropism and enhancing neuronal survival",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Samuel",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "13350-13361",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

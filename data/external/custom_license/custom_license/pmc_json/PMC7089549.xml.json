@@ -1,0 +1,1993 @@
+{
+    "paper_id": "PMC7089549",
+    "metadata": {
+        "title": "Cross-linked Small Polyethylenimines: While Still Nontoxic, Deliver DNA Efficiently to Mammalian Cells in Vitro and in Vivo",
+        "authors": [
+            {
+                "first": "Mini",
+                "middle": [],
+                "last": "Thomas",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Ge",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "James",
+                "middle": [
+                    "J."
+                ],
+                "last": "Lu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jianzhu",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Alexander",
+                "middle": [],
+                "last": "Klibanov",
+                "suffix": "",
+                "email": "klibanov@mit.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Cystic fibrosis, gene therapy, and lung inflammation: for better or worse?",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Schwiebert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am. J. Physiol.",
+            "volume": "286",
+            "issn": "",
+            "pages": "L715-L716",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Barriers to nonviral gene delivery",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Wiethoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Middaugh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Pharm. Sci.",
+            "volume": "92",
+            "issn": "",
+            "pages": "203-217",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Gene therapy: a tragic setback",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Check",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "420",
+            "issn": "",
+            "pages": "116-118",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "LMO2-associated clonal T cell proliferation in two patients after gene therapy for SCID-X1",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hacein-Bey-Abina",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Von Kalle",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "McCormack",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Wulffraat",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Leboulch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Osborne",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pawliuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Morillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Sorensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Forster",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.I.",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "de Saint Basile",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Wintergerst",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Frebourg",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Aurias",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Stoppa-Lyonnet",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Romana",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Radford-Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Valensi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Delabesse",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Macintyre",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Siqaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Soulier",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Leiva",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Wissler",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Prinz",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Rabbitts",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Le Deist",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Cavazzana-Calvo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "415-419",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1088547"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Trial halted after gene shows up in semen",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Boyce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "414",
+            "issn": "",
+            "pages": "677-678",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Receptor-mediated gene delivery and expression in vivo.",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Biol. Chem.",
+            "volume": "263",
+            "issn": "",
+            "pages": "14621-14624",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "A versatile vector for gene and oligonucleotide transfer into cells in culture and in vivo polyethylenimine",
+            "authors": [
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Boussif",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Lezoualc\u2019h",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Zanta",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Mergny",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Scherman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Demeneix",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-P.",
+                    "middle": [],
+                    "last": "Behr",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "92",
+            "issn": "",
+            "pages": "7297-7301",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Tracking the intracellular path of poly(ethylenimine)/DNA complexes for gene delivery",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Godbey",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Mikos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "5177-5181",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Enhancing polyethylenimine\u2019s delivery of plasmid DNA into mammalian cells",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Klibanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "14640-14645",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Efficient active transport of gene nanocarriers to the cell nucleus",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Suh",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Wirtz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Hanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "3878-3882",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Chloride accumulation and swelling in endosomes enhances DNA transfer by polyamine-DNA polyplexes",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Sonawane",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Szoka",
+                    "suffix": "Jr."
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Verkman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "44826-44831",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "An adventure in biotechnology: the development of haemophilia A therapeutics - from whole-blood transfusion to recombinant DNA to gene therapy",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Kingdon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Lundblad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biotechnol. Appl. Biochem.",
+            "volume": "35",
+            "issn": "",
+            "pages": "141-148",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Strategies to improve DNA polyplexes for in vivo gene transfer: will \u201cartificial viruses\u201d be the answer?",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pharm. Res.",
+            "volume": "21",
+            "issn": "",
+            "pages": "8-14",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Gene transfer with modified polyethylenimines",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kirchler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gene Med.",
+            "volume": "6",
+            "issn": "",
+            "pages": "S3-S10",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Partial acetylation of polyethylenimine enhances in vitro gene delivery",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Forrest",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Meister",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Koerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Pack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pharm. Res.",
+            "volume": "21",
+            "issn": "",
+            "pages": "365-371",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Biodegradable, endosome disruptive, and cationic network-type polymer as a highly efficient and non-toxic gene delivery carrier",
+            "authors": [
+                {
+                    "first": "Y.-B.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.-M.",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Suh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-S.",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Bioconjug. Chem.",
+            "volume": "13",
+            "issn": "",
+            "pages": "952-957",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Parallel synthesis and characterization of a degradable polymer library for gene delivery",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Akinc",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Lynn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Langer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "125",
+            "issn": "",
+            "pages": "5316-5323",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Histidine-rich amphipathic peptide antibiotics promote efficient delivery of DNA into mammalian cells",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kichler",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Leborgne",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Marz",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Danos",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Bechinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "1564-1568",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "New poly(D-glucaramidoamine)s induce DNA nanoparticle formation and efficient gene delivery into mammalian cells",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Wenning",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Linch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Reineke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "126",
+            "issn": "",
+            "pages": "7422-7423",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Water-soluble lipopolymer for gene delivery",
+            "authors": [
+                {
+                    "first": "S.-O.",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Mahato",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioconjug. Chem.",
+            "volume": "12",
+            "issn": "",
+            "pages": "337-345",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Hydrophobic modification of polyethyleneimine for gene transfectants",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Jang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Suh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bull. Korean Chem. Soc",
+            "volume": "22",
+            "issn": "",
+            "pages": "1069-1075",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Design and formulation of polyplexes based on pluronic-polyethylenimine conjugates for gene transfer",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Gebhart",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Sriadibhatla",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Vinogradov",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Lemieux",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Alakhov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Kabanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Bioconjug. Chem.",
+            "volume": "13",
+            "issn": "",
+            "pages": "937-944",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Comparative evaluation of the antitumor activity of antiangiogenic proteins delivered by gene transfer",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Farnebo",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Christofferson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Swearingen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "von Recum",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Kamihara",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Flynn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "D\u2019Amato",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Folkman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Mulligan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "98",
+            "issn": "",
+            "pages": "4605-4610",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "A novel non-viral gene transfer system, polycation liposomes",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Oku",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yamazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Matsuura",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Sugiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Hasegawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nango",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Adv. Drug Deliv. Revs.",
+            "volume": "52",
+            "issn": "",
+            "pages": "209-218",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Efficient gene transfer using reversibly cross-linked low molecular weight polyethylenimine",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Gosselin",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioconjug. Chem.",
+            "volume": "12",
+            "issn": "",
+            "pages": "989-994",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Star-shaped poly(ethylene glycol)-block-polyethylenimine copolymers enhance DNA condensation of low molecular weight polyethylenimines",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Kunath",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Stolnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kissel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biomacromolecules",
+            "volume": "3",
+            "issn": "",
+            "pages": "926-936",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Conjugation to gold nanoparticles enhances polyethylenimine\u2019s transfer of plasmid DNA into mammalian cells",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Klibanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "9138-9143",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Biodegradable nanoparticles for drug and gene delivery to cells and tissue",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Panyam",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Labhasetwar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Adv. Drug Deliv. Rev.",
+            "volume": "55",
+            "issn": "",
+            "pages": "329-347",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "A novel biodegradable gene carrier based on polyphosphoester",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.-Q.",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Leong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "123",
+            "issn": "",
+            "pages": "9480-9481",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Poly(ethylenimine-co-L-lactamide-co-succinimide): a biodegradable polyethylenimine derivative with an advantageous pH-dependent hydrolytic degradation for gene delivery",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Merdan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Kunath",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kissel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Bioconjug. Chem.",
+            "volume": "13",
+            "issn": "",
+            "pages": "812-821",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Biodegradable poly(ethylenimine) for plasmid DNA delivery",
+            "authors": [
+                {
+                    "first": "C.-H.",
+                    "middle": [],
+                    "last": "Ahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Chae",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Bae",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Control. Rel.",
+            "volume": "80",
+            "issn": "",
+            "pages": "273-282",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Biodegradable polyester, poly[(\u03b1-(4-aminobutyl)-L-glycolic acid], as a non-toxic gene carrier",
+            "authors": [
+                {
+                    "first": "Y.-B.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.-O.",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.-U.",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-S.",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Jeong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Pharm. Res.",
+            "volume": "17",
+            "issn": "",
+            "pages": "811-816",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "A self-destroying polycationic polymer: biodegradable poly(4-hydroxy-L-proline ester)",
+            "authors": [
+                {
+                    "first": "Y.-B.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-S.",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "121",
+            "issn": "",
+            "pages": "5633-5639",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "RNA silencing: no mercy for viruses?",
+            "authors": [
+                {
+                    "first": "C.-H.",
+                    "middle": [],
+                    "last": "Lecellier",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Voinnet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Immunol. Revs.",
+            "volume": "198",
+            "issn": "",
+            "pages": "285-303",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "A degradable polyethylenimine derivative with low toxicity for highly efficient gene delivery",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Forrest",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Koerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Pack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioconjug. Chem.",
+            "volume": "14",
+            "issn": "",
+            "pages": "934-940",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Characterization of commercially available and synthesized polyethylenimines for gene delivery",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "von Harpe",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kissel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Control. Rel.",
+            "volume": "69",
+            "issn": "",
+            "pages": "309-322",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Overcoming the inflammatory toxicity of cationic gene vectors",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Drug Target",
+            "volume": "10",
+            "issn": "",
+            "pages": "153-160",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Vector unpacking as a potential barrier for receptor-mediated polyplex gene delivery",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Schaffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Fidelman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Dan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Lauffenburger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biotechnol. Bioeng.",
+            "volume": "67",
+            "issn": "",
+            "pages": "598-606",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Current status of gene therapy for lung cancer and head and neck cancer",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Oh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin. Cancer Res.",
+            "volume": "9",
+            "issn": "",
+            "pages": "5055-5067",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "The promise and obstacle of p53 as a cancer therapeutic agent",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Willis",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr. Mol. Med.",
+            "volume": "2",
+            "issn": "",
+            "pages": "329-345",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Silencing SARS-CoV spike protein expression in cultured cells by RNA interference",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Ning",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Babiuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "FEBS Lett.",
+            "volume": "560",
+            "issn": "",
+            "pages": "141-146",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Delivery of gene transfer vectors to lung obstacles and the role of adjunct techniques for airway administration",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Ther.",
+            "volume": "6",
+            "issn": "",
+            "pages": "148-152",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Gene therapy for AIDS and other infectious diseases",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Frater",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Fidler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "O."
+                    ],
+                    "last": "McClure",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Gene Ther.",
+            "volume": "9",
+            "issn": "",
+            "pages": "189-213",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Inhibition of influenza virus production in virus-infected mice by RNA interference",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Filip",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Eisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "8676-8681",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Non-viral gene delivery systems",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr. Opin. Biotechnol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "128-131",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Non-viral gene therapy: polycation-mediated DNA delivery",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Klibanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Appl. Microbiol. Biotechnol.",
+            "volume": "62",
+            "issn": "",
+            "pages": "27-34",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

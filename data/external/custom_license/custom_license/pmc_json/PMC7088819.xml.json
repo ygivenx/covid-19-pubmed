@@ -1,0 +1,1156 @@
+{
+    "paper_id": "PMC7088819",
+    "metadata": {
+        "title": "Time-series analysis in imatinib-resistant chronic myeloid leukemia K562-cells under different drug treatments",
+        "authors": [
+            {
+                "first": "Yan-hong",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": "zhyanred@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Xue-fang",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yan-qiu",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Fan",
+                "middle": [],
+                "last": "Bai",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Fan",
+                "middle": [],
+                "last": "Qin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ying",
+                "middle": [],
+                "last": "Dong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "The effect of nilotinib plus arsenic trioxide on the proliferation and differentiation of primary leukemic cells from patients with chronic myoloid leukemia in blast crisis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "FF",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cancer Cell International",
+            "volume": "15",
+            "issn": "1",
+            "pages": "1-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12935-015-0156-6"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Modeling nonlinear gene regulatory networks from time series gene expression data",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Garay-Malpartida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Bioinform Comput Biol",
+            "volume": "6",
+            "issn": "5",
+            "pages": "961-979",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0219720008003746"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Utilizing R software package for dose-response studies: The concept and data analysis",
+            "authors": [
+                {
+                    "first": "SZ",
+                    "middle": [],
+                    "last": "Knezevic",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Streibig",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ritz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Weed Technol",
+            "volume": "21",
+            "issn": "3",
+            "pages": "840-848",
+            "other_ids": {
+                "DOI": [
+                    "10.1614/WT-06-161.1"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Time-series clustering of gene expression in irradiated and bystander fibroblasts: an application of FBPA clustering",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Ghandhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Markatou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Genomics",
+            "volume": "12",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2164-12-2"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "DAVID: Database for Annotation, Visualization, and Integrated Discovery",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dennis",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Sherman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Hosack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Genome Biol",
+            "volume": "4",
+            "issn": "5",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/gb-2003-4-5-p3"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Controlling the false discovery rate -a practical and powerful approach to multiple testing",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Benjamini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hochberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Roy Stat Soc B Met",
+            "volume": "57",
+            "issn": "1",
+            "pages": "289-300",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "STEM: a tool for the analysis of short time series gene expression data",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ernst",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Bar-Joseph",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "BMC Bioinformatics",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-7-191"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "The Gene Ontology (GO) database and informatics resource",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ireland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res",
+            "volume": "32",
+            "issn": "",
+            "pages": "D258-261",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh066"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "The hematopoietic stem cell in chronic phase CML is characterized by a transcriptional profile resembling normal myeloid progenitor cells and reflecting loss of quiescence",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Bruns",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Czibere",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Leukemia",
+            "volume": "23",
+            "issn": "5",
+            "pages": "892-899",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/leu.2008.392"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Ionizing radiation-inducible miR-27b suppresses leukemia proliferation via targeting cyclin A2",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kovalchuk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Int J Radiat Oncol Biol Phys",
+            "volume": "90",
+            "issn": "1",
+            "pages": "53-62",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijrobp.2014.04.055"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Bosutinib versus imatinib in newly diagnosed chronic-phase chronic myeloid leukemia: results from the BELA trial",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Kantarjian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Br J Haematol",
+            "volume": "168",
+            "issn": "1",
+            "pages": "69-81",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/bjh.13108"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "A systems biology understanding of the synergistic effects of arsenic sulfide and Imatinib in BCR/ABL-associated leukemia",
+            "authors": [
+                {
+                    "first": "QY",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "106",
+            "issn": "9",
+            "pages": "3378-3383",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0813142106"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Transcriptional regulation and function during the human cell cycle",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nat Genet",
+            "volume": "27",
+            "issn": "1",
+            "pages": "48-54",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/83751"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Adhesion-dependent cell cycle progression linked to the expression of cyclin D1, activation of cyclin E-cdk2, and phosphorylation of the retinoblastoma protein",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ohtsubo",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "B\u00f6hmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Cell Biol",
+            "volume": "133",
+            "issn": "2",
+            "pages": "391-403",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.133.2.391"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "2-O-sulfotransferase regulates Wnt signaling, cell adhesion and cell cycle during zebrafish epiboly",
+            "authors": [
+                {
+                    "first": "EL",
+                    "middle": [],
+                    "last": "Cadwalader",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Condic",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Yost",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Development",
+            "volume": "139",
+            "issn": "7",
+            "pages": "1296-1305",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/dev.078238"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Effective targeting of chronic myeloid leukemia initiating activity with the combination of arsenic trioxide and interferon alpha",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "El Eit",
+                    "suffix": ""
+                },
+                {
+                    "first": "AN",
+                    "middle": [],
+                    "last": "Iskandarani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Saliba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Int J Cancer",
+            "volume": "134",
+            "issn": "4",
+            "pages": "988-996",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ijc.28427"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "TGF-beta-FOXO signalling maintains leukaemia-initiating cells in chronic myeloid leukaemia",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Naka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hoshii",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Muraguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "463",
+            "issn": "7281",
+            "pages": "676-680",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature08734"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Cell adhesion: integrating cytoskeletal dynamics and cellular tension",
+            "authors": [
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Horwitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nat Rev Molecul Cell Biol",
+            "volume": "11",
+            "issn": "9",
+            "pages": "633-643",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm2957"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Dab2 is pivotal for endothelial cell migration by mediating VEGF expression in cancer cells",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Cheong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Exp Cell Res",
+            "volume": "318",
+            "issn": "5",
+            "pages": "550-557",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.yexcr.2012.01.013"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Microarray analysis of the hypoxia-induced gene expression profile in malignant C6 glioma cells",
+            "authors": [
+                {
+                    "first": "XD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Asian Pac J Cancer Prev",
+            "volume": "13",
+            "issn": "9",
+            "pages": "4793-4799",
+            "other_ids": {
+                "DOI": [
+                    "10.7314/APJCP.2012.13.9.4793"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "AMN107, a novel aminopyrimidine inhibitor of Bcr-Abl, has in vitro activity against imatinib-resistant chronic myeloid leukemia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Golemovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Verstovsek",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Giles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin Cancer Res",
+            "volume": "11",
+            "issn": "13",
+            "pages": "4941-4947",
+            "other_ids": {
+                "DOI": [
+                    "10.1158/1078-0432.CCR-04-2601"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Epidemiology of chronic myeloid leukaemia: an update",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "H\u00f6glund",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sandin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Simonsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Ann Hematol",
+            "volume": "94",
+            "issn": "2",
+            "pages": "241-247",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00277-015-2314-2"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The matricellular protein CCN3 regulates NOTCH1 signalling in chronic myeloid leukaemia",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Suresh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mccallum",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Crawford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Pathol",
+            "volume": "231",
+            "issn": "3",
+            "pages": "378-387",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/path.4246"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Re-emergence of interferon-a in the treatment of chronic myeloid leukemia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Talpaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hehlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Quint\u00e1s-Cardama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Leukemia",
+            "volume": "27",
+            "issn": "4",
+            "pages": "803-812",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/leu.2012.313"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "SARS-CoV regulates immune function-related gene expression in human monocytic cells",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "YT",
+                    "middle": [],
+                    "last": "Yen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Viral Immunol",
+            "volume": "25",
+            "issn": "4",
+            "pages": "277-288",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/vim.2011.0099"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Effects of dendritic cell-activated and cytokine-induced killer cell therapy on 22 children with acute myeloid leukemia after chemotherapy",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Huazhong Univ Sci Technol Med Sci",
+            "volume": "35",
+            "issn": "5",
+            "pages": "689-693",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11596-015-1491-5"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Monocyte-derived dendritic cells from chronic myeloid leukaemia have abnormal maturation and cytoskeletal function that is associated with defective localisation and signalling by normal ABL1 protein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "CV",
+                    "middle": [],
+                    "last": "Hutchinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aspinall-O\u2019Dea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Eur J Haematol",
+            "volume": "93",
+            "issn": "2",
+            "pages": "96-102",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/ejh.12306"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "BCR-ABL tyrosine kinase inhibitors in the treatment of Philadelphia chromosome positive chronic myeloid leukemia: A review",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Tiwari",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Leuk Res",
+            "volume": "34",
+            "issn": "10",
+            "pages": "1255-1268",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.leukres.2010.04.016"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Potent, transient inhibition of BCR-ABL with dasatinib 100 mg daily achieves rapid and durable cytogenetic responses and high transformation-free survival rates in chronic phase chronic myeloid leukemia patients with resistance, suboptimal response or intolerance to imatinib",
+            "authors": [
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kantarjian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Haematologica",
+            "volume": "95",
+            "issn": "2",
+            "pages": "232-240",
+            "other_ids": {
+                "DOI": [
+                    "10.3324/haematol.2009.011452"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Dasatinib or imatinib in newly diagnosed chronic-phase chronic myeloid leukemia: 2-year follow-up from a randomized phase 3 trial (DASISION)",
+            "authors": [
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Kantarjian",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Blood",
+            "volume": "119",
+            "issn": "5",
+            "pages": "1123-1129",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2011-08-376087"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Nilotinib (formerly AMN107), a highly selective BCR-ABL tyrosine kinase inhibitor, is active in patients with imatinib-resistant or -intolerant accelerated-phase chronic myelogenous leukemia",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "le Coutre",
+                    "suffix": ""
+                },
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Ottmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Giles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Blood",
+            "volume": "111",
+            "issn": "4",
+            "pages": "1834-1839",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2007-04-083196"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Novel therapeutic approach to eradicate tyrosine kinase inhibitor resistant chronic myeloid leukemia stem cells",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Naka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hoshii",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hirao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cancer Sci",
+            "volume": "101",
+            "issn": "7",
+            "pages": "1577-1581",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1349-7006.2010.01584.x"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Endoplasmic reticulum stress-mediated apoptosis in imatinib-resistant leukemic K562-r cells triggered by AMN107 combined with arsenic trioxide",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Exp Biol Med (Haywood)",
+            "volume": "238",
+            "issn": "8",
+            "pages": "932-942",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1535370213492689"
+                ]
+            }
+        }
+    }
+}

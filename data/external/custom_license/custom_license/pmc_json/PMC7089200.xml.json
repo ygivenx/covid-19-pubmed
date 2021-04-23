@@ -1,0 +1,1059 @@
+{
+    "paper_id": "PMC7089200",
+    "metadata": {
+        "title": "Synthesis in Escherichia coli cells and characterization of the active exoribonuclease of severe acute respiratory syndrome coronavirus",
+        "authors": [
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "T.",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "D.",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "email": "dguo@shu.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Preiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "The coronavirus replicase",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Coronavirus Replication and Reverse Genetics",
+            "volume": "",
+            "issn": "",
+            "pages": "58-94",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Current strategies for the use of affinity tags and tag removal for the purification of recombinant proteins",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Arnau",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Lauritzen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.E.",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Pedersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Protein Expr. Purif.",
+            "volume": "48",
+            "issn": "",
+            "pages": "1-13",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pep.2005.12.002"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Single-step purification of polypeptides expressed in Escherichia coli as fusions with glutathione S-transferase",
+            "authors": [
+                {
+                    "first": "D.B.",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.S.",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Gene.",
+            "volume": "67",
+            "issn": "",
+            "pages": "31-40",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1119(88)90005-4"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The use of recombinant methods and molecular engineering in protein crystallization",
+            "authors": [
+                {
+                    "first": "Z.S.",
+                    "middle": [],
+                    "last": "Derewenda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Methods.",
+            "volume": "34",
+            "issn": "",
+            "pages": "354-363",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymeth.2004.03.024"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Chelating peptide-immobilized metal ion affinity chromatography: A new concept in affinity chromatography for recombinant proteins",
+            "authors": [
+                {
+                    "first": "M.C.",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Furman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.D.",
+                    "middle": [],
+                    "last": "Ingolia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Pidgeon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Biol. Chem.",
+            "volume": "263",
+            "issn": "",
+            "pages": "7211-7215",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Engineering hybrid genes without the use of restriction enzymes: Gene splicing by overlap extension",
+            "authors": [
+                {
+                    "first": "R.M.",
+                    "middle": [],
+                    "last": "Horton",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.D.",
+                    "middle": [],
+                    "last": "Hunt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.N.",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Pullen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.R.",
+                    "middle": [],
+                    "last": "Pease",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Gene.",
+            "volume": "77",
+            "issn": "",
+            "pages": "61-68",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1119(89)90359-4"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Properties of a HeLa cell 3\u2019 exonuclease specific for degrading poly(A) tails of mammalian mRNA",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Astrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Astrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Virtanen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Biol. Chem.",
+            "volume": "267",
+            "issn": "",
+            "pages": "18154-18159",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Purification of a human polyribosome-associated 3\u2032 to 5\u2032 exoribonuclease",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Caruccio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ross",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Biol. Chem.",
+            "volume": "269",
+            "issn": "",
+            "pages": "31814-31821",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Arabidopsis thaliana exosome subunit AtRrp4p is a hydrolytic 3\u2032\u2013>5\u2032 exonuclease containing S1 and KH RNA-binding domains",
+            "authors": [
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Chekanova",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Dutko",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.S.",
+                    "middle": [],
+                    "last": "Mian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Belostotsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nucleic Acids Res.",
+            "volume": "30",
+            "issn": "",
+            "pages": "695-700",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/30.3.695"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Structural determinants of enzymatic processivity",
+            "authors": [
+                {
+                    "first": "S.B.",
+                    "middle": [],
+                    "last": "del Cardayre",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.T.",
+                    "middle": [],
+                    "last": "Raines",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Biochemistry.",
+            "volume": "33",
+            "issn": "",
+            "pages": "6031-6037",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi00186a001"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Aetiology: Koch\u2019s postulates fulfilled for SARS virus",
+            "authors": [
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Schutten",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "van Amerongen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.J.",
+                    "middle": [],
+                    "last": "van Doornum",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.G.",
+                    "middle": [],
+                    "last": "van den Hoogen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Stohr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.D.",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature.",
+            "volume": "423",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/423240a"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The severe acute respiratory syndrome coronavirus Nsp15 protein is an endoribonuclease that prefers manganese as a cofactor",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Bhardwaj",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Guarino",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.C.",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "12218-12224",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.22.12218-12224.2004"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Herpes simplex virus type 1 single-strand DNA binding protein ICP8 enhances the nuclease activity of the UL12 alkaline nuclease by increasing its processivity",
+            "authors": [
+                {
+                    "first": "N.B.",
+                    "middle": [],
+                    "last": "Reuven",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.K.",
+                    "middle": [],
+                    "last": "Weller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "9356-9358",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.14.9356-9358.2005"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Exoribonuclease superfamilies: structural analysis and phylogenetic distribution",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.P.",
+                    "middle": [],
+                    "last": "Deutscher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nucleic Acids Res.",
+            "volume": "29",
+            "issn": "",
+            "pages": "1017-1026",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/29.5.1017"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J.R.",
+                    "middle": [],
+                    "last": "Lakowicz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Principles of Fluorescence Spectroscopy",
+            "volume": "",
+            "issn": "",
+            "pages": "445-486",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Fluorescence and the location of tryptophan residues in protein molecules",
+            "authors": [
+                {
+                    "first": "E.A.",
+                    "middle": [],
+                    "last": "Burstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.S.",
+                    "middle": [],
+                    "last": "Vedenkina",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.N.",
+                    "middle": [],
+                    "last": "Ivkova",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Photochem. Photobiol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "263-279",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1751-1097.1973.tb06422.x"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Denaturation behavior of phaseolin in urea, guanidine hydrochloride, and sodium dodecyl sulfate solutions",
+            "authors": [
+                {
+                    "first": "S.S.",
+                    "middle": [],
+                    "last": "Deshpande",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Damodaran",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Protein Chem.",
+            "volume": "10",
+            "issn": "",
+            "pages": "103-115",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01024660"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Effects of denaturant and pressure on the intrinsic fluorescence of titin",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Arch. Biochem. Biophys.",
+            "volume": "311",
+            "issn": "",
+            "pages": "251-257",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/abbi.1994.1234"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Structural patterns in globular proteins",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Levitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Chothia",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "Nature.",
+            "volume": "261",
+            "issn": "",
+            "pages": "552-558",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/261552a0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Secondary structure of proteins through circular dichroism spectroscopy",
+            "authors": [
+                {
+                    "first": "W.C.",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 1988,
+            "venue": "Annu. Rev. Biophys. Biophys. Chem.",
+            "volume": "17",
+            "issn": "",
+            "pages": "145-166",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.bb.17.060188.001045"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.G.",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.S.",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Identification of novel subgenomic RNAs and noncanonical transcription initiation signals of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hussain",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Tien",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5288-5295",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.9.5288-5295.2005"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Biochemical characterization of exoribonuclease encoded by SARS coronavirus",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.X.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biochem. Mol. Biol.",
+            "volume": "40",
+            "issn": "",
+            "pages": "649-655",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection",
+            "authors": [
+                {
+                    "first": "Y.J.",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.L.",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.L.",
+                    "middle": [],
+                    "last": "Ee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet.",
+            "volume": "361",
+            "issn": "",
+            "pages": "1779-1785",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13414-9"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "E.J.",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.J.",
+                    "middle": [],
+                    "last": "Bredenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.L.",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Rozanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.E.",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol.",
+            "volume": "331",
+            "issn": "",
+            "pages": "991-1004",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(03)00865-9"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Mechanisms and enzymes involved in SARS coronavirus genome expression",
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.A.",
+                    "middle": [],
+                    "last": "Ivanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Putics",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Gen. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "2305-2315",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19424-0"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Discovery of an RNA virus 3\u2032\u21925\u2032 exoribonuclease that is critically involved in coronavirus RNA synthesis",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Minskaia",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Hertzig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.E.",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Campanacci",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Cambillau",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl. Acad. Sci. USA.",
+            "volume": "103",
+            "issn": "",
+            "pages": "5108-5113",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0508200103"
+                ]
+            }
+        }
+    }
+}

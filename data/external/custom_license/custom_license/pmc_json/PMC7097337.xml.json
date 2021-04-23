@@ -1,0 +1,1412 @@
+{
+    "paper_id": "PMC7097337",
+    "metadata": {
+        "title": "SARS \u2014 beginning to understand a new virus",
+        "authors": [
+            {
+                "first": "Konrad",
+                "middle": [],
+                "last": "Stadler",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Vega",
+                "middle": [],
+                "last": "Masignani",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Markus",
+                "middle": [],
+                "last": "Eickmann",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Stephan",
+                "middle": [],
+                "last": "Becker",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Sergio",
+                "middle": [],
+                "last": "Abrignani",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hans-Dieter",
+                "middle": [],
+                "last": "Klenk",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Rino",
+                "middle": [],
+                "last": "Rappuoli",
+                "suffix": "",
+                "email": "rino_rappuoli@chiron.com",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Predicted SARS-CoV proteins\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Protein homologies between SARS-CoV and other coronaviruses\n",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table 3: SARS \u2013 BEGINNING TO UNDERSTAND A NEW VIRUS\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | Electron micrograph of the virus that was cultivated in Vero cells (Image courtesy of Dr L. Kolesnikova, Institute of Virology, Marburg, Germany). Large, club-shaped protrusions consisting of spike protein form a crown-like corona that gives the virus its name. b | Schematic representation of the virus. A lipid bilayer comprising the spike protein, the membrane glycoprotein and the envelope protein cloaks the helical nucleocapsid, which consists of the nucleocapsid protein that is associated with the viral RNA. In the case of coronaviruses, the lipid envelope is derived from intracellular membranes.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Replicase and structural regions are shown together with the predicted cleavage products in ORF1a and ORF1b. The position of the leader sequence (L), the 3\u2032 poly(A) tract and the ribosomal frameshift site between ORF1a and ORF1b are also indicated. Each box represents a protein product (Nsp, non-structural protein). Colours indicate the level of amino-acid identity with the best-matching protein of other coronaviruses (Table 2). The SARS-CoV accessory genes are white. Filled circles indicate the positions of the nine transcription-regulatory sequences (TRSs) that are specific for SARS-CoV (5\u2032ACGAAC3\u2032).",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Genome organization of coronavirus representatives of group 1 (human coronavirus 229E, HCoV-229E), group 2 (mouse hepatitis virus, MHV) and group 3 (avian infectious bronchitis virus, IBV; SARS-CoV). Red boxes represent the accessory genes. The positions of the leader sequence (L) and poly(A) tract are indicated; circles of different colour represent group-specific transcription-regulatory sequences (TRS).",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: The unrooted tree was obtained through the alignment of whole-genome sequences considering only sequence variants that occurred at least twice. The analysis was performed using the maximum likelihood criterion as implemented in the Phylip package.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: a | Unrooted tree obtained by comparing the well-conserved polymerase protein sequence. According to this approach, SARS-CoV belongs to a new group. The tree has been constructed using the protein sequences of the RNA-dependent RNA polymerase of the following coronaviruses: porcine epidemic diarrhea virus (PEDV), human coronavirus 229E (HCoV-229E), canine coronavirus (CCV), feline infectious peritonitis virus (FIPV), transmissible gastroenteritis virus (TGV), mouse hepatitis virus (MHV), bovine coronavirus (BCoV), syaloacryoadenitis virus of rats (SDAV), human coronavirus OC43 (OC43), haemagglutinating encephalomyelitis virus of swine (PHEV), turkey coronavirus (TCV), avian infectious bronchitis virus (IBV) and SARS-CoV. b | Tree obtained using the sequence of the S1 domain of the spike protein. The multiple sequence alignment was constructed using consensus sequences generated from group 1 and group 2 coronaviruses (G1 cons and G2 cons), the sequence of IBV (group 3) and of SARS-CoV. The neighbour-joining algorithm was used to build the tree51. Numbers represent the result of a bootstrap analysis performed with 100 replicates.",
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Figure 6: Schematic representation of cysteine positions in the S1 domains of group 1, 2 and 3 coronaviruses, compared with the SARS-CoV spike protein. Horizontal bars represent the S1 amino-acid sequences (in the case of SARS-CoV and IBV) or the consensus profiles (generated from group 1, (G1 cons) and from group 2 (G2 cons)). The bars are drawn to scale. Relative cysteine positions are indicated by rectangular bars. Only cysteines that are conserved within each consensus are reported. Coloured lines connect cysteines that are conserved between the SARS-CoV S1 domain and the consensus sequence generated from the group 1 (green), group 2 (red) and IBV S1 sequences (blue).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1319-1325",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "",
+            "pages": "263-270",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13967-0"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1961-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086478"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Transmission dynamics and control of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1966-1970",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086616"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "276-278",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "SARS in China: tracking the roots of a killer",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Normile",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Enserink",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "301",
+            "issn": "",
+            "pages": "297-299",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.301.5631.297"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virus Taxonomy",
+            "volume": "",
+            "issn": "",
+            "pages": "835-849",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The complete genome sequence of severe acute respiratory syndrome coronavirus strain HKU-39849 (HK\u201339)",
+            "authors": [
+                {
+                    "first": "FY",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Exp. Biol. Med.",
+            "volume": "228",
+            "issn": "",
+            "pages": "866-873",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/15353702-0322807-13"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1761-1766",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13410-1"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Mechanisms and enzymes involved in SARS coronavirus genome expression",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Gen. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "2305-2315",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19424-0"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Viral replicase gene products suffice for coronavirus discontinuous transcription",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Herold",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "6676-6681",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.14.6676-6681.2001"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "mRNA cap-1 methyltransferase in the SARS genome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "von Grotthuss",
+                    "suffix": ""
+                },
+                {
+                    "first": "LS",
+                    "middle": [],
+                    "last": "Wyrwicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "113",
+            "issn": "",
+            "pages": "701-702",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(03)00424-0"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Adv. Virus Res.",
+            "volume": "48",
+            "issn": "",
+            "pages": "1-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(08)60286-9"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "van der Most",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJM",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "The Coronaviridae",
+            "volume": "",
+            "issn": "",
+            "pages": "11-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "The group-specific murine coronavirus genes are not essential, but their deletion, by reverse genetics, is attenuating in the natural host",
+            "authors": [
+                {
+                    "first": "CAM",
+                    "middle": [],
+                    "last": "de Haan",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Masters",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJM",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "296",
+            "issn": "",
+            "pages": "177-189",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2002.1412"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Engineering the transmissible gastroenteritis virus genome as an expression vector inducing lactogenic immunity",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Sola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "4357-4369",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.7.4357-4369.2003"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Enhanced green fluorescent protein expression may be used to monitor murine coronavirus spread in vitro and in the mouse central nervous system",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Sarma",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Scheen",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Seo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koval",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Neurovirol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "381-391",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13550280260422686"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "A common RNA motif in the 3\u2032 end of the genomes of astroviruses, avian infectious bronchitis virus and an equine rhinovirus",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Jonassen",
+                    "suffix": ""
+                },
+                {
+                    "first": "TO",
+                    "middle": [],
+                    "last": "Jonassen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Grinde",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Gen. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "715-718",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-79-4-715"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Fields' Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "1163-1185",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Clinical presentations and outcome of severe acute respiratory syndrome in children",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Hon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1701-1703",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13364-8"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection",
+            "authors": [
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1779-1785",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13414-9"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol.",
+            "volume": "331",
+            "issn": "",
+            "pages": "991-1004",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(03)00865-9"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Structure of coronavirus main proteinase reveals combination of a chymotrypsin fold with an extra \u03b1-helical domain",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J.",
+            "volume": "21",
+            "issn": "",
+            "pages": "3213-3224",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/cdf327"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Coronavirus main proteinase (3CLpro) structure: basis for design of anti-SARS drugs",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wadhwani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Mesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1763-1767",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085658"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Mass Spectrometric Characterization of proteins from the SARS virus: a preliminary report",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Krokhin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol. Cell Proteomics.",
+            "volume": "2",
+            "issn": "",
+            "pages": "346-356",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/mcp.M300048-MCP200"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "The Coronaviridae",
+            "volume": "",
+            "issn": "",
+            "pages": "73-113",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Retargeting of coronavirus by substitution of the spike glycoprotein ectodomain: crossing the host cell species barrier",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJB",
+                    "middle": [],
+                    "last": "Raamsman",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Masters",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJM",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "1393-1406",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.3.1393-1406.2000"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Switching species tropism: an effective way to manipulate the feline coronavirus genome",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Haijema",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Volders",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJM",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "4528-4538",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.8.4528-4538.2003"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Putative hAPN receptor binding sites in SARS-CoV spike protein",
+            "authors": [
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Acta Pharmacol. Sin.",
+            "volume": "24",
+            "issn": "",
+            "pages": "481-488",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study",
+            "authors": [
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1767-1772",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13412-5"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Feline aminopeptidase N is a receptor for all group I coronaviruses",
+            "authors": [
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Tresnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Adv. Exp. Med. Biol.",
+            "volume": "440",
+            "issn": "",
+            "pages": "69-75",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4615-5331-1_9"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Receptor specificity and receptor-induced conformational changes in mouse hepatitis virus spike glycoprotein",
+            "authors": [
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Zelus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Schickli",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Adv. Exp. Med. Biol.",
+            "volume": "494",
+            "issn": "",
+            "pages": "173-181",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4615-1325-4_29"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "The coronavirus spike protein is a class I virus fusion protein: structural and functional characterization of the fusion core complex",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "van der Zee",
+                    "suffix": ""
+                },
+                {
+                    "first": "CAM",
+                    "middle": [],
+                    "last": "de Haan",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJM",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "8801-8811",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.16.8801-8811.2003"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "The function of the spike protein of mouse hepatitis virus strain A59 can be studied on virus-like particles: cleavage is not required for infectivity",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Bos",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Luytjes",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "9427-9433",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Fusion-defective mutants of mouse hepatitis virus A59 contain a mutation in the spike protein cleavage signal",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Gombold",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Hingley",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Virol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "4504-4512",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Fusion formation by the uncleaved spike protein of murine coronavirus JHMV variant cl-2",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Virol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "1195-1202",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "The virulence of mouse hepatitis virus strain A59 is not dependent on efficient spike protein cleavage and cell-to-cell fusion",
+            "authors": [
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Hingley",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Leparc-Goffart",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Seo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Tsai",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Neurovirol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "400-410",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13550280260422703"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Proteolytic cleavage of the murine coronavirus surface glycoprotein is not required for fusion activity",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Stauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pfleiderera",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Gen. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "183-191",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-74-2-183"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Treatment of SARS with human interferons",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cinatl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "",
+            "pages": "293-294",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13973-6"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Glycyrrhizin, an active component of liquorice roots, and replication of SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cinatl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "2045-2046",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13615-X"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "A review of feline infectious peritonitis virus: molecular biology, immunopathogenesis, clinical aspects, and vaccination",
+            "authors": [
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Olsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Vet. Microbiol.",
+            "volume": "36",
+            "issn": "",
+            "pages": "1-37",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1135(93)90126-R"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "406-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "A Nnvel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Aetiology: Koch's postulates fulfilled for SARS virus",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "423",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/423240a"
+                ]
+            }
+        }
+    }
+}

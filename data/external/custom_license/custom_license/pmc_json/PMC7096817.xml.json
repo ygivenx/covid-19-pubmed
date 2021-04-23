@@ -1,0 +1,1989 @@
+{
+    "paper_id": "PMC7096817",
+    "metadata": {
+        "title": "New approaches to quantifying the spread of infection",
+        "authors": [
+            {
+                "first": "Louise",
+                "middle": [],
+                "last": "Matthews",
+                "suffix": "",
+                "email": "Louise.Matthews@ed.ac.uk",
+                "affiliation": {}
+            },
+            {
+                "first": "Mark",
+                "middle": [],
+                "last": "Woolhouse",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: The distribution of the number of secondary cases produced by the 78 cases, which were deemed through subsequent outbreak investigation by the Department for Environment, Food and Rural Affairs to have been infected by the time of imposition of the NMB.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The schematic shown summarizes the inputs required for construction of a useful model.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vinten-Johansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Brody",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Paneth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rachman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cholera, Chloroform and the Science of Medicine; A Life of John Snow",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Dynamics and control of transmission of gonorrhea",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Yorke",
+                    "suffix": ""
+                },
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Hethcote",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nold",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Sex. Transm. Dis.",
+            "volume": "5",
+            "issn": "",
+            "pages": "51-56",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/00007435-197804000-00003"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "The critical community size for measles in the United States",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1960,
+            "venue": "J. R. Stat. Soc. Ser. A",
+            "volume": "123",
+            "issn": "",
+            "pages": "37-44",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2343186"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Modelling the persistence of measles",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Trends Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "513-518",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(97)01147-5"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Persistence thresholds for phocine distemper virus infection in harbour seal Phoca vitulina metapopulations",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Swinton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Grenfell",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Gilligan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Anim. Ecol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "54-68",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2656.1998.00176.x"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Analysis of Infectious Disease Data",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "NTJ",
+                    "middle": [],
+                    "last": "Bailey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "The Mathematical Theory of Infectious Diseases and its Applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1960,
+            "venue": "Stochastic Population Models in Ecology and Epidemiology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "A Bayesian MCMC approach to study transmission of influenza: application to household longitudinal data",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Carrat",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Viboud",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Valleron",
+                    "suffix": ""
+                },
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Boelle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Stat. Med.",
+            "volume": "23",
+            "issn": "",
+            "pages": "3469-3487",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/sim.1912"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Markov chain Monte Carlo methods for fitting spatiotemporal stochastic models in plant epidemiology",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. R. Stat. Soc. Ser. C",
+            "volume": "46",
+            "issn": "",
+            "pages": "215-233",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1467-9876.00061"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Bayesian analysis of botanical epidemics using stochastic compartmental models",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kleczkowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Gilligan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "12120-12124",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0400829101"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ross",
+                    "suffix": ""
+                }
+            ],
+            "year": 1911,
+            "venue": "The Prevention of Malaria",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Analyses of infectious disease data from household outbreaks by Markov chain Monte Carlo methods",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "O'Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Balding",
+                    "suffix": ""
+                },
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eerola",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mollison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. R. Stat. Soc. Ser. C",
+            "volume": "49",
+            "issn": "",
+            "pages": "517-542",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1467-9876.00210"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "A tutorial introduction to Bayesian inference for stochastic epidemic models using Markov chain Monte Carlo methods",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "O'Neill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Math. Biosci.",
+            "volume": "180",
+            "issn": "",
+            "pages": "103-114",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0025-5564(02)00109-8"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "SARS outbreaks in Ontario, Hong Kong and Singapore: the role of diagnosis and isolation as a control mechanism",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Fenimore",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Castillo-Garsow",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Castillo-Chavez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Theor. Biol.",
+            "volume": "224",
+            "issn": "",
+            "pages": "1-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-5193(03)00228-5"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Simulating the SARS outbreak in Beijing with limited data",
+            "authors": [
+                {
+                    "first": "WD",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Theor. Biol.",
+            "volume": "227",
+            "issn": "",
+            "pages": "369-379",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2003.11.014"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1961-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086478"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Predicting super spreading events during the 2003 severe acute respiratory syndrome epidemics in Hong Kong and Singapore",
+            "authors": [
+                {
+                    "first": "YG",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am. J. Epidemiol.",
+            "volume": "160",
+            "issn": "",
+            "pages": "719-728",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/aje/kwh273"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Epidemiological evidence of higher susceptibility to vCJD in the young",
+            "authors": [
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Boelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Cesbron",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Valleron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "BMC Infect. Dis.",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2334-4-26"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "PrP genetics in sheep and the implications for scrapie and BSE",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Trends Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "331-334",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(97)01081-0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Heterogeneities in schistosome transmission dynamics and control",
+            "authors": [
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Etard",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dietz",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Ndhlovu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Chandiwana",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Parasitology",
+            "volume": "117",
+            "issn": "",
+            "pages": "475-482",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S003118209800331X"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Relative risks of the uncontrollable (airborne) spread of FMD by different species",
+            "authors": [
+                {
+                    "first": "AI",
+                    "middle": [],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alexandersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Sorensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mikkelsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Vet. Rec.",
+            "volume": "148",
+            "issn": "",
+            "pages": "602-604",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/vr.148.19.602"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Contributions to the mathematical theory of epidemics \u2014 I. 1927",
+            "authors": [
+                {
+                    "first": "WO",
+                    "middle": [],
+                    "last": "Kermack",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "McKendrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Bull. Math. Biol.",
+            "volume": "53",
+            "issn": "",
+            "pages": "33-55",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Public health measures to control the spread of the severe acute respiratory syndrome during the outbreak in Toronto",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Svoboda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "N. Engl. J. Med.",
+            "volume": "350",
+            "issn": "",
+            "pages": "2352-2361",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa032111"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Transmission dynamics and control of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1966-1970",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086616"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Renshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Modelling Biological Populations in Space and Time",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Likelihood estimation for stochastic compartmental models using Markov chain methods",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Renshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Statistics and Computing",
+            "volume": "11",
+            "issn": "",
+            "pages": "347-358",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1011973120681"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Tracking the evolution of the SARS coronavirus using high-throughput, high-density resequencing arrays",
+            "authors": [
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genome Res.",
+            "volume": "14",
+            "issn": "",
+            "pages": "398-405",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gr.2141004"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Epidemiology, transmission dynamics and control of SARS: the 2002\u20132003 epidemic",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Philos. Trans. R. Soc. Lond. B",
+            "volume": "359",
+            "issn": "",
+            "pages": "1091-1105",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2004.1490"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1761-1766",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13410-1"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Contact tracing and disease control",
+            "authors": [
+                {
+                    "first": "KTD",
+                    "middle": [],
+                    "last": "Eames",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. R. Soc. Lond. B",
+            "volume": "270",
+            "issn": "",
+            "pages": "2565-2571",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2003.2554"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "The outcome of contact tracing for gonorrhoea in the United Kingdom",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "FitzGerald",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Thirlby",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Int. J. STD AIDS",
+            "volume": "9",
+            "issn": "",
+            "pages": "657-660",
+            "other_ids": {
+                "DOI": [
+                    "10.1258/0956462981921305"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "The analysis of equilibrium in malaria",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Macdonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1952,
+            "venue": "Trop. Dis. Bull.",
+            "volume": "49",
+            "issn": "",
+            "pages": "813-829",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Factors that make an infectious disease outbreak controllable",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "6146-6151",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0307506101"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "The foot-and-mouth epidemic in Great Britain: pattern of spread and impact of interventions",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "1155-1160",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1061020"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Dynamics of the 2001 UK foot and mouth epidemic: stochastic dispersal in a heterogeneous landscape",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "294",
+            "issn": "",
+            "pages": "813-817",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1065973"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Predictive spatial modelling of alternative control strategies for the foot-and-mouth disease epidemic in Great Britain, 2001",
+            "authors": [
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Wilesmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Stern",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Sanson",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Stevenson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Vet. Rec.",
+            "volume": "149",
+            "issn": "",
+            "pages": "137-144",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/vr.149.5.137"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "The construction and analysis of epidemic trees with reference to the 2001 UK foot-and-mouth outbreak",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Haydon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. R. Soc. Lond. B",
+            "volume": "270",
+            "issn": "",
+            "pages": "121-127",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2002.2191"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Epidemiology and control of foot-and-mouth disease in the UK",
+            "authors": [
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chase-Topping",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "St Rose",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proceedings of the 6th International Congress of Veterinary Virology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Epidemiology. Foot-and-mouth disease under control in the UK",
+            "authors": [
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "411",
+            "issn": "",
+            "pages": "258-259",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35077149"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Avian influenza: a new pandemic threat?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Trampuz",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Prabhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Baddour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mayo Clin. Proc.",
+            "volume": "79",
+            "issn": "",
+            "pages": "523-530",
+            "other_ids": {
+                "DOI": [
+                    "10.4065/79.4.523"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Initial genetic characterization of the 1918 \u201cSpanish\u201d influenza virus",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Taubenberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "AH",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Krafft",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Bijwaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Fanning",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Science",
+            "volume": "275",
+            "issn": "",
+            "pages": "1793-1796",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.275.5307.1793"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dietz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Epidemiology",
+            "volume": "",
+            "issn": "",
+            "pages": "104-121",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Public health risk from the avian H5N1 influenza epidemic",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Ghani",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "304",
+            "issn": "",
+            "pages": "968-969",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1096898"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Branching process models for surveillance of infectious diseases controlled by mass vaccination",
+            "authors": [
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Farrington",
+                    "suffix": ""
+                },
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Kanaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biostatistics",
+            "volume": "4",
+            "issn": "",
+            "pages": "279-295",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/biostatistics/4.2.279"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Measles outbreaks in a population with declining vaccine uptake",
+            "authors": [
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Jansen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "301",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086726"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "The Theory of Stochastic Processes",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Epidemiology of transmissible diseases after elimination",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "De Serres",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                },
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Farrington",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am. J. Epidemiol.",
+            "volume": "151",
+            "issn": "",
+            "pages": "1039-1048",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/oxfordjournals.aje.a010145"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Using conservation of pattern to estimate spatial parameters from a single snapshot",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Brooks",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Gilligan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "9155-9160",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0400335101"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Heterogeneities in the transmission of infectious agents: implications for the design of control programs",
+            "authors": [
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "338-342",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.1.338"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Epidemiology of drug resistance \u2014 implications for a post-antimicrobial era",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Science",
+            "volume": "257",
+            "issn": "",
+            "pages": "1050-1055",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.257.5073.1050"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "Vancomycin-resistant enterococci in intensive-care hospital settings: transmission dynamics, persistence, and the impact of infection control programs",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Austin",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJM",
+                    "middle": [],
+                    "last": "Bonten",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Weinstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Slaughter",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "6908-6913",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.12.6908"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "A brief history of R0 and a recipe for its calculation",
+            "authors": [
+                {
+                    "first": "JAP",
+                    "middle": [],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Acta Biotheor.",
+            "volume": "50",
+            "issn": "",
+            "pages": "189-204",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1016599411804"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "How to assess the relative importance of different colonization routes of pathogens within hospital settings",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Pelupessy",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJM",
+                    "middle": [],
+                    "last": "Bonten",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Diekmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "5601-5605",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.082412899"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Preliminary analysis of the transmission dynamics of nosocomial infections: stochastic and management effects",
+            "authors": [
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "GF",
+                    "middle": [],
+                    "last": "Medley",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Hosp. Infect.",
+            "volume": "43",
+            "issn": "",
+            "pages": "131-147",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/jhin.1998.0647"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "A computer simulation model for the spread of nosocomial infections caused by multidrug-resistant pathogens",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sebille",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Valleron",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Comput. Biomed. Res.",
+            "volume": "30",
+            "issn": "",
+            "pages": "307-322",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/cbmr.1997.1451"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "The analysis of hospital infection data using hidden Markov models",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biostatistics",
+            "volume": "5",
+            "issn": "",
+            "pages": "223-237",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/biostatistics/5.2.223"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gamerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Evidence for airborne transmission of Norwalk-like virus (NLV) in a hotel restaurant",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Marks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Epidemiol. Infect.",
+            "volume": "124",
+            "issn": "",
+            "pages": "481-487",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0950268899003805"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "A school outbreak of Norwalk-like virus: evidence for airborne transmission",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Marks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Epidemiol. Infect.",
+            "volume": "131",
+            "issn": "",
+            "pages": "727-736",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0950268803008689"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Forecast and control of epidemics in a globalized world",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hufnagel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brockmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Geisel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "15124-15129",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0308344101"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Modelling disease outbreaks in realistic urban social networks",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eubank",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "429",
+            "issn": "",
+            "pages": "180-184",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02541"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Infectious Diseases of Humans: Dynamics and Control",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Lee wave hypothesis for initial pattern of spread during 1967\u201368 foot and mouth epizootic",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tinline",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Nature",
+            "volume": "227",
+            "issn": "",
+            "pages": "860-862",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/227860b0"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "An analysis of foot-and-mouth\u2013disease epidemics in the UK",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Haydon",
+                    "suffix": ""
+                },
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Kitching",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "IMA J. Math. Appl. Med. Biol.",
+            "volume": "14",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/imammb/14.1.1"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "Herd immunity: history, theory, practice",
+            "authors": [
+                {
+                    "first": "PEM",
+                    "middle": [],
+                    "last": "Fine",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Epidemiol. Rev.",
+            "volume": "15",
+            "issn": "",
+            "pages": "265-302",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/oxfordjournals.epirev.a036121"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "The theory of measles elimination: implications for the design of elimination strategies",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Infect. Dis.",
+            "volume": "189",
+            "issn": "",
+            "pages": "S27-S35",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/381592"
+                ]
+            }
+        }
+    }
+}

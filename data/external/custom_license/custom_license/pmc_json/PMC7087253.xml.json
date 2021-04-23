@@ -1,0 +1,1302 @@
+{
+    "paper_id": "PMC7087253",
+    "metadata": {
+        "title": "Serological survey of feline viral pathogens in free-living European wildcats (Felis s. silvestris) from Luxembourg",
+        "authors": [
+            {
+                "first": "Mike",
+                "middle": [],
+                "last": "Heddergott",
+                "suffix": "",
+                "email": "mike-heddergott@web.de",
+                "affiliation": {}
+            },
+            {
+                "first": "Sandra",
+                "middle": [],
+                "last": "Steeb",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Natalia",
+                "middle": [],
+                "last": "Osten-Sacken",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Steinbach",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Simone",
+                "middle": [],
+                "last": "Schneider",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jacques",
+                "middle": [
+                    "P."
+                ],
+                "last": "Pir",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Franz",
+                "middle": [],
+                "last": "M\u00fcller",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Lise-Marie",
+                "middle": [],
+                "last": "Pigneur",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Alain",
+                "middle": [
+                    "C."
+                ],
+                "last": "Frantz",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table\u00a01: Results of logistic regression identifying predictors for the presence of viruses in European wildcats (Felis s. silvestris)\nFeLV = feline leukemia virus; FCV = feline calicivirus; FHV = feline herpesvirus; FCoV = feline coronavirus; FPV = feline parvovirus. The logistic regression coefficient gives the change in the log odds of seroprevalence when considering males and subadults relative to females and adults, respectively",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table\u00a02: Viruses identified in serologically positive European wildcats (Felis s. silvestris)\nFCV = feline calicivirus; FHV = feline herpesvirus; FCoV = feline coronavirus; FPV = feline parvovirus",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table\u00a03: Number of European wildcats (Felis s. silvestris) that tested seropositive for multiple viruses\nFeLV = feline leukemia virus; FCV = feline calicivirus; FHV = feline herpesvirus; FCoV = feline coronavirus; FPV = feline parvovirus",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Notizen zur Altersbestimmung nach Wachstumslinien an S\u00e4ugetiersch\u00e4deln",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ansorge",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Methoden feld\u00f6kol. S\u00e4ugetierforsch",
+            "volume": "",
+            "issn": "",
+            "pages": "95-102",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Clinical aspects of feline immunodeficiency and feline leukemia virus infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hartmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Vet Immunol Immunopathol",
+            "volume": "143",
+            "issn": "",
+            "pages": "190-201",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetimm.2011.06.003"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "R: a language for data analysis and graphics",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ihaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gentleman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Comput Graph Stat",
+            "volume": "5",
+            "issn": "",
+            "pages": "299-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kolbl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Diagnostik der Hunde- und Katzenvirosen",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Habitat selection models for European wildcat conservation",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Klar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kramer-Schadt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Trinzen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "B\u00fcttner",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Niemitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biol Conserv",
+            "volume": "141",
+            "issn": "",
+            "pages": "308-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.biocon.2007.10.004"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "La r\u00e9partition du chat forestier en France: \u00e9volutions r\u00e9centes",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "L\u00e9ger",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Stahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ruette",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Wilhelm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Faune Sauvage",
+            "volume": "280",
+            "issn": "",
+            "pages": "24-39",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Viral infections in free-living populations of the European wildcat",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Leutenegger",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hofmann-Lehmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Riols",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liberek",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Worel",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lups",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fehr",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Weilenmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lutz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Wildl Dis",
+            "volume": "35",
+            "issn": "",
+            "pages": "678-686",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-35.4.678"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Virusinfektionen",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lutz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Krankheiten der Katze",
+            "volume": "",
+            "issn": "",
+            "pages": "107-156",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Some viral and protozool diseases in the European wildcat (Felis silvestris)",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "McOrist",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Boid",
+                    "suffix": ""
+                },
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Easterbee",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Hubbard",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Jarrett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J Wildl Dis",
+            "volume": "27",
+            "issn": "",
+            "pages": "693-696",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-27.4.693"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Persistence and transmission of natural type I feline coronavirus infection",
+            "authors": [
+                {
+                    "first": "DD",
+                    "middle": [],
+                    "last": "Addie",
+                    "suffix": ""
+                },
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "Schaap",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Nicolson",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Jarrett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Gen Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "2735-2744",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19129-0"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Feline leukemiavirus and other pathogens as important threats to the survival of the critically endangered Iberian lynx (Lynx pardinus)",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Meli",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Cattori",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "L\u00f3pez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vargas",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Sim\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Zorrilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Palomares",
+                    "suffix": ""
+                },
+                {
+                    "first": "JV",
+                    "middle": [],
+                    "last": "L\u00f3pez-Bao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pastor",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tandon",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Willi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hofmann-Lehmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lutz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS One",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0004744"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "A serological survey of common feline pathogens in free-living European wildcats (Felis silvestris) in Central Spain",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mill\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Eur J Wildl Res",
+            "volume": "55",
+            "issn": "",
+            "pages": "285-291",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10344-008-0246-z"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Infectious disease and the conservation of free-ranging carnivores",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Kapke",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Evermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Fuller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Anim Conserv",
+            "volume": "2",
+            "issn": "",
+            "pages": "241-254",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1469-1795.1999.tb00070.x"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Two-sided confidence intervals for the single proportion: comparison of seven methods",
+            "authors": [
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Newcombe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Stat Med",
+            "volume": "17",
+            "issn": "",
+            "pages": "857-872",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1097-0258(19980430)17:8<857::AID-SIM777>3.0.CO;2-E"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "\u00dcber die Altersstruktur der Verluste der Wildkatze (Felis s. silvestris Schreber 1777)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Piechocki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Stiefel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Hercynia N F",
+            "volume": "25",
+            "issn": "",
+            "pages": "235-258",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Viral infections in wild-living European wildcats in Slovenia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ra\u010dnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skribin\u0161ek",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Poto\u010dnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kljun",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kos",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tozon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Eur J Wildl Res",
+            "volume": "54",
+            "issn": "",
+            "pages": "767-770",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10344-008-0202-y"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Parvovirus infections in wild carnivores",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Steinel",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Parrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Bloom",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Truyen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Wildl Dis",
+            "volume": "37",
+            "issn": "",
+            "pages": "594-607",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-37.3.594"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Large-scale genetic census of an elusive carnivore, the European wildcat (Felis s. silvestris)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Steyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "RHS",
+                    "middle": [],
+                    "last": "Kraus",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "M\u00f6lich",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Anders",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cocchiararo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Frosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Geib",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "G\u00f6tz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hupe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kohnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kr\u00fcger",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pir",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Reiners",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roch",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Schade",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schiefenh\u00f6vel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Siemund",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Steeb",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Streif",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Streit",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Thein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tiesmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Trinzen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Nowak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Conserv Genet",
+            "volume": "17",
+            "issn": "",
+            "pages": "1183-1199",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10592-016-0853-2"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Viral diseases as a threat to free-living wild cats (Felis silvestris) in continental Europe",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Artois",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Remond",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Vet Rec",
+            "volume": "134",
+            "issn": "",
+            "pages": "651-652",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/vr.134.25.651"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Low rates of hybridization between European wildcats and domestic cats in a human-dominated landscape",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Steyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tiesmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mu\u00f1oz-Fuentes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Nowak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Ecol Evol",
+            "volume": "8",
+            "issn": "",
+            "pages": "2290-2304",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "An extended outbreak of infections peritonitis in a closed colony of European wildcats (Felis silvestris)",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Watt",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Mac Intyre",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "McOrist",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Comp Pathol",
+            "volume": "108",
+            "issn": "",
+            "pages": "73-79",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0021-9975(08)80229-0"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Aktionsplan zum Schutz der Europ\u00e4ischen Wildkatze in Deutschland\u2014Schutzkonzept f\u00fcr eine Zielart des \u00fcberregionalen Waldverbunds",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Birlenbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Klar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Naturschutz und Landschaftsplanung",
+            "volume": "41",
+            "issn": "",
+            "pages": "325-332",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Feline viruses in wildcats from Scotland",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Daniels",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Golder",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Jarett",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "MacDonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Wildl Dis",
+            "volume": "35",
+            "issn": "",
+            "pages": "121-124",
+            "other_ids": {
+                "DOI": [
+                    "10.7589/0090-3558-35.1.121"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Virological survey in free-ranging wildcats (Felis silvestris) and feral domestic cats in Portugal",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Duarte",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fernandes",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tavares",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Vet Microbiol",
+            "volume": "158",
+            "issn": "",
+            "pages": "400-404",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2012.02.033"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Prevalence and pathogenicity of retroviruses in wildcats in France",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fromont",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sager",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Leger",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bourgemestre",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jouquelet",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Stahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pontier",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Artois",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Vet Rec",
+            "volume": "146",
+            "issn": "",
+            "pages": "317-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/vr.146.11.317"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Feline Panleukopenia",
+            "authors": [
+                {
+                    "first": "CE",
+                    "middle": [],
+                    "last": "Greene",
+                    "suffix": ""
+                },
+                {
+                    "first": "FW",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Infectious diseases of the dog and cat",
+            "volume": "",
+            "issn": "",
+            "pages": "291-299",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

@@ -1,0 +1,940 @@
+{
+    "paper_id": "PMC7089265",
+    "metadata": {
+        "title": "A nonparametric estimation of the infection curve",
+        "authors": [
+            {
+                "first": "HuaZhen",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "email": "linhz@swufe.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Paul",
+                "middle": [
+                    "S.",
+                    "F."
+                ],
+                "last": "Yip",
+                "suffix": "",
+                "email": "sfpyip@hku.hk",
+                "affiliation": {}
+            },
+            {
+                "first": "Richard",
+                "middle": [
+                    "M."
+                ],
+                "last": "Huggins",
+                "suffix": "",
+                "email": "huggins@ms.unimelb.edu.au",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Epidemiology, transmission dynamics and control of SARS: the 2002\u20132003 epidemic",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Fraserl",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Ghanil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Phil Trans R Soc Lond B",
+            "volume": "359",
+            "issn": "",
+            "pages": "1091-1105",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2004.1490"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Reconstruction and future-trends of the AIDS epidemic in the united-states",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Brookmeyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Science",
+            "volume": "253",
+            "issn": "",
+            "pages": "37-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.2063206"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Discussion of \u201cBackcalculation of HIV infection rates\u201d by Bacchetti, Segal, and Jewell",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Brookmeyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Statist Sci",
+            "volume": "8",
+            "issn": "",
+            "pages": "102-104",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/ss/1177010995"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Monitoring the severe acute respiratory syndrome epidemic and assessing effectiveness of interventions in Hong Kong Special Administrative Region",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Chau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "S.",
+                        "F."
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Epidemiology Community Health",
+            "volume": "57",
+            "issn": "",
+            "pages": "766-769",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jech.57.10.766"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The epidemiology of AIDS: current status and future prospects",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Curran",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Morgan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Hardy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Science",
+            "volume": "229",
+            "issn": "",
+            "pages": "1352-1357",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.2994217"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Predictions of the AIDS epidemic in the U.K. \u2014 The use of the back projection method",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Gore",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "McGee",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Phil Trans R Soc Lond B",
+            "volume": "325",
+            "issn": "",
+            "pages": "123-134",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.1989.0077"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Epidemiological and genetic analysis of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "4",
+            "issn": "",
+            "pages": "672-683",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(04)01173-9"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Gijbels",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Local Polynomial Modelling and Its Applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Methods for projecting course of acquired immunodeficiency syndrome epidemic",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gail",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Brookmeyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J National Cancer Institute",
+            "volume": "80",
+            "issn": "",
+            "pages": "900-911",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jnci/80.12.900"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Kernels for nonparametric curve estimation",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Gasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Mammitzsch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J Roy Statist Soc B",
+            "volume": "47",
+            "issn": "",
+            "pages": "238-252",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Mathematical-modeling of the transmission dynamics of HIV infection and AIDS \u2014 a review",
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Isham",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Roy Statist Soc Ser A-Statistics in Society",
+            "volume": "151",
+            "issn": "",
+            "pages": "5-30",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2982179"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "A preliminary study of the transmission dynamics of the Human Immunodeficiency Virus (HIV), the causative agent of AIDS",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Medley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "IMA J Math Appl Med Biol",
+            "volume": "3",
+            "issn": "",
+            "pages": "229-263",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/imammb/3.4.229"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Isham",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Medley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Models for infectious human diseases: Their structure and relation to data",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Lehmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Elements of Large-Sample Theory",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "An empirical Bayes approach to smoothing in backcalculation of HIV infection rates",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Brookmeyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Biometrics",
+            "volume": "51",
+            "issn": "",
+            "pages": "579-588",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2532946"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Nonparametric function estimation for clustered data when the predictor is measured without/with error",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Carroll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Amer Statist Assoc",
+            "volume": "95",
+            "issn": "",
+            "pages": "520-534",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2669396"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "A double-nonparametric procedure for estimating the number of delay-reported cases",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "S.",
+                        "F."
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Huggins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Stat Med",
+            "volume": "27",
+            "issn": "",
+            "pages": "3325-3339",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/sim.3183"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Some problems in the prediction of future numbers of cases of the acquired immunodeficiency syndrome in the U.K.",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mcevoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Tillett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Lancet",
+            "volume": "ii",
+            "issn": "",
+            "pages": "541-542",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(85)90472-6"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "A statistical perspective on ill-posed inverse problems",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "O\u2019 Sullivan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Statist Sci",
+            "volume": "1",
+            "issn": "",
+            "pages": "502-527",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/ss/1177013525"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Backcalculation of flexible linear-models of the human-immunodeficiency-virus infection curve",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Rosenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gail",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J Roy Statist Soc Ser C",
+            "volume": "40",
+            "issn": "",
+            "pages": "269-182",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Empirical-bias bandwidths for local polynomial nonparametric regression and density estimation",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Ruppert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Amer Statist Assoc",
+            "volume": "92",
+            "issn": "",
+            "pages": "1049-1062",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2965570"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "A smoothed em approach to indirect estimation problems, with particular reference to stereology and emission tomography",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Silverman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Roy Statist Soc Ser B-Methodological",
+            "volume": "52",
+            "issn": "",
+            "pages": "271-324",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Nonparametric-estimation of the incubation period of aids based on a prevalent cohort with unknown infection times",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Bacchetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Jewell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Biometrics",
+            "volume": "47",
+            "issn": "",
+            "pages": "947-960",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2532651"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "A cluster of cases of severe acute respiratory syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "W.",
+                        "T."
+                    ],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "G.",
+                        "C."
+                    ],
+                    "last": "Ooi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "New England J Medicine",
+            "volume": "348",
+            "issn": "",
+            "pages": "1977-1985",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030666"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Estimating the incubation period of aids by comparing population infection and diagnosis patterns",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Bacchetti",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Amer Statist Assoc",
+            "volume": "85",
+            "issn": "",
+            "pages": "1002-1008",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2289596"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Different AIDS incubation periods and their impacts on reconstructing human immunodeficiency virus epidemics and projecting AIDS incidence",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Bacchetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Segal",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Hessol",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "90",
+            "issn": "",
+            "pages": "2194-2196",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.90.6.2194"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Statistical studies of infectious disease incidence",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Roy Stati Soc, Ser B",
+            "volume": "61",
+            "issn": "",
+            "pages": "287-307",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1467-9868.00177"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "A method of nonparametric back-projection and its application to aids data",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Carlin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Statistics in Medicine",
+            "volume": "10",
+            "issn": "",
+            "pages": "1527-1542",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/sim.4780101005"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "A method for obtaining short-term projections and lower bounds on the size of the AIDS epidemic",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Brookmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gail",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Amer Statist Assoc",
+            "volume": "83",
+            "issn": "",
+            "pages": "301-308",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2288844"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Minimum size of the acquired-immunodeficiency-syndrome (AIDS) epidemic in the united-states",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Brookmeyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Lancet",
+            "volume": "2",
+            "issn": "",
+            "pages": "1320-1322",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(86)91444-3"
+                ]
+            }
+        }
+    }
+}

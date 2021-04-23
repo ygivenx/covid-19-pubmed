@@ -1,0 +1,842 @@
+{
+    "paper_id": "PMC7089140",
+    "metadata": {
+        "title": "Reconstruction of the most recent common ancestor sequences of SARS-Cov S gene and detection of adaptive evolution in the spike protein",
+        "authors": [
+            {
+                "first": "Zhang",
+                "middle": [],
+                "last": "Yuan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zheng",
+                "middle": [],
+                "last": "Nan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hao",
+                "middle": [],
+                "last": "Pei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhong",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": "yangzhong@fudan.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "9366",
+            "pages": "1319-1325",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Mechanisms and enzymes involved in SARS coronavirus genome expression",
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Ivanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Putics",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Gen. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "2305-2315",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19424-0"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Knipe",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Howley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in Southern China",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "5643",
+            "pages": "276-278",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1087139"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "CLUSTAL W: Improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Gibson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Nucle. Acid. Res.",
+            "volume": "22",
+            "issn": "22",
+            "pages": "4673-4680",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/22.22.4673"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "The neighbor-joining method: A new method for reconstructing phylogenetic trees",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "4",
+            "issn": "4",
+            "pages": "406-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "MEGA2: molecular evolutionary genetics analysis software",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Jakobsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "12",
+            "pages": "1244-1245",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/17.12.1244"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "The Neutral Theory of Molecular Evolution",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Molecular evolution of the SARS coronavirus during the course of the SARS epidemic in China",
+            "authors": [],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "5664",
+            "pages": "1666-1669",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1092002"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Vasilieva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "6965",
+            "pages": "450-454",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02145"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "A 193-amino acid fragment of the SARS coronavirus S protein efficiently binds angiotensin-converting enzyme 2",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "5",
+            "pages": "3197-3201",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.C300520200"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Spike protein homology between the SARS-associated virus and murine hepatitis virus implies existence of a putative receptor-binding region",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chi. Sci. Bull.",
+            "volume": "48",
+            "issn": "11",
+            "pages": "1115-1117",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Potent neutralization of severe acute respiratory syndrome (SARS) coronavirus by a human mAb to S1 protein that blocks receptor association",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sui",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "101",
+            "issn": "8",
+            "pages": "2536-2541",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0307140101"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Acodon-based model of nucleotide substitution for protein-coding DNA sequences",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Goldman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "11",
+            "issn": "5",
+            "pages": "725-736",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Anew method of inference of ancestral nucleotide and amino acid sequences",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Genetics",
+            "volume": "141",
+            "issn": "4",
+            "pages": "1641-1650",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "PAML: A program package for phylogenetic analysis by maximum likelihood",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Comput. Appl. Biosci.",
+            "volume": "13",
+            "issn": "",
+            "pages": "555-556",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Estimating the influence of selection on the variable amino acid sites of the cytochrome B protein functional domains",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "McClellan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "McCracken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "18",
+            "issn": "6",
+            "pages": "917-925",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/oxfordjournals.molbev.a003892"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "TreeSAAP: selection on amino acid properties using phylogenetic trees",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Woolley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics",
+            "volume": "19",
+            "issn": "5",
+            "pages": "671-672",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btg043"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Putative hAPN receptor binding sites in SARSCoV spike protein",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Acta Pharmaco. Sin.",
+            "volume": "24",
+            "issn": "6",
+            "pages": "481-488",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Preiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Schutten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "9380",
+            "pages": "263-270",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13967-0"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Monroe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J.",
+                        "M."
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Astell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Bredenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Dobbe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol.",
+            "volume": "331",
+            "issn": "5",
+            "pages": "991-1004",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(03)00865-9"
+                ]
+            }
+        }
+    }
+}

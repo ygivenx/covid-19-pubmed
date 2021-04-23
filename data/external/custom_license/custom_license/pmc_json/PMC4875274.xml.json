@@ -1,0 +1,2189 @@
+{
+    "paper_id": "PMC4875274",
+    "metadata": {
+        "title": "Structures of the N- and C-terminal domains of MHV-A59 nucleocapsid protein corroborate a conserved RNA-protein binding mechanism in coronavirus",
+        "authors": [
+            {
+                "first": "Yanlin",
+                "middle": [],
+                "last": "Ma",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xiaohang",
+                "middle": [],
+                "last": "Tong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xiaoling",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xuemei",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhiyong",
+                "middle": [],
+                "last": "Lou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zihe",
+                "middle": [],
+                "last": "Rao",
+                "suffix": "",
+                "email": "raozh@xtal.tsinghua.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The nucleoprotein is required for efficient coronavirus genome replication",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Almaz\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Gal\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "12683-12688",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.22.12683-12688.2004"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Recombinant mouse hepatitis virus strain A59 from cloned, full-length cDNA replicates to high titers in vitro and is fully pathogenic in vivo",
+            "authors": [
+                {
+                    "first": "S.E.",
+                    "middle": [],
+                    "last": "Coley",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Lavi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Schelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Karl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "3097-3106",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.5.3097-3106.2005"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Identification of nucleocapsid binding sites within coronavirus-defective genomes",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Cologna",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.F.",
+                    "middle": [],
+                    "last": "Spagnolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.G.",
+                    "middle": [],
+                    "last": "Hogue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "277",
+            "issn": "",
+            "pages": "235-249",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2000.0611"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "DeLano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "The PyMOL Molecular Graphics System",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "G\u00fcnther",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Preiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "van der Werf",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.R.",
+                    "middle": [],
+                    "last": "Brodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Rabenau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Panning",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Kolesnikova",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Coot: model-building tools for molecular graphics",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Emsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Cowtan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "60",
+            "issn": "",
+            "pages": "2126-2132",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444904019158"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "The nucleocapsid protein of coronavirus infectious bronchitis virus: crystal structure of its N-terminal domain and multimerization properties",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.W.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.X.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Lescar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Structure",
+            "volume": "13",
+            "issn": "",
+            "pages": "1859-1868",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.str.2005.08.021"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Outbreak of severe acute respiratory syndrome\u2014worldwide, 2003",
+            "authors": [
+                {
+                    "first": "A.T.",
+                    "middle": [],
+                    "last": "Fleischauer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "52",
+            "issn": "",
+            "pages": "226-228",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Coronavirus N protein Nterminal domain (NTD) specifically binds the transcriptional regulatory sequence (TRS) and melts TRS-cTRS RNA duplexes",
+            "authors": [
+                {
+                    "first": "N.E.",
+                    "middle": [],
+                    "last": "Grossoehme",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.C.",
+                    "middle": [],
+                    "last": "Keane",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.E.",
+                    "middle": [],
+                    "last": "Dann",
+                    "suffix": "3rd"
+                },
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Leibowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.P.",
+                    "middle": [],
+                    "last": "Giedroc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Mol Biol",
+            "volume": "394",
+            "issn": "",
+            "pages": "544-557",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2009.09.040"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Structure of the N-Terminal RNA-Binding domain of the SARS CoV nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Petros",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Gunasekera",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Hajduk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Mack",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Fesik",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Olejniczak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochemisty",
+            "volume": "43",
+            "issn": "",
+            "pages": "6059-6063",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi036155b"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "A major determinant for membrane protein interaction localizes to the carboxy-terminal domain of the mouse coronavirus nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "K.R.",
+                    "middle": [],
+                    "last": "Hurst",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.A.",
+                    "middle": [],
+                    "last": "Koetzner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Hsue",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Masters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "13285-13297",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.21.13285-13297.2005"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Engineering the largest RNA virus genome as an infectious bacterial artificial chromosome",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Almaz\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "P\u00e9nzes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Izeta",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Calvo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Plana-Dur\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "97",
+            "issn": "",
+            "pages": "5516-5521",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.97.10.5516"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Minireview:The Structure of Protein-Protein Recognition Sites",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Janin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Chothia",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Biol Chem",
+            "volume": "265",
+            "issn": "",
+            "pages": "16221-16224",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "X-ray structures of the N- and C-terminal domains of a coronavirus nucleocapsid protein: implications for nucleocapsid formation",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Jayaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.R.",
+                    "middle": [],
+                    "last": "Bowman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Jayaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.W.",
+                    "middle": [],
+                    "last": "Collisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Lescar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.V.V.",
+                    "middle": [],
+                    "last": "Prasad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "6612-6620",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00157-06"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.G.",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.S.",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.R.",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Comer",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Genetic evidence for a structural interaction between the carboxy termini of the membrane and nucleocapsid proteins of mouse hepatitis virus",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.S.",
+                    "middle": [],
+                    "last": "Masters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "4987-4999",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.10.4987-4999.2002"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "RNA of mouse hepatitis virus",
+            "authors": [
+                {
+                    "first": "M.M.",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.A.",
+                    "middle": [],
+                    "last": "Stohlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "J Virol",
+            "volume": "26",
+            "issn": "",
+            "pages": "236-242",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Main-chain bond lengths and bond angles in protein structures",
+            "authors": [
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Laskowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.S.",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Thornton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Mol Biol",
+            "volume": "231",
+            "issn": "",
+            "pages": "1049-1067",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1993.1351"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Carboxyl terminus of severe acute respiratory syndrome coronavirus nucleocapsid protein: self-association analysis and nucleic acid binding characterization",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochemisty",
+            "volume": "45",
+            "issn": "",
+            "pages": "11827-11835",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi0609319"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Ribonucleoprotein-like structures from coronavirus particles",
+            "authors": [
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Macneughton",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.A.",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "J Gen Virol",
+            "volume": "39",
+            "issn": "",
+            "pages": "545-549",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-39-3-545"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Localization of an RNA-binding domain in the nucleocapsid protein of the coronavirus mouse hepatitis virus",
+            "authors": [
+                {
+                    "first": "P.S.",
+                    "middle": [],
+                    "last": "Masters",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Arch Virol",
+            "volume": "125",
+            "issn": "",
+            "pages": "141-160",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01309634"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Phaser crystallographic software",
+            "authors": [
+                {
+                    "first": "A.J.",
+                    "middle": [],
+                    "last": "McCoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.W.",
+                    "middle": [],
+                    "last": "Grosse-Kunstleve",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.D.",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.D.",
+                    "middle": [],
+                    "last": "Winn",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.C.",
+                    "middle": [],
+                    "last": "Storoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.J.",
+                    "middle": [],
+                    "last": "Read",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Appl Cryst",
+            "volume": "40",
+            "issn": "",
+            "pages": "658-674",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0021889807021206"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "The CCP4 suite: programs for protein crystallography",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Bailey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "50",
+            "issn": "",
+            "pages": "760-763",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444993011898"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Characterization of the RNA chaperone activity of hantavirus nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Mir",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.T.",
+                    "middle": [],
+                    "last": "Panganiban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "6276-6285",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00147-06"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Identification of a specific interaction between the coronavirus mouse hepatitis virus A59 nucleocapsid protein and packaging signal",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Molenkamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.M.",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "239",
+            "issn": "",
+            "pages": "78-86",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1997.8867"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "High affinity interaction between nucleocapsid protein and leader/intergenic sequence of mouse hepatitis virus RNA",
+            "authors": [
+                {
+                    "first": "G.W.",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.A.",
+                    "middle": [],
+                    "last": "Stohlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Tahara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Gen Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "181-188",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-81-1-181"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Processing of X-ray diffraction data collected in the oscillation mode",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Otwinowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Minor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Methods Enzymol",
+            "volume": "276",
+            "issn": "",
+            "pages": "307-326",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0076-6879(97)76066-X"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Automated protein model building combined with iterative structure refinement",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Perrakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.M.",
+                    "middle": [],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.S.",
+                    "middle": [],
+                    "last": "Lamzin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nat Struct Biol",
+            "volume": "6",
+            "issn": "",
+            "pages": "458-463",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/8263"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "RNA-binding proteins of coronavirus MHV: detection of monomeric and multimeric N protein with an RNA overlayprotein blot assay",
+            "authors": [
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Robbins",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.F.",
+                    "middle": [],
+                    "last": "Frana",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.J.",
+                    "middle": [],
+                    "last": "McGowan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.F.",
+                    "middle": [],
+                    "last": "Boyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.V.",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Virology",
+            "volume": "150",
+            "issn": "",
+            "pages": "402-410",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(86)90305-3"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Monroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Nix",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Campagnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Icenogle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Pe\u00f1aranda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Bankamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Ribonucleocapsid formation of severe acute respiratory syndrome coronavirus through molecular action of the N-terminal domain of N protein",
+            "authors": [
+                {
+                    "first": "K.S.",
+                    "middle": [],
+                    "last": "Saikatendu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.S.",
+                    "middle": [],
+                    "last": "Joseph",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Subramanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.W.",
+                    "middle": [],
+                    "last": "Neuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Buchmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.C.",
+                    "middle": [],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "3913-3921",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02236-06"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Functional and genetic analysis of coronavirus replicase-transcriptase proteins",
+            "authors": [
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.L.",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Younker",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Stokes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Pathog",
+            "volume": "1",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0010039"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Size-distribution analysis of macromolecules by sedimentation velocity ultracentrifugation and lamm equation modeling",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Schuck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biophys J",
+            "volume": "78",
+            "issn": "",
+            "pages": "1606-1619",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-3495(00)76713-0"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Interactions between coronavirus nucleocapsid protein and viral RNAs: implications for viral transcription",
+            "authors": [
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.W.",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.O.",
+                    "middle": [],
+                    "last": "Fleming",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.J.",
+                    "middle": [],
+                    "last": "Deans",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.G.",
+                    "middle": [],
+                    "last": "Keck",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Casteel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.A.",
+                    "middle": [],
+                    "last": "Stohlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Virol",
+            "volume": "62",
+            "issn": "",
+            "pages": "4280-4287",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Specific interaction between coronavirus leader RNA and nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "S.A.",
+                    "middle": [],
+                    "last": "Stohlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.N.",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.H.",
+                    "middle": [],
+                    "last": "Soe",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.M.",
+                    "middle": [],
+                    "last": "Welter",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.J.",
+                    "middle": [],
+                    "last": "Deans",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Virol",
+            "volume": "62",
+            "issn": "",
+            "pages": "4288-4295",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "L.S.",
+                    "middle": [],
+                    "last": "Sturman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.V.",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Adv Virus Res",
+            "volume": "28",
+            "issn": "",
+            "pages": "35-112",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(08)60721-6"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Solution structure of the c-terminal dimerization domain of SARS coronavirus nucleocapsid protein solved by the SAIL-NMR method",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.K.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Ikeya",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "G\u00fcntert",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.H.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.H.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kainosho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Mol Biol",
+            "volume": "380",
+            "issn": "",
+            "pages": "608-622",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2007.11.093"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Maximum-likelihood density modification",
+            "authors": [
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Terwilliger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "56",
+            "issn": "",
+            "pages": "965-972",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444900005072"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Automated MAD and MIR structure solution",
+            "authors": [
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Terwilliger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Berendzen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "55",
+            "issn": "",
+            "pages": "849-861",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444999000839"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Localization of mouse hepatitis virus nonstructural proteins and RNA synthesis indicates a role for late endosomes in viral replication",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "van der Meer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.J.",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Schleich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Locker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Virol",
+            "volume": "73",
+            "issn": "",
+            "pages": "7641-7657",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Identification of functionally important negatively charged residues in the carboxy end of mouse hepatitis coronavirus A59 nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Verma",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Bednar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Blount",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.G.",
+                    "middle": [],
+                    "last": "Hogue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "4344-4355",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.9.4344-4355.2006"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Trafficking motifs in the SARS-coronavirus nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "J.-H.",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.L.",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Hiscox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "358",
+            "issn": "",
+            "pages": "1015-1020",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2007.05.036"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Crystal structure of the severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein dimerization domain reveals evolutionary linkage between corona- and arteriviridae",
+            "authors": [
+                {
+                    "first": "I.M.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.L.",
+                    "middle": [],
+                    "last": "Oldham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Biol Chem",
+            "volume": "281",
+            "issn": "",
+            "pages": "17134-17139",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M602107200"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Coronavirus leader RNA regulates and initiates subgenomic mRNA transcription both in trans and in cis",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-L.",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.M.",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Virol",
+            "volume": "68",
+            "issn": "",
+            "pages": "4738-4746",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Importance of MHV-CoVA59 nucleocapsid protein COOH-terminal negative charges",
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Bednar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Verma",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Blount",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.G.",
+                    "middle": [],
+                    "last": "Hogue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv Exp Med Biol",
+            "volume": "581",
+            "issn": "",
+            "pages": "127-132",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-0-387-33012-9_22"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Coronavirus nucleocapsid protein is an RNA chaperone",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Z\u00fa\u00f1iga",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Sola",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Sabella",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Plana-Dur\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "357",
+            "issn": "",
+            "pages": "215-227",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.07.046"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Four proteins processed from the replicase gene polyprotein of mouse hepatitis virus colocalize in the cell periphery and adjacent to sites of virion assembly",
+            "authors": [
+                {
+                    "first": "A.G.",
+                    "middle": [],
+                    "last": "Bost",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.H.",
+                    "middle": [],
+                    "last": "Carnahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.T.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Virol",
+            "volume": "74",
+            "issn": "",
+            "pages": "3379-3387",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.7.3379-3387.2000"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Reverse genetics system for the avian coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Casais",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Britton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "12359-12369",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.24.12359-12369.2001"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Multiple nucleic acid binding sites and intrinsic disorder of severe acute respiratory syndrome coronavirus nucleocapsid protein: implications for ribonucleocapsid protein packaging",
+            "authors": [
+                {
+                    "first": "C.K.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.L.",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.H.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.A.",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.C.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.K.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.H.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "2255-2264",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02001-08"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Structure of the SARS coronavirus nucleocapsid protein RNA-binding dimerization domain suggests a mechanism for helical packaging of viral RNA",
+            "authors": [
+                {
+                    "first": "C.Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.K.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.W.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.C.",
+                    "middle": [],
+                    "last": "Sue",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.I.",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Riang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.D.",
+                    "middle": [],
+                    "last": "Hsiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.H.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Mol Biol",
+            "volume": "368",
+            "issn": "",
+            "pages": "1075-1086",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2007.02.069"
+                ]
+            }
+        }
+    }
+}

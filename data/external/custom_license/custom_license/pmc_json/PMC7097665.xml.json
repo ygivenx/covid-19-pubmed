@@ -1,0 +1,4188 @@
+{
+    "paper_id": "PMC7097665",
+    "metadata": {
+        "title": "Current prospects for RNA interference-based therapies",
+        "authors": [
+            {
+                "first": "Beverly",
+                "middle": [
+                    "L."
+                ],
+                "last": "Davidson",
+                "suffix": "",
+                "email": "beverly-davidson@uiowa.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Paul",
+                "middle": [
+                    "B."
+                ],
+                "last": "McCray",
+                "suffix": "Jr",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Clinical trials for RNAi therapy*\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Methods for the delivery of RNAi triggers to cells and tissues\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: Primary microRNAs (pri-miRNAs) are transcribed by RNA polymerases156,157,158 and are trimmed by the microprocessor complex (comprising Drosha and microprocessor complex subunit DCGR8) into ~70 nucleotide precursors, called pre-miRNAs67,159,160 (left side of the figure). miRNAs can also be processed from spliced short introns (known as mirtrons)161. pre-miRNAs contain a loop and usually have interspersed mismatches along the duplex. pre-miRNAs associate with exportin 5 and are exported to the cytoplasm162,163, where a complex that contains Dicer, TAR RNA-binding protein (TRBP; also known as TARBP2) and PACT (also known as PRKRA) processes the pre-miRNAs into miRNA\u2013miRNA* duplexes116,164,165. The duplex associates with an Argonaute (AGO) protein within the precursor RNAi-induced silencing complex (pre-RISC). One strand of the duplex (the passenger strand) is removed. The mature RISC contains the guide strand, which directs the complex to the target mRNA for post-transcriptional gene silencing. The 'seed' region of an miRNA is indicated; in RNAi trigger design, the off-target potential of this sequence needs to be considered. Long dsRNAs (right side of the figure) are processed by Dicer, TRBP and PACT into small interfering RNAs (siRNAs). siRNAs are 20\u201324-mer RNAs and harbour 3\u2032OH and 5\u2032 phosphate (PO4) groups, with 3\u2032 dinucleotide overhangs3,166,167. Within the pre-RISC complex, an AGO protein cleaves the passenger siRNA strand. Then, the mature RISC, containing an AGO protein and the guide strand, associates with the target mRNA for cleavage. The inset shows the properties of siRNAs. The thermodynamic stability of the terminal sequences will direct strand loading. Like naturally occurring or artificially engineered miRNAs, the potential 'seed' region can be a source for miRNA-like off-target silencing. shRNA, short hairpin RNA.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | Cartoon depicting a luciferase reporter system that is used to confirm that the appropriate strand of small interfering RNAs (siRNAs) or stem\u2013loop platforms from RNAi expression systems is loaded into the RNA-induced silencing complex (RISC). A plasmid with a luciferase reporter that harbours sequences complementary to the guide strand in the 3\u2032 UTR is cotransfected with the RNAi system, and if the appropriate guide strand is loaded, luciferase activity will diminish. When a reporter that contains sequences complementary to the passenger strand is cotransfected, luciferase activity should not be reduced. Because silencing is based on a microRNA (miRNA)-like mechanism, inhibition of luciferase activity will indicate RISC loading, independent of the sequence's ability to induce target cleavage. b | Northern blot analysis can be used to evaluate RNAi triggers expressed from vectors. If the short hairpin RNA (shRNA) or primary miRNA (pri-miRNA) mimics are poorly processed but expressed efficiently, build-up of shRNAs may occur (lane 1). Appropriate processing should yield readily detectable mature, processed siRNAs with minimal levels of unprocessed material (lane 2). Northern blots with probes for the passenger strand can also be used to assess RISC loading of the unintended strand (not shown). c | Small RNA quantitative PCR to quantify the mature product will yield information about overall levels of mature product, which is important to know to understand dosing. The figure shows an example of results obtained from effectively or poorly processed RNA precursors. Cloning and sequencing of the mature small RNAs can be used to assess the silencing RNAs in more detail (not shown). Ct, threshold cycle.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Strategies for silencing human disease using RNA interference",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Genet.",
+            "volume": "8",
+            "issn": "",
+            "pages": "173-184",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Small RNA sorting: matchmaking for Argonautes",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Czech",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Hannon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nature Rev. Genet.",
+            "volume": "12",
+            "issn": "",
+            "pages": "19-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Inhibition of hepatitis B virus in mice by RNA interference",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "McCaffrey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Biotech.",
+            "volume": "21",
+            "issn": "",
+            "pages": "639-644",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Interference of hepatitis C virus RNA replication by short interfering RNAs",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Kapadia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brideau-Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "FV",
+                    "middle": [],
+                    "last": "Chisari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "2014-2018",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Efficient silencing of gene expression with modular trimeric Pol II expression cassettes comprising microRNA shuttles",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ely",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Naidoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Arbuthnot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nucleic Acids Res.",
+            "volume": "37",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Inhibition of hepatitis C virus replication using adeno-associated virus vector delivery of an exogenous anti-hepatitis C virus microRNA cluster",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Haurigot",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "LB",
+                    "middle": [],
+                    "last": "Couto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Hepatology",
+            "volume": "52",
+            "issn": "",
+            "pages": "1877-1887",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Optimization of linear double-stranded RNA for the production of multiple siRNAs targeting hepatitis C virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "RNA",
+            "volume": "15",
+            "issn": "",
+            "pages": "898-910",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Efficient hepatitis C virus particle formation requires diacylglycerol acyltransferase-1",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Herker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Med.",
+            "volume": "16",
+            "issn": "",
+            "pages": "1295-1298",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Polo-like kinase 1 is involved in hepatitis C virus replication by hyperphosphorylating NS5A",
+            "authors": [
+                {
+                    "first": "YC",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "7983-7993",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "An siRNA-based microbicide protects mice from lethal herpes simplex virus 2 infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Palliser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "439",
+            "issn": "",
+            "pages": "89-94",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "RNAi suppresses polyglutamine-induced neurodegeneration in a model of spinocerebellar ataxia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Med.",
+            "volume": "10",
+            "issn": "",
+            "pages": "816-820",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "RNA interference improves motor and neuropathological abnormalities in a Huntington's disease mouse model",
+            "authors": [
+                {
+                    "first": "SQ",
+                    "middle": [],
+                    "last": "Harper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "5820-5825",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Small silencing RNAs: an expanding universe",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ghildiyal",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Zamore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Genet.",
+            "volume": "10",
+            "issn": "",
+            "pages": "94-108",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Intrastriatal rAAV-mediated delivery of anti-huntingtin shRNAs induces partial reversal of disease progression in R6/1 Huntington's disease transgenic mice",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rodriguez-Lebron",
+                    "suffix": ""
+                },
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Denovan-Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nash",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Lewin",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Mandel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "618-633",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "rAAV-mediated shRNA ameliorated neuropathology in Huntington disease model mouse",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Machida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "343",
+            "issn": "",
+            "pages": "190-197",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Allele-specific RNA silencing of mutant ataxin-3 mediates neuroprotection in a rat model of Machado-Joseph disease",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alves",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS ONE",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Sustained effects of nonallele-specific Huntingtin silencing",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Drouet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Ann. Neurol.",
+            "volume": "65",
+            "issn": "",
+            "pages": "276-285",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Silencing mutant SOD1 using RNAi protects against neurodegeneration and extends survival in an ALS model",
+            "authors": [
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Ralph",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "429-433",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Lentiviral-mediated silencing of SOD1 through RNA interference retards disease onset and progression in a mouse model of ALS",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Raoul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "423-428",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Processing of pre-microRNAs by the Dicer-1-Loquacious complex in Drosophila cells",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ishizuka",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Siomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Siomi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Silencing of human \u03b1-synuclein in vitro and in rat brain using lentiviral-mediated RNAi",
+            "authors": [
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Sapru",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Exp. Neurol.",
+            "volume": "198",
+            "issn": "",
+            "pages": "382-390",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Targeting BACE1 with siRNAs ameliorates Alzheimer disease neuropathology in a transgenic model",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Singer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Neurosci.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1343-1349",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Herpes simplex virus RNAi and neprilysin gene transfer vectors reduce accumulation of Alzheimer's disease-related amyloid-\u03b2 peptide in vivo",
+            "authors": [
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "WF",
+                    "middle": [],
+                    "last": "Goins",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Goss",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Glorioso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gene Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "1068-1079",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "The widespread regulation of microRNA biogenesis, function and decay",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krol",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Loedige",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Filipowicz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Rev. Genet.",
+            "volume": "11",
+            "issn": "",
+            "pages": "597-610",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Eight years of clinical improvement in MPTP-lesioned primates after gene therapy with AAV2-hAADC",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hadaczek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Ther.",
+            "volume": "18",
+            "issn": "",
+            "pages": "1458-1461",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Therapeutic in vivo gene transfer for genetic disease using AAV: progress and challenges",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mingozzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "High",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nature Rev. Genet.",
+            "volume": "12",
+            "issn": "",
+            "pages": "341-355",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Therapeutic RNAi targeting PCSK9 acutely lowers plasma cholesterol in rodents and LDL cholesterol in nonhuman primates",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Frank-Kamenetsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "11915-11920",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Silencing primary dystonia: lentiviral-mediated RNA interference therapy for DYT1 dystonia",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gonzalez-Alegre",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bode",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Paulson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Neurosci.",
+            "volume": "25",
+            "issn": "",
+            "pages": "10502-10509",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Nonallele-specific silencing of mutant and wild-type huntingtin demonstrates therapeutic efficacy in Huntington's disease mice",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Boudreau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "1053-1063",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Five siRNAs targeting three SNPs may provide therapy for three-quarters of Huntington's disease patients",
+            "authors": [
+                {
+                    "first": "EL",
+                    "middle": [],
+                    "last": "Pfister",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Curr. Biol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "774-778",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "CAG expansion in the Huntington disease gene is associated with a specific and targetable predisposing haplogroup",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Warby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Am. J. Hum. Genet.",
+            "volume": "84",
+            "issn": "",
+            "pages": "351-366",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "siRNA-mediated gene silencing in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Paulson",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Biotech.",
+            "volume": "20",
+            "issn": "",
+            "pages": "1006-1010",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "RNA interference in adult mice",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "McCaffrey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "418",
+            "issn": "",
+            "pages": "38-39",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Targeted RNA interference for hepatic fibrosis",
+            "authors": [
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "WF",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Expert Opin. Biol. Ther.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1305-1312",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Prediction of mammalian microRNA targets",
+            "authors": [
+                {
+                    "first": "BP",
+                    "middle": [],
+                    "last": "Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "IH",
+                    "middle": [],
+                    "last": "Shih",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Jones-Rhoades",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Bartel",
+                    "suffix": ""
+                },
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Burge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "115",
+            "issn": "",
+            "pages": "787-798",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "BI 2536, a potent and selective inhibitor of polo-like kinase 1, inhibits tumor growth in vivo",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Steegmaier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Curr. Biol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "316-322",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Emerging roles of microRNAs as molecular switches in the integrated circuit of the cancer cell",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sotiropoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pampalakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lianidou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Mourelatos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "RNA",
+            "volume": "15",
+            "issn": "",
+            "pages": "1443-1461",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Exploiting and antagonizing microRNA regulation for therapeutic and experimental applications",
+            "authors": [
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Naldini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Genet.",
+            "volume": "10",
+            "issn": "",
+            "pages": "578-585",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Interferon modulation of cellular microRNAs as an antiviral mechanism",
+            "authors": [
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Pedersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "449",
+            "issn": "",
+            "pages": "919-922",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Silencing of microRNAs in vivo with 'antagomirs'",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krutzfeldt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "685-689",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Therapeutic silencing of microRNA-122 in primates with chronic hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lanford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "327",
+            "issn": "",
+            "pages": "198-201",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "MicroRNA sponges: competitive inhibitors of small RNAs in mammalian cells",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Ebert",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Neilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Methods",
+            "volume": "4",
+            "issn": "",
+            "pages": "721-726",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Cutaneous short-interfering RNA therapy",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Geusens",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sanders",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Prow",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Gele",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lambert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Expert Opin. Drug Deliv.",
+            "volume": "6",
+            "issn": "",
+            "pages": "1333-1349",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Improved retinal function in a mouse model of dominant retinitis pigmentosa following AAV-delivered gene therapy",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chadderton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "593-599",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Expanding the microRNA targeting code: functional sites with centered pairing",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Shin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Cell",
+            "volume": "38",
+            "issn": "",
+            "pages": "789-802",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Lentivirus-mediated RNA interference of vascular endothelial growth factor in monkey eyes with iris neovascularization",
+            "authors": [
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "WZ",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Kai",
+                    "suffix": ""
+                },
+                {
+                    "first": "YR",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Vis.",
+            "volume": "16",
+            "issn": "",
+            "pages": "1743-1753",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Cardiac-targeted delivery of regulatory RNA molecules and genes for the treatment of heart failure",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Poller",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hajjar",
+                    "suffix": ""
+                },
+                {
+                    "first": "HP",
+                    "middle": [],
+                    "last": "Schultheiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fechner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cardiovasc. Res.",
+            "volume": "86",
+            "issn": "",
+            "pages": "353-364",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "MicroRNAs add a new dimension to cardiovascular disease",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Frost",
+                    "suffix": ""
+                },
+                {
+                    "first": "EN",
+                    "middle": [],
+                    "last": "Olson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Circulation",
+            "volume": "121",
+            "issn": "",
+            "pages": "1022-1032",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Inhibition of ABCB1 (MDR1) expression by an siRNA nanoparticulate delivery system to overcome drug resistance in osteosarcoma",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Susa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS ONE",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Highly potent and specific siRNAs against E6 or E7 genes of HPV16- or HPV18-infected cervical cancers",
+            "authors": [
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cancer Gene Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "827-836",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Targeting Stat3 in the myeloid compartment drastically improves the in vivo antitumor functions of adoptively transferred T cells",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cancer Res.",
+            "volume": "70",
+            "issn": "",
+            "pages": "7455-7464",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Novel biodegradable lipid nano complex for siRNA delivery significantly improving the chemosensitivity of human colon cancer stem cells to paclitaxel",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Control. Release",
+            "volume": "140",
+            "issn": "",
+            "pages": "277-283",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Expression profiling reveals off-target gene regulation by RNAi",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Biotech.",
+            "volume": "21",
+            "issn": "",
+            "pages": "635-637",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Widespread siRNA \u201coff-target\u201d transcript silencing mediated by seed region sequence complementarity",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "RNA",
+            "volume": "12",
+            "issn": "",
+            "pages": "1179-1187",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Comparison of siRNA-induced off-target RNA and protein effects",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Aleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Doench",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "RNA",
+            "volume": "13",
+            "issn": "",
+            "pages": "385-395",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "An mRNA m7G cap binding-like motif within human Ago2 represses translation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kiriakidou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell",
+            "volume": "129",
+            "issn": "",
+            "pages": "1141-1151",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "MicroRNA-like off-target transcript regulation by siRNAs is species specific",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Burchard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "RNA",
+            "volume": "15",
+            "issn": "",
+            "pages": "308-315",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Small RNAs with imperfect match to endogenous mRNA repress translation. Implications for off-target activity of small inhibitory RNA in mammalian cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Saxena",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZO",
+                    "middle": [],
+                    "last": "Jonsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dutta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "44312-44319",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Experimental validation of the importance of seed complement frequency to siRNA specificity",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "RNA",
+            "volume": "14",
+            "issn": "",
+            "pages": "853-861",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Position-specific chemical modification of siRNAs reduces \u201coff-target\u201d transcript silencing",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "RNA",
+            "volume": "12",
+            "issn": "",
+            "pages": "1197-1205",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "A screen of chemical modifications identifies position-specific modification by UNA to most potently reduce siRNA off-target effects",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Bramsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic Acids Res.",
+            "volume": "38",
+            "issn": "",
+            "pages": "5761-5773",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Reduced seed region-based off-target activity with lentivirus-mediated RNAi",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Klinghoffer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "RNA",
+            "volume": "16",
+            "issn": "",
+            "pages": "879-884",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "RNA polymerase III transcribes human microRNAs",
+            "authors": [
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Borchert",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lanier",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "1097-1101",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Structure and activity of putative intronic miRNA promoters",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Monteys",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "RNA",
+            "volume": "16",
+            "issn": "",
+            "pages": "495-505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Chromatin structure analyses identify miRNA promoters",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ozsolak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Genes Dev.",
+            "volume": "22",
+            "issn": "",
+            "pages": "3172-3183",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "The nuclear RNase III Drosha initiates microRNA processing",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "425",
+            "issn": "",
+            "pages": "415-419",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "MicroRNA silencing through RISC recruitment of eIF6",
+            "authors": [
+                {
+                    "first": "TP",
+                    "middle": [],
+                    "last": "Chendrimada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "447",
+            "issn": "",
+            "pages": "823-828",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "The Microprocessor complex mediates the genesis of microRNAs",
+            "authors": [
+                {
+                    "first": "RI",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "432",
+            "issn": "",
+            "pages": "235-240",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Computational and experimental identification of mirtrons in Drosophila melanogaster and Caenorhabditis elegans",
+            "authors": [
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Genome Res.",
+            "volume": "21",
+            "issn": "",
+            "pages": "286-300",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Nuclear export of microRNA precursors",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Guttinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Calado",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Dahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Kutay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "",
+            "pages": "95-98",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Exportin-5 mediates the nuclear export of pre-microRNAs and short hairpin RNAs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "IG",
+                    "middle": [],
+                    "last": "Macara",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Cullen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Genes Dev.",
+            "volume": "17",
+            "issn": "",
+            "pages": "3011-3016",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Ribonuclease activity and RNA binding of recombinant human Dicer",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Provost",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J.",
+            "volume": "21",
+            "issn": "",
+            "pages": "5864-5874",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Normal microRNA maturation and germ-line stem cell maintenance requires Loquacious, a double-stranded RNA-binding domain protein",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Forstemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Role for a bidentate ribonuclease in the initiation step of RNA interference",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bernstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Caudy",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Hammond",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Hannon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "409",
+            "issn": "",
+            "pages": "363-366",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "ATP requirements and small interfering RNA structure in the RNA interference pathway",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nykanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Haley",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Zamore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Cell",
+            "volume": "107",
+            "issn": "",
+            "pages": "309-321",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Drosophila miR2 induces pseudo-polysomes and inhibits translation initiation",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Thermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Hentze",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "447",
+            "issn": "",
+            "pages": "875-878",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "P bodies: at the crossroads of post-transcriptional pathways",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eulalio",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Behm-Ansmant",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Izaurralde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "9-22",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "CCR4-NOT deadenylates mRNA associated with RNA-induced silencing complexes in human cells",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Piao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Belasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Cell Biol.",
+            "volume": "30",
+            "issn": "",
+            "pages": "1486-1494",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Potent and specific genetic interference by double-stranded RNA in Caenorhabditis elegans",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fire",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature",
+            "volume": "391",
+            "issn": "",
+            "pages": "806-811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Mammalian microRNAs predominantly act to decrease target mRNA levels",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "NT",
+                    "middle": [],
+                    "last": "Ingolia",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Weissman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Bartel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "466",
+            "issn": "",
+            "pages": "835-840",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Relief of microRNA-mediated translational repression in human cells subjected to stress",
+            "authors": [
+                {
+                    "first": "SN",
+                    "middle": [],
+                    "last": "Bhattacharyya",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Habermacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Martine",
+                    "suffix": ""
+                },
+                {
+                    "first": "EI",
+                    "middle": [],
+                    "last": "Closs",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Filipowicz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell",
+            "volume": "125",
+            "issn": "",
+            "pages": "1111-1124",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Passenger-strand cleavage facilitates assembly of siRNA into Ago2-containing RNAi enzyme complexes",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Matranga",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tomari",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Bartel",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Zamore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "123",
+            "issn": "",
+            "pages": "607-620",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Argonaute2 cleaves the anti-guide strand of siRNA during RISC activation",
+            "authors": [
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Rand",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "123",
+            "issn": "",
+            "pages": "621-629",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Asymmetry in the assembly of the RNAi enzyme complex",
+            "authors": [
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Schwarz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "115",
+            "issn": "",
+            "pages": "199-208",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Functional siRNAs and miRNAs exhibit strand bias",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khvorova",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reynolds",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Jayasena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "115",
+            "issn": "",
+            "pages": "209-216",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Hierarchical rules for Argonaute loading in Drosophila",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Czech",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell",
+            "volume": "36",
+            "issn": "",
+            "pages": "445-456",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "A role for human Dicer in pre-RISC loading of siRNAs",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sakurai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic Acids Res.",
+            "volume": "39",
+            "issn": "",
+            "pages": "1510-1525",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "RNAi: double-stranded RNA directs the ATP-dependent cleavage of mRNA at 21 to 23 nucleotide intervals",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Zamore",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tuschl",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Bartel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell",
+            "volume": "101",
+            "issn": "",
+            "pages": "25-33",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Synthetic dsRNA Dicer substrates enhance RNAi potency and efficacy",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotech.",
+            "volume": "23",
+            "issn": "",
+            "pages": "222-226",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "RNA interference is mediated by 21- and 22-nucleotide RNAs",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Elbashir",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lendeckel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tuschl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Genes Dev.",
+            "volume": "15",
+            "issn": "",
+            "pages": "188-200",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Synthetic shRNAs as potent RNAi triggers",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Siolas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotech.",
+            "volume": "23",
+            "issn": "",
+            "pages": "227-231",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "siRNA and innate immunity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Robbins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Judge",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "MacLachlan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Oligonucleotides",
+            "volume": "19",
+            "issn": "",
+            "pages": "89-102",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Sequence- and target-independent angiogenesis suppression by siRNA via TLR3",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Kleinman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "452",
+            "issn": "",
+            "pages": "591-597",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Small interfering RNA-induced TLR3 activation inhibits blood and lymphatic vessel growth",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "7137-7142",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Blocking neuropilin-2 enhances corneal allograft survival by selectively inhibiting lymphangiogenesis on vascularized beds",
+            "authors": [
+                {
+                    "first": "XL",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Vis.",
+            "volume": "16",
+            "issn": "",
+            "pages": "2354-2361",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Polyethylenimine-based siRNA nanocomplexes reprogram tumor-associated dendritic cells via TLR5 to elicit therapeutic antitumor immunity",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Cubillos-Ruiz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Clin. Invest.",
+            "volume": "119",
+            "issn": "",
+            "pages": "2231-2244",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "In vivo delivery of siRNA to immune cells by conjugation to a TLR9 agonist enhances antitumor immune responses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kortylewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Biotech.",
+            "volume": "27",
+            "issn": "",
+            "pages": "925-932",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "In situ vaccination with a TLR9 agonist induces systemic lymphoma regression: a phase I/II study",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Brody",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Clin. Oncol.",
+            "volume": "28",
+            "issn": "",
+            "pages": "4324-4332",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Design of noninflammatory synthetic siRNA mediating potent gene silencing in vivo",
+            "authors": [
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Judge",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bola",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "MacLachlan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "494-505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "Potent and persistent in vivo anti-HBV activity of chemically modified siRNAs",
+            "authors": [
+                {
+                    "first": "DV",
+                    "middle": [],
+                    "last": "Morrissey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotech.",
+            "volume": "23",
+            "issn": "",
+            "pages": "1002-1007",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Inhibition of respiratory viruses by nasally administered siRNA",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bitko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Musiyenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Shulyayeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "50-55",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "Rational design of cationic lipids for siRNA delivery",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Semple",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Biotech.",
+            "volume": "28",
+            "issn": "",
+            "pages": "172-176",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Structural variations and stabilising modifications of synthetic siRNAs in mammalian cells",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Czauderna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res.",
+            "volume": "31",
+            "issn": "",
+            "pages": "2705-2716",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "RNAi and small interfering RNAs in human disease therapeutic applications",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Lares",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Ouellet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Trends Biotechnol.",
+            "volume": "28",
+            "issn": "",
+            "pages": "570-579",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "Efficient and targeted delivery of siRNA in vivo",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Shim",
+                    "suffix": ""
+                },
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Kwon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "FEBS J.",
+            "volume": "277",
+            "issn": "",
+            "pages": "4814-4827",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "RNAi nanomedicines: challenges and opportunities within the immune system",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Weinstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nanotechnology",
+            "volume": "21",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "Knocking down barriers: advances in siRNA delivery",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Whitehead",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Langer",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Drug Discov.",
+            "volume": "8",
+            "issn": "",
+            "pages": "129-138",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Therapeutic silencing of an endogenous gene by systemic administration of modified siRNAs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Soutschek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "432",
+            "issn": "",
+            "pages": "173-178",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "Mechanisms and optimization of in vivo delivery of lipophilic siRNAs",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wolfrum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Biotech.",
+            "volume": "25",
+            "issn": "",
+            "pages": "1149-1157",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "Durable protection from Herpes Simplex Virus-2 transmission following intravaginal application of siRNAs targeting both a viral and host gene",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell Host Microbe",
+            "volume": "5",
+            "issn": "",
+            "pages": "84-94",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Lipophilic siRNAs mediate efficient gene silencing in oligodendrocytes with direct CNS delivery",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Control. Release",
+            "volume": "144",
+            "issn": "",
+            "pages": "227-232",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Misinterpreting the therapeutic effects of small interfering RNA caused by immune stimulation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Robbins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Hum. Gene Ther.",
+            "volume": "19",
+            "issn": "",
+            "pages": "991-999",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "RNAi-mediated gene silencing in non-human primates",
+            "authors": [
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Zimmermann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "441",
+            "issn": "",
+            "pages": "111-114",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "Postexposure protection of non-human primates against a lethal Ebola virus challenge with RNA interference: a proof-of-concept study",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Geisbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Lancet",
+            "volume": "375",
+            "issn": "",
+            "pages": "1896-1905",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "Evidence of RNAi in humans from systemically administered siRNA via targeted nanoparticles",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "464",
+            "issn": "",
+            "pages": "1067-1070",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Systemic administration of optimized aptamer-siRNA chimeras promotes regression of PSMA-expressing tumors",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Dassie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Biotech.",
+            "volume": "27",
+            "issn": "",
+            "pages": "839-849",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF117": {
+            "title": "Selection, characterization and application of new RNA HIV gp 120 aptamers for facile delivery of Dicer substrate siRNAs into HIV infected cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nucleic Acids Res.",
+            "volume": "37",
+            "issn": "",
+            "pages": "3094-3109",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF118": {
+            "title": "T cell-specific siRNA delivery suppresses HIV-1 infection in humanized mice",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell",
+            "volume": "134",
+            "issn": "",
+            "pages": "577-586",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "Systemic leukocyte-directed siRNA delivery revealing cyclin D1 as an anti-inflammatory target",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peer",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Morishita",
+                    "suffix": ""
+                },
+                {
+                    "first": "CV",
+                    "middle": [],
+                    "last": "Carman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shimaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Science",
+            "volume": "319",
+            "issn": "",
+            "pages": "627-630",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "RNAi-mediated CCR5 silencing by LFA-1-targeted nanoparticles prevents HIV infection in BLT mice",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Ther.",
+            "volume": "18",
+            "issn": "",
+            "pages": "370-376",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "A novel in vivo siRNA delivery system specifically targeting dendritic cells and silencing CD40 genes for immunomodulation",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Blood",
+            "volume": "113",
+            "issn": "",
+            "pages": "2646-2654",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Transvascular delivery of small interfering RNA to the central nervous system",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "448",
+            "issn": "",
+            "pages": "39-43",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "Confirming the RNAi-mediated mechanism of action of siRNA-based cancer therapeutics in mice",
+            "authors": [
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Judge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Clin. Invest.",
+            "volume": "119",
+            "issn": "",
+            "pages": "661-673",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Induction of therapeutic gene silencing in leukocyte-implicated diseases by targeted and stabilized nanoparticles: a mini-review",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Control. Release",
+            "volume": "148",
+            "issn": "",
+            "pages": "63-68",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "Artificial microRNAs as siRNA shuttles: improved safety as compared to shRNAs in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Boudreau",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Martins",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "169-175",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "Minimizing variables among hairpin-based RNAi vectors reveals the potency of shRNAs",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Boudreau",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Monteys",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "RNA",
+            "volume": "14",
+            "issn": "",
+            "pages": "1834-1844",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF127": {
+            "title": "Fatality in mice due to oversaturation of cellular microRNA/short hairpin RNA pathways",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grimm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "441",
+            "issn": "",
+            "pages": "537-541",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Artificial miRNAs mitigate shRNA-mediated toxicity in the brain: implications for the therapeutic development of RNAi",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "McBride",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "5868-5873",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF129": {
+            "title": "Argonaute proteins are key determinants of RNAi efficacy, toxicity, and persistence in the adult mouse liver",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grimm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Clin. Invest.",
+            "volume": "120",
+            "issn": "",
+            "pages": "3106-3119",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF130": {
+            "title": "Expression of shRNA from a tissue-specific pol II promoter is an effective and safe RNAi therapeutic",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Giering",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Grimm",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Storm",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Kay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Ther.",
+            "volume": "16",
+            "issn": "",
+            "pages": "1630-1636",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF131": {
+            "title": "Recognition and cleavage of primary microRNA precursors by the nuclear processing enzyme Drosha",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Cullen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "EMBO J.",
+            "volume": "24",
+            "issn": "",
+            "pages": "138-148",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF132": {
+            "title": "Polycistronic RNA polymerase II expression vectors for RNA interference based on BIC/miR-155",
+            "authors": [
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res.",
+            "volume": "34",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF133": {
+            "title": "Enhanced gene silencing of HIV-1 specific siRNA using microRNA designed hairpins",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Boden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res.",
+            "volume": "32",
+            "issn": "",
+            "pages": "1154-1158",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF134": {
+            "title": "Sequence-specific potent induction of IFN-\u03b1 by short interfering RNA in plasmacytoid dendritic cells through TLR7",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hornung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "263-270",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF135": {
+            "title": "Second-generation shRNA libraries covering the mouse and human genomes",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Silva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Genet.",
+            "volume": "37",
+            "issn": "",
+            "pages": "1281-1288",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF136": {
+            "title": "Biological gene delivery vehicles: beyond viral vectors",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Seow",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Wood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "767-777",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF137": {
+            "title": "Bacterially derived 400\u00a0nm particles for encapsulation and cancer cell targeting of chemotherapeutics",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "MacDiarmid",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cancer Cell",
+            "volume": "11",
+            "issn": "",
+            "pages": "431-445",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF138": {
+            "title": "Short hairpin RNA-expressing bacteria elicit RNA interference in mammals",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fruehauf",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Biotech.",
+            "volume": "24",
+            "issn": "",
+            "pages": "697-702",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF139": {
+            "title": "Cequent Pharmaceuticals, Inc.: the biological pitcher for RNAi therapeutics",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Keates",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Fruehauf",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Parker",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Pharmacogenomics",
+            "volume": "8",
+            "issn": "",
+            "pages": "867-871",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF140": {
+            "title": "Sequential treatment of drug-resistant tumors with targeted minicells containing siRNA or a cytotoxic drug",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "MacDiarmid",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Biotech.",
+            "volume": "27",
+            "issn": "",
+            "pages": "643-651",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF141": {
+            "title": "Viral vectors for gene transfer: current status of gene therapeutics",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Heilbronn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Weger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Handb. Exp. Pharmacol.",
+            "volume": "197",
+            "issn": "",
+            "pages": "143-170",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF142": {
+            "title": "Unity and diversity in the human adenoviruses: exploiting alternative entry pathways for gene therapy",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Blair Zajdel",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Blair",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Biochem. J.",
+            "volume": "431",
+            "issn": "",
+            "pages": "321-336",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF143": {
+            "title": "Recent advances in lentiviral vector development and applications",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Matrai",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Chuah",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "VandenDriessche",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Ther.",
+            "volume": "18",
+            "issn": "",
+            "pages": "477-490",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF144": {
+            "title": "Receptors and entry cofactors for retroviruses include single and multiple transmembrane-spanning proteins as well as newly described glycophosphatidylinositol-anchored and secreted proteins",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Overbaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Eiden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbiol. Mol. Biol. Rev.",
+            "volume": "65",
+            "issn": "",
+            "pages": "371-389",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF145": {
+            "title": "Sequence-dependent stimulation of the mammalian innate immune response by synthetic siRNA",
+            "authors": [
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Judge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotech.",
+            "volume": "23",
+            "issn": "",
+            "pages": "457-462",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF146": {
+            "title": "HSV as a vector in vaccine development and gene therapy",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Marconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Argnani",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Epstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Manservigi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Adv. Exp. Med. Biol.",
+            "volume": "655",
+            "issn": "",
+            "pages": "118-144",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF147": {
+            "title": "A hybrid vector for ligand-directed tumor targeting and molecular imaging",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hajitou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell",
+            "volume": "125",
+            "issn": "",
+            "pages": "385-398",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF148": {
+            "title": "Molecular signatures of disease brain endothelia provide new sites for CNS-directed enzyme therapy",
+            "authors": [
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Med.",
+            "volume": "15",
+            "issn": "",
+            "pages": "1215-1218",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF149": {
+            "title": "Titers of lentiviral vectors encoding shRNAs and miRNAs are reduced by different mechanisms that require distinct repair strategies",
+            "authors": [
+                {
+                    "first": "YP",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "RNA",
+            "volume": "16",
+            "issn": "",
+            "pages": "1328-1339",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF150": {
+            "title": "Optimization of feline immunodeficiency virus vectors for RNA interference",
+            "authors": [
+                {
+                    "first": "SQ",
+                    "middle": [],
+                    "last": "Harper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "9371-9380",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF151": {
+            "title": "Regulated and multiple miRNA and siRNA delivery into primary cells by a lentiviral platform",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Amendola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "1039-1052",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF152": {
+            "title": "Strategies in designing multigene expression units to downregulate HIV-1",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Methods Mol. Biol.",
+            "volume": "623",
+            "issn": "",
+            "pages": "123-136",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF153": {
+            "title": "Gene editing in human stem cells using zinc finger nucleases and integrase-defective lentiviral vector delivery",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lombardo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Biotech.",
+            "volume": "25",
+            "issn": "",
+            "pages": "1298-1306",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF154": {
+            "title": "Specific gene transfer to neurons, endothelial cells and hematopoietic progenitors with lentiviral vectors",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Anliker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Methods",
+            "volume": "7",
+            "issn": "",
+            "pages": "929-935",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF155": {
+            "title": "Genetic therapies against HIV",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "June",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Kohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Biotech.",
+            "volume": "25",
+            "issn": "",
+            "pages": "1444-1454",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF156": {
+            "title": "Coexpressed RIG-I agonist enhances humoral immune response to influenza virus DNA vaccine",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Luke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "1370-1383",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF157": {
+            "title": "The lymphocytic choriomeningitis virus envelope glycoprotein targets lentiviral gene transfer vector to neural progenitors in the murine brain",
+            "authors": [
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Martins",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Ther.",
+            "volume": "11",
+            "issn": "",
+            "pages": "382-389",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF158": {
+            "title": "Recombinant adeno-associated virus type 2, 4, and 5 vectors: transduction of variant cell types and regions in the mammalian central nervous system",
+            "authors": [
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Davidson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "3428-3432",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF159": {
+            "title": "Protection against lethal influenza virus challenge by RNA interference in vivo",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Tompkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "CY",
+                    "middle": [],
+                    "last": "Lo",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Tumpey",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "8682-8686",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF160": {
+            "title": "Inhibition of influenza virus production in virus-infected mice by RNA interference",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "8676-8681",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF161": {
+            "title": "Using siRNA in prophylactic and therapeutic regimens against SARS coronavirus in Rhesus macaque",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "944-951",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF162": {
+            "title": "Inefficient cationic lipid-mediated siRNA and antisense oligonucleotide transfer to airway epithelial cells in vivo",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Griesenbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Respir. Res.",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF163": {
+            "title": "Epithelial sodium channel inhibition in primary human bronchial epithelia by transfected siRNA",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Caci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Am. J. Respir. Cell. Mol. Biol.",
+            "volume": "40",
+            "issn": "",
+            "pages": "211-216",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF164": {
+            "title": "A randomized, double-blind, placebo-controlled study of an RNAi-based therapy directed against respiratory syncytial virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "DeVincenzo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "8800-8805",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF165": {
+            "title": "Combinatorial RNAi against HIV-1 using extended short hairpin RNAs",
+            "authors": [
+                {
+                    "first": "YP",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "1712-1723",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF166": {
+            "title": "RNA-based gene therapy for HIV with lentiviral vector-modified CD34+ cells in patients undergoing transplantation for AIDS-related lymphoma",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "DiGiusto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Sci. Transl. Med.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

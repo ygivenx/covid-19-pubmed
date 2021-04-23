@@ -1,0 +1,2893 @@
+{
+    "paper_id": "PMC7097298",
+    "metadata": {
+        "title": "Virus membrane-fusion proteins: more than one way to make a hairpin",
+        "authors": [
+            {
+                "first": "Margaret",
+                "middle": [],
+                "last": "Kielian",
+                "suffix": "",
+                "email": "kielian@aecom.yu.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "F\u00e9lix",
+                "middle": [
+                    "A."
+                ],
+                "last": "Rey",
+                "suffix": "",
+                "email": "rey@vms.cnrs-gif.fr",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Class I and class II virus fusion proteins\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Comparison of class I and class II virus membrane-fusion proteins\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: The nomenclature and organization of the class I proteins of influenza virus and HIV and the class II proteins of flaviviruses and alphaviruses are indicated. For class I, labels specify the positions of the fusion peptides (FP), processing sites (arrows) and transmembrane regions (TM). For class II, signalase cleavage sites are indicated by black arrows, furin-processing sites by red arrows, the capsid protease cleavage site by a green arrow and TM regions are light blue. The intervening 6K segment is unique to alphaviruses. Residue numbers are in parentheses.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | Structure and sequence diagram of class II virus membrane-fusion proteins. The tick-borne encephalitis (TBE) flavivirus glycoprotein E and the Semliki Forest alphavirus (SFV) E1 protein are shown, with domains I, II and III represented in red, yellow and blue, respectively (dI, dII and dIII). Common elements and important loops in domain II are indicated. Red arrowheads point to the hinge region between domains I and II. The fusion loop is shown in orange, disulphide bonds as green tubes, and carbohydrates (CHO) in pale yellow. The flavivirus E protein dimer is indicated with one subunit in white. b | The icosahedral scaffold formed by E1 at the SFV surface. The left panel shows the lattice resulting from fitting the crystallographic model of E1 on the cryo-electron microscopy reconstruction of the SFV particle. The lattice is formed essentially by E1 interactions around the five-fold, quasi six-fold and quasi two-fold axes of the T = 4 icosahedral particle. All three-fold and quasi three-fold contacts are made exclusively by E2, within the trimeric spike depicted in Fig. 3b. The right panel shows a cartoon of the organization of the SFV particle, with E1 coloured as in Fig. 2a, E2 depicted in pale blue, and the transmembrane (TM) regions drawn as bars crossing the grey lipid bilayer. The internal icosahedral nucleocapsid is indicated by a blue polyhedron with the genomic RNA ('R') inside. Figure prepared using the RIBBONS program100.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: a | shows the influenza virus haemagglutinin (HA1/HA2)3 complex with the HA1 receptor-binding subunits shown in white and the HA2 membrane-fusion subunits coloured in blue and red. The fusion peptide (yellow, residues 1 to 22) is buried at the trimer centre (arrow). b | shows the alphavirus Semliki Forest virus pre-fusion complex (E1/E2)3. The E1 membrane-fusion subunits are drawn as tubes coloured by domains as in Fig. 2. The receptor-binding subunit, E2, is displayed as a sphere-filling model coloured grey, based on subtracting the E1 density from the cryo-electron microscopy reconstruction of the virus. The orange E1 fusion peptide (arrows) is buried at the E1\u2013E2 interface. c | shows the pre-fusion complex (E)2 of the flavivirus tick-borne encephalitis virus. The fusion peptide is buried at the E homodimer interface (arrows). All three panels are drawn at the same scale. The viral membrane would be tangential to a horizontal plane below the drawings. Figure prepared using the RIBBONS program100.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: The class I fusion proteins of HIV-1 and influenza virus (left), and the class II fusion proteins of Semliki Forest virus and tick-borne encephalitis virus (right) are shown. To demonstrate the suggested membrane interactions of the proteins, the final fused membrane is diagrammed in cartoon form. The class I proteins are drawn such that the N-terminal half of the hairpin is blue and the C-terminal part is red, with the missing fusion peptides and transmembrane domains indicated for one of the three trimer subunits as blue and red stars, respectively. For HA2, the residues are coloured as in the neutral pH form displayed in Fig. 3, and a membrane-proximal extended C-terminal 'leash' interacts with the central coiled coil of HA. In HIV glycoprotein 41 (gp41), the post-fusion structure is a six-helix bundle. The inhibitor T20 interacts at the site where the red helix is, effectively inhibiting the fusogenic conformational change. For the class II proteins, an elongated red star indicates the predicted location of the TM segment, with a red arrow pointing to the C terminus of one of the subunits in the trimer of the crystallized class II ectodomains, roughly showing the path of the missing 'stem' regions to complete the protein hairpin. Figure prepared using the RIBBONS program100.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: The left panel shows a negatively stained sample of E1 ectodomain homotrimers (E1*HT) reconstituted at a low lipid-to-protein ratio to produce a planar hexagonal lattice. On liposomes, the E1*HT is proposed to display a fullerene-like architecture, in which insertion of rings of five instead of six trimers allows the required curvature to form a closed sphere (see text). Images of the planar lattice such as that shown on the left were used to generate a three-dimensional reconstruction into which the atomic model of the E1*HT was fitted (right panel). Direct lateral interactions between the trimer heads are observed from the fitting, as shown in this top view. Interactions between the fusion loops of adjacent trimers could also occur through adjustment of the hinge region (indicated in Fig. 2a). Figure prepared using the RIBBONS program100.",
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Figure 6: a | Native virions, showing E1 with domains coloured as in Fig. 2, and E2 in light grey interacting with E1 and covering the fusion loop. Only the target-cell-proximal side of the virion represented in Fig. 2b, right panel, is shown. b | Trigger 1: low pH triggers E1\u2013E2 dissociation and exposure of the fusion loop. c | Trigger 2: low-pH- and cholesterol-dependent insertion of the fusion loop, leading to the alignment of E1 subunits parallel to each other, favouring trimerization. d | Fold-back process: domain III and the stem region move towards the fusion loop. Cooperative interactions between trimers through their fusion loops distort the target membrane. e | Folding of the domain III and stem segments against the body of the trimer pulls transmembrane (TM) segments against each other, distorting the viral membrane. f | Opposing dome-like deformations in the two membranes lead to mixing of the outer leaflets (hemifusion). g | To reach the final stable conformation, the TM segments have to be closely juxtaposed to the fusion loop. This is only possible by opening an initial fusion pore.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Membrane fusion",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Sudhof",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "112",
+            "issn": "",
+            "pages": "519-533",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "HIV-1 entry cofactor: functional cDNA cloning of a seven-transmembrane, G protein-coupled receptor",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Broder",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Science",
+            "volume": "272",
+            "issn": "",
+            "pages": "872-877",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Ribbons",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Meth. Enzymol.",
+            "volume": "277",
+            "issn": "",
+            "pages": "493-505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Mechanisms of viral membrane fusion and its inhibition",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Eckert",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "70",
+            "issn": "",
+            "pages": "777-810",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Paramyxovirus fusion: a hypothesis for changes",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "197",
+            "issn": "",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Retroviral entry mediated by receptor priming and low pH triggering of an envelope glycoprotein",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mothes",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Boerger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Narayan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell",
+            "volume": "103",
+            "issn": "",
+            "pages": "679-689",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Sequential roles of receptor binding and low pH in forming prehairpin and hairpin conformations of a retroviral envelope glycoprotein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Delos",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "8201-8209",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Endosomal proteolysis of the Ebola virus glycoprotein is necessary for infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chandran",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Felbor",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Whelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "308",
+            "issn": "",
+            "pages": "1643-1645",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "A spring-loaded mechanism for the conformational change of influenza hemagglutinin",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Carr",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Cell",
+            "volume": "73",
+            "issn": "",
+            "pages": "823-832",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Receptor binding and membrane fusion in virus entry: the influenza hemagglutinin",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wiley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "69",
+            "issn": "",
+            "pages": "531-569",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Mechanism of membrane fusion by viral envelope proteins",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Adv. Virus Res.",
+            "volume": "64",
+            "issn": "",
+            "pages": "231-261",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Conformational changes in the hemagglutinin of influenza virus which accompany heat-induced fusion of virus with liposomes",
+            "authors": [
+                {
+                    "first": "RWH",
+                    "middle": [],
+                    "last": "Ruigrok",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Virology",
+            "volume": "155",
+            "issn": "",
+            "pages": "484-497",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Intracellular and viral membrane fusion: a uniting mechanism",
+            "authors": [
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Sollner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Opin. Cell Biol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "429-435",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Influenza hemagglutinin is spring-loaded by a metastable native conformation",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Carr",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chaudhry",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "14306-14313",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Structure of the hemagglutinin precursor cleavage site, a determinant of influenza pathogenicity and the origin of the labile conformation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Cell",
+            "volume": "95",
+            "issn": "",
+            "pages": "409-417",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Structure of the haemagglutinin membrane glycoprotein of influenza virus at 3 \u00c5 resolution",
+            "authors": [
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wiley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Nature",
+            "volume": "289",
+            "issn": "",
+            "pages": "366-378",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Structure of influenza haemagglutinin at the pH of membrane fusion",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Bullough",
+                    "suffix": ""
+                },
+                {
+                    "first": "FM",
+                    "middle": [],
+                    "last": "Hughson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wiley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Nature",
+            "volume": "371",
+            "issn": "",
+            "pages": "37-43",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Evidence that the transition of HIV-1 gp41 into a six-helix bundle, not the bundle configuration, induces membrane fusion",
+            "authors": [
+                {
+                    "first": "GB",
+                    "middle": [],
+                    "last": "Melikyan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Cell Biol.",
+            "volume": "151",
+            "issn": "",
+            "pages": "413-423",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Membrane fusion machines of paramyxoviruses: capture of intermediates of fusion",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Jardetzky",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "EMBO J.",
+            "volume": "20",
+            "issn": "",
+            "pages": "4024-4034",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Membrane structure and fusion-triggering conformational change of the fusion domain from influenza hemagglutinin",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Bushweller",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Cafiso",
+                    "suffix": ""
+                },
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Tamm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Struct. Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "715-720",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Membrane fusion mediated by the influenza virus hemagglutinin requires the concerted action of at least three hemagglutinin trimers",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Danieli",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Pelletier",
+                    "suffix": ""
+                },
+                {
+                    "first": "YI",
+                    "middle": [],
+                    "last": "Henis",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Cell Biol.",
+            "volume": "133",
+            "issn": "",
+            "pages": "559-569",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Synchronized activation and refolding of influenza hemagglutinin in multimeric fusion machines",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Markovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Leikina",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhukovsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zimmerberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "LV",
+                    "middle": [],
+                    "last": "Chernomordik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Cell Biol.",
+            "volume": "155",
+            "issn": "",
+            "pages": "833-844",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Influenza hemagglutinins outside of the contact zone are necessary for fusion pore expansion",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Leikina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "26526-26532",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "The many mechanisms of viral membrane fusion proteins",
+            "authors": [
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Earp",
+                    "suffix": ""
+                },
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Delos",
+                    "suffix": ""
+                },
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Topics Microbiol. Immunol.",
+            "volume": "285",
+            "issn": "",
+            "pages": "25-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "The entry of entry inhibitors: a fusion of science and medicine",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Doms",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "10598-10602",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "A synthetic peptide from HIV-1 gp41 is a potent inhibitor of virus-mediated cell\u2013cell fusion",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wild",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Greenwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "AIDS Res. Hum. Retroviruses",
+            "volume": "9",
+            "issn": "",
+            "pages": "1051-1053",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Potent suppression of HIV-1 replication in humans by T-20, a peptide inhibitor of gp41-mediated virus entry",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Kilby",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature Med.",
+            "volume": "4",
+            "issn": "",
+            "pages": "1302-1307",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Targeting a binding pocket within the trimer-of-hairpins: small-molecule inhibition of viral fusion",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cianci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "15046-15051",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Molecular mechanism underlying the action of a novel fusion inhibitor of influenza A virus",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "4062-4070",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Structure-based identification of an inducer of the low-pH conformational change in the influenza virus hemagglutinin: irreversible inhibition of infectivity",
+            "authors": [
+                {
+                    "first": "LR",
+                    "middle": [],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "ID",
+                    "middle": [],
+                    "last": "Kuntz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "8808-8820",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schlesinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Schlesinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "895-916",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Lindenbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "991-1041",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "The fusion glycoprotein shell of Semliki Forest virus: an icosahedral assembly primed for fusogenic activation at endosomal pH",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lescar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Cell",
+            "volume": "105",
+            "issn": "",
+            "pages": "137-148",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Membrane fusion process of Semliki Forest virus II: cleavage-dependent reorganization of the spike protein complex controls virus entry",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Salminen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Wahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lobigs",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liljestr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Garoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Cell Biol.",
+            "volume": "116",
+            "issn": "",
+            "pages": "349-357",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "How viruses enter animal cells",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helenius",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "304",
+            "issn": "",
+            "pages": "237-242",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Furin processing and proteolytic activation of Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fugere",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "2981-2989",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Proteolytic activation of tick-borne encephalitis virus by furin",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stadler",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schalich",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "8475-8481",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Cell-associated West Nile flavivirus is covered with E+pre-M protein heterodimers which are destroyed and reorganized by proteolytic cleavage during virus release",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wengler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Virol.",
+            "volume": "63",
+            "issn": "",
+            "pages": "2521-2526",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Budding of alphaviruses",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Garoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sjoberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virus Res.",
+            "volume": "106",
+            "issn": "",
+            "pages": "103-116",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "A structural perspective of the flavivirus life cycle",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mukhopadhyay",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Rossmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "13-22",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Cryo-electron microscopy reveals the functional organization of an enveloped virus, Semliki forest virus",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Mancini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clarke",
+                    "suffix": ""
+                },
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Gowen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Rutten",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Fuller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Cell",
+            "volume": "5",
+            "issn": "",
+            "pages": "255-266",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Placement of the structural proteins in sindbis virus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "11645-11658",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Structures of immature flavivirus particles",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "EMBO J.",
+            "volume": "22",
+            "issn": "",
+            "pages": "2604-2613",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Structure of Dengue virus: implications for flavivirus organization, maturation, and fusion",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell",
+            "volume": "108",
+            "issn": "",
+            "pages": "717-725",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Visualization of membrane protein domains by cryo-electron microscopy of dengue virus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Struct. Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "907-912",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Viral entry",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Sieczkarski",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Whittaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Topics Microbiol. Immunol.",
+            "volume": "285",
+            "issn": "",
+            "pages": "1-23",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Structure of West Nile virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mukhopadhyay",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Chipman",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Rossmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "The envelope glycoprotein from tick-borne encephalitis virus at 2 \u00c5 resolution",
+            "authors": [
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Rey",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mandl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kunz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Nature",
+            "volume": "375",
+            "issn": "",
+            "pages": "291-298",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "A ligand-binding pocket in the dengue virus envelope glycoprotein",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Modis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ogata",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Clements",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "6986-6991",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Variable surface epitopes in the crystal structure of dengue virus type 3 envelope glycoprotein",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Modis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ogata",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Clements",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "1223-1231",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Conformational changes of the flavivirus E glycoprotein",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Structure (Camb.)",
+            "volume": "12",
+            "issn": "",
+            "pages": "1607-1618",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Membrane fusion process of Semliki Forest virus I: low pH-induced rearrangement in spike protein quaternary structure precedes virus penetration into cells",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Wahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Garoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Cell Biol.",
+            "volume": "116",
+            "issn": "",
+            "pages": "339-348",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Membrane fusion of Semliki Forest virus involves homotrimers of the fusion protein",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Wahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bron",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wilschut",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Garoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "7309-7318",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Oligomeric rearrangement of tick-borne encephatitis virus envelope proteins induced by an acidic pH",
+            "authors": [
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "695-700",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Formation and characterization of the trimeric form of the fusion protein of Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "PK",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "7772-7780",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "On the entry of Semliki Forest virus into BHK-21 cells",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helenius",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kartenbeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Simons",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fries",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "J. Cell Biol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "404-420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Role of metastability and acidic pH in membrane fusion by tick-borne encephalitis virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Mandl",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "7392-7398",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Mechanisms of mutations inhibiting fusion and infection by Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Klimjack",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Duffus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Cell Biol.",
+            "volume": "134",
+            "issn": "",
+            "pages": "863-872",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Mutational evidence for an internal fusion peptide in flavivirus envelope protein E",
+            "authors": [
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schalich",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Mandl",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "4268-4275",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "The heterodimeric association between the membrane proteins of Semliki Forest virus changes its sensitivity to low pH during virus maturation",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Wahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "WAM",
+                    "middle": [],
+                    "last": "Boere",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Garoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Virol.",
+            "volume": "63",
+            "issn": "",
+            "pages": "4991-4997",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Membrane and protein interactions of a soluble form of the Semliki Forest virus fusion protein",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Klimjack",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jeffrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "6940-6946",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Membrane interactions of the tick-borne encephalitis virus fusion protein E at low pH",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schalich",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3784-3790",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Purification and crystallization reveal two types of interactions of the fusion protein homotrimer of Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "787",
+            "issn": "",
+            "pages": "3514-3523",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Characterization of a membrane-associated trimeric low-pH-induced form of the class II viral fusion protein E from tick-borne encephalitis virus and its crystallization",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bressanelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lepault",
+                    "suffix": ""
+                },
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Rey",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "3178-3183",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Conformational change and protein\u2013protein interactions of the fusion protein of Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "427",
+            "issn": "",
+            "pages": "320-325",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Structure of the dengue virus envelope protein after membrane fusion",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Modis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ogata",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Clements",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "427",
+            "issn": "",
+            "pages": "313-319",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "SFV infection in CHO cells: cell-type specific restrictions to productive virus entry at the cell surface",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bron",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Cell Sci.",
+            "volume": "110",
+            "issn": "",
+            "pages": "95-103",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Structure of a flavivirus envelope glycoprotein in its low-pH-induced membrane fusion conformation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bressanelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "EMBO J.",
+            "volume": "23",
+            "issn": "",
+            "pages": "728-738",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Multistep regulation of membrane insertion of the fusion peptide of Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "3312-3318",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "The fusion peptide of Semliki Forest virus associates with sterol-rich membrane domains",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3267-3275",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "pH-dependent fusion between the Semliki Forest virus membrane and liposomes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helenius",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "77",
+            "issn": "",
+            "pages": "3273-3277",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "The role of cholesterol in the fusion of Semliki Forest virus with membranes",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helenius",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J. Virol.",
+            "volume": "52",
+            "issn": "",
+            "pages": "281-283",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Membrane fusion of Semliki Forest virus requires sphingolipids in the target membrane",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Nieva",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bron",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Corver",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wilschut",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "EMBO J.",
+            "volume": "13",
+            "issn": "",
+            "pages": "2797-2804",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Membrane fusion activity of tick-borne encephalitis virus and recombinant subviral particles in a liposomal model system",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Corver",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "269",
+            "issn": "",
+            "pages": "37-46",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Involvement of lipids in different steps of the flavivirus fusion mechanism",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Koessl",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "7856-7862",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Cholesterol is required for infection by Semliki Forest virus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Phalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Cell Biol.",
+            "volume": "112",
+            "issn": "",
+            "pages": "615-623",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "The cholesterol requirement for Sindbis virus entry and exit and characterization of a spike protein region involved in cholesterol dependence",
+            "authors": [
+                {
+                    "first": "YE",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cassese",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "4272-4278",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Changes in the conformation of influenza virus hemagglutinin at the pH optimum of virus-mediated membrane fusion",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "79",
+            "issn": "",
+            "pages": "968-972",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "A single point mutation controls the cholesterol dependence of Semliki Forest virus entry and exit",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vashishtha",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Cell Biol.",
+            "volume": "140",
+            "issn": "",
+            "pages": "91-99",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Novel mutations that control the sphingolipid and cholesterol dependence of the Semliki Forest virus fusion protein",
+            "authors": [
+                {
+                    "first": "PK",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Eng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "12712-12722",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Molecular dissection of the Semliki Forest virus homotrimer reveals two functionally distinct regions of the fusion protein",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "1194-1205",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "A conserved histidine in the ij loop of the Semliki Forest virus E1 protein plays an important role in membrane fusion",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chanel-Vos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "13543-13552",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Visualization of the target-membrane-inserted fusion protein of Semliki Forest virus by combined electron microscopy and crystallography",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Gibbons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "114",
+            "issn": "",
+            "pages": "573-583",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Physical principles in the construction of regular viruses",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Caspar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klug",
+                    "suffix": ""
+                }
+            ],
+            "year": 1962,
+            "venue": "Cold Spring Harb. Symp. Quant. Biol.",
+            "volume": "27",
+            "issn": "",
+            "pages": "1-24",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Graphitic cones and the nucleation of curved carbon surfaces",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Krishnan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature",
+            "volume": "388",
+            "issn": "",
+            "pages": "451-454",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Protein\u2013lipid interplay in fusion and fission of biological membranes",
+            "authors": [
+                {
+                    "first": "LV",
+                    "middle": [],
+                    "last": "Chernomordik",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Kozlov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "72",
+            "issn": "",
+            "pages": "175-207",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Class II fusion protein of alphaviruses drives membrane fusion through the same pathway as class I proteins",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Zaitseva",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mittal",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "LV",
+                    "middle": [],
+                    "last": "Chernomordik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell Biol.",
+            "volume": "169",
+            "issn": "",
+            "pages": "167-177",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "The protein coat in membrane fusion: lessons from fission",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Kozlov",
+                    "suffix": ""
+                },
+                {
+                    "first": "LV",
+                    "middle": [],
+                    "last": "Chernomordik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Traffic",
+            "volume": "3",
+            "issn": "",
+            "pages": "256-267",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Structures and mechanisms in flavivirus fusion",
+            "authors": [
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Heinz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Allison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Adv. Virus Res.",
+            "volume": "55",
+            "issn": "",
+            "pages": "231-269",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Stoichiometry of antibody neutralization of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kurteva",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sodroski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "3500-3508",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Stoichiometry of envelope glycoprotein trimers in the entry of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kurteva",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sodroski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "12132-12147",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Domain III from class II fusion proteins functions as a dominant-negative inhibitor of virus-membrane fusion",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kielian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell Biol.",
+            "volume": "171",
+            "issn": "",
+            "pages": "111-120",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Photolabeling identifies a putative fusion domain in the envelope glycoprotein of rabies and vesicular stomatitis viruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Durrer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gaudin",
+                    "suffix": ""
+                },
+                {
+                    "first": "RWH",
+                    "middle": [],
+                    "last": "Ruigrok",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Graf",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brunner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Biol. Chem.",
+            "volume": "270",
+            "issn": "",
+            "pages": "17575-17581",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Reversibility in fusion protein conformational changes. The intriguing case of rhabdovirus-induced membrane fusion",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gaudin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Subcell. Biochem.",
+            "volume": "34",
+            "issn": "",
+            "pages": "379-408",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Herpesvirus entry: an update",
+            "authors": [
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Spear",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Longnecker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "10179-10185",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "The product of the vaccinia virus L5R gene is a fourth membrane protein encoded by all poxviruses that is required for cell entry and cell\u2013cell fusion",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Townsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Senkevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "10988-10998",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "A new class of fusion-associated small transmembrane (FAST) proteins encoded by the non-enveloped fusogenic reoviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shmulevitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Duncan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "EMBO J.",
+            "volume": "19",
+            "issn": "",
+            "pages": "902-912",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "Reptilian reovirus utilizes a small type III protein with an external myristylated amino terminus to mediate cell\u2013cell fusion",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Corcoran",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Duncan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "4342-4351",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Liposome reconstitution of a minimal protein-mediated membrane fusion machine",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Top",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "EMBO J.",
+            "volume": "24",
+            "issn": "",
+            "pages": "2980-2988",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

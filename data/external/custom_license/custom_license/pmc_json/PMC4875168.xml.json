@@ -1,0 +1,939 @@
+{
+    "paper_id": "PMC4875168",
+    "metadata": {
+        "title": "New nsp8 isoform suggests mechanism for tuning viral RNA synthesis",
+        "authors": [
+            {
+                "first": "Shuang",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qi",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yinjie",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yang",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Mark",
+                "middle": [],
+                "last": "Bartlam",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xuemei",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zihe",
+                "middle": [],
+                "last": "Rao",
+                "suffix": "",
+                "email": "raozh@xtal.tsinghua.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The CCP4 suite: programs for protein crystallography",
+            "authors": [],
+            "year": 1994,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "50",
+            "issn": "",
+            "pages": "760-763",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444994003112"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Cellular protein modification by poliovirus: the two faces of poly(rC)-binding protein",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Daijogo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.L.",
+                    "middle": [],
+                    "last": "Walter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.L.",
+                    "middle": [],
+                    "last": "Semler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "8919-8932",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01013-07"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Identification and characterization of severe acute respiratory syndrome coronavirus replicase proteins",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Prentice",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "McAuliffe",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "9977-9986",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.18.9977-9986.2004"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "A contemporary view of coronavirus transcription",
+            "authors": [
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.L.",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "20-29",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01358-06"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "The intracellular sites of early replication and budding of SARS-coronavirus",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Stertz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Reichelt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Spiegel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kuri",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Martinez-Sobrido",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Garcia-Sastre",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Kochs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "361",
+            "issn": "",
+            "pages": "304-315",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.11.027"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Maximum-likelihood density modification",
+            "authors": [
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Terwilliger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Acta Crystallogr D",
+            "volume": "56",
+            "issn": "",
+            "pages": "965-972",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444900005072"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Automated MAD and MIR structure solution",
+            "authors": [
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Terwilliger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Berendzen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Acta Crystallogr D",
+            "volume": "55",
+            "issn": "",
+            "pages": "849-861",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444999000839"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Localization of mouse hepatitis virus nonstructural proteins and RNA synthesis indicates a role for late endosomes in viral replication",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "van der Meer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.J.",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Schleich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Locker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Virol",
+            "volume": "73",
+            "issn": "",
+            "pages": "7641-7657",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "New antiviral target revealed by the hexameric structure of mouse hepatitis virus nonstructural protein nsp15",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhai",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Joachimiak",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.C.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Bartlam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "7909-7917",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00525-06"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The crystal structures of severe acute respiratory syndrome virus main protease and its complex with an inhibitor",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "100",
+            "issn": "",
+            "pages": "13190-13195",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1835675100"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "The role of viral and host genes in corneal infection with herpes simplex virus type 1",
+            "authors": [
+                {
+                    "first": "C.R.",
+                    "middle": [],
+                    "last": "Brandt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Exp Eye Res",
+            "volume": "80",
+            "issn": "",
+            "pages": "607-621",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.exer.2004.09.007"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Insights into SARS-CoV transcription and replication from the structure of the nsp7\u2013nsp8 hexadecamer",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhai",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Bartlam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "12",
+            "issn": "",
+            "pages": "980-986",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb999"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Characterization of the expression, intracellular localization, and replication complex association of the putative mouse hepatitis virus RNA-dependent RNA polymerase",
+            "authors": [
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Brockway",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.T.",
+                    "middle": [],
+                    "last": "Clay",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.T.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "10515-10527",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.19.10515-10527.2003"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Crystallography & NMR system: a new software suite for macromolecular structure determination",
+            "authors": [
+                {
+                    "first": "A.T.",
+                    "middle": [],
+                    "last": "Brunger",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.D.",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.M.",
+                    "middle": [],
+                    "last": "Clore",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.L.",
+                    "middle": [],
+                    "last": "DeLano",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Gros",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.W.",
+                    "middle": [],
+                    "last": "Grosse-Kunstleve",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.S.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Kuszewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nilges",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.S.",
+                    "middle": [],
+                    "last": "Pannu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Acta Crystallogr D",
+            "volume": "54",
+            "issn": "",
+            "pages": "905-921",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444998003254"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Processing of open reading frame 1a replicase proteins nsp7 to nsp10 in murine hepatitis virus strain A59 replication",
+            "authors": [
+                {
+                    "first": "D.J.",
+                    "middle": [],
+                    "last": "Deming",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.L.",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "10280-10291",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00017-07"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Coot: model-building tools for molecular graphics",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Emsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Cowtan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "60",
+            "issn": "",
+            "pages": "2126-2132",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444904019158"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Interaction of poly(rC) binding protein 2 with the 5\u2032 noncoding region of hepatitis A virus RNA and its effects on translation",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Graff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Cha",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.B.",
+                    "middle": [],
+                    "last": "Blyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Virol",
+            "volume": "72",
+            "issn": "",
+            "pages": "9668-9675",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "The nsp2 proteins of mouse hepatitis virus and SARS coronavirus are dispensable for viral replication",
+            "authors": [
+                {
+                    "first": "R.L.",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.C.",
+                    "middle": [],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv Exp Med Biol",
+            "volume": "581",
+            "issn": "",
+            "pages": "67-72",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-0-387-33012-9_10"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "A second, non-canonical RNA-dependent RNA polymerase in SARS coronavirus",
+            "authors": [
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Guillemot",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Bourhis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Bussetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.P.",
+                    "middle": [],
+                    "last": "Egloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.E.",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "EMBO J",
+            "volume": "25",
+            "issn": "",
+            "pages": "4933-4942",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.emboj.7601368"
+                ]
+            }
+        }
+    }
+}

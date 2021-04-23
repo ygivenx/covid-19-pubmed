@@ -1,0 +1,4218 @@
+{
+    "paper_id": "PMC7097627",
+    "metadata": {
+        "title": "Engineering targeted viral vectors for gene therapy",
+        "authors": [
+            {
+                "first": "Reinhard",
+                "middle": [],
+                "last": "Waehler",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Stephen",
+                "middle": [
+                    "J."
+                ],
+                "last": "Russell",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "T."
+                ],
+                "last": "Curiel",
+                "suffix": "",
+                "email": "curiel@uab.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Key features of viral vectors\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Targeting systems\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | Adenovirus (Ad). Ad serotype 5 binds to its receptor CAR (coxsackie and adenovirus receptor) through its fibre knob. Subsequently, integrins interact with the RGD peptide motif in the penton base (the capsid protein at the base of the fibre) and facilitate cell entry by endocytosis138. b | Adeno-associated virus (AAV). Several basic residues of the AAV2 (adeno-associated virus serotype 2) capsid protein VP3 (especially positions R585 and R588) are involved in heparin binding. AAV2 first binds to heparan-sulphate proteoglycan (HSPG)139 and then to the co-receptor, which can be either an integrin (shown here), human fibroblast growth factor receptor or hepatocyte growth factor receptor. The virus is internalized by endocytosis. Other AAV serotypes either resemble AAV2 in its heparin binding (such as AAV3 and AAV6), or use different primary receptors (for example, sialic acid for AAV4 and AAV5)140. c | Retrovirus (lentivirus): Membrane fusion is the main mechanism whereby enveloped viruses deliver their genomes into target cells141. After initial nonspecific adhesion of the virus to the cell surface142, viral attachment glycoproteins bind specifically to their cognate receptors, whereupon binding becomes irreversible. The host range of retroviral vectors is determined by the interaction of the viral envelope protein (Env) and the cellular receptor143. Subsequent steps in the viral entry process vary between different viruses but always result in fusion between the lipid membranes of the virus and the host cell, following which the viral nucleocapsid is released into the cytoplasm144. In some cases, receptor binding triggers conformational changes in the viral proteins that mediate membrane fusion. In others, the cell-bound virus is transported by its receptor into an endosomal compartment where a reduction in pH triggers a conformational rearrangement of the viral fusion machinery. SU, surface subunit; TM, transmembrane subunit.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Many targeting modalities have been implemented for all three vector types discussed in this Review. The targeting techniques are illustrated for only one viral attachment protein in most of the panels. A |Pseudotyping. A retroviral (lentiviral) vector is pseudotyped with an envelope protein (Env) from a different virus9. B |Adaptors. In part Ba, an adenoviral vector is coupled with a receptor\u2013ligand fusion; in this example, the ectodomain of the adenoviral receptor is fused to a ligand that is expressed on a target cell type (for example, CD40L, the ligand for the CD40 receptor on dendritic cells)22. In part Bb, a biotin-acceptor peptide is integrated into the fibre knob, biotinylated and coupled to an avidin-containing ligand21. In part Bc, an antibody-binding domain is genetically incorporated into the adeno-associated virus (AAV) capsid to couple a monoclonal antibody to the vector43. In part Bd, a bispecific antibody is attached to the AAV capsid145. C | Genetic incorporation of a targeting ligand. In part Ca, a single-chain antibody (single-chain variable fragment (scFv) against human carcinoembryonic antigen (CEA)) and a matrix metalloprotease (MMP) cleavage site are coupled to the viral envelope protein (Env). This allows binding to tumour cells that express CEA, followed by cleavage of the MMP cleavage site by tumour-secreted MMP48. The vector can also be targeted to tumour cells by incorporating a tumour-specific scFv directly into Env. However, these insertions can perturb infection if the targeted receptor does not support the required post-binding steps towards viral entry. The MMP cleavage site allows release of the scFv before fusion with the target cell. In part Cb, incorporation of a small targeting ligand (for example, an RGD peptide) can be used to target a vector to integrin receptors73. In part Cc, the serotype is changed to achieve desired targeting140. In part Cd, the use of different fibres in the same vector allows multifunctionality in a mosaic fibre virus93. CAR, coxsackie and adenovirus receptor.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Oncolytic viral therapies \u2014 the clinical experience",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aghi",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Martuza",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Oncogene",
+            "volume": "24",
+            "issn": "",
+            "pages": "7802-7816",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.onc.1209037"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Pseudotyping of murine leukemia virus with the envelope glycoproteins of HIV generates a retroviral vector with specificity of infection for CD4-expressing cells",
+            "authors": [
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Schnierle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "8640-8465",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.16.8640"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Multiple innate inflammatory responses induced after systemic adenovirus vector delivery depend on a functional complement system",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "588-598",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2006.03.024"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Epitope mapping of human anti-adeno-associated virus type 2 neutralizing antibodies: implications for gene therapy and virus structure",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moskalenko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "1761-1766",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.4.1761-1766.2000"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Efficacy of severe acute respiratory syndrome vaccine based on a nonhuman primate adenovirus in the presence of immunity against human adenovirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Hum. Gene Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "500-506",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.2006.17.500"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "PEGylated helper-dependent adenoviral vectors: highly efficient vectors with an enhanced safety profile",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Croyle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Gene Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "579-587",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302441"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Multiple vitamin K-dependent coagulation zymogens promote adenovirus-mediated gene delivery to hepatocytes",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Parker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Blood",
+            "volume": "108",
+            "issn": "",
+            "pages": "2554-2561",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2006-04-008532"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Adenovirus binding to blood factors results in liver cell infection and hepatotoxicity",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Shayakhmetov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gaggar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lieber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7478-7491",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.12.7478-7491.2005"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Adenovirus type 5 interactions with human blood cells may compromise systemic delivery",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lyons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "118-128",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2006.01.003"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Assessment of recombinant adenoviral vectors for hepatic gene therapy",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Kay",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Finegold",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Stratford-Perricaudet",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Woo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Hum. Gene Ther.",
+            "volume": "4",
+            "issn": "",
+            "pages": "403-409",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.1993.4.4-403"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Transcytosis of human immunodeficiency virus 1 across the placenta is enhanced by treatment with tumour necrosis factor alpha",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Parry",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Koi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Arechavaleta-Velasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Elovitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Gen. Virol.",
+            "volume": "87",
+            "issn": "",
+            "pages": "2269-2278",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.81071-0"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Expression of coxsackie adenovirus receptor and av-integrin does not correlate with adenovector targeting in vivo indicating anatomical vector barriers",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fechner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Gene Ther.",
+            "volume": "6",
+            "issn": "",
+            "pages": "1520-1535",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3301030"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "VSV pseudotype particles with the coat of avian myeloblastosis virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zavada",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Nature New Biol.",
+            "volume": "240",
+            "issn": "",
+            "pages": "122-124",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/newbio240122a0"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Mesenchymal progenitor cells as cellular vehicles for delivery of oncolytic adenoviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Komarova",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawakami",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Stoff-Khalili",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Curiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pereboeva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Cancer Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "755-766",
+            "other_ids": {
+                "DOI": [
+                    "10.1158/1535-7163.MCT-05-0334"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Mesenchymal stem cells as a vehicle for targeted delivery of CRAds to lung metastases of breast carcinoma",
+            "authors": [
+                {
+                    "first": "Mariam",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Stoff-Khalili",
+                    "suffix": ""
+                },
+                {
+                    "first": "Angel",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Rivera",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "Michael"
+                    ],
+                    "last": "Mathis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "Sanjib"
+                    ],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Amanda",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Hess",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rodney",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Rocconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "Michael"
+                    ],
+                    "last": "Numnum",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Everts",
+                    "suffix": ""
+                },
+                {
+                    "first": "Louise",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Chow",
+                    "suffix": ""
+                },
+                {
+                    "first": "Joanne",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Douglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gene",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Siegal",
+                    "suffix": ""
+                },
+                {
+                    "first": "Zeng",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hans",
+                    "middle": [
+                        "Georg"
+                    ],
+                    "last": "Bender",
+                    "suffix": ""
+                },
+                {
+                    "first": "Peter",
+                    "middle": [],
+                    "last": "Dall",
+                    "suffix": ""
+                },
+                {
+                    "first": "Alexander",
+                    "middle": [],
+                    "last": "Stoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "Larissa",
+                    "middle": [],
+                    "last": "Pereboeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "David",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Curiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Breast Cancer Research and Treatment",
+            "volume": "105",
+            "issn": "2",
+            "pages": "157-167",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10549-006-9449-8"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Targeting of adenovirus vectors to tumor cells does not enable efficient transduction of breast cancer metastases",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Shayakhmetov",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lieber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cancer Res.",
+            "volume": "62",
+            "issn": "",
+            "pages": "1063-1068",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Tumor structure and extracellular matrix as a possible barrier for therapeutic approaches using immune cells or adenoviruses in colorectal cancer",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Kuppen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Histochem. Cell Biol.",
+            "volume": "115",
+            "issn": "",
+            "pages": "67-72",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s004180000224"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Prolonged and inducible transgene expression in the liver using gutless adenovirus: a potential therapy for liver cancer",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Gastroenterology",
+            "volume": "126",
+            "issn": "",
+            "pages": "278-289",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.gastro.2003.10.075"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Combining high selectivity of replication with fiber chimerism for effective adenoviral oncolysis of CAR-negative melanoma cells",
+            "authors": [
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Rivera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Gene Ther.",
+            "volume": "11",
+            "issn": "",
+            "pages": "1694-1702",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302346"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Inter-patient variation in efficacy of five oncolytic adenovirus candidates for ovarian cancer therapy",
+            "authors": [
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Lam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gene Med.",
+            "volume": "6",
+            "issn": "",
+            "pages": "1333-1342",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jgm.635"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Three-dimensional tissue culture models in cancer biology",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Semin. Cancer Biol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "365-377",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.semcancer.2005.05.002"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "A single-component CD40-targeted adenovirus vector displays highly efficient transduction and activation of dendritic cells in a human skin substrate system",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Korokhov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Pharm.",
+            "volume": "2",
+            "issn": "",
+            "pages": "218-223",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/mp050002w"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Linking innate and acquired immunity: divergent role of CD46 cytoplasmic domains in T cell induced inflammation",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Marie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Immunol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "659-666",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ni810"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Pseudotyped lentivirus vectors derived from simian immunodeficiency virus SIVagm with envelope glycoproteins from paramyxovirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Iida",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ueda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hasegawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "2607-2614",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.4.2607-2614.2003"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Evaluation of adenovirus vectors containing serotype 35 fibers for vaccination",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "DiPaolo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "756-765",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2005.12.008"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Selective induction of tumor-associated antigens in murine pulmonary vasculature using double-targeted adenoviral vectors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Everts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Gene Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1042-1048",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302491"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "In vivo analysis of a genetically modified adenoviral vector targeted to human CD40 using a novel transient transgenic model",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Izumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Gene Med.",
+            "volume": "7",
+            "issn": "",
+            "pages": "1517-1525",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jgm.806"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "A mouse model for adenovirus gene delivery",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tallone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "98",
+            "issn": "",
+            "pages": "7910-7915",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.141223398"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "An adenovirus serotype 5 vector with fibers derived from ovine atadenovirus demonstrates CAR-independent tropism and unique biodistribution in mice",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nakayama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "350",
+            "issn": "",
+            "pages": "103-115",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.01.037"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Biodistribution and toxicity studies of VSVG-pseudotyped lentiviral vector after intravenous administration in mice with the observation of in vivo transduction of bone marrow",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Ther.",
+            "volume": "6",
+            "issn": "",
+            "pages": "19-29",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mthe.2002.0630"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Phase II clinical trial of intralesional administration of the oncolytic adenovirus ONYX-015 in patients with hepatobiliary tumors with correlative p53 studies",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Makower",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin. Cancer Res.",
+            "volume": "9",
+            "issn": "",
+            "pages": "693-702",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Phase I-II trial of ONYX-015 in combination with MAP chemotherapy in patients with advanced sarcomas",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Galanis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Gene Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "437-445",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302436"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Noninvasive imaging of protein\u2013protein interactions in living animals",
+            "authors": [
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Luker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "6961-6966",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.092022399"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "A dual function fusion protein of Herpes simplex virus type 1 thymidine kinase and firefly luciferase for noninvasive in vivo imaging of gene therapy in malignant glioma",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Soling",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Theiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jungmichel",
+                    "suffix": ""
+                },
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Rainov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genet. Vaccines Ther.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1479-0556-2-7"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Lentiviral vector retargeting to P-glycoprotein on metastatic melanoma through intravenous injection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Morizono",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "346-352",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1192"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Molecular optical imaging: applications leading to the development of present day therapeutics",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "NeuroRx",
+            "volume": "2",
+            "issn": "",
+            "pages": "215-225",
+            "other_ids": {
+                "DOI": [
+                    "10.1602/neurorx.2.2.215"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Fluorescently labeled adenovirus with pIX-EGFP for vector detection",
+            "authors": [
+                {
+                    "first": "LP",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Imaging",
+            "volume": "3",
+            "issn": "",
+            "pages": "105-116",
+            "other_ids": {
+                "DOI": [
+                    "10.1162/1535350041464874"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Dynamic monitoring of oncolytic adenovirus in vivo by genetic capsid labeling",
+            "authors": [
+                {
+                    "first": "LP",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Natl Cancer Inst.",
+            "volume": "98",
+            "issn": "",
+            "pages": "203-214",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jnci/djj022"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Fluorescently tagged canine adenovirus via modification with protein IX-enhanced green fluorescent protein",
+            "authors": [
+                {
+                    "first": "LP",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "VV",
+                    "middle": [],
+                    "last": "Ternovoi",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Siegal",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Curiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Gen. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "3201-3208",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.80968-0"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Genetic incorporation of HSV-1 thymidine kinase into the adenovirus protein IX for functional display on the virion",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Sibley",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Mathis",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Curiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "338",
+            "issn": "",
+            "pages": "247-258",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2005.04.005"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Genetic incorporation of a herpes simplex virus type 1 thymidine kinase and firefly luciferase fusion into the adenovirus protein IX for functional display on the virion",
+            "authors": [
+                {
+                    "first": "QL",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Imaging",
+            "volume": "5",
+            "issn": "",
+            "pages": "510-519",
+            "other_ids": {
+                "DOI": [
+                    "10.2310/7290.2006.00029"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Low-dose adenoviral immunotherapy of rat hepatocellular carcinoma using single-chain interleukin-12",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Waehler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Hum. Gene Ther.",
+            "volume": "16",
+            "issn": "",
+            "pages": "307-317",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.2005.16.307"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Magnetic resonance imaging of viral particle biodistribution in vivo",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Raty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gene Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "1440-1446",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302828"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Berk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "2355-2436",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Membrane-associated heparan sulfate proteoglycan is a receptor for adeno-associated virus type 2 virions",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Summerford",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Samulski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "1438-1445",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Cell-specific targeting of Sindbis virus vectors displaying IgG-binding domains of protein A",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ohno",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sawai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Iijima",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Meruelo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature Biotechnol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "763-767",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt0897-763"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Adeno-associated virus serotypes: vector toolkit for human gene therapy",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Asokan",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Samulski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "316-327",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2006.05.009"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Goff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "2000-2069",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Initial binding of murine leukemia virus particles to cells does not require specific Env-receptor interaction",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pizzato",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Marlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "ED",
+                    "middle": [],
+                    "last": "Blair",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "8599-8611",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Modified envelope glycoproteins to retarget retroviral vectors",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Haynes",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Erlwein",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Schnierle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Curr. Gene Ther.",
+            "volume": "3",
+            "issn": "",
+            "pages": "405-410",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1566523034578267"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Mechanism of membrane fusion by viral envelope proteins",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Adv. Virus Res.",
+            "volume": "64",
+            "issn": "",
+            "pages": "231-261",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(05)64007-9"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Targeted adeno-associated virus vector transduction of nonpermissive cells mediated by a bispecific F(ab\u2032\u03b3)2 antibody",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kleinschmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Boucher",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Samulski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature Biotechnol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "181-186",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/6185"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Enhanced gene transfer efficiency in the murine striatum and an orthotopic glioblastoma tumor model, using AAV-7- and AAV-8-pseudotyped vectors",
+            "authors": [
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Harding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Hum. Gene Ther.",
+            "volume": "17",
+            "issn": "",
+            "pages": "807-820",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.2006.17.807"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Combined transductional and transcriptional targeting improves the specificity of transgene expression in vivo",
+            "authors": [
+                {
+                    "first": "PN",
+                    "middle": [],
+                    "last": "Reynolds",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Biotechnol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "838-842",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt0901-838"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "Targeting non-human coronaviruses to human cancer cells using a bispecific single-chain antibody",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wurdinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Gene Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1394-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302535"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Development and assessment of human adenovirus type 11 as a gene transfer vector",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5090-5104",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.8.5090-5104.2005"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Construction of a novel virus that targets HIV-1-infected cells and controls HIV-1 infection",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Schnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Buonocore",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Cell",
+            "volume": "90",
+            "issn": "",
+            "pages": "849-857",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80350-5"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Targeting of HIV- and SIV-infected cells by CD4-chemokine receptor pseudotypes",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Endres",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Science",
+            "volume": "278",
+            "issn": "",
+            "pages": "1462-1464",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.278.5342.1462"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Retroviral vector targeting to human immunodeficiency virus type 1-infected cells by receptor pseudotyping",
+            "authors": [
+                {
+                    "first": "NV",
+                    "middle": [],
+                    "last": "Somia",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Miyoshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Schmitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Verma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "4420-4424",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.9.4420-4424.2000"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "A chimeric adenovirus vector encoding reovirus attachment protein \u03c31 targets cells expressing junctional adhesion molecule 1",
+            "authors": [
+                {
+                    "first": "GT",
+                    "middle": [],
+                    "last": "Mercier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "6188-6193",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0400542101"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "An adenovirus vector with a chimeric fiber incorporating stabilized single chain antibody achieves targeted gene delivery",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Hedley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gene Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "88-94",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302603"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Targeted gene therapy for ovarian cancer",
+            "authors": [
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Rocconi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Gene Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "643-653",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/156652305774964668"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "A hybrid vector for ligand-directed tumor targeting and molecular imaging",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hajitou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell",
+            "volume": "125",
+            "issn": "",
+            "pages": "385-398",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2006.02.042"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Metabolically biotinylated adenovirus for cell targeting, ligand screening, and vector purification",
+            "authors": [
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Parrott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol. Ther.",
+            "volume": "8",
+            "issn": "",
+            "pages": "688-700",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1525-0016(03)00213-2"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Enhanced gene transfer to mouse dendritic cells using adenoviral vectors coated with a novel adapter molecule",
+            "authors": [
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Pereboev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Ther.",
+            "volume": "9",
+            "issn": "",
+            "pages": "712-720",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2004.02.006"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Targeting retroviral vector infection to cells that express heregulin receptors using a TVA-heregulin bridge protein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Snitkovsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "292",
+            "issn": "",
+            "pages": "150-155",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2001.1314"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Redirecting coronavirus to a nonnative receptor through a virus-encoded targeting adapter",
+            "authors": [
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Verheije",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "1250-1260",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.3.1250-1260.2006"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Targeting adenoviral vectors using heterofunctional polyethylene glycol FGF2 conjugates",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lanciotti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol. Ther.",
+            "volume": "8",
+            "issn": "",
+            "pages": "99-107",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1525-0016(03)00139-4"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "A novel strategy to modify adenovirus tropism and enhance transgene delivery to activated vascular endothelial cells in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ogawara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Hum. Gene Ther.",
+            "volume": "15",
+            "issn": "",
+            "pages": "433-443",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/10430340460745766"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Evaluation of polyethylene glycol modification of first-generation and helper-dependent adenoviral vectors to reduce innate immune responses",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mok",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Palmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Barry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Ther.",
+            "volume": "11",
+            "issn": "",
+            "pages": "66-79",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2004.09.015"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "PEGylated adenovirus vectors containing RGD peptides on the tip of PEG show high transduction efficiency and antibody evasion ability",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Eto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Gene Med.",
+            "volume": "7",
+            "issn": "",
+            "pages": "604-612",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jgm.699"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Why did p53 gene therapy fail in ovarian cancer?",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Zeimet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Marth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet Oncol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "415-422",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1470-2045(03)01139-2"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "PEGylation of a vesicular stomatitis virus G pseudotyped lentivirus vector prevents inactivation in serum",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Croyle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "912-921",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.2.912-921.2004"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Combined genetic and chemical capsid modifications enable flexible and efficient de- and retargeting of adenovirus vectors",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kreppel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gackowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kochanek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "107-117",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2005.03.006"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "The biotin-(strept)avidin system: principles and applications in biotechnology",
+            "authors": [
+                {
+                    "first": "EP",
+                    "middle": [],
+                    "last": "Diamandis",
+                    "suffix": ""
+                },
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Christopoulos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Clin. Chem.",
+            "volume": "37",
+            "issn": "",
+            "pages": "625-636",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Brave new (strept)avidins in biotechnology",
+            "authors": [
+                {
+                    "first": "OH",
+                    "middle": [],
+                    "last": "Laitinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Nordlund",
+                    "suffix": ""
+                },
+                {
+                    "first": "VP",
+                    "middle": [],
+                    "last": "Hytonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Kulomaa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Trends Biotechnol.",
+            "volume": "25",
+            "issn": "",
+            "pages": "269-277",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tibtech.2007.04.001"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "A versatile and potentially general approach to the targeting of specific cell types by retroviruses: application to the infection of human cells by means of major histocompatibility complex class I and class II antigens by mouse ecotropic murine leukemia virus-derived viruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Roux",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jeanteur",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Piechaczyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "86",
+            "issn": "",
+            "pages": "9079-9083",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.86.23.9079"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "The efficiency of cell targeting by recombinant retroviruses depends on the nature of the receptor and the composition of the artificial cell-virus linker",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Etienne-Julan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Roux",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Carillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jeanteur",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Piechaczyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Gen. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "3251-3255",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-73-12-3251"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "Avidin-based targeting and purification of a protein IX-modified, metabolically biotinylated adenoviral vector",
+            "authors": [
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Campos",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Parrott",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Barry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Ther.",
+            "volume": "9",
+            "issn": "",
+            "pages": "942-954",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2004.03.006"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "Comparison of adenovirus fiber, protein IX, and hexon capsomeres as scaffolds for vector purification and cell targeting",
+            "authors": [
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Campos",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Barry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "349",
+            "issn": "",
+            "pages": "453-462",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.01.032"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Recombinant adenovirus type 5 vectors that target DC-SIGN, ChemR23 and \u03b1v\u03b23 integrin efficiently transduce human dendritic cells and enhance presentation of vectored antigens",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Maguire",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Vaccine",
+            "volume": "24",
+            "issn": "",
+            "pages": "671-682",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2005.08.038"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Metabolic biotinylation provides a unique platform for the purification and targeting of multiple AAV vector serotypes",
+            "authors": [
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Arnold",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Sasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Stachler",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "97-106",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2006.02.014"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "Transcriptionally targeted adenovirus vectors",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sadeghi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Hitt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Gene Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "411-427",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1566523054546189"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Targeting of vaccinia virus using biotin\u2013avidin viral coating and biotinylated antibodies",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Purow",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Staveley-O'Carroll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Surg. Res.",
+            "volume": "123",
+            "issn": "",
+            "pages": "49-54",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jss.2004.04.022"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "Drug Insight: using monoclonal antibodies to treat multiple sclerosis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hohlfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wekerle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Clin. Pract. Neurol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "34-44",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ncpneuro0016"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "Comparing antibody and small-molecule therapies for cancer",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Takaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Cancer",
+            "volume": "6",
+            "issn": "",
+            "pages": "714-727",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrc1913"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Altering AAV tropism with mosaic viral capsids",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gigout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Ther.",
+            "volume": "11",
+            "issn": "",
+            "pages": "856-865",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2005.03.005"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "Targeting of adenovirus via genetic modification of the viral capsid combined with a protein bridge",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Korokhov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "12931-12940",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.24.12931-12940.2003"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Antibody-mediated targeting of replication-competent retroviral vectors",
+            "authors": [
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Hum. Gene Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "789-802",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/104303403765255174"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "Retroviral vectors displaying functional antibody fragments",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Hawkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Winter",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Nucleic Acids Res.",
+            "volume": "21",
+            "issn": "",
+            "pages": "1081-1085",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/21.5.1081"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Development of novel cell surface CD34-targeted recombinant adenoassociated virus vectors for gene therapy",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Hum. Gene Ther.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1929-1937",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.1998.9.13-1929"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Efficient retroviral vector targeting of carcinoembryonic antigen-positive tumors",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chowdhury",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Chester",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bridgewater",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Ther.",
+            "volume": "9",
+            "issn": "",
+            "pages": "85-92",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2003.10.004"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "Rescue and propagation of fully retargeted oncolytic measles viruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotechnol.",
+            "volume": "23",
+            "issn": "",
+            "pages": "209-214",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt1060"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Gene therapy clinical trials worldwide 1989\u20132004 \u2014 an overview",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Edelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Abedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wixon",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Edelstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gene Med.",
+            "volume": "6",
+            "issn": "",
+            "pages": "597-602",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jgm.619"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "A herpes simplex virus recombinant that exhibits a single-chain antibody to HER2/neu enters cells through the mammary tumor receptor, independently of the gD receptors",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Menotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cerretani",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Campadelli-Fiume",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "5531-5539",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02725-05"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Lentiviral vector targeting",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Larochelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "261",
+            "issn": "",
+            "pages": "143-163",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Characterization of a recombinant herpes simplex virus 1 designed to enter cells via the IL13R\u03b12 receptor of malignant glioma cells",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Roizman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5272-5277",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.9.5272-5277.2005"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Incorporation of fowl plague virus hemagglutinin into murine leukemia virus particles and analysis of the infectivity of the pseudotyped retroviruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hatziioannou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Valsesia-Wittmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "FL",
+                    "middle": [],
+                    "last": "Cosset",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "5313-5317",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Novel lentiviral vectors displaying 'early-acting cytokines' selectively promote survival and transduction of NOD/SCID repopulating human hematopoietic stem cells",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Verhoeyen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Blood",
+            "volume": "106",
+            "issn": "",
+            "pages": "3386-3395",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2004-12-4736"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "The effects of N-terminal insertion into VSV-G of an scFv peptide",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dreja",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Piechaczyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virol. J.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1743-422X-3-69"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "Genetic retargeting of adenovirus vectors: functionality of targeting ligands and their influence on virus viability",
+            "authors": [
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Magnusson",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Henning",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Boulanger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lindholm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Gene Med.",
+            "volume": "4",
+            "issn": "",
+            "pages": "356-370",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jgm.285"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "Organization of the functions and components of the endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shimizu",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Hendershot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Adv. Exp. Med. Biol.",
+            "volume": "594",
+            "issn": "",
+            "pages": "37-46",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-0-387-39975-1_4"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Synthesis and quality control of viral membrane proteins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Maggioni",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Braakman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "285",
+            "issn": "",
+            "pages": "175-198",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "Inverse targeting of retroviral vectors: selective gene transfer in a mixed population of hematopoietic and nonhematopoietic cells",
+            "authors": [
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Fielding",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Maurice",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Morling",
+                    "suffix": ""
+                },
+                {
+                    "first": "FL",
+                    "middle": [],
+                    "last": "Cosset",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Blood",
+            "volume": "91",
+            "issn": "",
+            "pages": "1802-1809",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "Non-viral and viral vectors for gene therapy",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Boulaiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Marchal",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Prados",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Melguizo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aranega",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell Mol. Biol. (Noisy-le-grand)",
+            "volume": "51",
+            "issn": "",
+            "pages": "3-22",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "Retroviral retargeting by envelopes expressing an N-terminal binding domain",
+            "authors": [
+                {
+                    "first": "FL",
+                    "middle": [],
+                    "last": "Cosset",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "6314-6322",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "Modification of retroviral tropism by display of IGF-I",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Chadwick",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Morling",
+                    "suffix": ""
+                },
+                {
+                    "first": "FL",
+                    "middle": [],
+                    "last": "Cosset",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Mol. Biol.",
+            "volume": "285",
+            "issn": "",
+            "pages": "485-494",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1998.2350"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "Targeting retroviral and lentiviral vectors",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sandrin",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "FL",
+                    "middle": [],
+                    "last": "Cosset",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "281",
+            "issn": "",
+            "pages": "137-178",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "Targeted retroviral vectors displaying a cleavage site-engineered hemagglutinin (HA) through HA-protease interactions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Szecsi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "735-744",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2006.04.007"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "Envelope-targeted retrovirus vectors transduce melanoma xenografts but not spleen or liver",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chowdhury",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Neil",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Phillipps",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "269-274",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mthe.2002.0550"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "Organ distribution of gene expression after intravenous infusion of targeted and untargeted lentiviral vectors",
+            "authors": [
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Gene Ther.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1456-1463",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3301552"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "Molecular and cellular biology of von Willebrand factor",
+            "authors": [
+                {
+                    "first": "CV",
+                    "middle": [],
+                    "last": "Denis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Int. J. Hematol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "3-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02981972"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "Technology evaluation: Rexin-G, Epeius Biotechnologies",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Morse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Opin. Mol. Ther.",
+            "volume": "7",
+            "issn": "",
+            "pages": "164-169",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "Systemic administration of a matrix-targeted retroviral vector is efficacious for cancer gene therapy in mice",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Hum. Gene Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "193-204",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/104303401750061258"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Pathotropic nanoparticles for cancer gene therapy Rexin-G IV: three-year clinical experience",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Int. J. Oncol.",
+            "volume": "29",
+            "issn": "",
+            "pages": "1053-1064",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Nuclear gene delivery: the Trojan horse approach",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rolland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Expert Opin. Drug Deliv.",
+            "volume": "3",
+            "issn": "",
+            "pages": "1-10",
+            "other_ids": {
+                "DOI": [
+                    "10.1517/17425247.3.1.1"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Mosaic vectors comprised of modified AAV1 capsid proteins for efficient vector purification and targeting to vascular endothelial cells",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Stachler",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gene Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "926-931",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302738"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Gene transfer to carcinoma of the breast with fiber-modified adenoviral vectors in a tissue slice model system",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Stoff-Khalili",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cancer Biol. Ther.",
+            "volume": "4",
+            "issn": "",
+            "pages": "1203-1210",
+            "other_ids": {
+                "DOI": [
+                    "10.4161/cbt.4.11.2084"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "Preclinical evaluation of a class of infectivity-enhanced adenoviral vectors in ovarian cancer gene therapy",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Gene Ther.",
+            "volume": "11",
+            "issn": "",
+            "pages": "874-878",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302249"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "Redirecting retroviral tropism by insertion of short, nondisruptive peptide ligands into envelope",
+            "authors": [
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Gollan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3558-3563",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.7.3558-3563.2002"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "Decreasing the metastatic potential in cancers \u2014 targeting the heparan sulfate proteoglycans",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fjeldstad",
+                    "suffix": ""
+                },
+                {
+                    "first": "SO",
+                    "middle": [],
+                    "last": "Kolset",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Drug Targets",
+            "volume": "6",
+            "issn": "",
+            "pages": "665-682",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1389450054863662"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "title": "Polylysine modification of adenoviral fiber protein enhances muscle cell transduction",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bouri",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Hum. Gene Ther.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1633-1640",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/10430349950017635"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "Ovarian cancer targeted adenoviral-mediated mda-7/IL-24 gene therapy",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Mahasreshti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gynecol. Oncol.",
+            "volume": "100",
+            "issn": "",
+            "pages": "521-532",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ygyno.2005.08.042"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "title": "Treatment of ovarian cancer with a tropism modified oncolytic adenovirus",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Bauerschmitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cancer Res.",
+            "volume": "62",
+            "issn": "",
+            "pages": "1266-1270",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "Identifying the safety profile of a novel infectivity-enhanced conditionally replicative adenovirus, Ad5-\u03b424-RGD, in anticipation of a phase I trial for recurrent ovarian cancer",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Page",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Am. J. Obstet. Gynecol.",
+            "volume": "196",
+            "issn": "",
+            "pages": "e1-e9",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajog.2006.12.016"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "Directed evolution of adeno-associated virus yields enhanced gene delivery vectors",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Maheshri",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Koerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "BK",
+                    "middle": [],
+                    "last": "Kaspar",
+                    "suffix": ""
+                },
+                {
+                    "first": "DV",
+                    "middle": [],
+                    "last": "Schaffer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Biotechnol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "198-204",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt1182"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "Replication-defective genomic HSV gene therapy vectors: design, production and CNS applications",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Fink",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Glorioso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Opin. Mol. Ther.",
+            "volume": "7",
+            "issn": "",
+            "pages": "326-336",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Toward cell-targeting gene therapy vectors: selection of cell-binding peptides from random peptide-presenting phage libraries",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Barry",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Dower",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Johnston",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature Med.",
+            "volume": "2",
+            "issn": "",
+            "pages": "299-305",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0396-299"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "title": "Selection of muscle-binding peptides from context-specific peptide-presenting phage libraries for adenoviral vector targeting",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Barry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "13667-13672",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.21.13667-13672.2005"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "title": "Selection of feline leukemia virus envelope proteins from a library by functional association with a murine leukemia virus envelope",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bupp",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sarangi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "351",
+            "issn": "",
+            "pages": "340-348",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.03.040"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "title": "Altering retroviral tropism using a random-display envelope library",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bupp",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "329-335",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mthe.2002.0546"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "title": "Probing sequence variation in the receptor-targeting domain of feline leukemia virus envelope proteins with peptide display libraries",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bupp",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sarangi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "1463-1469",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.3.1463-1469.2005"
+                ]
+            }
+        },
+        "BIBREF133": {
+            "title": "Generation and selection of targeted adenoviruses embodying optimized vector properties",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Noureddini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res.",
+            "volume": "116",
+            "issn": "",
+            "pages": "185-195",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2005.10.002"
+                ]
+            }
+        },
+        "BIBREF134": {
+            "title": "Molecular breeding of viruses",
+            "authors": [
+                {
+                    "first": "NW",
+                    "middle": [],
+                    "last": "Soong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Genet.",
+            "volume": "25",
+            "issn": "",
+            "pages": "436-439",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/78132"
+                ]
+            }
+        },
+        "BIBREF135": {
+            "title": "Targeted gene delivery to vascular tissue in vivo by tropism-modified adeno-associated virus vectors",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Circulation",
+            "volume": "109",
+            "issn": "",
+            "pages": "513-519",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/01.CIR.0000109697.68832.5D"
+                ]
+            }
+        },
+        "BIBREF136": {
+            "title": "The influence of adenovirus fiber structure and function on vector development for gene therapy",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Nicklin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Nemerow",
+                    "suffix": ""
+                },
+                {
+                    "first": "AH",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Ther.",
+            "volume": "12",
+            "issn": "",
+            "pages": "384-393",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2005.05.008"
+                ]
+            }
+        },
+        "BIBREF137": {
+            "title": "Transcytosis of infectious human immunodeficiency virus across a tight human epithelial cell line barrier",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bomsel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature Med.",
+            "volume": "3",
+            "issn": "",
+            "pages": "42-47",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0197-42"
+                ]
+            }
+        },
+        "BIBREF138": {
+            "title": "Altering the tropism of lentiviral vectors through pseudotyping",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cronin",
+                    "suffix": ""
+                },
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Gene Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "387-398",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1566523054546224"
+                ]
+            }
+        },
+        "BIBREF139": {
+            "title": "AAV transcytosis through barrier epithelia and endothelium",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Di Pasquale",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Chiorini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ther.",
+            "volume": "13",
+            "issn": "",
+            "pages": "506-516",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ymthe.2005.11.007"
+                ]
+            }
+        },
+        "BIBREF140": {
+            "title": "Transport across a polarized monolayer of Caco-2 cells by transferrin receptor-mediated adenovirus transcytosis",
+            "authors": [
+                {
+                    "first": "ZB",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "325",
+            "issn": "",
+            "pages": "116-128",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.04.021"
+                ]
+            }
+        },
+        "BIBREF141": {
+            "title": "Directing adenovirus across the blood\u2013brain barrier via melanotransferrin (P97) transcytosis pathway in an in vitro model",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Gene Ther.",
+            "volume": "14",
+            "issn": "",
+            "pages": "523-532",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3302888"
+                ]
+            }
+        },
+        "BIBREF142": {
+            "title": "Fiber-mosaic adenovirus as a novel approach to design genetically modified adenoviral vectors",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pereboeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Komarova",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Mahasreshti",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Curiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virus Res.",
+            "volume": "105",
+            "issn": "",
+            "pages": "35-46",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2004.04.012"
+                ]
+            }
+        },
+        "BIBREF143": {
+            "title": "Oncolytic measles viruses for cancer therapy",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Expert Opin. Biol. Ther.",
+            "volume": "4",
+            "issn": "",
+            "pages": "1685-1692",
+            "other_ids": {
+                "DOI": [
+                    "10.1517/14712598.4.10.1685"
+                ]
+            }
+        },
+        "BIBREF144": {
+            "title": "Targeted measles virus vector displaying echistatin infects endothelial cells via \u03b1v\u03b23 and leads to tumor regression",
+            "authors": [
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Hallak",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Merchan",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Storgard",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Loftus",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cancer Res.",
+            "volume": "65",
+            "issn": "",
+            "pages": "5292-5300",
+            "other_ids": {
+                "DOI": [
+                    "10.1158/0008-5472.CAN-04-2879"
+                ]
+            }
+        },
+        "BIBREF145": {
+            "title": "Oncolytic measles viruses displaying a single-chain antibody against CD38, a myeloma cell marker",
+            "authors": [
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Blood",
+            "volume": "101",
+            "issn": "",
+            "pages": "2557-2562",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2002-07-2195"
+                ]
+            }
+        },
+        "BIBREF146": {
+            "title": "The use of a tropism-modified measles virus in folate receptor-targeted virotherapy of ovarian cancer",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hasegawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Clin. Cancer Res.",
+            "volume": "12",
+            "issn": "",
+            "pages": "6170-6178",
+            "other_ids": {
+                "DOI": [
+                    "10.1158/1078-0432.CCR-06-0992"
+                ]
+            }
+        },
+        "BIBREF147": {
+            "title": "Retargeted oncolytic measles strains entering via the EGFRvIII receptor maintain significant antitumor activity against gliomas with increased tumor specificity",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cancer Res.",
+            "volume": "66",
+            "issn": "",
+            "pages": "11840-11850",
+            "other_ids": {
+                "DOI": [
+                    "10.1158/0008-5472.CAN-06-1200"
+                ]
+            }
+        },
+        "BIBREF148": {
+            "title": "Protection of MLV vector particles from human complement",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Breun",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Salmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "Gunzburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Baumann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "264",
+            "issn": "",
+            "pages": "1-5",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1999.1474"
+                ]
+            }
+        }
+    }
+}

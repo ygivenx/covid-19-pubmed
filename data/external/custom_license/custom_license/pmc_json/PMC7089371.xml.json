@@ -1,0 +1,830 @@
+{
+    "paper_id": "PMC7089371",
+    "metadata": {
+        "title": "On the Role of Asymptomatic Infection in Transmission Dynamics of Infectious Diseases",
+        "authors": [
+            {
+                "first": "Sze-Bi",
+                "middle": [],
+                "last": "Hsu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ying-Hen",
+                "middle": [],
+                "last": "Hsieh",
+                "suffix": "",
+                "email": "hsieh@amath.nchu.edu.tw",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Simple models for containment of a pandemic",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Arino",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Brauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "van den Driessche",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Watmough",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. R. Soc. Interface",
+            "volume": "3",
+            "issn": "",
+            "pages": "453-457",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2006.0112"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "A prospective, community-based study on virologic assessment among elderly people with and without symptoms of acute respiratory infection",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Graat",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.G.",
+                    "middle": [],
+                    "last": "Schouten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.L.",
+                    "middle": [],
+                    "last": "Heijnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.J.",
+                    "middle": [],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.G.",
+                    "middle": [],
+                    "last": "Pallast",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.C.",
+                    "middle": [],
+                    "last": "de Greeff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.W.",
+                    "middle": [],
+                    "last": "Dorigo-Zetsma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Clin. Epidemiol.",
+            "volume": "56",
+            "issn": "12",
+            "pages": "1218-1223",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0895-4356(03)00171-9"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "A multi-patch model for spatial spread of disease: impact of travel between patches",
+            "authors": [
+                {
+                    "first": "Y.-H.",
+                    "middle": [],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "van den Driessche",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Bull. Math. Biol.",
+            "volume": "69",
+            "issn": "4",
+            "pages": "1355-1375",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11538-006-9169-6"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Modeling intervention measures and public response during SARS outbreak",
+            "authors": [
+                {
+                    "first": "S.B.",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.-H.",
+                    "middle": [],
+                    "last": "Hsieh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "SIAM J. Appl. Math.",
+            "volume": "66",
+            "issn": "2",
+            "pages": "627-647",
+            "other_ids": {
+                "DOI": [
+                    "10.1137/040615547"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Containing pandemic influenza with antiviral agents",
+            "authors": [
+                {
+                    "first": "I.M.",
+                    "middle": [],
+                    "last": "Longini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.E.",
+                    "middle": [],
+                    "last": "Halloran",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Nizam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am. J. Epidemiol.",
+            "volume": "159",
+            "issn": "",
+            "pages": "623-633",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/aje/kwh092"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Containing pandemic influenza at the source",
+            "authors": [
+                {
+                    "first": "I.M.",
+                    "middle": [],
+                    "last": "Longini",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Nizam",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Ungchusak",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Hanshaoworakul",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "309",
+            "issn": "",
+            "pages": "1083-1087",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1115717"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Prevention of Russian influenza by amantadine",
+            "authors": [
+                {
+                    "first": "A.S.",
+                    "middle": [],
+                    "last": "Monto",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Gunn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.G.",
+                    "middle": [],
+                    "last": "Bandyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.L.",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J. Am. Med. Assoc.",
+            "volume": "241",
+            "issn": "",
+            "pages": "1003-1007",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.241.10.1003"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Administration of amantadine for the prevention of Hong Kong influenza",
+            "authors": [
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Nafta",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.G.",
+                    "middle": [],
+                    "last": "Turcanu",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Braun",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Companetz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Simionescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Birt",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Florea",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Bull. World Health. Organ.",
+            "volume": "42",
+            "issn": "",
+            "pages": "423-427",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Protection of man from natural infection with influenza A2 Hong Kong virus by amantadine: a controlled field trial",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Oker-Blom",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Hovi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Leinikki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Palosuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pettersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Suni",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Br. Med. J.",
+            "volume": "3",
+            "issn": "",
+            "pages": "676-678",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.3.5724.676"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Evaluation of amantadine in the prophylaxis of influenza A (H1N1) virus infection: a controlled field trial among young adults and high-risk patients",
+            "authors": [
+                {
+                    "first": "R.F.",
+                    "middle": [],
+                    "last": "Pettersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.E.",
+                    "middle": [],
+                    "last": "Hellstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Penttinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pyhala",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Tokola",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Vartio",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Visakorpi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "J. Infect. Dis.",
+            "volume": "142",
+            "issn": "",
+            "pages": "377-383",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Comparison of amantadine and rimantadine for prevention of type A (Russian) influenza",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Quarles",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Couch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.R.",
+                    "middle": [],
+                    "last": "Cate",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.B.",
+                    "middle": [],
+                    "last": "Goswick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Antiviral. Res.",
+            "volume": "1",
+            "issn": "",
+            "pages": "149-155",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0166-3542(81)90003-6"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Nonpharmaceutical interventions for pandemic influenza, international measures",
+            "authors": [
+                {
+                    "first": "D.M.",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "12",
+            "issn": "1",
+            "pages": "81-87",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Emergence of drug resistance during an influenza epidemic: insights from a mathematical model",
+            "authors": [
+                {
+                    "first": "N.I.",
+                    "middle": [],
+                    "last": "Stilianakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.S.",
+                    "middle": [],
+                    "last": "Perelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.G.",
+                    "middle": [],
+                    "last": "Hayden",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Infect. Dis.",
+            "volume": "177",
+            "issn": "4",
+            "pages": "863-873",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Wet markets\u2014a continuing source of severe acute respiratory syndrome and influenza?",
+            "authors": [
+                {
+                    "first": "R.G.",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "363",
+            "issn": "9404",
+            "pages": "234-236",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)15329-9"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Outbreak of avian influenza A(H5N1) virus infection in Hong Kong in 1997",
+            "authors": [
+                {
+                    "first": "P.K.",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "34",
+            "issn": "Suppl.\u00a02",
+            "pages": "S58-S64",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/338820"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W.A.",
+                    "middle": [],
+                    "last": "Coppell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1965,
+            "venue": "Stability and Asymptotic Behavior of Solutions of Differential Equations",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Diekmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.P.",
+                    "middle": [],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mathematical Epidemiology of Infectious Diseases: Model Building, Analysis and Interpretation",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Asymptomatic spread of flu is not proved",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Eccles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Br. Med. J.",
+            "volume": "331",
+            "issn": "7525",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.331.7525.1145"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Strategies for containing an emerging influenza pandemic in Southeast Asia",
+            "authors": [
+                {
+                    "first": "N.M.",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Meeyai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Iamsirithaworn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.S.",
+                    "middle": [],
+                    "last": "Burke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "437",
+            "issn": "",
+            "pages": "209-214",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04017"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Strategies for mitigating an influenza pandemic",
+            "authors": [
+                {
+                    "first": "N.M.",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Cajka",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.C.",
+                    "middle": [],
+                    "last": "Cooley",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.S.",
+                    "middle": [],
+                    "last": "Burke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "103",
+            "issn": "15",
+            "pages": "5935-5940",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0601266103"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Mitigation strategies for pandemic influenza in the United States",
+            "authors": [
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Germann",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Kadau",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.M.",
+                    "middle": [],
+                    "last": "Longini",
+                    "suffix": "Jr."
+                },
+                {
+                    "first": "C.A.",
+                    "middle": [],
+                    "last": "Macken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "103",
+            "issn": "",
+            "pages": "5935-5940",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0601266103"
+                ]
+            }
+        }
+    }
+}

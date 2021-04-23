@@ -1,0 +1,1984 @@
+{
+    "paper_id": "PMC7088058",
+    "metadata": {
+        "title": "A dynamic model for the p53 stress response networks under ion radiation",
+        "authors": [
+            {
+                "first": "J.-P.",
+                "middle": [],
+                "last": "Qi",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "S.-H.",
+                "middle": [],
+                "last": "Shao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "D.-D.",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "G.-P.",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Steady-state kinetic studies with the non-nucleoside HIV-1 reverse transcriptase inhibitor U-87201E",
+            "authors": [
+                {
+                    "first": "IW",
+                    "middle": [],
+                    "last": "Althaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Gonzales",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Diebel",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Kezdy",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Romero",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Aristoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Tarpley",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Reusser",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Biol Chem",
+            "volume": "268",
+            "issn": "",
+            "pages": "6119-6124",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Low-frequency resonance and cooperativity of hemoglobin",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Trends Biochem Sci",
+            "volume": "14",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0968-0004(89)90026-1"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Review: Applications of graph theory to enzyme kinetics and protein folding kinetics. Steady and non-steady state systems",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Biophys Chem",
+            "volume": "35",
+            "issn": "",
+            "pages": "1-24",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0301-4622(90)80056-D"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Review: Structural bioinformatics and its impact to biomedical science",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr Med Chem",
+            "volume": "11",
+            "issn": "",
+            "pages": "2105-2134",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "The biological functions of low-frequency phonons",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "NY",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Sci Sin",
+            "volume": "20",
+            "issn": "",
+            "pages": "447-457",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Graphical rules for enzyme-catalyzed rate laws",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Forsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Biochem J",
+            "volume": "187",
+            "issn": "",
+            "pages": "829-835",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Studies on the rate of diffusion-controlled reactions of enzymes",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Sci Sin",
+            "volume": "17",
+            "issn": "",
+            "pages": "664-680",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Graph theory of enzyme kinetics: 1. Steady-state reaction system",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Fee",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "Sci Sin",
+            "volume": "22",
+            "issn": "",
+            "pages": "341-358",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Prediction of the tertiary structure and substrate binding site of caspase-8",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Heinrikson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "FEBS Lett",
+            "volume": "419",
+            "issn": "",
+            "pages": "49-54",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(97)01246-5"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Review: steady-state inhibition kinetics of processive nucleic acid polymerases and nucleases",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Kezdy",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Reusser",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Anal Biochem",
+            "volume": "221",
+            "issn": "",
+            "pages": "217-230",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/abio.1994.1405"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Quasi-continuum models of twist-like and accordion-like low-frequency motions in DNA",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Maggiora",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Biophys J",
+            "volume": "56",
+            "issn": "",
+            "pages": "295-305",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-3495(89)82676-1"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "The quinoline U-78036 is a potent inhibitor of HIV-1 reverse transcriptase",
+            "authors": [
+                {
+                    "first": "IW",
+                    "middle": [],
+                    "last": "Althaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Gonzales",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Diebel",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Kezdy",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Romero",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Aristoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Tarpley",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Reusser",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Biol Chem",
+            "volume": "268",
+            "issn": "",
+            "pages": "14875-14880",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Collective motion in DNA and its role in drug intercalation",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Biopolymers",
+            "volume": "27",
+            "issn": "",
+            "pages": "1795-1815",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/bip.360271109"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Prediction of the tertiary structure of a caspase-9/inhibitor complex",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Tomasselli",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Heinrikson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "FEBS Lett",
+            "volume": "470",
+            "issn": "",
+            "pages": "249-256",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(00)01333-8"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "A model of the complex between cyclin-dependent kinase 5(Cdk5) and the activation domain of neuronal Cdk5 activator",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Watenpaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Heinrikson",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "259",
+            "issn": "",
+            "pages": "420-428",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1999.0792"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Diagrammatization of codon usage in 339 HIV proteins and its biological implication",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "AIDS Res Hum Retroviruses",
+            "volume": "8",
+            "issn": "",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/aid.1992.8.1967"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Solitary wave dynamics as a mechanism for explaining the internal motion during microtubule growth",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Maggiora",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biopolymers",
+            "volume": "34",
+            "issn": "",
+            "pages": "143-153",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/bip.360340114"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Role of the protein outside active site on the diffusion-controlled reaction of enzyme",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Am Chem Soc",
+            "volume": "104",
+            "issn": "",
+            "pages": "1409-1413",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00369a043"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Biomolecular reactions with a reactive site on a spherical particle: a Hamiltonian formulation",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Cotes",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Sceats",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Chem Phys",
+            "volume": "89",
+            "issn": "",
+            "pages": "2816-2821",
+            "other_ids": {
+                "DOI": [
+                    "10.1063/1.454984"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "DNA double-strand break repair signalling: the case of RAD51 post-translational regulation",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Daboussi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dumay",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Delacote",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell Signal",
+            "volume": "14",
+            "issn": "",
+            "pages": "969-975",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0898-6568(02)00052-9"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "A novel fingerprint map for detecting SARS-CoV",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Pharm Biomed Anal",
+            "volume": "41",
+            "issn": "",
+            "pages": "246-250",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jpba.2005.09.031"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The influence of dipole-dipole interaction on the low-frequency vibrations in alpha-helix proteins",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Biophys Chem",
+            "volume": "43",
+            "issn": "",
+            "pages": "169-173",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0301-4622(92)80031-Y"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "DNA damage activates ATM through intermolecular autophosphorylation and dimer dissociation",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Bakkenist",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Kastan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "421",
+            "issn": "",
+            "pages": "499-506",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature01368"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The vibrational normal modes of beta-barrels in an IgG antibody molecule",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Biophys Chem",
+            "volume": "44",
+            "issn": "",
+            "pages": "29-45",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0301-4622(92)85033-Z"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "A schematic method of deriving the rate laws for enzyme-catalyzed reactions",
+            "authors": [
+                {
+                    "first": "EL",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Altman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1956,
+            "venue": "J Phys Chem",
+            "volume": "60",
+            "issn": "",
+            "pages": "1375-1378",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/j150544a010"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Molecular interaction map of the p53 and Mdm2 logic elements, which control the Off-On switch of p53 in response to DNA damage",
+            "authors": [
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Kohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pommier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "331",
+            "issn": "",
+            "pages": "816-827",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2005.03.186"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Mixtures of tight-binding enzyme inhibitors. Kinetic analysis by a recursive rate equation",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kuzmic",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Heath",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Anal Biochem",
+            "volume": "200",
+            "issn": "",
+            "pages": "68-73",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0003-2697(92)90278-F"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Dynamics of the p53-Mdm2 feedback loop in individual cells",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lahav",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Rosenfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sigal",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Geva-Zatorsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Elowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Alon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nat Genet",
+            "volume": "36",
+            "issn": "",
+            "pages": "147-150",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ng1293"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Generation of oscillations by the p53-Mdm2 feedback loop: a theoretical and experimental study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lev Bar-Or",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maya",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Segel",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Alon",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "11250-11255",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.210171597"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Demonstration of a slow conformational change in liver glucokinase by fluorescence spectroscopy",
+            "authors": [
+                {
+                    "first": "SX",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Neet",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Biol Chem",
+            "volume": "265",
+            "issn": "",
+            "pages": "9670-9675",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "A plausible model for the digital response of p53 to DNA damage",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Stolovitzky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "14266-14271",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0501352102"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "NF-kappaB modulation and ionizing radiation: mechanisms and future directions for cancer treatment",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Magne",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Toillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bottero",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Didelot",
+                    "suffix": ""
+                },
+                {
+                    "first": "PV",
+                    "middle": [],
+                    "last": "Houtte",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Gerard",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Peyron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cancer Lett",
+            "volume": "231",
+            "issn": "",
+            "pages": "158-168",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.canlet.2005.01.022"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Biophysical aspects of neutron scattering from vibrational modes of proteins",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Martel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Prog Biophys Mol Biol",
+            "volume": "57",
+            "issn": "",
+            "pages": "129-179",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0079-6107(92)90023-Y"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Processing of DNA for nonhomologous end-joining by cell-free extract",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Budman",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Embo J",
+            "volume": "24",
+            "issn": "",
+            "pages": "849-860",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.emboj.7600563"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Decision making by p53: life, death and cancer",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell Death Differ",
+            "volume": "10",
+            "issn": "",
+            "pages": "431-442",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.cdd.4401183"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "ARF and ATM/ATR cooperate in p53-mediated apoptosis upon oncogenic stress",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pauklin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kristjuhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Maimets",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Jaks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "334",
+            "issn": "",
+            "pages": "386-394",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2005.06.097"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Treatment planning in radiation oncology and impact on outcome of therapy",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Purdy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Rays",
+            "volume": "23",
+            "issn": "",
+            "pages": "385-426",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "After double-strand break induction by UV-A, homologous recombination and nonhomologous end joining cooperate at the same DSB if both systems are available",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rapp",
+                    "suffix": ""
+                },
+                {
+                    "first": "KO",
+                    "middle": [],
+                    "last": "Greulich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Cell Sci",
+            "volume": "117",
+            "issn": "",
+            "pages": "4935-4945",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/jcs.01355"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "The role of p53 in radiation therapy outcomes for favorable-to-intermediate-risk prostate cancer",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Ritter",
+                    "suffix": ""
+                },
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Gilchrist",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Voytovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Chappell",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Verhoven",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Int J Radiat Oncol Biol Phys",
+            "volume": "53",
+            "issn": "",
+            "pages": "574-580",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0360-3016(02)02781-5"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Pathways of DNA double-strand break repair during the mammalian cell cycle",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rothkamm",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kruger",
+                    "suffix": ""
+                },
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lobrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol Cell Biol",
+            "volume": "23",
+            "issn": "",
+            "pages": "5706-5715",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.23.16.5706-5715.2003"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Soliton/exciton transport in proteins",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Sinkala",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Theor Biol",
+            "volume": "241",
+            "issn": "",
+            "pages": "919-927",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Models of cell cycle control in eukaryotes",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Tyson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Biotechnol",
+            "volume": "71",
+            "issn": "",
+            "pages": "239-244",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1656(99)00027-9"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Regulation of the eukaryotic cell cycle: molecular antagonism, hysteresis, and irreversible transitions",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Tyson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Novak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Theor Biol",
+            "volume": "210",
+            "issn": "",
+            "pages": "249-263",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jtbi.2001.2293"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Solution structure of BID, an intracellular amplifier of apoptotic signalling",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Salvessen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Cell",
+            "volume": "96",
+            "issn": "",
+            "pages": "615-624",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80572-3"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Surfing the p53 network",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Vogelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "408",
+            "issn": "",
+            "pages": "307-310",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35042675"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "A new nucleotide-composition based fingerprint of SARS-CoV with visualization analysis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HY",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Med Chem",
+            "volume": "1",
+            "issn": "",
+            "pages": "39-47",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1573406053402505"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Predicting response to cancer chemotherapy: the role of p53",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Weller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Cell Tissue Res",
+            "volume": "292",
+            "issn": "",
+            "pages": "435-445",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s004410051072"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "An application of gene comparative image for predicting the effect on replication ratio by HBV virus gene missense mutation",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Theor Biol",
+            "volume": "235",
+            "issn": "",
+            "pages": "555-565",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2005.02.008"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "A probability cellular automaton model for hepatitis B viral infections",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "342",
+            "issn": "",
+            "pages": "605-610",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2006.01.166"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Analysis of codon usage in 1562 E. Coli protein coding sequences",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Mol Biol",
+            "volume": "238",
+            "issn": "",
+            "pages": "1-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1994.1263"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "An analysis of base frequencies in the anti-sense strands corresponding to the 180 human protein coding sequences",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Amino Acids",
+            "volume": "10",
+            "issn": "",
+            "pages": "253-262",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00807327"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Diffusion-controlled reactions of enzymes. An approximate analytic solution of Chou\u2019s model",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "GQ",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Biophys Chem",
+            "volume": "18",
+            "issn": "",
+            "pages": "125-132",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0301-4622(83)85006-6"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Biological functions of soliton and extra electron motion in DNA structure",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Phys Scripta",
+            "volume": "40",
+            "issn": "",
+            "pages": "698-701",
+            "other_ids": {
+                "DOI": [
+                    "10.1088/0031-8949/40/5/021"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "An extension of Chou\u2019s graphical rules for deriving enzyme kinetic equations to system involving parallel reaction pathways",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Biochem J",
+            "volume": "222",
+            "issn": "",
+            "pages": "169-176",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Low-frequency vibration of DNA molecules",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Biochem J",
+            "volume": "221",
+            "issn": "",
+            "pages": "27-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Diffusion-controlled reactions of enzymes. A comparison between Chou\u2019s model and Alberty-Hammes-Eigen\u2019s model",
+            "authors": [
+                {
+                    "first": "GQ",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "WZ",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Eur J Biochem",
+            "volume": "128",
+            "issn": "",
+            "pages": "383-387",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1982.tb06976.x"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "The biological functions of low-frequency phonons: 6. A possible dynamic mechanism of allosteric transition in antibody molecules",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Biopolymers",
+            "volume": "26",
+            "issn": "",
+            "pages": "285-295",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/bip.360260209"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Review: Low-frequency collective motion in biomacromolecules and its biological functions",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Biophys Chem",
+            "volume": "30",
+            "issn": "",
+            "pages": "3-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0301-4622(88)85002-6"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Graphical rules in steady and non-steady enzyme kinetics",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Biol Chem",
+            "volume": "264",
+            "issn": "",
+            "pages": "12074-12079",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

@@ -1,0 +1,1095 @@
+{
+    "paper_id": "PMC7089115",
+    "metadata": {
+        "title": "Recognition for avian influenza virus proteins based on support vector machine and linear discriminant analysis",
+        "authors": [
+            {
+                "first": "GuiZhao",
+                "middle": [],
+                "last": "Liang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ZeCong",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ShanBin",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hu",
+                "middle": [],
+                "last": "Mei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yuan",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Li",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Peng",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ShengXi",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Mao",
+                "middle": [],
+                "last": "Shu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ChunYang",
+                "middle": [],
+                "last": "Liao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ShiRong",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "GenRong",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Liu",
+                "middle": [],
+                "last": "He",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JianKun",
+                "middle": [],
+                "last": "Gao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "MengYu",
+                "middle": [],
+                "last": "Gan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "DeJing",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "GuoPing",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "GuiXue",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Sha",
+                "middle": [],
+                "last": "Long",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JuHua",
+                "middle": [],
+                "last": "Jing",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "XiaoLin",
+                "middle": [],
+                "last": "Zheng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hui",
+                "middle": [],
+                "last": "Zeng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "QiaoXia",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "MengJun",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qi",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "FeiFei",
+                "middle": [],
+                "last": "Tian",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JianBo",
+                "middle": [],
+                "last": "Tong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JiaoNa",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "YongHong",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bo",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "LiangJia",
+                "middle": [],
+                "last": "Qiu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ShaoXi",
+                "middle": [],
+                "last": "Cai",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Na",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "XiaLi",
+                "middle": [],
+                "last": "Su",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jian",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "MeiXia",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "XueJiao",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JiaYing",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JingWei",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "GuoHua",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Gang",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jie",
+                "middle": [],
+                "last": "Deng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ChuanYou",
+                "middle": [],
+                "last": "Peng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "WanPing",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "LuoNan",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "YuQuan",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "LiMin",
+                "middle": [],
+                "last": "Liao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhi",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jun",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "DaJun",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "QinLiang",
+                "middle": [],
+                "last": "Su",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ZhengHu",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ping",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ZhiLiang",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "zlli-cqu@163.com",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Avian Influenza (the second edition)",
+            "volume": "",
+            "issn": "",
+            "pages": "15-79",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "On the state of the art in machine learning: A personal review",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Flach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Artif Intell",
+            "volume": "131",
+            "issn": "",
+            "pages": "199-222",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0004-3702(01)00125-4"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Advanced support vector machines and kernel methods",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "V.",
+                        "D."
+                    ],
+                    "last": "S\u1f71nchez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Neurocomputing",
+            "volume": "55",
+            "issn": "",
+            "pages": "5-20",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0925-2312(03)00373-4"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "The importance of being earnest: validation is the absolute essential for successful application and inerpretation of QSPR models",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Tropsha",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Gramatica",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Gombar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "QSAR Comb Sci",
+            "volume": "22",
+            "issn": "",
+            "pages": "69-77",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/qsar.200390007"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Process monitoring based on probabilistic PCA",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.-B.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chemon Intell Lab Syst",
+            "volume": "67",
+            "issn": "",
+            "pages": "109-123",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0169-7439(03)00063-7"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "H5N1 influenza: A protean pandemic threat",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L.",
+                        "M."
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "101",
+            "issn": "21",
+            "pages": "8156-8161",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0402443101"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "The evolution of H5N1 influenza viruses in ducks in southern China",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Jiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "10452-10457",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0403212101"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Molecular characterization of H9N2 influenza viruses: Were they the donors of the \u201cinternal\u201d genes of H5N1 viruses in Hong Kong?",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Shortridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Krauss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "9363-9367",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.16.9363"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Establishment of multiple sublineages of H5N1 influenza virus in Asia: Implications for pandemic control",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "J.",
+                        "D."
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "2845-2850",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0511120103"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Avian-to-human transmission of H9N2 subtype influenza A viruses: Relationship between H9N2 and H5N1 human isolates",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "9654-9658",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.160270697"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Identification of coding proteins related to SARS-CoV",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chin Sci Bull",
+            "volume": "49",
+            "issn": "19",
+            "pages": "2037-2040",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03wb0198"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Understanding influenza virus pathogenicity",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Garten",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Klenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Trends in Microbiol",
+            "volume": "7",
+            "issn": "3",
+            "pages": "99-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(99)01460-2"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Kachigan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Statistical analysis",
+            "volume": "",
+            "issn": "",
+            "pages": "264-285",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Drug design by machine learning: Support vector machines for pharmaceutical data analysis",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Burbidge",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Trotter",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Buxton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Comp and Chem",
+            "volume": "26",
+            "issn": "",
+            "pages": "5-14",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0097-8485(01)00094-8"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "A novel method of protein secondary structure prediction with high segment overlap measure: Support vector machine approach",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hua",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Mol Biol",
+            "volume": "308",
+            "issn": "",
+            "pages": "397-407",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.2001.4580"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Advances in predictive models for data mining",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Pattern Recogn Lett",
+            "volume": "22",
+            "issn": "",
+            "pages": "55-61",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0167-8655(00)00099-4"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "A flexible classification approach with optimal generalization performance: support vector machines",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Belousov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Verzakov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "von Frese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Chemom Intell Lab Syst",
+            "volume": "64",
+            "issn": "",
+            "pages": "15-25",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0169-7439(02)00046-1"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "SVM regression through variational methods and its sequential implementation",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Gunn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Harris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Neurocomputing",
+            "volume": "55",
+            "issn": "",
+            "pages": "151-167",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0925-2312(03)00365-5"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Support vector networks",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Vapnik",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Mach Learn",
+            "volume": "20",
+            "issn": "",
+            "pages": "273-293",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

@@ -1,0 +1,886 @@
+{
+    "paper_id": "PMC7088966",
+    "metadata": {
+        "title": "Genetic characterization of bovine coronavirus in Vietnam",
+        "authors": [
+            {
+                "first": "Jihye",
+                "middle": [],
+                "last": "Shin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Dongseob",
+                "middle": [],
+                "last": "Tark",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Van",
+                "middle": [
+                    "Phan"
+                ],
+                "last": "Le",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "SeEun",
+                "middle": [],
+                "last": "Choe",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ra",
+                "middle": [
+                    "Mi"
+                ],
+                "last": "Cha",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Gyu-Nam",
+                "middle": [],
+                "last": "Park",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "In-Soo",
+                "middle": [],
+                "last": "Cho",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bui",
+                "middle": [
+                    "Thi",
+                    "To"
+                ],
+                "last": "Nga",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Nguyen",
+                "middle": [
+                    "Thi"
+                ],
+                "last": "Lan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Dong-Jun",
+                "middle": [],
+                "last": "An",
+                "suffix": "",
+                "email": "andj67@korea.kr",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Mean estimations for the rate of evolution and tMRCAs and positively selected sites of different lineages for BCoV spike genes\nV Vietnam BCoV strains, NEB naive empirical bayes analysis, BEB bayes empirical bayes analysis, - not test *Positively selected sites identified with posterior probability > 99% level",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Fig. 1: Bayesian phylogenetic tree (under a strict molecular clock) for the full-length S gene of BCoV. The maximum clade credibility (MCC) tree was built using the best model (GTR + I + G) and is scaled to time (horizontal axis). The times at which C1, C2, and C3 diverged from a common ancestor are denoted at the nodes",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Fig. 2: MCC tree constructed using the BEAST program and based on the full-length HE gene nucleotide sequences of BCoV (a), and a Bayesian skyline plot (BSP) based on the full-length S gene sequences of cluster 1 and 2 (b). The most probable year for the tMRCA within each lineage is shown (a). The plot depicts changes in the effective population size (Ne), and the dark line shows the effective population size estimated overtime (b). The upper and lower lines indicate the 95% HPD range of the BSP",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Neonatal calf diarrhea: propagation, attenuation, and characteristics of a coronavirus like agent",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Mebus",
+                    "suffix": ""
+                },
+                {
+                    "first": "EL",
+                    "middle": [],
+                    "last": "Stair",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Rhodes",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Twiehaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Am J Vet Res",
+            "volume": "34",
+            "issn": "",
+            "pages": "145-150",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Molecular analysis of the S1 subunit of the spike glycoprotein of respiratory and enteric bovine coronavirus isolates",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hasoksuz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sreevatsan",
+                    "suffix": ""
+                },
+                {
+                    "first": "KO",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Hoet",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Saif",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virus Res",
+            "volume": "84",
+            "issn": "",
+            "pages": "101-109",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1702(02)00004-7"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "The CLUSTAL X windows interface: Flexible strategies for multiple sequence alignment aided by quality analysis tools",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Plewniak",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jeanmougin",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Higgins",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nucleic Acids Res",
+            "volume": "25",
+            "issn": "",
+            "pages": "4876-4882",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/25.24.4876"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "jModelTest 2: more models, new heuristics and parallel computing",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Darriba",
+                    "suffix": ""
+                },
+                {
+                    "first": "GI",
+                    "middle": [],
+                    "last": "Taboada",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Doallo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Posada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nat Method",
+            "volume": "9",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nmeth.2109"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Bayesian phylogenetics with BEAUti and the BEAST 1.7",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Suchard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Mol Biol Evol",
+            "volume": "29",
+            "issn": "8",
+            "pages": "1969-1973",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/mss075"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "FigTree v112",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Comparative molecular epidemiology of two closely related coronaviruses, bovine coronavirus (BCoV) and human coronavirus OC43 (HCoV-OC43), reveals a different evolutionary pattern",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Miszczak",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dianocourt",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Caro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Moutou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vabert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ar Gouilh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Infect Genet Evol",
+            "volume": "40",
+            "issn": "",
+            "pages": "186-191",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2016.03.006"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Molecular and phylogenetic analysis of bovine coronavirus based on the spike glycoprotein gene",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Martinez",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Brandao",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "de Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barrera",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Santana",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "de Arce",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Infect Genet Evol",
+            "volume": "12",
+            "issn": "",
+            "pages": "1870-1878",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2012.05.007"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "PMAL 4: phylogenetic analysis by maximum likelihood",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol Biol Evol",
+            "volume": "24",
+            "issn": "",
+            "pages": "1586-1591",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msm088"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Evaluation of concurrent shedding of bovine coronavirus via the respiratory tract and enteric route in feedlot cattle",
+            "authors": [
+                {
+                    "first": "KO",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Hoet",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Loerch",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Wittum",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Saif",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Am J Vet Res",
+            "volume": "62",
+            "issn": "",
+            "pages": "1436-1441",
+            "other_ids": {
+                "DOI": [
+                    "10.2460/ajvr.2001.62.1436"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Nucleotide and predicted amino acid sequences of all genes encoded by the 3\u2032 genomic portion (9.5 kb) of respiratory bovine coronaviruses and comparisons among respiratory and enteric coronaviruses",
+            "authors": [
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "Chouljenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "KG",
+                    "middle": [],
+                    "last": "Kousoulas",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Storz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virus Genes",
+            "volume": "17",
+            "issn": "",
+            "pages": "33-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1008048916808"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Detection and characterization of bovine coronaviruses in fecal specimens of adult cattle with diarrhea during the warmer seasons",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jeong",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Choy",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Saif",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Jeong",
+                    "suffix": ""
+                },
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KO",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Clin Microbiol",
+            "volume": "44",
+            "issn": "",
+            "pages": "3178-3188",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.02667-05"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Evolutionary dynamics of bovine coronaviruses: natural selection pattern of the spike gene implies adaptive evolution of the strains",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Bidokhti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Traven",
+                    "suffix": ""
+                },
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Krishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Munir",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Belak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alenius",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cortey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Gen Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "2036-2049",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.054940-0"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "MMC",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Adv Virus Res",
+            "volume": "48",
+            "issn": "",
+            "pages": "1-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(08)60286-9"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The S Protein of bovine coronavirus is a hemagglutinin recognizing 9-o-acetylated sialic acid as a receptor determinant",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schultze",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Brossmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Herrler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J Virol",
+            "volume": "65",
+            "issn": "",
+            "pages": "6232-6237",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Isolated HE-protein from hemagglutinating encephalomyelitis virus and bovine coronavirus has receptor-destroying and receptor-binding activity",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schultze",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Herrler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Virology",
+            "volume": "180",
+            "issn": "",
+            "pages": "221-228",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(91)90026-8"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Molecular analysis of Brazilian strains of bovine coronavirus (BCoV) reveals a deletion within the hypervariable region of the S1 subunit of the spike glycoprotein also found in human coronavirus OC43",
+            "authors": [
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Brand\u00e3o",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gregori",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Richtzenhain",
+                    "suffix": ""
+                },
+                {
+                    "first": "CAR",
+                    "middle": [],
+                    "last": "Rosales",
+                    "suffix": ""
+                },
+                {
+                    "first": "LYB",
+                    "middle": [],
+                    "last": "Villarreal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "JerezJ",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Arch Virol",
+            "volume": "151",
+            "issn": "",
+            "pages": "1735-1748",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00705-006-0752-9"
+                ]
+            }
+        }
+    }
+}

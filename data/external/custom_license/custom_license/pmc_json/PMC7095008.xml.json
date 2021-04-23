@@ -1,0 +1,219 @@
+{
+    "paper_id": "PMC7095008",
+    "metadata": {
+        "title": "Growing pains",
+        "authors": [
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Eisenstein",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "Like the younger child who has had an older sibling to 'soften up' his or her parents and make life a little easier, protein microarrays have benefited from lessons learned during the noisy adolescence of DNA microarrays. \u201cIntellectually, the assays are identical to DNA microarrays,\u201d says microarray pioneer Mark Schena, visiting scholar at TeleChem International in Sunnyvale, California. \u201cThe basic tenets of miniaturization, automation and parallelism all hold for DNA and protein.\u201d Indeed, some tools of the trade, such as array spotters and readers, have needed virtually no changes to make the move to proteins. But the differences are there nonetheless, and the protein-microarray field is rapidly developing its own identity, with new challenges that require a diverse set of specialized tools and tricks.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "One key distinction emerges early in the analysis process: the selection of array substrate. Unlike oligonucleotides, proteins are broadly heterogeneous in size, shape and chemistry, and the diversity of applications for protein arrays means that users need to shop around for the appropriate substrate. \u201cWe usually test about three or four surfaces, and see which one gives us the best signal-to-noise ratio for a given assay,\u201d says Michael Snyder of Yale University.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "There has been an explosion of options in the market, and several vendors \u2014 such as Xenopore of Hawthorne, New Jersey, and Schott of Jena, Germany \u2014 specialize almost exclusively in slides and substrates. Functionalized glass surfaces are a strong choice, as they virtually eliminate background fluorescence. According to Schena, TeleChem's SuperEpoxy glass slides are among the company's most popular products for protein-array construction. \u201cThe key benefit of the epoxide is that it's highly reactive at physiological conditions,\u201d he says. \u201cJust depositing proteins on an epoxide-coated surface results in covalent linkage to the glass.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Three-dimensional substrates are also popular. For example, the Nexterion Slide H from Schott is coated with a covalently linked three-dimensional hydrogel with reactive groups that readily bind to proteins or peptides. \u201cSlide H preserves the three-dimensional structure of proteins, providing a hydrophilic cell-like or cytosol-like environment, thereby maintaining stability and functionality,\u201d says R\u00fcdiger Dietrich, Schott's director of research and development and technical support. PamGene of 's-Hertogenbosch in the Netherlands also takes advantage of a three-dimensional environment for its flow-through array platform. In its set-up, samples are pumped back and forth through a porous inorganic substrate where capture probes are immobilized.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Nitrocellulose, a timeless classic for protein work, remains among the most popular substrates. \u201cWe still don't have a substratum that's better than nitrocellulose for its binding capacity \u2014 it's cheap and can be mass-produced,\u201d says Emanuel Petricoin, co-director with Lance Liotta of the Center for Applied Proteomics and Molecular Medicine at George Mason University in Manassas, Virginia. \u201cThe problem is that it has high background fluorescence and you have to come up with different labelling strategies to get around that.\u201d One solution uses an ultrathin nitrocellulose layer \u2014 such as the PATH slides from GenTel BioSciences of Madison, Wisconsin \u2014 which maintains binding capacity but reduces background noise.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "More specialized surfaces enable orientation-specific presentation of protein probes, such as nickel-NTA (nitrilotriacetic acid) surfaces for use with polyhistidine-tagged proteins. Lumera in Bothell, Washington, uses a protein\u2013protein interaction-based immobilization format for its arrays. \u201cWe have a proprietary protein-tag technology that's composed of two coiled coils that bind together with picomolar affinity,\u201d says product group manager Ronald Dudek. \u201cOne can be engineered into a protein or antibody library, the other is part of the surface chemistry.\u201d The pairing of streptavidin-coated slides with biotinylated proteins is also widely used.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "\nSeeing the light\n",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "One aspect of arrays that has changed relatively little is the dominance of fluorescence as a method of detection. \u201cPeople generally use the standard Cy3 and Cy5 fluorophores, which are cheap, reproducible, and scanners are already configured to read them,\u201d says Petricoin. His group has done initial studies with semiconductor quantum dots, which offer the benefits of robust long-term fluorescence and enhanced potential for multiplexing. But for many investigators, generically reactive fluorescent dyes are sufficient. \u201cIn some ways, labelling is easier than with DNA,\u201d says Schena, \u201cbecause proteins are naturally highly reactive with fluorescent reagents.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Some manufacturers improve the quality of fluorescent-array experiments with specialized instrumentation. The ZeptoREADER from Zeptosens in Witterswil, Switzerland, uses 'planar waveguide' technology, in which an evanescent electromagnetic field is generated by directing light into a specially designed array substrate through a diffraction grating. \u201cThe key benefit is that you excite only fluorophores that are bound on the surface,\u201d says managing director Markus Ehrat. \u201cIn many conventional assays, you don't need to separate bound from unbound fluorophores.\u201d Alternatively, in PamGene's flow-through system, samples are repeatedly cycled through porous arrays while being imaged by a sensitive charge-coupled device camera, making it possible to take real-time kinetic measurements.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "For experiments involving particularly small samples or scarce protein targets, it might be necessary to amplify the signal. One way to do this is rolling-circle amplification (RCA), first adapted for use with protein arrays by David Ward at Yale University. In RCA, circular DNA molecules are hybridized to capture probes that are conjugated to a detection antibody. These are then repeatedly replicated by DNA polymerase and detected with complementary fluorescent probes. Another alternative involves enhanced chemiluminescent detection with tyramide signal amplification, a system available from PerkinElmer of Wellesley, Massachusetts.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "As effective as these techniques have proven, they all require a degree of tagging or modification, which can be time-consuming or even impractical for certain samples, such as clinically derived preparations. So many researchers are keeping their eyes on the evolution of 'label-free' technologies that could greatly simplify future studies (see 'Losing the label').",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "As with genomic arrays, the earliest application \u2014 and still the main use \u2014 of protein arrays has been the detection or quantification of targets from a research sample or clinical preparation. This typically involves a 'capture array' in which selected antibodies are spotted on to a substrate and are then exposed to the sample. Detection can be performed directly with a labelled sample, although this can increase the background noise. Many researchers prefer 'sandwich' formats in which a second, tagged antibody is applied that recognizes a different epitope from the capture antibody. This considerably improves sensitivity and the signal-to-noise ratio, but also requires two high-quality antibodies for every target.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Antibody arrays have been commercially available for some time, but companies have taken different approaches to them. Sigma-Aldrich of St Louis, Missouri, for example, has several arrays in its Panorama product family, each containing 100\u2013200 antibodies targeting proteins involved in processes such as signal transduction or gene regulation. The company also plans to release a broad-content array with more than 700 antibodies. \u201cOur current pathway arrays will be included, in addition to various other signalling and regulatory gene-product antibodies,\u201d says market-segment manager Richard Pembrey.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "TeleChem, on the other hand, leaves antibody selection to the users for its ArrayIt microarrays. \u201cFor now, it's custom work just because a full proteomic complement of antibodies is still expensive for most researchers,\u201d says Schena. \u201cBut our printing technology scales pretty nicely, and our products can span a pretty wide spectrum, between 100 elements and 50,000.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "After encountering limited success with capture arrays in their clinical research, Liotta and Petricoin developed the reverse-phase protein array, in which samples are spotted on the array and then probed with detection antibodies, requiring only one antibody per analyte. Much of their work has centred on signalling pathways in human disease, and this technique has worked well with their research, they say. \u201cFrom a few thousand cells obtained by laser microdissection, we can look at hundreds of phosphorylation endpoints quantitatively, and look at a target and all the downstream signalling around it,\u201d says Liotta.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Such sample-specific arrays are difficult to commercialize, although Zeptosens is attempting to address the needs of this community with its cell lysate array (CeLyA) product line, which provides users with protocols, reagents and equipment to prepare chips for reverse-phase experiments. The company also has an active service division. \u201cWe deposit roughly the content of one or two cells per spot,\u201d says Ehrat, \u201cand we can monitor changes of 15% from control to a treated sample.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "But both approaches face a key limitation: antibodies. \u201cA lot of users have two problems,\u201d says Mathias Uhl\u00e9n, a researcher at the Royal Institute of Technology in Stockholm, Sweden, and chair of the Human Antibody Initiative of the Human Proteome Organisation (HUPO). \u201cOne is that you buy reagents, and half of them don't work in your application, and the second is that it's not easy to buy 200 antibodies that work on a single platform.\u201d Part of the solution lies in thorough validation, but other problems arise from the feature density of today's arrays and the broad range of protein expression. \u201cEven if you have an antibody with picomolar affinity for your target, where the background is micromolar; if you have cross-reactivity against a protein that is 106 times more abundant, you will see that protein first,\u201d Uhl\u00e9n says. Some are exploring alternative affinity reagents, such as recombinant single-chain antibodies or nucleic-acid aptamers (see 'An apt solution?'), but most in the field still see the limits of antibodies as secondary to their strengths. \u201cSo far, the good old antibody is still going strong,\u201d says Uhl\u00e9n.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "\nAll together now\n",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "High-content protein microarrays have brought the classic protein\u2013protein interaction assay to levels of throughput previously only possible with two-hybrid assays. These 'proteome chips' originated in Snyder's lab, in the form of arrays composed of protein products from nearly 6,000 yeast open reading frames. These chips are now available from Invitrogen of Carlsbad, California, which has continued to develop these and other arrays as part of its ProtoArray product line. Invitrogen sells both human and yeast proteomic arrays in a variety of formats, designed for use in protein\u2013protein interaction assays as well as functional studies.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Developing arrays of soluble \u2014 and ideally, functional \u2014 protein at this scale poses considerable challenges, says Paul Predki, vice-president of proteomics at Invitrogen. \u201cOur latest array product has more than 8,000 human proteins, and you can imagine the challenges of doing quality control for the functionality of all of these proteins, especially when for some 15% we don't even know the function, and other proteins have multiple functions,\u201d he says. Invitrogen bypasses some of the risks of misfolding or improper processing by expressing proteins in insect cells rather than in bacteria. \u201cAlmost all of our human proteins are expressed using baculovirus and we've found, for example, much higher success rates in obtaining active kinases,\u201d says Predki.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Snyder is also continuing his work with the yeast arrays, which now cover roughly 75\u201380% of the yeast proteome. These proteins have been cloned as both C- and N-terminal glutathione S-transferase (GST) fusions to improve the odds of obtaining well-folded fusions, although some proteins refuse to comply. Several groups are now attempting to resolve this issue with chip formats in which transcription and translation of cloned genes are performed on the chip (see '(Almost) no assembly required').",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Proteome chips also have clinical promise, and Snyder suggests that they could be valuable for drug screening. \u201cAny drug company with a set of lead compounds should put them on a protein chip and see what the possible side effects might be, or what their targets are,\u201d he says. \u201cI think that will be the future.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Pathogen-derived proteome chips may also have clinical value \u2014 Snyder recently developed a coronavirus protein array for diagnostic use, and Joshua LaBaer, director of the Harvard Institute of Proteomics in Boston, Massachusetts, has developed full proteomic arrays for the pathogens Francisella tularensis and Vibrio cholerae. \u201cThe idea would be to take serum from individuals who have been infected, both pre- and post-immune response, and look at the proteins against which the patient has mounted a response,\u201d says LaBaer.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "JPT Peptide Technologies in Berlin, Germany, is examining similar applications, with microarrays displaying overlapping peptides comprising the full Mycobacterium tuberculosis proteome. \u201cWe started with a small subset of 10,000 peptides from tuberculosis markers,\u201d says managing director Michael Schutkowski, \u201cand found that the chip is more predictive and sensitive than all the other tuberculosis tests on the market.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "\nWhere form meets function\n",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Functional information is available for only a subset of the more than 23,000 proteins in the human proteome, and much of this is incomplete or even anecdotal. A truly comprehensive understanding of biological processes requires the building of functional proteomic maps, and protein arrays could be a perfect tool for this.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Snyder and his team made a step forward when they applied their proteome chips to the assembly of a yeast phosphorylation map, incubating their microarrays with 87 different yeast protein kinases, and using radiolabelled ATP to identify proteins that were being modified. \u201cWe showed that closely related kinases had different specificities,\u201d says Snyder. His lab was also able to combine its findings with other genomic and proteomic data to identify regulatory 'modules' of interacting proteins that seem to be conserved in other eukaryotic species. \u201cIn my mind, that's the power of '-omics',\u201d he says. \u201cWe can come up with new principles by looking at these large data sets.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Invitrogen's arrays are also suitable for such assays. \u201cThe same application is fully validated on our human array,\u201d says Predki. And Sigma-Aldrich has a product for kinomic analysis, the Panorama Human Kinase v1 array, based on technology licensed from Procognia in Maidenhead, Berkshire, UK. This array incorporates 152 different human kinases for the identification of interacting partners and substrates, or the analysis of putative therapeutic compounds. On the clinical side, Liotta and Petricoin have found success using phosphospecific antibodies with reverse-phase arrays to characterize differential phosphorylation in biopsy specimens, and their arrays are now undergoing clinical trials as a diagnostic or prognostic tool for cancer.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Several groups are also developing array formats for glycan analysis. Brian Haab of the Van Andel Institute in Grand Rapids, Michigan, has used lectins \u2014 a family of proteins with specific binding preferences for different types of glycans \u2014 as a probe for monitoring glycosylation patterns of array-bound proteins. \u201cWe now work with about 20 different lectins,\u201d says Haab, \u201cand we recently demonstrated that we can do partial digestion of glycan structures using glycosidases to expose additional underlying structures to lectins, allowing us to get more complete information.\u201d These are mainly being used to characterize glycosylation changes in disease states, and Haab has licensed his platform to GenTel for commercial development.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Snyder, meanwhile, is interested in using such arrays for discovery, and has used polyclonal antibodies against yeast glycans to reveal hundreds of previously unidentified glycoproteins. QIAGEN of Venlo, the Netherlands, will soon launch a glycomics array product, the QProteome GlycoArray kit, based on technology licensed from Procognia, which uses immobilized lectins as a capture reagent.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Peptide arrays are a useful alternative for functional assays, and JPT has applied a peptide-synthesis process to develop a variety of array products. \u201cThe peptide chip is much more stable compared with a protein chip,\u201d says Schutkowski, \u201cand because we have the peptides beforehand in a microtitre plate, we can analyse each peptide for purity and whether it has the right content and the right modifications before we immobilize it.\u201d JPT has used literature- and data-mining to design peptide libraries containing thousands of putative kinase targets, which can be used to identify recognition sequences for tyrosine or serine/threonine kinases. The company also offers similar arrays for phosphatase and protease target identification, as well as 'random' arrays that can potentially reveal previously unidentified target sites.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "PamGene uses a peptide-based format in its PamChip arrays for analysing the kinetics of tyrosine and serine/threonine kinases against hundreds of arrayed probes. \u201cIC50 results, selectivity data, mechanism of action information and multiple rate constants can all be obtained in one experimental run,\u201d says PamGene's vice-president of technology, Rinie van Beuningen.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "As these various applications strive towards full maturity, those in the protein microarray field are wrestling with the same issues that have confronted users of DNA arrays \u2014 experimental standardization and accurate quantification. The former issue is now being investigated by HUPO, which is looking to develop guidelines for experimental design and data annotation. But the key to accurate quantification will most likely lie in technological evolution. \u201cRight now these data are just semi-quantitative, but I think that with the right technologies they could be made completely quantitative,\u201d says Snyder. \u201cI'd like to see a future where people can just think up an experiment, buy an array, and do it.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {}
+}

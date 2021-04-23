@@ -1,0 +1,1796 @@
+{
+    "paper_id": "PMC5018210",
+    "metadata": {
+        "title": "Cryo-electron microscopy structure of a coronavirus spike glycoprotein trimer",
+        "authors": [
+            {
+                "first": "Alexandra",
+                "middle": [
+                    "C."
+                ],
+                "last": "Walls",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "M.Alejandra",
+                "middle": [],
+                "last": "Tortorici",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Berend-Jan",
+                "middle": [],
+                "last": "Bosch",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Brandon",
+                "middle": [],
+                "last": "Frenz",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Peter",
+                "middle": [
+                    "J.M."
+                ],
+                "last": "Rottier",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Frank",
+                "middle": [],
+                "last": "DiMaio",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "F\u00e9lix",
+                "middle": [
+                    "A."
+                ],
+                "last": "Rey",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "David",
+                "middle": [],
+                "last": "Veesler",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "A human codon-optimized gene encoding the MHV spike gene (UniProt: P11224) was synthesized with a R717S amino acid mutation to abolish the furin cleavage site at the S1-S2 junction (S2 cleavage site). From this gene, the fragment encoding the MHV ectodomain (residues 15-1231) was PCR-amplified and ligated to a gene fragment encoding a GCN4 trimerization motif (IKRMKQIEDKIEEIESKQKKIENEIARIKKIK)3,31, a thrombin cleavage site (LVPRGSLE), an 8-residue long Strep-Tag (WSHPQFEK) and a stop codon. This construct results in fusing the GCN4 trimerization motif in register with the HR2 helix at the C-terminal end of the MHV S encoding sequence. This gene was cloned into the pMT\\BiP\\V5\\His expression vector (Invitrogen) in frame with the Drosophila BiP secretion signal downstream the metallothionein promoter. The D1 domain of murine CEACAM1a (residues 35-142; gb NP_001034274.1) was amplified by PCR and cloned into a mammalian expression plasmid32, in frame with a CD5 signal sequence at the 5\u2019end, and with a sequence encoding a thrombin cleavage site, a glycine linker and the Fc domain of human IgG1 at the 3\u2019-end, creating the pCD5-MHVR-T-Fc vector.",
+            "cite_spans": [
+                {
+                    "start": 396,
+                    "end": 397,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 398,
+                    "end": 400,
+                    "mention": "31",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 947,
+                    "end": 949,
+                    "mention": "32",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "section": "Plasmids ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "293-F cells were grown in suspension using FreeStyle\u2122 293 Expression Medium (Life technologies) at 37 \u00b0C in a humidified 5% CO2 incubator on a Celltron shaker platform (Infors HT) rotating at 130 rpm (for 1 L culture flasks). Twenty-four hours before transfection, cell density was adjusted at 1.5 \u00d7 106 cells/ml, and culture grown overnight in the same conditions as mentioned above to reach ~ 2.5 \u00d7 106 cells/ml the day of transfection. Cells were harvested by centrifugation at 1250 rpm for 5 min, and resuspended in fresh FreeStyle\u2122 293 Expression Medium (Life technologies) without antibiotics at a density of 2.5 \u00d7 106 cells/ml.",
+            "cite_spans": [],
+            "section": "Production of recombinant CEACAM1a ectodomain by transient transfection ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "To produce recombinant CEACAM1a ectodomain, 400 \u03bcg of pCD5-MHVR-T-Fc vector (purified using EndoFree plasmid kit from Qiagen) were added to 200 ml of suspension cells. The cultures were swirled 5 min on shaker in the culture incubator before adding 9 \u03bcg/ml of Linear polyethylenimine (PEI) solution (25 kDa, Polysciences). Twenty-four hours post-transfection, cells were diluted 1:1 with FreeStyle\u2122 293 Expression Medium and the transfected cells were cultivated for 6 days. Clarified cell supernatants were concentrated 10-fold using Vivaflow tangential filtration cassettes (Sartorius, 10 kDa cutoff) before affinity purification using a Protein A column (GE LifeSciences) followed by gel filtration chromatography using a Superdex 200 10/300 GL column (GE Life Sciences) equilibrated in 20 mM Tris-HCl pH 7.5, 100 mM NaCl. The Fc tag was removed by trypsin cleavage in a reaction mixture containing 7 mg of recombinant CEACAM1a ectodomain and 5 \u03bcg of trypsin in 100 mM Tris-HCl pH 8.0 and 20 mM CaCl2. The reaction mixture was incubated at 25\u00b0C overnight and re-loaded in a Protein A column to remove uncleaved protein and the FC tag. The cleaved protein was further purified by gel filtration using a Superdex 75 column 10/300 GL (GE Life Sciences) equilibrated in 20 mM Tris-HCl pH 7.5, 100 mM NaCl. The purified protein was quantified using absorption at 280 nm and concentrated to approximately 10 mg/mL.",
+            "cite_spans": [],
+            "section": "Production of recombinant CEACAM1a ectodomain by transient transfection ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "To generate a stable Drosophila S2 cell line expressing recombinant MHV spike ectodomain, we used Effectene (Qiagen) and 2 \u03bcg of the plasmid encoding the MHV S protein ectodomain. A second plasmid, encoding Blasticidin S deaminase was cotransfected as dominant selectable marker. Stable MHV S ectodomain expressing cell lines were selected by addition of 10 \u03bcg/ml Blasticidin S (Invivogen) to the culture medium 48 h after transfection.",
+            "cite_spans": [],
+            "section": "Production of recombinant MHV S ectodomain in Drosophila S2 cells ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "For large-scale production of MHV S ectodomain the cells were cultured in spinner flasks and induced by 5 \u03bcM of CdCl2 at a density of approximately 107 cells per mL. After a week at 28 \u00b0C clarified cell supernatants were concentrated 40-fold using Vivaflow tangential filtration cassettes (Sartorius, 10 kDa cutoff) and adjusted to pH 8.0, before affinity purification using StrepTactin Superflow column (IBA) followed by gel filtration chromatography using Superose 6 10/300 GL column (GE Life Sciences) equilibrated in 20 mM Tris-HCl pH 7.5, 100 mM NaCl. The purified protein was quantified using absorption at 280 nm and concentrated to approximately 4 mg/mL.",
+            "cite_spans": [],
+            "section": "Production of recombinant MHV S ectodomain in Drosophila S2 cells ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "For size exclusion chromatography coupled with multi-angle light scattering (SEC-MALS) analysis, samples (0.2 mL at 1mg/mL) were loaded onto a Superdex 200 10/300 GL column (GE Life Sciences, 0.4 mL/min in gel filtration buffer) and passed through a Wyatt DAWN Heleos II EOS 18-angle laser photometer coupled to a Wyatt Optilab TrEX differential refractive index detector. Data were analyzed using Astra 6 software (Wyatt Technology Corp., CA, USA).",
+            "cite_spans": [],
+            "section": "SEC-MALS ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Solution MST binding studies were performed using standard protocols on a Monolith NT.115 (Nanotemper Technologies). Briefly, recombinant CEACAM1a ectodomain protein was labeled using the RED-NHS (Amine Reactive) Protein Labelling Kit (Nanotemper Technologies). The MHV S ectodomain protein was serially diluted in 20 mM Tris-HCl pH 7.5, 100 mM NaCl and the labeled recombinant CEACAM1a was added to a final concentration of 500 nM before overnight incubation at 4\u00b0C. The CEACAM1a concentration was chosen such that the observed fluorescence was approximately 1000 units at 40% LED power. The samples were loaded into standard-treated Monolith TM capillaries and were measured by standard protocols using a Monolith NT.115, NanoTemper (Munich, Germany). The changes of the fluorescent thermophoresis signal were plotted against the concentration of the serially diluted MHV spike protein and KD values were determined using the NanoTemper analysis software.",
+            "cite_spans": [],
+            "section": "MicroScale Thermophoresis ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Three microliters of MHV spike at 1.85 mg/mL were applied to a 1.2/1.3 C-flat grid (Protochips), which had been glow-discharged for 30s at 20mA. Thereafter, grids were plunge-frozen in liquid ethane using a Gatan CP3 and a blotting time of 3.5 s. Data was acquired using an FEI Titan Krios transmission electron microscope operated at 300 kV and equipped with a Gatan K2 Summit direct detector. Coma-free alignment was performed using the Leginon software33. Automated data collection was carried out using Leginon34 to control both the FEI Titan Krios (used in microprobe mode at a nominal magnification of 22,500 \u00d7) and the Gatan K2 Summit operated in counted mode (pixel size: 1.315 \u00c5) at a dose rate of ~9 counts/physical pixel/s which corresponds to ~12 electrons/physical pixels/s (when accounting for coincidence loss35). Each movie had a total accumulated exposure of 53 e/\u00c52 fractionated in 38 frames of 200 ms (yielding movies of 7.6 s). A dataset of ~1600 micrographs was acquired in a single session using a defocus range comprised between 2.0 and 5.0 \u03bcm.",
+            "cite_spans": [
+                {
+                    "start": 455,
+                    "end": 457,
+                    "mention": "33",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 514,
+                    "end": 516,
+                    "mention": "34",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 824,
+                    "end": 826,
+                    "mention": "35",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "section": "CryoEM sample preparation and data collection ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Whole frame alignment was carried out using the software developed by Li et al35, which is integrated into the Appion pipeline36, to account for stage drift and beam-induced motion. The parameters of the microscope contrast transfer function were estimated for each micrograph using ctffind337. Micrographs were manually masked using Appion to exclude the visible carbon supporting film for further processing. Particles were automatically picked in a reference-free manner using DogPicker38. Extraction of particle images was performed using Relion 1.4 with a box size of 320 pixels2 and applying a windowing operation in Fourier space to yield a final box size of 288 pixels2 (corresponding to a pixel size of 1.46 \u00c5). From the 1.2 million particles initially picked, a subset of 50,000 particles were randomly selected to generate class averages using RELION39. An initial 3D model was generated using OPTIMOD40 within the Appion pipeline. The entire data set was subjected to 2D alignment and clustering using RELION and particles belonging to the best-defined class averages were retained (~500,000 particles). These ~500,000 particles were then subjected to RELION 3D classification with 4 classes (using c1 symmetry) starting with our initial model low-pass filtered to 40\u00c5 resolution. We subsequently used the ~230,000 best particles (selected from the 3D classification) and the map corresponding to the best 3D class (low-pass filtered at 40 \u00c5 resolution) to run Relion 3D auto-refine (c3 symmetry) which led to a reconstruction at 4.4 \u00c5 resolution. We utilized the particle polishing procedure in RELION 1.4 to correct for individual particle movement and radiation damage41,42. A second round of 3D classification with 6 classes (c3 symmetry) was performed using the polished particles resulting in the selection of 82,000 particles. A new 3D auto-refine run (c3 symmetry) using the selected 82,000 particles and the map corresponding to the best 3D class (low-pass filtered at 40 \u00c5 resolution) yielded a map at 4.0 \u00c5 resolution following post processing in RELION. The final map was sharpened with an empirically determined B factor of \u2212220 \u00c52 using Relion post processing. Reported resolutions are based on the gold-standard FSC=0.143 criterion43 and Fourier shell correction curves were corrected for the effects of soft masking by high-resolution noise substitution44. The soft mask used for FSC calculation had a 10 pixel cosine edge fall-off. The overall shape and dimensions of our reconstruction agree with previous data although the HR2 stem connecting to the membrane is not resolved15.",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 80,
+                    "mention": "35",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 126,
+                    "end": 128,
+                    "mention": "36",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 291,
+                    "end": 293,
+                    "mention": "37",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 489,
+                    "end": 491,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 583,
+                    "end": 584,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 676,
+                    "end": 677,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 861,
+                    "end": 863,
+                    "mention": "39",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 912,
+                    "end": 914,
+                    "mention": "40",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1683,
+                    "end": 1685,
+                    "mention": "41",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1686,
+                    "end": 1688,
+                    "mention": "42",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 2258,
+                    "end": 2260,
+                    "mention": "43",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 2381,
+                    "end": 2383,
+                    "mention": "44",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 2605,
+                    "end": 2607,
+                    "mention": "15",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "section": "CryoEM data processing ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Fitting of atomic models into cryoEM maps was performed using UCSF Chimera45 and Coot18,46. We initially docked the MHV domain A structure (PDB 3R4D) and used a crystal structure of a bovine coronavirus domain A (PDB 4H14) to model the three-stranded \u03b2-sheet and the \u03b1-helix present on the viral membrane proximal side of the galectin-like domain. Next, the MERS-CoV domain B crystal structure (PDB 4KQZ) was also fit into the density, and rebuilt and refined using RosettaCM47. Although we could accurately align the sequences corresponding to the core \u03b2-sheet of the MHV and MERS-CoV B domains, the ~100 residues forming the \u03b2-motif extension (residues 453-535, MERS-CoV/SARS-CoV receptor-binding moiety) could not be aligned with confidence. We used RosettaCM to build models of each of the 945 possible disulfide patterns into the density for domain B. For each disulfide arrangement, 50 models were generated, and there was a very clear energy signal for a single such arrangement (ED Fig.3k). Then, 1000 models with this disulfide arrangement were sampled, and the lowest energy model (using the Rosetta force field augmented with a fit-to-density score term) was selected. Due to the poor quality of the reconstruction at the apex of the S trimer, the confidence of the model is lowest for the segment corresponding to residues 453-535, as homology-modeling was used to fill in details missing in the map.",
+            "cite_spans": [
+                {
+                    "start": 74,
+                    "end": 76,
+                    "mention": "45",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 85,
+                    "end": 87,
+                    "mention": "18",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 88,
+                    "end": 90,
+                    "mention": "46",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 475,
+                    "end": 477,
+                    "mention": "47",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "section": "Model building and analysis ::: Methods",
+            "ref_spans": [
+                {
+                    "start": 987,
+                    "end": 996,
+                    "mention": "ED Fig.3k",
+                    "ref_id": "FIGREF11"
+                }
+            ]
+        },
+        {
+            "text": "A backbone model was then manually built for the rest of the S polypeptide using Coot. Sequence register was assigned by visual inspection where side chain density was clearly visible. This initial hand built model was used as an initial model for Rosetta de novo20. The Rosetta-derived model largely agreed with the hand-built model. Rosetta de novo successfully identified fragments allowing to anchor the sequence register for domains C and D as well as for helices \u03b121-\u03b125. Given these anchoring positions, RosettaCM47 augmented with a novel density-guided model-growing protocol was able to rebuild domains C and D in full. The final model was refined by applying strict non-crystallographic symmetry constraints using Rosetta19. Model refinement was performed using a training map corresponding to one of the two maps generated by the gold-standard refinement procedure in Relion. The second map (testing map) was used only for calculation of the FSC compared to the atomic model and preventing overfitting48. The quality of the final model was analyzed with Molprobity49. Structure analysis was assisted by the PISA50 and DALI51 servers. The sequence alignment was generated using MultAlin52 and colored with ESPript53. All figures were generated with UCSF Chimera45.",
+            "cite_spans": [
+                {
+                    "start": 263,
+                    "end": 265,
+                    "mention": "20",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 520,
+                    "end": 522,
+                    "mention": "47",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 731,
+                    "end": 733,
+                    "mention": "19",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1012,
+                    "end": 1014,
+                    "mention": "48",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1075,
+                    "end": 1077,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1122,
+                    "end": 1124,
+                    "mention": "50",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1133,
+                    "end": 1135,
+                    "mention": "51",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1196,
+                    "end": 1198,
+                    "mention": "52",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1223,
+                    "end": 1225,
+                    "mention": "53",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1271,
+                    "end": 1273,
+                    "mention": "45",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "section": "Model building and analysis ::: Methods",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: a-c, 3D map filtered at 4.0 \u00c5 resolution colored by protomer. Two different views of the S trimer (from the side (a) and from the top, looking toward the viral membrane, b) and a side view of one S protomer (c) are shown. d-f, Ribbon diagrams showing the MHV S atomic model oriented as in (a-c).",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Extended Data Figure 6: a, Ribbon diagram of the MHV S2 pre-fusion structure. Disulfide bonds are shown as green sticks. b, Topology diagram of the MHV S2 pre-fusion structure. FP: fusion peptide. PP: di-proline that will act as helix breaker. The presence of these di-proline motifs indicates the post-fusion HR1 coiled-coil could not extend up to the fusion peptide as a single helix. This hypothesis is further supported by the observation of a conserved disulfide bond formed between residues Cys894 and Cys905 (labeled 14 in (a) and (b)), which will prevent refolding of helices \u03b122 and \u03b123 as a single extended helix. c, Ribbon diagram of the SARS-CoV postfusion HR1 helix obtained by X-ray crystallography (PDB 1WYY). The residue numbers corresponding to the MHV A59 sequence are indicated. d, Topology diagram showing the expected coronavirus S post-fusion conformation derived from our MHV S structure and the SARS-CoV post-fusion core crystal structure shown in (c). e, Ribbon diagram of a model of the MHV S2 post-fusion conformation. Residues belonging to \u03b121, \u03b122, \u03b123, \u03b248, \u03b124, \u03b125 are not represented due to a lack of structural information.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Extended Data Figure 7: a, Ribbon diagram of the trimer of central helices. b-c, Ribbon diagrams of the S2 trimer (starting at residue 755) viewed from the side (b) and from the bottom (looking toward the host cell membrane, c). Residues Ala 994 and Leu 1062, which are discussed in the text, are shown in stick format.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Extended Data Figure 8: a, MHV S (residues 870-887). b, Parainfluenza virus 5 F (PIV5 F, residues 103-128, PDB 2B9B). c, Human immunodeficiency virus 1 gp41 (residues 518-528, PDB 4TVP). The trimeric fusion proteins are shown as grey ribbon diagrams with the fusion peptides rendered in magenta.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Extended Data Figure 9: a, Sequence alignment of coronavirus S proteins. MHV-A59: murine hepatitis virus A59 (gi 1352862); MHV-JHM: murine hepatitis virus JHM (gi 60115395); MHV-2: murine hepatitis virus 2 (gi 5565844); Waterbuck-CoV: waterbuck coronavirus US/OH-WD358-TC/1994 (gi 215478096); Bovine-CoV: bovine respiratory coronavirus AH187 (gi 253756585); OC43: human coronavirus OC43 (gi 744516696); HKU1: human coronavirus HKU1 (gi 545299280); MERS-CoV: Middle East respiratory syndrome coronavirus (gi 836600681); HKU4: tylonycteris bat coronavirus HKU4 (gi 126030114); HKU5: pipistrellus bat coronavirus HKU5 (gi 126030124); SARS-CoV: severe acute respiratory syndrome coronavirus ZJ01 (gi 39980889). Asparagine residues featuring N-linked glycan chains visible in the MHV S reconstruction are indicated with a star. The S2 and S2\u2032 cleavage sites are indicated with scissors at positions corresponding to the MHV S sequence. Cysteines involved in the formation of disulfide bonds are numbered according to ED Table 3. The secondary structure elements observed in our MHV S reconstruction are indicated above the sequence. TM: transmembrane helix. The black dotted lines above the sequence indicate regions poorly defined in the density. Although the viral membrane distal loops of the A domains are weakly defined in the density, the availability of a crystal structure of this domain from the same virus (PDB 3R4D) helped modeling.",
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Extended Data Figure 10: a, MHV (pink). b, MERS-CoV (orange, PDB 4KQZ). c, SARS-CoV (red, PDB 2AJF). d, HKU4 (blue, PDB 4QZV).",
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Figure 2: a, Schematic diagram of the S glycoprotein organization. Black and grey dashed lines denote regions unresolved in the reconstruction and regions that were not part of the construct, respectively. UH: upstream helix; FP: fusion peptide; CH: central helix; BH: \u03b2-hairpin (\u03b249-\u03b250); TM: transmembrane domain; CT: cytoplasmic tail; HR1/HR2: heptad-repeats. b-d, Ribbon diagrams depicting three views of the S protomer colored as in (a). The MHV S receptor-binding region is indicated by a star. Disulfide bonds are shown as green sticks except for residues 453-535 for which they are not shown.",
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Figure 3: a-b, Topology and ribbon diagrams showing the structural similarity between coronavirus MHV S2 (starting at residue 755, a) and paramyxovirus RSV F (PDB 5C6B, b). For clarity, only part of RSV F is shown with conserved secondary structural elements colored identically as for MHV S2. #: motifs participating to the post-fusion HR1 coiled-coil. FP: fusion peptide. c-d, Two different views of the MHV S trimer (from the side (c) and top, looking toward the host cell membrane, d) highlighting how S1 (ribbon diagram and semi-transparent surface) wraps around the S2 fusion machinery (ribbon diagram) to stabilize it.",
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Figure 4: a, Surface representation of the MHV S trimer colored according to sequence conservation using the alignment presented in ED Fig.9. The fusion peptide sequence is highly conserved among coronavirus S proteins. b, Surface representation of the MHV S trimer highlighting the peripheral position of the fusion peptide (blue and cyan). c, Ribbon diagrams of the MHV S trimer showing the overlapping positions of the fusion peptide (residues 870-887, blue and cyan) and of a major antigenic determinant identified for MHV and SARS-CoV (residues 875-905, magenta spheres).",
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "Extended Data Figure 1: a, The MHV S molecular weight was determined to be 463.2 \u00b1 0.3 kDa (corresponding to a trimer) using size-exclusion chromatography coupled in-line with multi-angle light scattering and refractometry. The blue line represents the normalized refractive index (right ordinate axis) and the red line shows the estimated molecular weight (expressed in Da, left ordinate axis). b, MHV S binds with high-affinity to soluble murine CEACAM1a receptor. Thermophoresis signal plotted against the MHV S concentration. The KD was determined to be 48.5 \u00b1 3.8 nM. Values correspond to the average of two independent experiments. The concentration of CEACAM1a used was 500 nM.",
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "Extended Data Figure 2: a-b, Representative electron micrograph (defocus: 4.6 \u03bcm, a) and class averages (b) of the MHV S trimer embedded in vitreous ice. Scale bars: 573 \u00c5 (micrograph) and 44 \u00c5 (class averages). c, Gold-standard (blue) and model/map (red) Fourier shell correlation curves. The resolution was determined to 4.0 \u00c5. The 0.143 and 0.5 cutoffs are indicated by horizontal grey bars.",
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "Extended Data Figure 3: The atomic model is shown with the corresponding region of the map. a-b, Upstream helix; c-e, helix belonging to domain A (residues 284 296); f-h, core \u03b2-sheet. i-j, CryoEM density corresponding to the MHV S trimer (a) and a single protomer (b) colored according to local resolution determined with the software Resmap. We interpret Resmap results as a qualitative (rather than quantitative) estimate of map quality. k, Rebuilding of the MHV S domain B using RosettaCM. Plot showing the energy mean and standard deviation of the models corresponding to the 30 lowest energy disulfide arrangements (out of 945) for domain B.",
+            "type": "figure"
+        },
+        "FIGREF12": {
+            "text": "Extended Data Figure 4: Refinement and model statistics.",
+            "type": "figure"
+        },
+        "FIGREF13": {
+            "text": "Extended Data Figure 5: a, Ribbon diagram showing a single S1 protomer. b, Close-up view of the MHV S domain B. The structural motif used as receptor-interacting moiety by MERS-CoV and SARS-CoV is indicated. The density was too weak to allow tracing of this segment (residues 453-535) which has been traced by density-guided homology modeling using Rosetta. c-d, Ribbon diagrams of the S1 trimer viewed from the side (c) and from the top (looking toward the viral membrane, d).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The spike protein of SARS-CoV--a target for vaccine and therapeutic development.",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature reviews. Microbiology",
+            "volume": "7",
+            "issn": "",
+            "pages": "226-236",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Structure of a proteolytically resistant core from the severe acute respiratory syndrome coronavirus S2 fusion protein.",
+            "authors": [
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Supekar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "101",
+            "issn": "",
+            "pages": "17958-17963",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Molecular basis of binding between novel human coronavirus MERS-CoV and its receptor CD26.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "500",
+            "issn": "",
+            "pages": "227-231",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Structure of SARS coronavirus spike receptor-binding domain complexed with receptor.",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farzan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "309",
+            "issn": "",
+            "pages": "1864-1868",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Crystal structure of mouse coronavirus receptor-binding domain complexed with its murine receptor.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "108",
+            "issn": "",
+            "pages": "10696-10701",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Crystal structure of NL63 respiratory coronavirus receptor-binding domain complexed with its human receptor.",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "106",
+            "issn": "",
+            "pages": "19970-19974",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Architecture of the SARS coronavirus prefusion spike.",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Beniac",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Andonov",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Grudeski",
+                    "suffix": ""
+                },
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Booth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature structural & molecular biology",
+            "volume": "13",
+            "issn": "",
+            "pages": "751-752",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Single-Particle Cryo-EM at Crystallographic Resolution.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cell",
+            "volume": "161",
+            "issn": "",
+            "pages": "450-457",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Crystal structure of bovine coronavirus spike protein lectin domain.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "The Journal of biological chemistry",
+            "volume": "287",
+            "issn": "",
+            "pages": "41931-41938",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Tools for macromolecular model building and refinement into electron cryo-microscopy reconstructions.",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "71",
+            "issn": "",
+            "pages": "136-153",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Atomic-accuracy models from 4.5-A cryo-electron microscopy data with density-guided iterative local refinement.",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "DiMaio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nature methods",
+            "volume": "12",
+            "issn": "",
+            "pages": "361-365",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Structure of RSV fusion glycoprotein trimer bound to a prefusion-specific neutralizing antibody.",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "McLellan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Science",
+            "volume": "340",
+            "issn": "",
+            "pages": "1113-1117",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "De novo protein structure determination from near-atomic-resolution cryo-EM maps.",
+            "authors": [
+                {
+                    "first": "RY",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nature methods",
+            "volume": "12",
+            "issn": "",
+            "pages": "335-338",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Variations in disparate regions of the murine coronavirus spike protein impact the initiation of membrane fusion.",
+            "authors": [
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Krueger",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Lewicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ruffolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Gallagher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of virology",
+            "volume": "75",
+            "issn": "",
+            "pages": "2792-2802",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Soluble receptor potentiates receptor-independent infection by murine coronavirus.",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Journal of virology",
+            "volume": "76",
+            "issn": "",
+            "pages": "950-958",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Characterization of a highly conserved domain within the severe acute respiratory syndrome coronavirus spike protein S2 domain with characteristics of a viral fusion peptide.",
+            "authors": [
+                {
+                    "first": "IG",
+                    "middle": [],
+                    "last": "Madu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Belouzard",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Whittaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of virology",
+            "volume": "83",
+            "issn": "",
+            "pages": "7411-7421",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Proteolytic activation of the porcine epidemic diarrhea coronavirus spike fusion protein by trypsin in cell culture.",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Wicht",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of virology",
+            "volume": "88",
+            "issn": "",
+            "pages": "7952-7961",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Structure and immune recognition of trimeric pre-fusion HIV-1 Env.",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pancera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nature",
+            "volume": "514",
+            "issn": "",
+            "pages": "455-461",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Identification of an immunodominant linear neutralization domain on the S2 portion of the murine coronavirus spike glycoprotein and evidence that it forms part of complex tridimensional structure.",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Daniel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Journal of virology",
+            "volume": "67",
+            "issn": "",
+            "pages": "1185-1194",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Identification of an antigenic determinant on the S2 domain of the severe acute respiratory syndrome coronavirus spike glycoprotein capable of inducing neutralizing antibodies.",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of virology",
+            "volume": "78",
+            "issn": "",
+            "pages": "6938-6945",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Proof of principle for epitope-focused vaccine design.",
+            "authors": [
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Correia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nature",
+            "volume": "507",
+            "issn": "",
+            "pages": "201-206",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Bat origins of MERS-CoV supported by bat coronavirus HKU4 usage of human receptor CD26.",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cell Host Microbe",
+            "volume": "16",
+            "issn": "",
+            "pages": "328-337",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Structure of the parainfluenza virus 5 F protein in its metastable, prefusion conformation.",
+            "authors": [
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Paterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Jardetzky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "439",
+            "issn": "",
+            "pages": "38-44",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Structural bases of coronavirus attachment to host aminopeptidase N and its inhibition by neutralizing antibodies.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reguera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Pathog",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Crystal structure of GCN4-pIQI, a trimeric coiled coil with buried polar residues.",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Eckert",
+                    "suffix": ""
+                },
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "Malashkevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Mol Biol",
+            "volume": "284",
+            "issn": "",
+            "pages": "859-865",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Structure of coronavirus hemagglutinin-esterase offers insight into corona and influenza virus evolution.",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Langereis",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "van Vliet",
+                    "suffix": ""
+                },
+                {
+                    "first": "EG",
+                    "middle": [],
+                    "last": "Huizinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "de Groot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "volume": "105",
+            "issn": "",
+            "pages": "9065-9069",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Precise beam-tilt alignment and collimation are required to minimize the phase error associated with coma in high-resolution cryo-EM.",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Glaeser",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Typke",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Tiemeijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pulokas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of structural biology",
+            "volume": "174",
+            "issn": "",
+            "pages": "1-10",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Automated molecular microscopy: the new Leginon system.",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Suloway",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of structural biology",
+            "volume": "151",
+            "issn": "",
+            "pages": "41-60",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM.",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature methods",
+            "volume": "10",
+            "issn": "",
+            "pages": "584-590",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Appion: an integrated, database-driven pipeline to facilitate EM image processing.",
+            "authors": [
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Lander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of structural biology",
+            "volume": "166",
+            "issn": "",
+            "pages": "95-102",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Accurate determination of local defocus and specimen tilt in electron microscopy.",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Mindell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Grigorieff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of structural biology",
+            "volume": "142",
+            "issn": "",
+            "pages": "334-347",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "DoG Picker and TiltPicker: software tools to facilitate particle selection in single particle electron microscopy.",
+            "authors": [
+                {
+                    "first": "NR",
+                    "middle": [],
+                    "last": "Voss",
+                    "suffix": ""
+                },
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Yoshioka",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Radermacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Potter",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Carragher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of structural biology",
+            "volume": "166",
+            "issn": "",
+            "pages": "205-213",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "RELION: implementation of a Bayesian approach to cryo-EM structure determination.",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Scheres",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Journal of structural biology",
+            "volume": "180",
+            "issn": "",
+            "pages": "519-530",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Coronaviruses: important emerging human pathogens.",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Coleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Frieman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of virology",
+            "volume": "88",
+            "issn": "",
+            "pages": "5209-5212",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Optimod--an automated approach for constructing and optimizing initial models for single-particle electron microscopy.",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lyumkis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vinterbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Potter",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Carragher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Journal of structural biology",
+            "volume": "184",
+            "issn": "",
+            "pages": "417-426",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Ribosome structures to near-atomic resolution from thirty thousand cryo-EM particles.",
+            "authors": [
+                {
+                    "first": "XC",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "IS",
+                    "middle": [],
+                    "last": "Fernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "McMullan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Scheres",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "eLife",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Beam-induced motion correction for sub-megadalton cryo-EM particles.",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Scheres",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "eLife",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Prevention of overfitting in cryo-EM structure determination.",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Scheres",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nature methods",
+            "volume": "9",
+            "issn": "",
+            "pages": "853-854",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "High-resolution noise substitution to measure overfitting and validate resolution in 3D structure determination by single particle electron cryomicroscopy.",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Ultramicroscopy",
+            "volume": "135",
+            "issn": "",
+            "pages": "24-35",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Visualizing density maps with UCSF Chimera.",
+            "authors": [
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Goddard",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Ferrin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of structural biology",
+            "volume": "157",
+            "issn": "",
+            "pages": "281-287",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Features and development of Coot.",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Emsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lohkamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cowtan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "66",
+            "issn": "",
+            "pages": "486-501",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "High-resolution comparative modeling with RosettaCM.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Structure",
+            "volume": "21",
+            "issn": "",
+            "pages": "1735-1742",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Cryo-EM model validation using independent map reconstructions.",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "DiMaio",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Protein Sci",
+            "volume": "22",
+            "issn": "",
+            "pages": "865-868",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "MolProbity: all-atom structure validation for macromolecular crystallography.",
+            "authors": [
+                {
+                    "first": "VB",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "66",
+            "issn": "",
+            "pages": "12-21",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "The coronavirus spike protein is a class I virus fusion protein: structural and functional characterization of the fusion core complex.",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "van der Zee",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "de Haan",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of virology",
+            "volume": "77",
+            "issn": "",
+            "pages": "8801-8811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Inference of macromolecular assemblies from crystalline state.",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Krissinel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Henrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Mol Biol",
+            "volume": "372",
+            "issn": "",
+            "pages": "774-797",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Dali server: conservation mapping in 3D.",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Holm",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rosenstrom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic Acids Res",
+            "volume": "38",
+            "issn": "",
+            "pages": "W545-549",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Multiple sequence alignment with hierarchical clustering.",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Corpet",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Nucleic Acids Res",
+            "volume": "16",
+            "issn": "",
+            "pages": "10881-10890",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Deciphering key features in protein structures with the new ENDscript server.",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Robert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gouet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nucleic Acids Res",
+            "volume": "42",
+            "issn": "",
+            "pages": "W320-324",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Coronavirus cell entry occurs through the endo-/lysosomal pathway in a proteolysis-dependent manner.",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Burkard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS Pathog",
+            "volume": "10",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Structural basis for coronavirus-mediated membrane fusion. Crystal structure of mouse hepatitis virus spike protein fusion core.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "The Journal of biological chemistry",
+            "volume": "279",
+            "issn": "",
+            "pages": "30514-30522",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Central ions and lateral asparagine/glutamine zippers stabilize the post-fusion hairpin conformation of the SARS coronavirus spike glycoprotein.",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Duquerroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vigouroux",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Rey",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "335",
+            "issn": "",
+            "pages": "276-285",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Structure of the fusion core and inhibition of fusion by a heptad repeat peptide derived from the S protein of Middle East respiratory syndrome coronavirus.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Journal of virology",
+            "volume": "87",
+            "issn": "",
+            "pages": "13134-13140",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

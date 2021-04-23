@@ -1,0 +1,365 @@
+{
+    "paper_id": "PMC7089259",
+    "metadata": {
+        "title": "Design and application of 60mer oligonucleotide microarray in SARS coronavirus detection",
+        "authors": [
+            {
+                "first": "Rong",
+                "middle": [],
+                "last": "Shi",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wenli",
+                "middle": [],
+                "last": "Ma",
+                "suffix": "",
+                "email": "wenli@fimmu.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Qinghua",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bao",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yanbin",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qiuye",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Weiwei",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wenling",
+                "middle": [],
+                "last": "Zheng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "9366",
+            "pages": "1319-1325",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A.,",
+                        "Oberste,",
+                        "M.",
+                        "S.,",
+                        "Monroe,",
+                        "S.",
+                        "S."
+                    ],
+                    "last": "Rota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Astell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "A complete sequence and comparative analysis of a SARS-associated virus (Isolate BJ01)",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Science Bulletin",
+            "volume": "48",
+            "issn": "10",
+            "pages": "941-948",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03wc0186"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Gene sequence analysis of SARS-associated coronavirus by nested RT-PCR",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Di Yi Jun Yi Da Xue Xue Bao",
+            "volume": "23",
+            "issn": "5",
+            "pages": "421-423",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Two restriction fluorescence labeling methods for enhancing the signal-to-noise ratio of cDNA microarray hybridization",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Di Yi Jun Yi Da Xue Xue Bao",
+            "volume": "23",
+            "issn": "2",
+            "pages": "124-126",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Construction of a cDNA fragment library from SH-SY5Y cells using restriction display PCR",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Br. J. Biomed. Sci.",
+            "volume": "59",
+            "issn": "1",
+            "pages": "35-37",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

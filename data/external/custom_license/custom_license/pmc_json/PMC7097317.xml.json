@@ -1,0 +1,920 @@
+{
+    "paper_id": "PMC7097317",
+    "metadata": {
+        "title": "Integrating epitope data into the emerging web of biomedical knowledge resources",
+        "authors": [
+            {
+                "first": "Bjoern",
+                "middle": [],
+                "last": "Peters",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Alessandro",
+                "middle": [],
+                "last": "Sette",
+                "suffix": "",
+                "email": "alex@liai.org",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: The initial ontology of the IEDB described all elements of the database as classes with associated characteristics (left panel shows this for the immunogen class). In the development process towards a formal ontology, these elements are placed in a hierarchy (simplified view depicted on the right), in which relationships between the different classes are made explicit. For example, the previously separate and unconnected classes Antigen, Immunogen and Adjuvant are now recognized as being objects (for example, Proteins), which participate in a certain role (as Immunogens) in a specific process (such as Immunization).",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Three steps in an advanced query for B-cell epitopes are illustrated. First, criteria are specified to query for epitopes that are recognized in mice, where the immunogen applied was the epitope source species and the species is selected to be severe acute respiratory syndrome (SARS)-associated coronavirus (a). On submitting this query, a summary of epitope records matching these criteria are displayed (b). This includes information on the curated reference, epitope structure, epitope source, and assay used. When choosing the 'Details' link for a specific epitope, the complete curated information is displayed (c).",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: For a given epitope and its source protein, the homology tool of the Immune Epitope Database and Analysis Resource identifies homologous proteins with known three-dimensional structures, and maps the location of epitopes in these structures. In this example, the peptide NTNSGPDDQIGYYRRATR (shown in blue), which is recognized by antibodies from mice immunized with inactivated severe acute respiratory syndrome (SARS)-associated coronavirus (SARS-CoV)34, is mapped to an X-ray structure of the SARS-CoV nucleocapsid protein. The arrow indicates a section of the epitope that is exposed at the surface of the virus, making it a candidate binding site for the antibody in the native protein structure.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: After curating all journal articles published with immune epitope information, several summary analyses could be carried out. This pie chart illustrates the relative number of antibody and T-cell epitopes identified. Surprisingly, although protective immunity against the influenza virus is known to be largely mediated by antibodies, this chart reveals that much more data is available on T-cell epitopes for this virus.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "SYFPEITHI: database for MHC ligands and peptide motifs",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rammensee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bachmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Emmerich",
+                    "suffix": ""
+                },
+                {
+                    "first": "OA",
+                    "middle": [],
+                    "last": "Bachor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stevanovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Immunogenetics",
+            "volume": "50",
+            "issn": "",
+            "pages": "213-219",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s002510050595"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "The design and implementation of the immune epitope database and analysis resource",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunogenetics",
+            "volume": "57",
+            "issn": "",
+            "pages": "326-336",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00251-005-0803-5"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Immunoinformatics comes of age",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Korber",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "LaBute",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yusim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Comput. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.0020071"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Jr. From functional genomics to functional immunomics: new challenges, old problems, big rewards",
+            "authors": [
+                {
+                    "first": "UM",
+                    "middle": [],
+                    "last": "Braga-Neto",
+                    "suffix": ""
+                },
+                {
+                    "first": "ET",
+                    "middle": [],
+                    "last": "Marques",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Comput. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.0020081"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Curation of complex, context-dependent immunological data",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "BMC Bioinformatics",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-7-341"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "National Center for Biomedical Ontology: advancing biomedicine through structured organization of scientific knowledge",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Rubin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Omics",
+            "volume": "10",
+            "issn": "",
+            "pages": "185-198",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/omi.2006.10.185"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "IMGT-ONTOLOGY for immunogenetics and immunoinformatics",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Lefranc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "In Silico Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "17-29",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "An ontology for immune epitopes: application to the design of a broad scope database of immune reactivities",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sathiamurthy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunome Res.",
+            "volume": "1",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1745-7580-1-2"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Development of FuGO: an ontology for functional genomics investigations",
+            "authors": [
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Whetzel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Omics",
+            "volume": "10",
+            "issn": "",
+            "pages": "199-204",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/omi.2006.10.199"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The Gene Ontology (GO) database and informatics resource",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res.",
+            "volume": "32",
+            "issn": "",
+            "pages": "D258-D261",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh066"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "IMGT/LIGM-DB, the IMGT comprehensive database of immunoglobulin and T cell receptor nucleotide sequences",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Giudicelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res.",
+            "volume": "34",
+            "issn": "",
+            "pages": "D781-D784",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkj088"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Ontology development for biological systems: immunology",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Diehl",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Scheuermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Blake",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Bioinformatics",
+            "volume": "23",
+            "issn": "7",
+            "pages": "913-915",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btm029"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "A survey of current work in biomedical text mining",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "WR",
+                    "middle": [],
+                    "last": "Hersh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Brief Bioinform.",
+            "volume": "6",
+            "issn": "",
+            "pages": "57-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bib/6.1.57"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Literature mining for the biologist: from information retrieval to biological discovery",
+            "authors": [
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Saric",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bork",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Genet.",
+            "volume": "7",
+            "issn": "",
+            "pages": "119-129",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrg1768"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Supporting the curation of biological databases with reusable text mining",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Miotto",
+                    "suffix": ""
+                },
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Brusic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Genome Inform.",
+            "volume": "16",
+            "issn": "",
+            "pages": "32-44",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "PreBIND and Textomy\u2014mining the biomedical literature for protein-protein interactions using a support vector machine",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Donaldson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMC Bioinformatics",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-4-11"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Evaluation of text data mining for database curation: lessons learned from the KDD Challenge Cup",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Yeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hirschman",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Morgan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics",
+            "volume": "19",
+            "issn": "Suppl. 1",
+            "pages": "331-339",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btg1046"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Immunomics: discovering new targets for vaccines and therapeutics",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "De Groot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Drug Discov. Today",
+            "volume": "11",
+            "issn": "",
+            "pages": "203-209",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1359-6446(05)03720-7"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "A community resource benchmarking predictions of peptide binding to MHC-I molecules",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Comput. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.0020065"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "A decade of CASP: progress, bottlenecks and prognosis in protein structure prediction",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moult",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Opin. Struct. Biol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "285-289",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.sbi.2005.05.011"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Benchmarking B cell epitope prediction: underperformance of existing methods",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Blythe",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Flower",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Protein Sci.",
+            "volume": "14",
+            "issn": "",
+            "pages": "246-248",
+            "other_ids": {
+                "DOI": [
+                    "10.1110/ps.041059505"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "AntiJen: a quantitative immunology database integrating functional, thermodynamic, kinetic, biophysical, and cellular data",
+            "authors": [
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Toseland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunome Res.",
+            "volume": "1",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1745-7580-1-4"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Towards a consensus on datasets and evaluation metrics for developing B-cell epitope prediction tools",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Greenbaum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Mol. Recognit.",
+            "volume": "20",
+            "issn": "",
+            "pages": "75-82",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmr.815"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Predicting population coverage of T-cell epitope-based diagnostics and vaccines",
+            "authors": [
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Bui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "BMC Bioinformatics",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-7-153"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "EpitopeViewer: a Java application for the visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource (IEDB)",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Beaver",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Bourne",
+                    "suffix": ""
+                },
+                {
+                    "first": "JV",
+                    "middle": [],
+                    "last": "Ponomarenko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunome Res.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1745-7580-3-3"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Ab and T cell epitopes of influenza A virus, knowledge and opportunities",
+            "authors": [
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Bui",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Assarsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mbawuike",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sette",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "246-251",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0609330104"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Mapping of antigenic sites on the nucleocapsid protein of the severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "42",
+            "issn": "",
+            "pages": "5309-5314",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.11.5309-5314.2004"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "An update on the functional molecular immunology (FIMM) database",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schonbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Koh",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Flower",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Brusic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Appl. Bioinformatics",
+            "volume": "4",
+            "issn": "",
+            "pages": "25-31",
+            "other_ids": {
+                "DOI": [
+                    "10.2165/00822942-200504010-00003"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "MHCBN: a comprehensive database of MHC binding and non-binding peptides",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bhasin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Raghava",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics",
+            "volume": "19",
+            "issn": "",
+            "pages": "665-666",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btg055"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Population of the HLA ligand database",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sathiamurthy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Tissue Antigens",
+            "volume": "61",
+            "issn": "",
+            "pages": "12-19",
+            "other_ids": {
+                "DOI": [
+                    "10.1034/j.1399-0039.2003.610102.x"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Los Alamos hepatitis C immunology database",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yusim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Appl. Bioinformatics",
+            "volume": "4",
+            "issn": "",
+            "pages": "217-225",
+            "other_ids": {
+                "DOI": [
+                    "10.2165/00822942-200504040-00002"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "The immune epitope database and analysis resource: from vision to blueprint",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pbio.0030091"
+                ]
+            }
+        }
+    }
+}

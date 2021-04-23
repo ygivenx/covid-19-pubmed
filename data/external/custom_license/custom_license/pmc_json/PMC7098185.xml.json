@@ -1,0 +1,2873 @@
+{
+    "paper_id": "PMC7098185",
+    "metadata": {
+        "title": "Chemical contrast for imaging living systems: molecular vibrations drive CARS microscopy",
+        "authors": [
+            {
+                "first": "John",
+                "middle": [
+                    "Paul"
+                ],
+                "last": "Pezacki",
+                "suffix": "",
+                "email": "john.pezacki@nrc.ca",
+                "affiliation": {}
+            },
+            {
+                "first": "Jessie",
+                "middle": [
+                    "A"
+                ],
+                "last": "Blake",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Dana",
+                "middle": [
+                    "C"
+                ],
+                "last": "Danielson",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "C"
+                ],
+                "last": "Kennedy",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Rodney",
+                "middle": [
+                    "K"
+                ],
+                "last": "Lyn",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ragunath",
+                "middle": [],
+                "last": "Singaravelu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: (a) Schematic diagram of the transitions involved for Raman spectroscopy (top) and CARS spectroscopy (bottom). Both the pump beam and the Stokes beam are required to obtain a CARS signal. (b) Schematic illustration showing linear Raman scattering of the probe beam (left) and nonlinear coherent anti-Stokes Raman scattering (right). (c) Raman spectra corresponding to various cellular components.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Applications of CARS microscopy are shown for the label-free imaging of molecules in various systems. Clockwise from top left: (i) Lipid droplet detection: CARS image shows na\u00efve Huh7 cells' lipid content. (ii) Monitoring host and viral factor localization and their influence on the lipid phenotype using immunofluorescence with CARS: CARS/TPF overlay image shows overexpressed liver protein CES1 that is involved in processing neutral lipids in lipid droplets and implicated in HCV replication and infection92. (iii) Tracking chemical probes: CARS active functionalities provide direct detection of molecules, such as paclitaxel, label-free. (iv) Detection of lipid phenotype changes due to small molecules, or due to cellular processes, as shown by the schematic of mouse fibroblast differentiation into adipocytes45. (v) Tissue imaging: image shows rabbit aorta (green, smooth muscle elastin; red, lipid droplets; blue, collagen); image reprinted with permission from ref. 75. (vi) Tracking dynamics of lipid droplets: image shows Alexa-488 labeling of tubulin with adjacent lipid droplets in cargo transport; in conjunction with CARS enables measurement of changes in lipid droplet dynamics. The scale bars for the cell images are 10 \u03bcm and 50 \u03bcm for the tissue image in (v).",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: (a) Bright-field microscopy images. (b) False-color images obtained by CARS microspectroscopy showing glyceryl trioleate (red) and its lipolytic products (green). Scale bar = 5 \u03bcm. Reproduced with permission from ref. 38. Copyright 2010 American Chemical Society.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: (a,b) CES1 was discovered to be an important enzyme for HCV infection through the use of the fluorophosphonate activity\u2013based protein profiling probe (a), following the general scheme in b92. CES1 is a trimeric serine hydrolase enzyme that modifies lipid droplet content. (c) The enlargement of lipid droplets (red) is shown in Huh7.5 human hepatoma cell lines by the human protein CES1 (green). CES1 enzyme activity was shown to give rise to very large lipid droplets that both enhance HCV replication and favor HCV viral particle assembly.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: (a) The schematic shows the advantages of CARS microscopy over fluorescence methods in imaging lipid droplets and lipid metabolism in C. elegans. Differences in lipid droplet distributions that can be observed by CARS microscopy and that are not possible to visualize by fluorescence in genetic mutants of C. elegans are represented schematically39,65. (b\u2013e) CARS microscopy images show differences in lipid droplet density for the wild-type C. elegans (b), the pha-3 mutant (c), the daf-2 (d) and the daf-4 (e) mutants. The scale bars are 10 \u03bcm. The images were reproduced with permission from ref. 39.",
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Figure 6: (a,b) White matter from a rat brain. (a) CARS microscopy images of fixed myelin sheaths from the coronal plane of the lumbar spinal enlargement and (b) from a mechanically cut transverse section, both acquired with the excitation beams circularly polarized to remove polarization artifacts. Images courtesy of E. B\u00e9langer, S. Laffray and D. C\u00f4t\u00e9. (c\u2013f) Label-free, lipid-selective CARS imaging of atherosclerotic lipids are shown for atherosclerotic lesions with four types of atherosclerotic lipids shown: (c) intracellular lipid droplets in foam cells, (d) needle-shaped lipid crystals, (e) extracellular lipid deposits and (f) plate-shape lipid crystals. The bright yellow color indicates CH bond\u2013rich lipids. Images courtesy of S-H. Kim, J.Y. Lee, E.S. Lee, D.W. Moon.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Chemistry in living systems",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Prescher",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Bertozzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nat. Chem. Biol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "13-21",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Controlling ribozyme activity by metal ions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schnabl",
+                    "suffix": ""
+                },
+                {
+                    "first": "RKO",
+                    "middle": [],
+                    "last": "Sigel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Curr. Opin. Chem. Biol.",
+            "volume": "14",
+            "issn": "",
+            "pages": "269-275",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Fiber delivered probe for efficient CARS imaging of tissues",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Balu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZP",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Tromberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "EO",
+                    "middle": [],
+                    "last": "Potma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Opt. Express",
+            "volume": "18",
+            "issn": "",
+            "pages": "2380-2388",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "An update on sphingosine-1-phosphate and other sphingolipid mediators",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fyrst",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Saba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nat. Chem. Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "489-497",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Translation of the phosphoinositide code by PI effectors",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Kutateladze",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nat. Chem. Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "507-513",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Lipid rafts: bringing order to chaos",
+            "authors": [
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Pike",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Lipid Res.",
+            "volume": "44",
+            "issn": "",
+            "pages": "655-667",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Sphingosine 1-phosphate signalling in mammalian cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Pyne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biochem. J.",
+            "volume": "349",
+            "issn": "",
+            "pages": "385-402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Brick by brick: metabolism and tumor cell growth",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Deberardinis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sayed",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ditsworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Curr. Opin. Genet. Dev.",
+            "volume": "18",
+            "issn": "",
+            "pages": "54-61",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Glycosylation in cellular mechanisms of health and disease",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ohtsubo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Marth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell",
+            "volume": "126",
+            "issn": "",
+            "pages": "855-867",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "In situ click chemistry: probing the binding landscapes of biological molecules",
+            "authors": [
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Mamidyala",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Finn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Chem. Soc. Rev.",
+            "volume": "39",
+            "issn": "",
+            "pages": "1252-1261",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Chemical approaches to perturb, profile, and perceive glycans",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Agard",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Bertozzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Acc. Chem. Res.",
+            "volume": "42",
+            "issn": "",
+            "pages": "788-797",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Innovation: A chemical toolkit for proteins\u2014an expanded genetic code",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Schultz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nat. Rev. Mol. Cell Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "775-782",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm2005"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Therapeutic stem and progenitor cell transplantation for organ vascularization and regeneration",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rafii",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lyden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nat. Med.",
+            "volume": "9",
+            "issn": "",
+            "pages": "702-712",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "PN",
+                    "middle": [],
+                    "last": "Prasad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Introduction to Biophotonics",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Coherent anti-stokes raman scattering microscopy: chemical imaging for biology and medicine",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Annu. Rev. Anal. Chem.",
+            "volume": "1",
+            "issn": "",
+            "pages": "883-909",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Surface-enhanced Raman scattering",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Campion",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kambhampati",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Chem. Soc. Rev.",
+            "volume": "27",
+            "issn": "",
+            "pages": "241-250",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "SERS\u2014a single-molecule and nanoscale tool for bioanalytics",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kneipp",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kneipp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kneipp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Chem. Soc. Rev.",
+            "volume": "37",
+            "issn": "",
+            "pages": "1052-1060",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Single-molecule and single-nanoparticle SERS: from fundamental mechanisms to biomedical applications",
+            "authors": [
+                {
+                    "first": "XM",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Chem. Soc. Rev.",
+            "volume": "37",
+            "issn": "",
+            "pages": "912-920",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Localized surface plasmon resonance spectroscopy and sensing",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Willets",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Van Duyne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Annu. Rev. Phys. Chem.",
+            "volume": "58",
+            "issn": "",
+            "pages": "267-297",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Nanoscale aggregation of cellular beta(2)-adrenergic receptors measured by plasmonic interactions of functionalized nanoparticles. ACS",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nano",
+            "volume": "3",
+            "issn": "",
+            "pages": "2329-2339",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Development of nanoparticle probes for multiplex SERS imaging of cell surface proteins",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Hoop",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Tay",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nanoscale",
+            "volume": "2",
+            "issn": "",
+            "pages": "1413-1416",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Mammalian cell surface imaging with nitrile-functionalized nanoprobes: biophysical characterization of aggregation and polarization anisotropy in SERS imaging",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Tay",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Noestheden",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "129",
+            "issn": "",
+            "pages": "14-15",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Regulatory phases of early liver development: Paradigms of organogenesis",
+            "authors": [
+                {
+                    "first": "KS",
+                    "middle": [],
+                    "last": "Zaret",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat. Rev. Genet.",
+            "volume": "3",
+            "issn": "",
+            "pages": "499-512",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Coherent anti-Stokes Raman scattering microscopy: instrumentation, theory, and applications",
+            "authors": [
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Phys. Chem. B",
+            "volume": "108",
+            "issn": "",
+            "pages": "827-840",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Scanning coherent anti-Stokes Raman microscope",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Duncan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reintjes",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Manuccia",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Opt. Lett.",
+            "volume": "7",
+            "issn": "",
+            "pages": "350-352",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Three-dimensional vibrational imaging by coherent anti-Stokes Raman scattering",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zumbusch",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Holtom",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Phys. Rev. Lett.",
+            "volume": "82",
+            "issn": "",
+            "pages": "4142-4145",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Phosphatidylinositol transfer proteins and cellular nanoreactors for lipid signaling",
+            "authors": [
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Ile",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Schaaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Bankaitis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nat. Chem. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "576-583",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Endocytosis and molecular sorting",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mellman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Annu. Rev. Cell Dev. Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "575-625",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Structure of lipid bilayers",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Nagle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tristram-Nagle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1469",
+            "issn": "",
+            "pages": "159-195",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Trafficking and signaling by fatty-acylated and prenylated proteins",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Resh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nat. Chem. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "584-590",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Moffatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Stanford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Lipid Metabolism and Health",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Label-free imaging of lipophilic bioactive molecules during lipid digestion by multiplex coherent anti-Stokes Raman scattering microspectroscopy",
+            "authors": [
+                {
+                    "first": "JPR",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rago",
+                    "suffix": ""
+                },
+                {
+                    "first": "KF",
+                    "middle": [],
+                    "last": "Domke",
+                    "suffix": ""
+                },
+                {
+                    "first": "KP",
+                    "middle": [],
+                    "last": "Velikov",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bonn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "132",
+            "issn": "",
+            "pages": "8433-8439",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Monitoring of lipid storage in Caenorhabditis elegans using coherent anti-Stokes Raman scattering (CARS) microscopy",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hellerer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "14658-14663",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "The complete atomic structure of the large ribosomal subunit at 2.4 angstrom resolution",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ban",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Steitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "289",
+            "issn": "",
+            "pages": "905-920",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Cellular lipid metabolism is influenced by the coordination environment of copper",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Lyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "131",
+            "issn": "",
+            "pages": "2444-2445",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Multiplex coherent anti-Stokes Raman spectroscopy images intact atheromatous lesions and concomitantly identifies distinct chemical profiles of atherosclerotic lipids",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Circ. Res.",
+            "volume": "106",
+            "issn": "",
+            "pages": "1332-1341",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Differential association of adipophilin and TIP47 proteins with cytoplasmic lipid droplets in mouse enterocytes during dietary fat absorption",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "NE",
+                    "middle": [],
+                    "last": "Wolins",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Buhman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1791",
+            "issn": "",
+            "pages": "1173-1180",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Direct imaging of the disruption of hepatitis C virus replication complexes by inhibitors of lipid metabolism",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Lyn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virology",
+            "volume": "394",
+            "issn": "",
+            "pages": "130-142",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Biophotonic probing of macromolecular transformations during apoptosis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pliss",
+                    "suffix": ""
+                },
+                {
+                    "first": "AN",
+                    "middle": [],
+                    "last": "Kuzmin",
+                    "suffix": ""
+                },
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Kachynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "PN",
+                    "middle": [],
+                    "last": "Prasad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "12771-12776",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Vibrational imaging of lipid droplets in live fibroblast cells with coherent anti-Stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Nan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Lipid Res.",
+            "volume": "44",
+            "issn": "",
+            "pages": "2202-2208",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Nonperturbative chemical imaging of organelle transport in living cells with coherent anti-stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Nan",
+                    "suffix": ""
+                },
+                {
+                    "first": "EO",
+                    "middle": [],
+                    "last": "Potma",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biophys. J.",
+            "volume": "91",
+            "issn": "",
+            "pages": "728-735",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Quantitative label-free imaging of lipid composition and packing of individual cellular lipid droplets using multiplex CARS microscopy",
+            "authors": [
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Rinia",
+                    "suffix": ""
+                },
+                {
+                    "first": "KNJ",
+                    "middle": [],
+                    "last": "Burger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bonn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biophys. J.",
+            "volume": "95",
+            "issn": "",
+            "pages": "4908-4914",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Intracellular imaging of host-pathogen interactions using combined CARS and two-photon fluorescence microscopies",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Robinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biophotonics",
+            "volume": "3",
+            "issn": "",
+            "pages": "138-146",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "High-speed vibrational imaging and spectral analysis of lipid bodies by compound Raman microscopy",
+            "authors": [
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Slipchenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Phys. Chem. B",
+            "volume": "113",
+            "issn": "",
+            "pages": "7681-7686",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Ribosome dynamics and tRNA movement by time-resolved electron cryomicroscopy",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Konevega",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wintermeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Rodnina",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stark",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "466",
+            "issn": "",
+            "pages": "329-333",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "A dynamic, cytoplasmic triacylglycerol pool in enterocytes revealed by ex vivo and in vivo coherent anti-Stokes Raman scattering imaging",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Buhman",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Lipid Res.",
+            "volume": "50",
+            "issn": "",
+            "pages": "1080-1089",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Coherent anti-Stokes Raman scattering imaging of lipids in cancer metastasis",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Huff",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "BMC Cancer",
+            "volume": "9",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "In vivo optical monitoring of tissue pathologies and diseases with vibrational contrast",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "B\u00e9gin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Belanger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Laffray",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vallee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cote",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Biophotonics",
+            "volume": "2",
+            "issn": "",
+            "pages": "632-642",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Polyethylene glycol protects injured neuronal mitochondria",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Pathobiology",
+            "volume": "76",
+            "issn": "",
+            "pages": "117-128",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Chemically-selective imaging of brain structures with CARS microscopy",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Opt. Express",
+            "volume": "15",
+            "issn": "",
+            "pages": "12076-12087",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Coherent anti-stokes Raman scattering imaging of myelin degradation reveals a calcium-dependent pathway in lyso-PtdCho-induced demyelination",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Huff",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Neurosci. Res.",
+            "volume": "85",
+            "issn": "",
+            "pages": "2870-2881",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "In vivo coherent anti-Stokes Raman scattering imaging of sciatic nerve tissue",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Huff",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Microsc.",
+            "volume": "225",
+            "issn": "",
+            "pages": "175-182",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Coherent anti-stokes Raman scattering imaging of axonal myelin in live spinal tissues",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zickmund",
+                    "suffix": ""
+                },
+                {
+                    "first": "RY",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biophys. J.",
+            "volume": "89",
+            "issn": "",
+            "pages": "581-591",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Molecular composition and orientation in myelin figures characterized by coherent anti-stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sutcliffe",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Langmuir",
+            "volume": "21",
+            "issn": "",
+            "pages": "6478-6486",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "In situ analysis of living embryonic stem cells by coherent anti-stokes Raman Microscopy",
+            "authors": [
+                {
+                    "first": "SO",
+                    "middle": [],
+                    "last": "Konorov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Anal. Chem.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7221-7225",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Initiation of translation in prokaryotes and eukaryotes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kozak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Gene",
+            "volume": "234",
+            "issn": "",
+            "pages": "187-208",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Synthesis and characterization of CN-modified protein analogues as potential vibrational contrast agents",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Noestheden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Bioorg. Chem.",
+            "volume": "35",
+            "issn": "",
+            "pages": "284-293",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Host-virus interactions during hepatitis C virus infection: a complex and dynamic molecular biosystem",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Singaravelu",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Lyn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biosyst.",
+            "volume": "6",
+            "issn": "",
+            "pages": "1131-1142",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Intracellular imaging of HCV RNA and cellular lipids by using simultaneous two-photon fluorescence and coherent anti-Stokes Raman scattering microscopies",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Nan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Tonary",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Stolow",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "ChemBioChem",
+            "volume": "7",
+            "issn": "",
+            "pages": "1895-1897",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Evaluation of chemical labeling strategies for monitoring HCV RNA using vibrational microscopy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Noestheden",
+                    "suffix": ""
+                },
+                {
+                    "first": "QY",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Tonary",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Tay",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Org. Biomol. Chem.",
+            "volume": "5",
+            "issn": "",
+            "pages": "2380-2389",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Peroxisome proliferator-activated receptor alpha antagonism inhibits hepatitis C virus replication",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rakic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chem. Biol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "23-30",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Label-free quantitative analysis of lipid metabolism in living Caenorhabditis elegans",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Duren",
+                    "suffix": ""
+                },
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Slipchenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Lipid Res.",
+            "volume": "51",
+            "issn": "",
+            "pages": "672-677",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "In situ visualization of paclitaxel distribution and release by coherent anti-stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Anal. Chem.",
+            "volume": "78",
+            "issn": "",
+            "pages": "8036-8043",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Three-dimensional molecular mapping of a multiple emulsion by means of CARS microscopy",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Phys. Chem. B",
+            "volume": "112",
+            "issn": "",
+            "pages": "1420-1426",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Imaging receptor-mediated endocytosis with a polymeric nanoparticle-based coherent anti-stokes raman scattering probe",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Phys. Chem. B",
+            "volume": "111",
+            "issn": "",
+            "pages": "9980-9985",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Chemical imaging of oral solid dosage forms and changes upon dissolution using coherent anti-Stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Windbergs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Anal. Chem.",
+            "volume": "81",
+            "issn": "",
+            "pages": "2085-2091",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "What recent ribosome structures have revealed about the mechanism of translation",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Schmeing",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Ramakrishnan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "461",
+            "issn": "",
+            "pages": "1234-1242",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Shedding new light on lipid biology with coherent anti-Stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Yue",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Lipid Res.",
+            "volume": "51",
+            "issn": "",
+            "pages": "3091-3102",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Imaging of chemical and physical state of individual cellular lipid droplets using multiplex CARS microscopy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bonn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Rinia",
+                    "suffix": ""
+                },
+                {
+                    "first": "KNJ",
+                    "middle": [],
+                    "last": "Burger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Raman Spectrosc.",
+            "volume": "40",
+            "issn": "",
+            "pages": "763-769",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Dynamics of lipid droplets induced by the hepatitis C virus core protein",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Lyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Kennedy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Stolow",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ridsdale",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Pezacki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "399",
+            "issn": "",
+            "pages": "518-524",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Label-free biomedical imaging with high sensitivity by stimulated Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Freudiger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Science",
+            "volume": "322",
+            "issn": "",
+            "pages": "1857-1861",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Video-rate molecular imaging in vivo with stimulated Raman scattering",
+            "authors": [
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Saar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "330",
+            "issn": "",
+            "pages": "1368-1370",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Optimally chirped multimodal CARS microscopy based on a single Ti:sapphire oscillator",
+            "authors": [
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Pegoraro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Opt. Express",
+            "volume": "17",
+            "issn": "",
+            "pages": "2984-2996",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Quantitative assessment of hepatic fat of intact liver tissues with coherent anti-Stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Anal. Chem.",
+            "volume": "81",
+            "issn": "",
+            "pages": "1496-1504",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Nonlinear optical measurements of the artery wall: parameters related to the progression of atherosclerosis",
+            "authors": [
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Sowa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Meas. Sci. Rev.",
+            "volume": "9",
+            "issn": "",
+            "pages": "93-94",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Chemical imaging of tissue in vivo with video-rate coherent anti-Stokes Raman scattering microscopy",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "16807-16812",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Glutamate excitotoxicity inflicts paranodal myelin splitting and retraction",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "YZ",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "RY",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS ONE",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Principles of stop-codon reading on the ribosome",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ander",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Aqvist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "465",
+            "issn": "",
+            "pages": "947-950",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "CGI-58 facilitates lipolysis on lipid droplets but is not involved in the vesiculation of lipid droplets caused by hormonal stimulation",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yamaguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Lipid Res.",
+            "volume": "48",
+            "issn": "",
+            "pages": "1078-1089",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Single-cell profiling reveals the origin of phenotypic variability in adipogenesis",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS ONE",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "High copper selectively alters lipid metabolism and cell cycle machinery in the mouse model of Wilson disease",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Huster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "8343-8355",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Click chemistry: diverse chemical function from a few good reactions",
+            "authors": [
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "Kolb",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Finn",
+                    "suffix": ""
+                },
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Sharpless",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Angew. Chem. Int. Ed. Engl.",
+            "volume": "40",
+            "issn": "",
+            "pages": "2004-2021",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Perspective\u2014living cells as test tubes",
+            "authors": [
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "WY",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "312",
+            "issn": "",
+            "pages": "228-230",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "High-sensitivity vibrational imaging with frequency modulation coherent anti-Stokes Raman scattering (FM CARS) microscopy",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ganikhanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Saar",
+                    "suffix": ""
+                },
+                {
+                    "first": "XS",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Opt. Lett.",
+            "volume": "31",
+            "issn": "",
+            "pages": "1872-1874",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Quantitative coherent anti-Stokes Raman scattering imaging of lipid distribution in coexisting domains",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biophys. J.",
+            "volume": "89",
+            "issn": "",
+            "pages": "3480-3490",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Real-time visualization of intracellular hydrodynamics in single living cells",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Potma",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "de Boeij",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJM",
+                    "middle": [],
+                    "last": "van Haastert",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Wiersma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "98",
+            "issn": "",
+            "pages": "1577-1582",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Implications for lipids during replication of enveloped viruses",
+            "authors": [
+                {
+                    "first": "RB",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Wenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Chem. Phys. Lipids",
+            "volume": "163",
+            "issn": "",
+            "pages": "449-459",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Modification of intracellular membrane structures for virus replication",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krijnse-Locker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nat. Rev. Microbiol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "363-374",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Focus on function: single molecule RNA enzymology",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Ditzler",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Aleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rueda",
+                    "suffix": ""
+                },
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Walter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biopolymers",
+            "volume": "87",
+            "issn": "",
+            "pages": "302-316",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Lipid droplets and hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "McLauchlan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1791",
+            "issn": "",
+            "pages": "552-559",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Cellular determinants of hepatitis C virus assembly, maturation, degradation, and secretion",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gastaminza",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "2120-2129",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Activity-based protein profiling identifies a host enzyme, carboxylesterase 1, which is differentially active during hepatitis C virus replication",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Blais",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "25602-25612",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "LNA-mediated microRNA silencing in non-human primates",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Elm\u00e9n",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "452",
+            "issn": "",
+            "pages": "896-899",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Modulation of hepatitis C virus RNA abundance by a liver-specific microRNA",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Jopling",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lancaster",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Lemon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "309",
+            "issn": "",
+            "pages": "1577-1581",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "MicroRNA-122 modulates the rhythmic expression profile of the circadian deadenylase nocturnin in mouse liver",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kojima",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gatfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Esau",
+                    "suffix": ""
+                },
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS ONE",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Silencing of microRNAs in vivo with 'antagomirs'",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kr\u00fctzfeldt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "685-689",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "The influence of cholesterol and lipid metabolism on host cell structure and hepatitis C virus replication",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Sagan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem. Cell Biol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "67-79",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "Nonlinear optical imaging to evaluate the impact of obesity on mammary gland and tumor stroma",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Imaging",
+            "volume": "6",
+            "issn": "",
+            "pages": "205-211",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Multimodal CARS microscopy determination of the impact of diet on macrophage infiltration and lipid accumulation on plaque formation in ApoE-deficient mice",
+            "authors": [
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Lipid Res.",
+            "volume": "51",
+            "issn": "",
+            "pages": "1729-1737",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

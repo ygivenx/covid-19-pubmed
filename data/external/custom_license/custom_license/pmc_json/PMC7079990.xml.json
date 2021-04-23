@@ -1,0 +1,1223 @@
+{
+    "paper_id": "PMC7079990",
+    "metadata": {
+        "title": "Exact epidemic models on graphs using graph-automorphism driven lumping",
+        "authors": [
+            {
+                "first": "P\u00e9ter",
+                "middle": [
+                    "L."
+                ],
+                "last": "Simon",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Taylor",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Istvan",
+                "middle": [
+                    "Z."
+                ],
+                "last": "Kiss",
+                "suffix": "",
+                "email": "i.z.kiss@sussex.ac.uk",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "A deterministic epidemic model taking account of repeated contacts between the same individuals",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Diekmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "MCM",
+                    "middle": [],
+                    "last": "De Jong",
+                    "suffix": ""
+                },
+                {
+                    "first": "JAJ",
+                    "middle": [],
+                    "last": "Metz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Appl Prob",
+            "volume": "35",
+            "issn": "",
+            "pages": "448-462",
+            "other_ids": {
+                "DOI": [
+                    "10.1239/jap/1032192860"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "The foot-and mouth epidemic in Great Britain: pattern of spread and impact of interventions",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "1155-1160",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1061020"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Modelling the initial spread of foot-and-mouth disease through animal movements",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc R Soc B",
+            "volume": "273",
+            "issn": "",
+            "pages": "2729-2735",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2006.3648"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [],
+            "year": 2003,
+            "venue": "Handbook of graph theory",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "A motif-based approach to network epidemics",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "House",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Danon",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Bull Math Biol",
+            "volume": "71",
+            "issn": "",
+            "pages": "1693-1706",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11538-009-9420-z"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Forecast and control of epidemics in a globalized world",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hufnagel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brockmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Geisel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "15124-15129",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0308344101"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hundsdorfer",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Verwer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Numerical solution of time-dependent advection-diffusion-reactions equations",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "A spectral method for aggregating variables in linear dynamical systems with application to cellular automata renormalization",
+            "authors": [
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Jacobi",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "G\u00f6rnerup",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Adv Complex Syst",
+            "volume": "12",
+            "issn": "",
+            "pages": "1-25",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0219525909002155"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Demographic structure and pathogen dynamics on the network of livestock movements in Great Britain",
+            "authors": [
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Danon",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc R Soc B",
+            "volume": "273",
+            "issn": "",
+            "pages": "1999-2007",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2006.3505"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "A threshold limit theorem for the stochastic logistic epidemic",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Djehich",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Appl Prob",
+            "volume": "35",
+            "issn": "",
+            "pages": "662-670",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "The effects of local spatial structure on epidemiological invasions",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc R Soc Lond B",
+            "volume": "266",
+            "issn": "",
+            "pages": "859-867",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.1999.0716"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "The implications of network structure for epidemic dynamics",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Theor Popul Biol",
+            "volume": "67",
+            "issn": "",
+            "pages": "1-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tpb.2004.08.002"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Networks and epidemic models",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                },
+                {
+                    "first": "KTD",
+                    "middle": [],
+                    "last": "Eames",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J R Soc Interface",
+            "volume": "2",
+            "issn": "",
+            "pages": "295-307",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2005.0051"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "On methods for studying stochastic disease dynamics",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                },
+                {
+                    "first": "JV",
+                    "middle": [],
+                    "last": "Ross",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J R Soc Interface",
+            "volume": "5",
+            "issn": "",
+            "pages": "171-181",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2007.1106"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Correlation models for childhood epidemics",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Keeling",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Rand",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Morris",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc R Soc B",
+            "volume": "264",
+            "issn": "",
+            "pages": "1149-1156",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.1997.0159"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Kemeny",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Snell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "Finite Markov chains",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Network-based analysis of stochastic SIR epidemic models with random and proportionate mixing",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kenah",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Robins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Theor Biol",
+            "volume": "249",
+            "issn": "",
+            "pages": "706-722",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2007.09.011"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "A contribution to the mathematical study of epidemics",
+            "authors": [
+                {
+                    "first": "WO",
+                    "middle": [],
+                    "last": "Kermack",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "McKendrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1927,
+            "venue": "Proc R Soc Lond Ser A",
+            "volume": "115",
+            "issn": "",
+            "pages": "700-721",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspa.1927.0118"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Disease contact tracing in random and clustered networks",
+            "authors": [
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc R Soc B",
+            "volume": "272",
+            "issn": "",
+            "pages": "1407-1414",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2005.3092"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The network of sheep movements within Great Britain: network properties and their implications for infectious disease spread",
+            "authors": [
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J R Soc Interface",
+            "volume": "3",
+            "issn": "",
+            "pages": "669-677",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2006.0129"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Epidemics with two levels of mixing",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ball",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mollison",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Salia-Tomba",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Ann Appl Prob",
+            "volume": "7",
+            "issn": "",
+            "pages": "46-89",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/aoap/1034625252"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The effect of network heterogeneity and multiple routes of transmission on final epidemic size",
+            "authors": [
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Math Biosci",
+            "volume": "203",
+            "issn": "",
+            "pages": "124-136",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2006.03.002"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "The effect of network mixing patterns on epidemic dynamics and the efficacy of disease contact tracing",
+            "authors": [
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J R Soc Interface",
+            "volume": "5",
+            "issn": "",
+            "pages": "791-799",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2007.1272"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Solutions of ordinary differential equations as limits of pure jump Markov processes",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Kurtz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "J Appl Prob",
+            "volume": "7",
+            "issn": "",
+            "pages": "49-58",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/3212147"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Limit theorems for sequences of jump Markov processes approximating ordinary differential processes",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Kurtz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "J Appl Prob",
+            "volume": "8",
+            "issn": "",
+            "pages": "344-356",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/3211904"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Transmission dynamics and control of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1966-1970",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086616"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Infection dynamics on scale-free networks",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Phys Rev E",
+            "volume": "64",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.64.066112"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Network theory and SARS: predicting outbreak diversity",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Meyers",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Pourbohloul",
+                    "suffix": ""
+                },
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Skowronski",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Brunham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Theor Biol",
+            "volume": "232",
+            "issn": "",
+            "pages": "71-81",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2004.07.026"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "The quasi-stationary distribution of the closed endemic SIS model",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "N\u00e5sell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Adv Appl Probab",
+            "volume": "28",
+            "issn": "",
+            "pages": "895-932",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/1428186"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "The spread of epidemic disease on networks",
+            "authors": [
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Phys Rev E",
+            "volume": "66",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.66.016128"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Sur les mod\u00e8les stochastique logistiques en d\u00e9mographie",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Picard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1965,
+            "venue": "Ann Inst Henri Poincar\u00e9 B",
+            "volume": "II",
+            "issn": "",
+            "pages": "151-172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Brandes",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Erlebach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Network analysis: methodological foundations",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Correlation equations for spatial ecologies",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Rand",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Advanced ecological theory",
+            "volume": "",
+            "issn": "",
+            "pages": "100-142",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Pathogen invasion and host extinction in lattice structured populations",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Matsuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sasaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Math Biol",
+            "volume": "32",
+            "issn": "",
+            "pages": "251-268",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00163881"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Deterministic epidemiological models at the individual level",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Sharkey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Math Biol",
+            "volume": "57",
+            "issn": "",
+            "pages": "311-331",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00285-008-0161-7"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Origins and evolutionary genomics of the 2009 swine-origin H1N1 influenza A epidemic",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "459",
+            "issn": "",
+            "pages": "1122-1125",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature08182"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "HP",
+                    "middle": [],
+                    "last": "Yap",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Some topics in graph theory. In: London Mathematical Society, Lecture notes series 108",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Brauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "van den Driessche",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mathematical epidemiology. In: Lecture notes in mathematics",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "An analysis of the fixation probability of a mutant on special classes of non-directed graphs",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Broom",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rycht\u00e1\u0159",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc R Soc A",
+            "volume": "464",
+            "issn": "",
+            "pages": "2609-2627",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspa.2008.0058"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Contact structures in the poultry industry in Great Britain: exploring transmission routes for a potential avian influenza virus epidemic",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Dent",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "IZ",
+                    "middle": [],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hyder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Arnold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMC Vet Res",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1746-6148-4-27"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Diekmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "JAP",
+                    "middle": [],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mathematical epidemiology of infectious diseases: model building, analysis and interpretation",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

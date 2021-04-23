@@ -1,0 +1,2228 @@
+{
+    "paper_id": "PMC7089106",
+    "metadata": {
+        "title": "Structural parameterization and functional prediction of antigenic polypeptome sequences with biological activity through quantitative sequence-activity models (QSAM) by molecular electronegativity edge-distance vector (VMED)",
+        "authors": [
+            {
+                "first": "ZhiLiang",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "zlli-cqu@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "ShiRong",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ZeCong",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Nancy",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ShengXi",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ChunYang",
+                "middle": [],
+                "last": "Liao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "MengJun",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": "zlli2662@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Li",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hu",
+                "middle": [],
+                "last": "Mei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Na",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yuan",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ping",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Xiong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hong",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ShuShen",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ZiHua",
+                "middle": [],
+                "last": "Ling",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Gang",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": "gchen@sp.edu.sg",
+                "affiliation": {}
+            },
+            {
+                "first": "GenRong",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Human genome\u2014Development of energy on the map",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Placa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Nature",
+            "volume": "321",
+            "issn": "",
+            "pages": "371-386",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "How good is the prediction of protein structural classes by the component-coupled method?",
+            "volume": "",
+            "issn": "",
+            "pages": "165-175",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Autophosphorylation kinetics of protein kinases",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem J",
+            "volume": "368",
+            "issn": "",
+            "pages": "947-952",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BJ20020557"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Evaluation of the catalytic mechanism of the p21-activated protein kinase PAK2",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochemistry",
+            "volume": "42",
+            "issn": "",
+            "pages": "1129-1139",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi026857l"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The mechanism of p21-activated protein kinase 2 autoactivation",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Biol Chem",
+            "volume": "278",
+            "issn": "",
+            "pages": "41768-41778",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M308196200"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Modeling protein backbone structure based on C\u03b1 guiding coordinates",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Protein Eng",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/protein/5.2.147"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Defining topological equivalents in protein structures by means of dynamic programming algorithm",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Protein Eng",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/protein/6.4.373"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Phyletic relationship of proteins based on structure preference factors",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Mol Evol",
+            "volume": "36",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02407306"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Molecular recognition: monomer of the yeast transcriptional activator GCN4 recognizes its dimer DNA binding target sites specifically",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Sci China Ser B-Chem Sci",
+            "volume": "43",
+            "issn": "5",
+            "pages": "466-476",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02969492"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Identification of binding epitope of a monoclonal antibody (Z12) against human TNF-\u03b1 using computer modeling and deletion mutant technique",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Shen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Sci China Ser C-Life Sci",
+            "volume": "47",
+            "issn": "3",
+            "pages": "279-286",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03yc0053"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Epitope prediction based on three-dimensional structure",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Mol Sci",
+            "volume": "15",
+            "issn": "2",
+            "pages": "112-115",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "A new strategy for genome sequencing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Venter",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature",
+            "volume": "381",
+            "issn": "",
+            "pages": "364-366",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "The multi-parameter prediction of protein antigenic determinants",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Chin J Immunol",
+            "volume": "13",
+            "issn": "6",
+            "pages": "329-333",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "The kinetics of formation of native ribonuclease during oxidation of the reduced polypeptide chain",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Anfinsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Haber",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Sela",
+                    "suffix": ""
+                }
+            ],
+            "year": 1961,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "47",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.47.9.1309"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "The reaction cycle of GroEL and GroES in chaperonin-assisted protein folding",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mayhew",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Lattger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Nature",
+            "volume": "366",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/366228a0"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Relations between chemical structure and biological activity in peptides",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "H.",
+                        "A."
+                    ],
+                    "last": "Sneath",
+                    "suffix": ""
+                }
+            ],
+            "year": 1966,
+            "venue": "J Theor Biol",
+            "volume": "12",
+            "issn": "",
+            "pages": "157-195",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-5193(66)90112-3"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Opioid peptides. Pharmacological activity and lipophilic character of dermorphin oligopeptides",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Borea",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Santo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Salvadori",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Farmaco Ed Sci",
+            "volume": "38",
+            "issn": "",
+            "pages": "521-526",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Quantitative structure-activity relationships of the bitter thresholds of amino acids, peptides, and their derivatives",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Asao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Iwamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Akamatsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J Med Chem",
+            "volume": "30",
+            "issn": "",
+            "pages": "1873-1879",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm00393a031"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Amino acid side chain parameters for correlation studies in biology and pharmacology",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Fauchere",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Charton",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Kier",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Int J Pept Protein Res",
+            "volume": "32",
+            "issn": "",
+            "pages": "269-278",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1399-3011.1988.tb01261.x"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "3D-QSAR of angiotensin-converting enzyme and thermolysin inhibitors: A comparison of CoMFA models based on deduced and experimentally determined active site geometries",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Depriest",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Mayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Naylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Am Chem Soc",
+            "volume": "115",
+            "issn": "",
+            "pages": "5372-5384",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00066a004"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Amino acids characterization by GRID and multivariate data analysis",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Cocchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Johansson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Quant Struct Act Relat",
+            "volume": "12",
+            "issn": "",
+            "pages": "1-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/qsar.19930120102"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The quantitative description of amino acid, peptide, and protein properties and bioactivities",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Charton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Prop Phys Org Chem",
+            "volume": "18",
+            "issn": "",
+            "pages": "163-284",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/9780470171974.ch5"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Initial sequencing and analysis of the human genome",
+            "authors": [],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "409",
+            "issn": "",
+            "pages": "860-921",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35057062"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "A statistical analysis of the physical properties of the 20 naturally occurring amino acids",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kidera",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Konishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Oka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J Protein Chem",
+            "volume": "4",
+            "issn": "",
+            "pages": "23-55",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01025492"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Peptide quantitative structure-activity relationships, A multivariate approach",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hellberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Sjostrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Skagerberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J Med Chem",
+            "volume": "30",
+            "issn": "",
+            "pages": "1126-1135",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm00390a003"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Minimum analogue peptide sets (MAPS) for quantitative structure-activity relationships",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hellberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Eriksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Jonsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Int J Pept Protein Res",
+            "volume": "37",
+            "issn": "",
+            "pages": "414-424",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1399-3011.1991.tb00756.x"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Principal property values for six non-natural amino acids and their application to a structure-activity relationship for oxytocin peptide analogues",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Wold",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Eriksson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hellberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Can J Chem",
+            "volume": "65",
+            "issn": "",
+            "pages": "1814-1820",
+            "other_ids": {
+                "DOI": [
+                    "10.1139/v87-305"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Amino acid side chain descriptors for quantitative structure activity relationship studies of peptide analogues",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Collantes",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Dunn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Med Chem",
+            "volume": "38",
+            "issn": "",
+            "pages": "2705-2713",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm00014a022"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "MS-WHIM scores for amino acids: A new 3D-description for peptide QSAR and QSPR studies",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Zaliani",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Gancia",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Chem Inf Compt Sci",
+            "volume": "39",
+            "issn": "",
+            "pages": "525-533",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci980211b"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Topological shape and size of peptides: Identification of potential allele specific helper T cell antigenic sites",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Raychaudhury",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Bag",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Chem Inf Comput Sci",
+            "volume": "39",
+            "issn": "",
+            "pages": "248-254",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Approach to estimation and prediction for normal boiling points of alkanes based on a molecular distance-edge vector(MDE), lambt",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Chem Inf Comput Sci",
+            "volume": "38",
+            "issn": "3",
+            "pages": "387-394",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci970109z"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "A novel molecular electronegativity-distance vector(MEDV)",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Acta Chim Sin (in Chinese)",
+            "volume": "58",
+            "issn": "11",
+            "pages": "1353-1357",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Novel molecular electronegativity-distance vector for pharmaceutical characterization and application",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K.-X.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.-L.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.-Y.",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Computer-assisted Drug Design\u2014Principle, Method and Application (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Novel molecular electronegativity-distance vector for organic characterization and application",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Selected 100 Excellent PhD Dissertations (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Chemical structural parameterization and chemobiological property quantitation of types of organic compounds",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Structural parameterization and QSAR study of oligopeptides",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Acta Chim Sin (in Chinese)",
+            "volume": "59",
+            "issn": "7",
+            "pages": "1004-1008",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Chemical structural parameterization and chemobiological property quantitation of typical organic compounds",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Structure expression and function prediction of biologically active compounds",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Molecular eletronegativity-distance vector (MEDV-4):A two-dimensional QSAR method for the estimation and prediction of biological activities of estradiol derivatives",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Molecular Structure (Theochem)",
+            "volume": "679",
+            "issn": "",
+            "pages": "107-113",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.theochem.2004.04.010"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Eukaryotic promoter prediction",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Eukaryotic promoter recognition using backpropagation neural network",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chin J Biomed Eng",
+            "volume": "13",
+            "issn": "2",
+            "pages": "87-92",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Peptide QSARs",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "On structural parameterization and molecular modeling of peptide analogues by molecular electronegativity edge vector (VMEE): Estimation and prediction for biological activity of dipeptides",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Chin Chem Soc",
+            "volume": "48",
+            "issn": "5",
+            "pages": "937-944",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Quantitative Drug Design: A Critical Introduction",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Applying generalized hydrophobicity scale of amino acids to quantitative prediction of human leukocyte antigen-A*0201-restricted cytotoxic T lymphocyte epitope",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chin Sci Bull",
+            "volume": "51",
+            "issn": "12",
+            "pages": "1439-1443",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11434-006-1439-z"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "A new descriptor of amino acids based on the three-dimensional vector of atomic interaction field",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chin Sci Bull",
+            "volume": "51",
+            "issn": "5",
+            "pages": "524-529",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11434-006-0524-7"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Sequence pattern common to T cell epitopes",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Rothbard",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "EMBO J",
+            "volume": "7",
+            "issn": "1",
+            "pages": "93-100",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Characterization of the insulin A-chain major immunogenic determinant presented by MHC class II I-Ad molecules",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Willims",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Gariepy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Immunol",
+            "volume": "151",
+            "issn": "",
+            "pages": "3627-3627",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "I-Ad-binding peptides derived from unrelated protein antigens share a common structural motif",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Sette",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Buus",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Colon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Immunol",
+            "volume": "141",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Self peptide requirement for class II major histocompatibility complex allorecognition",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Demotz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Sette",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Sakaguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "88",
+            "issn": "19",
+            "pages": "8730-8734",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.88.19.8730"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "The T cell receptor",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Marrack",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Kappler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Science",
+            "volume": "238",
+            "issn": "4830",
+            "pages": "1073-1079",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.3317824"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Interaction of an immunodominant epitope with Ia molecules in T-cell activation",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Adorini",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Sette",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Buus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "85",
+            "issn": "14",
+            "pages": "5181-5185",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.85.14.5181"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Production of T-T hybrids from T cell clones. Direct comparison between cloned T cells and T hybridoma cells derived from them",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Ozaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.K.",
+                    "middle": [],
+                    "last": "Durum",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Muegge",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Immunol",
+            "volume": "141",
+            "issn": "1",
+            "pages": "71-78",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "QSAR study of steroid benchmark and dipeptides based on MEDV-13",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Chem Inf Comput Sci",
+            "volume": "41",
+            "issn": "2",
+            "pages": "321-329",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci0003350"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Identification of encoding proteins related to SARS-CoV",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chin Sci Bull",
+            "volume": "49",
+            "issn": "19",
+            "pages": "2037-2040",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03wb0198"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "A new set of amino acid descriptors and its application in peptide QSARs",
+            "volume": "",
+            "issn": "",
+            "pages": "775-786",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "A new sequence pepresentation (FASGAI) as applied in better specificity elucidation for human immunodeficiency virus type 1 protease",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biopolymers (Pept Sci)",
+            "volume": "88",
+            "issn": "3",
+            "pages": "401-412",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/bip.20669"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Scores of generalized base properties for quantitative sequence-activity modelings for E. coli promoters based on support vector machine",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Mol Graph Model",
+            "volume": "26",
+            "issn": "1",
+            "pages": "269-281",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmgm.2006.12.004"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Using scores of amino acid topological descriptors for quantitative sequence-mobility modeling of peptides based on support vector machine",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chin Sci Bull",
+            "volume": "51",
+            "issn": "22",
+            "pages": "2700-2705",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11434-006-2138-5"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Applying novel molecular electronegativity-interaction vector (MEIV) to QSPR study on collision cross section of singly protonated peptides",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "QSAR Comb Sci",
+            "volume": "26",
+            "issn": "1",
+            "pages": "117-121",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/qsar.200510220"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "A new two-dimensional approach to quantitative prediction for collision cross-section of more than 110 singly protonated peptides by a novel moecular electronegativity-interaction vector through quantitative structure-spectrometry relationship studies",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Frontiers of Chem China",
+            "volume": "2",
+            "issn": "1",
+            "pages": "55-64",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11458-007-0012-x"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Molecular electronegative distance vector (MEDV) related to 15 properties of alkanes",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.X.",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Chem Inf Comput Sci",
+            "volume": "40",
+            "issn": "6",
+            "pages": "1337-1348",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci0003247"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Novel molecular electronegativity-interaction vector and its application in quantitative prediction for collision cross-section of singly protonated peptides",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chin J Anal Chem",
+            "volume": "34",
+            "issn": "6",
+            "pages": "778-782",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1872-2040(06)60039-X"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Assessing the accuracy of protein secondary structure",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Nat Struct Biol",
+            "volume": "1",
+            "issn": "",
+            "pages": "145-146",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsb0394-145"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "How many fold types of protein are there in nature?",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proteins: Structure, Function and Genetics",
+            "volume": "26",
+            "issn": "",
+            "pages": "186-191",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1097-0134(199610)26:2<186::AID-PROT8>3.0.CO;2-E"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Influence of substrates on in vitro dephosphorylation of glycogen phosphorylase a by protein phosphatase-1",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochem J",
+            "volume": "341",
+            "issn": "",
+            "pages": "545-554",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/0264-6021:3410545"
+                ]
+            }
+        }
+    }
+}

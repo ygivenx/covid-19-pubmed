@@ -1,0 +1,399 @@
+{
+    "paper_id": "PMC7097577",
+    "metadata": {
+        "title": "Ibis T5000: a universal biosensor approach for microbiology",
+        "authors": [
+            {
+                "first": "David",
+                "middle": [
+                    "J."
+                ],
+                "last": "Ecker",
+                "suffix": "",
+                "email": "decker@ibisbio.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Rangarajan",
+                "middle": [],
+                "last": "Sampath",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Christian",
+                "middle": [],
+                "last": "Massire",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Lawrence",
+                "middle": [
+                    "B."
+                ],
+                "last": "Blyn",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Thomas",
+                "middle": [
+                    "A."
+                ],
+                "last": "Hall",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Mark",
+                "middle": [
+                    "W."
+                ],
+                "last": "Eshoo",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Steven",
+                "middle": [
+                    "A."
+                ],
+                "last": "Hofstadler",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: Like any other methodology that uses PCR, the nucleic acids must first be purified from the clinical or environmental sample. Target sites on microbial genomes that are common across broad groups of microorganisms and that flank regions of high information content are selected for primer design. Broad-range PCR is conducted and, following an automated desalting step, amplified nucleic acids are electrosprayed into a time-of-flight (TOF) mass spectrometer and the spectral signal is processed to identify the masses of the amplicons that are present with sufficient mass accuracy to unambiguously calculate the nucleotide base compositions present in each amplicon. The information from all wells is used in a mathematical process that is known as triangulation to convert the base-composition data to a list of the organisms that are present and their relative and absolute quantities. ESI\u2013MS, electrospray ionization mass spectrometry.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The colour coding depicts the specificity of the broad-range primers that are used in bacterial identification. All the species shown are amplified by the six ribosomal-DNA-targeted primers (346, 347, 348, 349, 360 and 361); exceptions are shown boxed by a red dashed line, along with an indication of the actual subset of primer pairs that is predicted to yield amplicons. Other colours depict coverage of the division- or group-specific primers that target genes which encode conserved housekeeping genes. For clarity, diverse branches that are covered by ribosomal primer pairs only (the Aquificae, Thermotogae and Chloroflexi phyla) are not represented.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: a | Shows a broad mass range that includes each strand of the internal calibration standard. b | Shows an expanded view of the spectral region that excludes the calibration standard. Each amplified product has two peaks that correspond to the two strands of the amplicon. The organisms that are assigned to each peak are based on the collective interpretation from eight broad-range primers.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: The base composition of a variable fragment of the RNA-dependent RNA polymerase gene flanked by conserved primer target sites is depicted in three dimensions for the flavivirus sequences in GenBank. The region depicted here corresponds to coordinates 9,050\u20139,150 of Dengue virus 1 (GenBank accession code DQ285559).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Risk factors for human disease emergence",
+            "authors": [
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Latham",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Philos. Trans. R. Soc. Lond. B",
+            "volume": "356",
+            "issn": "",
+            "pages": "983-989",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2001.0888"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Multilocus sequence typing",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Enright",
+                    "suffix": ""
+                },
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Spratt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Trends Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "482-487",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(99)01609-1"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Worldwide genetic relationships among Francisella tularensis isolates determined by multiple-locus variable-number tandem repeat analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Johansson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Bacteriol.",
+            "volume": "186",
+            "issn": "",
+            "pages": "5808-5818",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.186.17.5808-5818.2004"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Analysis of antibiotic resistance genes in multidrug-resistant Acinetobacter sp. isolates from military and civilian patients treated at the Walter Reed Army Medical Center",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Hujer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "50",
+            "issn": "",
+            "pages": "4114-4123",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.00778-06"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Identification of Acinetobacter species and genotyping of Acinetobacter baumannii by multilocus PCR and mass spectrometry",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Ecker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "44",
+            "issn": "",
+            "pages": "2921-2932",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00619-06"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Rapid identification and strain-typing of respiratory pathogens for epidemic surveillance",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Ecker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "8012-8017",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0409920102"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Direct broad-range detection of alphaviruses in mosquito extracts",
+            "authors": [
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Eshoo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "368",
+            "issn": "",
+            "pages": "286-295",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2007.06.016"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Rapid detection and molecular serotyping of adenovirus by use of PCR followed by electrospray ionization mass spectrometry",
+            "authors": [
+                {
+                    "first": "LB",
+                    "middle": [],
+                    "last": "Blyn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "46",
+            "issn": "",
+            "pages": "644-651",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00801-07"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Global surveillance of emerging influenza virus genotypes by mass spectrometry",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sampath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS ONE",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0000489"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Rapid identification of emerging pathogens: coronavirus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sampath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "11",
+            "issn": "",
+            "pages": "373-379",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1103.040629"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Broad-range bacterial detection and the analysis of unexplained death and critical illness",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nikkari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "8",
+            "issn": "",
+            "pages": "188-194",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0802.010150"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Bacterial diversity within the human subgingival crevice",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kroes",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Lepp",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Relman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "14547-14552",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.25.14547"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "TIGER: the universal biosensor",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Hofstadler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Int. J. Mass Spectrom.",
+            "volume": "242",
+            "issn": "",
+            "pages": "23-41",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijms.2004.09.014"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,3684 @@
+{
+    "paper_id": "PMC3245550",
+    "metadata": {
+        "title": "ARF family G proteins and their regulators: roles in membrane transport, development and disease",
+        "authors": [
+            {
+                "first": "Julie",
+                "middle": [
+                    "G."
+                ],
+                "last": "Donaldson",
+                "suffix": "",
+                "email": "jdonalds@helix.nih.gov",
+                "affiliation": {}
+            },
+            {
+                "first": "Catherine",
+                "middle": [
+                    "L."
+                ],
+                "last": "Jackson",
+                "suffix": "",
+                "email": "jackson@ijm.univ-paris-diderot.fr",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: ARF and ARL effectors\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: ARF family GEF and GAP proteins\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | A schematic of representative ADP-ribosylation factor (ARF), SAR1 and ARF-like (ARL) proteins, indicating the conserved amino-terminal amphipathic helix and the protein-specific lipid modifications at the N terminus. These include myristoylation (Myr) and acetylation (Acet), both of which ensure tight membrane association. The effector regions of the guanine-nucleotide-binding (G) protein, switch 1 (SW1) and SW2, and the interswitch region between them, are depicted. These regions change conformation upon exchange of GDP for GTP and are involved in interactions with effectors. b | ARF\u2022GDP reversibly associates with the membrane surface, and the myristoylated N-terminal helix ensures tight membrane association of ARF\u2022GTP. The switch and interswitch regions are also shown, and these undergo a conformational change upon GTP binding to enter the hydrophobic pocket that the N-terminal amphipathic helix occupies in the GDP-bound form. c | ARF family G proteins undergo a cycle of GTP binding and hydrolysis, mediated by guanine nucleotide exchange factors (GEFs) and GTPase-activating proteins (GAPs), respectively. The GTP-bound form is thought to carry out G protein functions through interaction with 'classical effectors', including vesicle coat proteins and enzymes that can modify membrane lipid composition; however, increased attention has focused on networks of effectors that are targeted by proteins that interact with GEFs and GAPs themselves and unique effectors that associate specifically with the GDP-bound form of ARF proteins.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | ADP-ribosylation factor (ARF) proteins have distinct localizations and functions in the endoplasmic reticulum (ER)\u2013Golgi system. ARF1 and ARF4 localize to the early cis-Golgi and ARF3 specifically localizes to the trans-Golgi network (TGN). In addition to the recruitment of coat proteins (coatomer complex I (COPI), GGA (Golgi-localized, \u03b3-ear-containing, ADP-ribosylation factor-binding protein) and adaptor protein 1 (AP1)) to the Golgi, ARF1 binds to ceramide transfer (CERT) and FAPP2 to mediate the transport of ceramide and glucosylceramide lipids from the cis-Golgi to the trans-Golgi. At the ER\u2013Golgi intermediate compartment (ERGIC), ARF1 and its guanine nucleotide exchange factor (GEF) GBF1 act with COPII to regulate the formation of lipid droplets and for the replication of several viruses. CAPS (Calcium-dependent activator protein for secretion), which is involved in regulated secretion, is recruited to the TGN by ARF4 and ARF5. At the ER, SAR1, activated by SEC12, recruits COPII to allow vesicle transport to the Golgi. b | In retinal cells, ARF4 binds specifically to rhodopsin in the TGN membrane and, together with FIP3, ASAP (ARF GAP containing SH3, ankyrin repeat and PH domains) and Rab11, it facilitates the transport of rhodopsin in transport vesicles from the inner segment to the outer segment, which is a specialized cilium. ARF-like 3 (ARL3) has been found to be localized to the connecting cilium, and retinitis pigmentosa 2 (RP2; also known as XRP2), an ARL3 GAP, localizes to the TGN, the basal body and the membrane adjacent to the connecting cilium. c | In primary cilia, ARL6 recruits the BBSome coat complex that facilitates the transport of membrane proteins into the cilium. ARL13 is localized to the cilium and has been implicated in intraflagellar transport. ADRP, adipose differentiation-related protein (also known as adipophilin); ATGL, adipose triglyceride lipase; PtdIns4K, phosphatidylinositol 4-kinase.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: At the plasma membrane, ADP-ribosylation factor 6 (ARF6) activates phosphatidylinositol-4-phosphate 5-kinase (PtdIns4P5K) to generate PtdIns-4,5-bisphosphate (PtdIns(4,5)P2) and, together with ARF-like 4 (ARL4), recruits cytohesin (also known as ARNO) guanine nucleotide exchange factors (GEFs) that can lead to further activation of ARF6 or ARF1. Cytohesins associate with the IPCEF (interactor protein for cytohesin exchange factors)\u2013DOCK180 complex, which activates Rac, but another Rac GEF, Kalirin, can be recruited to membranes by ARF6\u2022GDP. ARF6 at the plasma membrane can regulate the membrane lipid composition, alterations in cortical actin to drive protrusions (for example, during cell migration), and endocytosis of ligand-activated guanine-nucleotide-binding (G) protein-coupled receptors (GPCR) via clathrin-dependent endocytosis. ARF6 and the microtubule motor adaptor protein JNK-interacting protein 4 (JIP4) promote rapid recycling of endosomal membrane back to the cell surface, and ARF6, together with the exocyst complex, also affects slow recycling from sorting endosomes. ARF1 has been implicated in clathrin-independent endocytosis of glycosyl PtdIns (GPI)-anchored proteins in some cells. ARF6 and the ARF6 GEFs cytohesin and BRAG2 have been implicated in both assembly and disassembly of adherens junctions. Two ARF GTPase-activating proteins (GAPs), ASAP1 (ARF GAP containing SH3, ankyrin repeat and PH domains 1) and GIT1, localize to focal adhesions that mediate adhesion to the extracellular matrix (ECM), and GIT1 interacts with PIX, a GEF for CDC42. ARL8 is required for fusion of multivesicular late endosomes with lysosomes and is involved in transport along microtubules. HGF, hepatocyte growth factor.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: An active GTP-bound ADP-ribosylation factor (ARF) family member (either ARF-like 4 (ARL4) or ARF6), phosphoinositides (phosphatidylinositol-4,5-bisphosphate (PtdIns(4,5)P2) or PtdIns-3,4,5-trisphosphate (PtdIns(3,4,5)P3)), and additional acidic phospholipids such as phosphatidylserine, are all required for membrane recruitment of the cytohesin (also known as ARNO) guanine nucleotide exchange factor (GEF), to convert it from its cytosolic inactive form to its fully active membrane-bound form. Before recruitment, the SEC7 catalytic GEF domain, the pleckstrin homology (PH) domain and the carboxy-terminal \u03b1-helix of cytohesin are in an autoinhibited conformation (left), with the C-terminal \u03b1-helix (charged residues within this are shown as '+') and linker situated between the catalytic SEC7 domain and the PH domain, which blocks the ARF-binding site. Upon binding of the PH domain to the GTP-bound GEF at the membrane, the catalytic site is released from autoinhibition (right). This can in turn drive further activation of ARF proteins, such as ARF1, at the membrane, and may form the basis of an ARF protein activation cascade. Figure is modified, with permission, from Ref. 93 \u00a9 (2011) American Society for Biochemistry and Molecular Biology.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "ARF proteins: roles in membrane traffic and beyond",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "D'Souza-Schorey",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chavrier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "347-358",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Syt1p promotes activation of Arl1p at the late Golgi to recruit Imh1p",
+            "authors": [
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cell Sci.",
+            "volume": "123",
+            "issn": "",
+            "pages": "3478-3489",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Cytohesin-1 controls the activation of RhoA and modulates integrin-dependent adhesion and migration of dendritic cells",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Quast",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Blood",
+            "volume": "113",
+            "issn": "",
+            "pages": "5801-5810",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Distinct spatiotemporal expression of EFA6D, a guanine nucleotide exchange factor for ARF6, among the EFA6 family in mouse brain",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sakagami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Brain Res.",
+            "volume": "1093",
+            "issn": "",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Regulation of dendritic development by the ARF exchange factor ARNO",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Hernandez-Deviez",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Casanova",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Neurosci.",
+            "volume": "5",
+            "issn": "",
+            "pages": "623-624",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "ARF6 and EFA6A regulate the development and maintenance of dendritic spines",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Neurosci.",
+            "volume": "26",
+            "issn": "",
+            "pages": "4811-4819",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Mutations in ARFGEF2 implicate vesicle trafficking in neural progenitor proliferation and migration in the human cerebral cortex",
+            "authors": [
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Sheen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Genet.",
+            "volume": "36",
+            "issn": "",
+            "pages": "69-76",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Disruption of neural progenitors along the ventricular and subventricular zones in periventricular heterotopia",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Ferland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Hum. Mol. Genet.",
+            "volume": "18",
+            "issn": "",
+            "pages": "497-516",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Mutations in the guanine nucleotide exchange factor gene IQSEC2 cause nonsyndromic intellectual disability",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Shoubridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Genet.",
+            "volume": "42",
+            "issn": "",
+            "pages": "486-488",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "AMPA receptor signaling through BRAG2 and Arf6 critical for long-term synaptic depression",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Scholz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Neuron",
+            "volume": "66",
+            "issn": "",
+            "pages": "768-780",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Caenorhabditis elegans EFA-6 limits microtubule growth at the cell cortex",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "O'Rourke",
+                    "suffix": ""
+                },
+                {
+                    "first": "SN",
+                    "middle": [],
+                    "last": "Christensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bowerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Cell Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1235-1241",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Poliovirus replication requires the N-terminus but not the catalytic Sec7 domain of ArfGEF GBF1",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Belov",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kovtunovych",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell. Microbiol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1463-1479",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "The COPI system: molecular mechanisms and function",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beck",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ravet",
+                    "suffix": ""
+                },
+                {
+                    "first": "FT",
+                    "middle": [],
+                    "last": "Wieland",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cassel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "FEBS Lett.",
+            "volume": "583",
+            "issn": "",
+            "pages": "2701-2709",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "The ARF1 GTPase-activating protein: zinc finger motif and Golgi complex localization",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cukierman",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Huber",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rotman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cassel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Science",
+            "volume": "270",
+            "issn": "",
+            "pages": "1999-2002",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Arf GAPs and their interacting proteins",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Inoue",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Randazzo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Traffic",
+            "volume": "8",
+            "issn": "",
+            "pages": "1465-1475",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Src-dependent phosphorylation of ASAP1 regulates podosomes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bharti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Cell Biol.",
+            "volume": "27",
+            "issn": "",
+            "pages": "8271-8283",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "The structure of an Arf-ArfGAP complex reveals a Ca2+ regulatory mechanism",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Ismail",
+                    "suffix": ""
+                },
+                {
+                    "first": "IR",
+                    "middle": [],
+                    "last": "Vetter",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sot",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wittinghofer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "141",
+            "issn": "",
+            "pages": "812-821",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Crystal structure of the ARF-GAP domain and ankyrin repeats of PYK2-associated protein \u03b2",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mandiyan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Andreev",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schlessinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Hubbard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "EMBO J.",
+            "volume": "18",
+            "issn": "",
+            "pages": "6890-6898",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Autoinhibition of Arf GTPase-activating protein activity by the BAR domain in ASAP1. J",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biol. Chem.",
+            "volume": "284",
+            "issn": "",
+            "pages": "1652-1663",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Arf GTPase-activating protein ASAP1 interacts with Rab11 effector FIP3 and regulates pericentrosomal localization of transferrin receptor-positive recycling endosome",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Inoue",
+                    "suffix": ""
+                },
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Ha",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Prekeris",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Randazzo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Biol. Cell",
+            "volume": "19",
+            "issn": "",
+            "pages": "4224-4237",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "CIN85, a Cbl-interacting protein, is a component of AMAP1-mediated breast cancer invasion machinery",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Nam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "EMBO J.",
+            "volume": "26",
+            "issn": "",
+            "pages": "647-656",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Substrate specificities and activities of AZAP family Arf GAPs in vivo",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Cuthbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Casanova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Am. J. Physiol. Cell Physiol.",
+            "volume": "294",
+            "issn": "",
+            "pages": "C263-C270",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Regulation of receptor trafficking by GRKs and arrestins",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Milano",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Benovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Annu. Rev. Physiol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "451-482",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Coat proteins: shaping membrane transport",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Bonifacino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lippincott-Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "409-414",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "The Drosophila homologue of Arf-GAP GIT1, dGIT, is required for proper muscle morphogenesis and guidance during embryogenesis",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Bahri",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Choy",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Manser",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Dev. Biol.",
+            "volume": "325",
+            "issn": "",
+            "pages": "15-23",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Impaired fear response in mice lacking GIT1",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Schmalzigaug",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Neurosci. Lett.",
+            "volume": "458",
+            "issn": "",
+            "pages": "79-83",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Impaired spine formation and learning in GPCR kinase 2 interacting protein-1 (GIT1) knockout mice",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Menon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Brain Res.",
+            "volume": "1317",
+            "issn": "",
+            "pages": "218-226",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Rac3 inhibits adhesion and differentiation of neuronal cells by modifying GIT1 downstream signaling",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hajdo-Milasinovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "van der Kammen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Moneva",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Collard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Cell Sci.",
+            "volume": "122",
+            "issn": "",
+            "pages": "2127-2136",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "The assembly of a GTPase-kinase signalling complex by a bacterial catalytic scaffold",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Selyunin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nature",
+            "volume": "469",
+            "issn": "",
+            "pages": "107-111",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Analysis of the small GTPase gene superfamily of Arabidopsis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Vernoud",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Horton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Plant Physiol.",
+            "volume": "131",
+            "issn": "",
+            "pages": "1191-1208",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Correct targeting of plant ARF GTPases relies on distinct protein domains",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Matheson",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Suri",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Hanton",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chatre",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Brandizzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Traffic",
+            "volume": "9",
+            "issn": "",
+            "pages": "103-120",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Role of the GNOM gene in Arabidopsis apical-basal patterning \u2014 from mutant phenotype to cellular mechanism of protein action",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Richter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Eur. J. Cell Biol.",
+            "volume": "89",
+            "issn": "",
+            "pages": "138-144",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "ADP-ribosylation factor machinery mediates endocytosis in plant cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Naramoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "21890-21895",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "An ARF-GEF acting at the Golgi and in selective endocytosis in polarized plant cells",
+            "authors": [
+                {
+                    "first": "OK",
+                    "middle": [],
+                    "last": "Teh",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "448",
+            "issn": "",
+            "pages": "493-496",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Phospholipid- and GTP-dependent activation of cholera toxin and phospholipase D by human ADP-ribosylation factor-like protein 1 (HARL1)",
+            "authors": [
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Biol. Chem.",
+            "volume": "273",
+            "issn": "",
+            "pages": "15872-15876",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Fluorescence imaging-based screen identifies ARF GEF component of early endosomal trafficking",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kitakura",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De Rycke",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De Groodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Friml",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Curr. Biol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "391-397",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "A bacterial virulence protein suppresses host innate immunity to cause plant disease",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nomura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "313",
+            "issn": "",
+            "pages": "220-223",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "VAN3 ARF-GAP-mediated vesicle transport is involved in leaf vascular network formation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Koizumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Development",
+            "volume": "132",
+            "issn": "",
+            "pages": "1699-1711",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "SCARFACE encodes an ARF-GAP that is required for normal auxin efflux and vein patterning in Arabidopsis",
+            "authors": [
+                {
+                    "first": "LE",
+                    "middle": [],
+                    "last": "Sieburth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Plant Cell",
+            "volume": "18",
+            "issn": "",
+            "pages": "1396-1411",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "AGD5 is a GTPase-activating protein at the trans-Golgi network",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stefano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Plant J.",
+            "volume": "64",
+            "issn": "",
+            "pages": "790-799",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Regulation of membrane trafficking and organ separation by the NEVERSHED ARF-GAP protein",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Liljegren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Development",
+            "volume": "136",
+            "issn": "",
+            "pages": "1909-1918",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Trypanosoma brucei ARF1 plays a central role in endocytosis and Golgi\u2013lysosome trafficking",
+            "authors": [
+                {
+                    "first": "HP",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Biol. Cell",
+            "volume": "18",
+            "issn": "",
+            "pages": "864-873",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "The small GTPase ARL2 is required for cytokinesis in Trypanosoma brucei",
+            "authors": [
+                {
+                    "first": "HP",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Peltan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biochem. Parasitol.",
+            "volume": "173",
+            "issn": "",
+            "pages": "123-131",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Functional analysis of TbARL1, an N-myristoylated Golgi protein essential for viability in bloodstream trypanosomes",
+            "authors": [
+                {
+                    "first": "HP",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Panethymitaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Goulding",
+                    "suffix": ""
+                },
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell Sci.",
+            "volume": "118",
+            "issn": "",
+            "pages": "831-841",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "N-myristoyltransferase inhibitors as new leads to treat sleeping sickness",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Frearson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "464",
+            "issn": "",
+            "pages": "728-732",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Protein-lipid interactions in membrane trafficking at the Golgi complex",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "De Matteis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Godi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1666",
+            "issn": "",
+            "pages": "264-274",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Consensus nomenclature for the human ArfGAP domain-containing proteins",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Cell Biol.",
+            "volume": "182",
+            "issn": "",
+            "pages": "1039-1044",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Isoform-selective effects of the depletion of ADP-ribosylation factors 1\u20135 on membrane traffic",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Volpicelli-Daley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Biol. Cell",
+            "volume": "16",
+            "issn": "",
+            "pages": "4495-4508",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "ADP ribosylation factors 1 and 4 and group VIA phospholipase A regulate morphology and intraorganellar traffic in the endoplasmic reticulum\u2013Golgi intermediate compartment",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ben-Tekaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "HP",
+                    "middle": [],
+                    "last": "Hauri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biol. Cell",
+            "volume": "21",
+            "issn": "",
+            "pages": "4130-4140",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Targeting of Arf-1 to the early Golgi by membrin, an ER\u2013Golgi SNARE",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Honda",
+                    "suffix": ""
+                },
+                {
+                    "first": "OS",
+                    "middle": [],
+                    "last": "Al-Awar",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Hay",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Donaldson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell Biol.",
+            "volume": "168",
+            "issn": "",
+            "pages": "1039-1051",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Arf3 is activated uniquely at the trans-Golgi network by brefeldin A-inhibited guanine nucleotide exchange factors",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Manolea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biol. Cell",
+            "volume": "21",
+            "issn": "",
+            "pages": "1836-1849",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Rhodopsin C terminus, the site of mutations causing retinal disease, regulates trafficking by binding to ADP-ribosylation factor 4 (ARF4)",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Deretic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "3301-3306",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "The small G proteins of the Arf family and their regulators",
+            "authors": [
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Gillingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Munro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Annu. Rev. Cell Dev. Biol.",
+            "volume": "23",
+            "issn": "",
+            "pages": "579-611",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Ciliary targeting motif VxPx directs assembly of a trafficking module through Arf4",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mazelova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "EMBO J.",
+            "volume": "28",
+            "issn": "",
+            "pages": "183-192",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Interaction of calcium-dependent activator protein for secretion 1 (CAPS1) with the class II ADP-ribosylation factor small GTPases is required for dense-core vesicle trafficking in the trans-Golgi network",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sadakata",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "38710-38719",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Glycosphingolipid synthesis requires FAPP2 transfer of glucosylceramide",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "D'Angelo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "449",
+            "issn": "",
+            "pages": "62-67",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Functional genomic screen reveals genes involved in lipid-droplet formation and utilization",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "453",
+            "issn": "",
+            "pages": "657-661",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Dynamic activity of lipid droplets: protein phosphorylation and GTP-mediated protein translocation",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Proteome Res.",
+            "volume": "6",
+            "issn": "",
+            "pages": "3256-3265",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Coatomer-dependent protein delivery to lipid droplets",
+            "authors": [
+                {
+                    "first": "KG",
+                    "middle": [],
+                    "last": "Soni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Cell Sci.",
+            "volume": "122",
+            "issn": "",
+            "pages": "1834-1841",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "COPI complex is a regulator of lipid homeostasis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Beller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "The ARF-like GTPase ARFRP1 is essential for lipid droplet growth and is involved in the regulation of lipolysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hommel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "30",
+            "issn": "",
+            "pages": "1231-1242",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "ARF1 is directly involved in dynamin-independent endocytosis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumari",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mayor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Cell Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "30-41",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Analysis of endocytic pathways in Drosophila cells reveals a conserved role for GBF1 in internalization via GEECs",
+            "authors": [
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS ONE",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "N-terminal hydrophobic residues of the G-protein ADP-ribosylation factor-1 insert into membrane phospholipids upon GDP to GTP exchange",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Antonny",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Beraud-Dufour",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chardin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chabre",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Biochemistry",
+            "volume": "36",
+            "issn": "",
+            "pages": "4675-4684",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Crucial role of the small GTPase ARF6 in hepatic cord formation during liver development",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "6149-6156",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "The small G-protein Arf6GTP recruits the AP-2 adaptor complex to membranes",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Paleotti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "21661-21666",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "ARF6 regulates angiotensin II type 1 receptor endocytosis by controlling the recruitment of AP-2 and clathrin",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Poupart",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fessart",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotton",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Laporte",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Claing",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell Signal.",
+            "volume": "19",
+            "issn": "",
+            "pages": "2370-2378",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Decoupling of activation and effector binding underlies ARF6 priming of fast endocytic recycling",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Montagnac",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Curr. Biol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "574-579",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Pathways and mechanisms of endocytic recycling",
+            "authors": [
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Grant",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Donaldson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "597-608",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Arf6 and microtubules in adhesion-dependent trafficking of lipid rafts",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Balasubramanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Castle",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Casanova",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Cell Biol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1381-1391",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Cdc42 localization and cell polarity depend on membrane traffic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Osmani",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Peglion",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chavrier",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Etienne-Manneville",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cell Biol.",
+            "volume": "191",
+            "issn": "",
+            "pages": "1261-1269",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Yeast Arf3p modulates plasma membrane PtdIns(4,5)P2 levels to facilitate endocytosis",
+            "authors": [
+                {
+                    "first": "II",
+                    "middle": [],
+                    "last": "Smaczynska-de Rooij",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Costa",
+                    "suffix": ""
+                },
+                {
+                    "first": "KR",
+                    "middle": [],
+                    "last": "Ayscough",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Traffic",
+            "volume": "9",
+            "issn": "",
+            "pages": "559-573",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Role for Arf3p in development of polarity, but not endocytosis, in Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YW",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tung",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol. Biol. Cell",
+            "volume": "14",
+            "issn": "",
+            "pages": "3834-3847",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "ADP-ribosylation factor Arf6p may function as a molecular switch of new end take off in fission yeast",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "366",
+            "issn": "",
+            "pages": "193-198",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Toward a structural understanding of arf family:effector specificity",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chavrier",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Menetrey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Structure",
+            "volume": "18",
+            "issn": "",
+            "pages": "1552-1558",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Aspergillus nidulans ArfB plays a role in endocytosis and polarized growth",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "SN",
+                    "middle": [],
+                    "last": "Schmidtke",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Dangott",
+                    "suffix": ""
+                },
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Eukaryot. Cell",
+            "volume": "7",
+            "issn": "",
+            "pages": "1278-1288",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Spermatocyte cytokinesis requires rapid membrane addition mediated by ARF6 on central spindle recycling endosomes",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Development",
+            "volume": "134",
+            "issn": "",
+            "pages": "4437-4447",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "ARF6 interacts with JIP4 to control a motor switch mechanism regulating endosome traffic in cytokinesis",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Montagnac",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Curr. Biol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "184-195",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "The structural basis of Arf effector specificity: the crystal structure of ARF6 in a complex with JIP4",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Isabet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "EMBO J.",
+            "volume": "28",
+            "issn": "",
+            "pages": "2835-2845",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "FRMD4A regulates epithelial polarity by connecting Arf6 activation with the PAR complex",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ikenouchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Umeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "748-753",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "GEP100/BRAG2: activator of ADP-ribosylation factor 6 for regulation of cell adhesion and actin cytoskeleton via E-cadherin and \u03b1-catenin",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hiroi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Someya",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vaughan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "10672-10677",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "EFA6, exchange factor for ARF6, regulates the actin cytoskeleton and associated tight junction in response to E-cadherin engagement",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Luton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Biol. Cell",
+            "volume": "15",
+            "issn": "",
+            "pages": "1134-1145",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "ARF6-dependent activation of ERK and Rac1 modulates epithelial tubule development",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Tushir",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "D'Souza-Schorey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "EMBO J.",
+            "volume": "26",
+            "issn": "",
+            "pages": "1806-1819",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Analysis of GTPase-activating proteins: Rab1 and Rab43 are key Rabs required to maintain a functional Golgi complex in human cells",
+            "authors": [
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Haas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Cell Sci.",
+            "volume": "120",
+            "issn": "",
+            "pages": "2997-3010",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "TBC1D24, an ARF6-interacting protein, is mutated in familial infantile myoclonic epilepsy",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Falace",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Am. J. Hum. Genet.",
+            "volume": "87",
+            "issn": "",
+            "pages": "365-370",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "An N-terminally acetylated Arf-like GTPase is localised to lysosomes and affects their motility",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Munro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Cell Sci.",
+            "volume": "119",
+            "issn": "",
+            "pages": "1494-1503",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "The TBC (Tre-2/Bub2/Cdc16) domain protein TRE17 regulates plasma membrane-endosomal trafficking through activation of Arf6",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Martinu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "9752-9762",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Arf6 recruits the Rac GEF Kalirin to the plasma membrane facilitating Rac activation",
+            "authors": [
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Koo",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Eipper",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Donaldson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "BMC Cell Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Discovery of new cargo proteins that enter cells through clathrin-independent endocytosis",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Eyster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Traffic",
+            "volume": "10",
+            "issn": "",
+            "pages": "590-599",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Arf6 plays an early role in platelet activation by collagen and convulxin",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZA",
+                    "middle": [],
+                    "last": "Karim",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Whiteheart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Blood",
+            "volume": "107",
+            "issn": "",
+            "pages": "3145-3152",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Unregulated ARF6 activation in epithelial cysts generates hyperactive signaling endosomes and disrupts morphogenesis",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Tushir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biol. Cell",
+            "volume": "21",
+            "issn": "",
+            "pages": "2355-2366",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Slit2\u2013Robo4 signalling promotes vascular stability by blocking Arf6 activity",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Cell Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "1325-1331",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Src-dependent repression of ARF6 is required to maintain podosome-rich sealing zones in bone-digesting osteoclasts",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Heckel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "1451-1456",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Fbx8 makes Arf6 refractory to function via ubiquitination",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Biol. Cell",
+            "volume": "19",
+            "issn": "",
+            "pages": "822-832",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "The EGFR-GEP100-Arf6-AMAP1 signaling pathway specific to breast cancer invasion and metastasis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sabe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Traffic",
+            "volume": "10",
+            "issn": "",
+            "pages": "982-993",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Arfaptins are localized to the trans-Golgi by interaction with Arl1, but not Arfs",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Man",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Biol. Chem.",
+            "volume": "286",
+            "issn": "",
+            "pages": "11569-11578",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Sar1p N-terminal helix initiates membrane curvature and completes the fission of a COPII vesicle",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "122",
+            "issn": "",
+            "pages": "605-617",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Arl2 and Arl3 regulate different microtubule-dependent processes",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                },
+                {
+                    "first": "AI",
+                    "middle": [],
+                    "last": "Marcus",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Biol. Cell",
+            "volume": "17",
+            "issn": "",
+            "pages": "2476-2487",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "ELMOD2 is an Arl2 GTPase-activating protein that also acts on Arfs",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Bowzard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "17568-17580",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Trafficking to the ciliary membrane: how to get across the periciliary diffusion barrier?",
+            "authors": [
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Nachury",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Seeley",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Annu. Rev. Cell Dev. Biol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "59-87",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "The conserved Bardet-Biedl syndrome proteins assemble a coat that traffics membrane proteins to cilia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "141",
+            "issn": "",
+            "pages": "1208-1219",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Bardet-Biedl syndrome-associated small GTPase ARL6 (BBS3) functions at or near the ciliary gate and modulates Wnt signaling",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Wiens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "16218-16230",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "The small GTPases ARL-13 and ARL-3 coordinate intraflagellar transport and ciliogenesis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cell Biol.",
+            "volume": "189",
+            "issn": "",
+            "pages": "1039-1051",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Joubert syndrome Arl13b functions at ciliary membranes and stabilizes protein transport in Caenorhabditis elegans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cevik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cell Biol.",
+            "volume": "188",
+            "issn": "",
+            "pages": "953-969",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "The retinitis pigmentosa 2 gene product is a GTPase-activating protein for Arf-like 3",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Veltel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gasper",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Eisenacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wittinghofer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "373-380",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "ADP-ribosylation factor-like 3 is involved in kidney and photoreceptor development",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abuin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hampton",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Am. J. Pathol.",
+            "volume": "168",
+            "issn": "",
+            "pages": "1288-1298",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "The retinitis pigmentosa protein RP2 links pericentriolar vesicle transport between the Golgi and the primary cilium",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Hum. Mol. Genet.",
+            "volume": "19",
+            "issn": "",
+            "pages": "1358-1367",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "Differential membrane association properties and regulation of class I and class II Arfs",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Duijsings",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Traffic",
+            "volume": "10",
+            "issn": "",
+            "pages": "316-323",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "The Drosophila Dead end Arf-like3 GTPase controls vesicle trafficking during tracheal fusion cell morphogenesis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Crews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Dev. Biol.",
+            "volume": "311",
+            "issn": "",
+            "pages": "487-499",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "The arf-like GTPase Arl8 mediates delivery of endocytosed macromolecules to lysosomes in Caenorhabditis elegans",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nakae",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biol. Cell",
+            "volume": "21",
+            "issn": "",
+            "pages": "2434-2442",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "Redundant roles of BIG2 and BIG1, guanine-nucleotide exchange factors for ADP-ribosylation factors in membrane traffic between the trans-Golgi network and endosomes",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ishizaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mitsuhashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakayama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Biol. Cell",
+            "volume": "19",
+            "issn": "",
+            "pages": "2650-2660",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Specific functions of BIG1 and BIG2 in endomembrane organization",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Boal",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Stephens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS ONE",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Localization of large ADP-ribosylation factor-guanine nucleotide exchange factors to different Golgi compartments: evidence for distinct functions in protein traffic",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Lasell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Melancon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Biol. Cell",
+            "volume": "13",
+            "issn": "",
+            "pages": "119-133",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "Dissecting the role of the ARF guanine nucleotide exchange factor GBF1 in Golgi biogenesis and protein trafficking",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Szul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Cell Sci.",
+            "volume": "120",
+            "issn": "",
+            "pages": "3929-3940",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "Interaction of phosphodiesterase 3A with brefeldin A-inhibited guanine nucleotide-exchange proteins BIG1 and BIG2 and effect on ARF1 activity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Puxeddu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "6158-6163",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "Rab1b interacts with GBF1 and modulates both ARF1 dynamics and COPI association",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Monetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Slavin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Romero",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Biol. Cell",
+            "volume": "18",
+            "issn": "",
+            "pages": "2400-2410",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "The phosphatidylinositol 4-kinase PI4KIII\u03b1 is required for the recruitment of GBF1 to Golgi membranes",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dumaresq-Doiron",
+                    "suffix": ""
+                },
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Savard",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akam",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Costantino",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lefrancois",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cell Sci.",
+            "volume": "123",
+            "issn": "",
+            "pages": "2273-2280",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF117": {
+            "title": "Regulation of a Golgi flippase by phosphoinositides and an ARFGEF",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Natarajan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Cell Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "1421-1426",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF118": {
+            "title": "Characterization of class I and II ADP-ribosylation factors (Arfs) in live cells: GDP-bound class II Arfs associate with the ER\u2013Golgi intermediate compartment independently of GBF1",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shapovalova",
+                    "suffix": ""
+                },
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Dejgaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Presley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Melancon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Biol. Cell",
+            "volume": "19",
+            "issn": "",
+            "pages": "3488-3500",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "Viral reorganization of the secretory pathway generates distinct organelles for RNA replication",
+            "authors": [
+                {
+                    "first": "NY",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "141",
+            "issn": "",
+            "pages": "799-811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "A critical role of a cellular membrane traffic protein in poliovirus RNA replication",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Belov",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nikovics",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Pathog.",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "Mouse hepatitis coronavirus RNA replication depends on GBF1-mediated ARF1 activation",
+            "authors": [
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Verheije",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Pathog.",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "GBF1, a guanine nucleotide exchange factor for Arf, is crucial for coxsackievirus B3 RNA replication",
+            "authors": [
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Lanke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "11940-11949",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "Identification of GBF1 as a cellular factor required for hepatitis C virus RNA replication",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Goueslain",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "773-787",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Identification of a guanine nucleotide exchange factor for Arf3, the yeast orthologue of mammalian Arf6",
+            "authors": [
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Gillingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Munro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS ONE",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "GEP100 links epidermal growth factor receptor signalling to Arf6 activation to induce breast cancer invasion",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Morishige",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Cell Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "85-92",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "Regulation of ARF activation: the Sec7 family of guanine nucleotide exchange factors",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Casanova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Traffic",
+            "volume": "8",
+            "issn": "",
+            "pages": "1476-1485",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF127": {
+            "title": "Guanine nucleotide exchange factors of the cytohesin family and their roles in signal transduction",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Kolanus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunol. Rev.",
+            "volume": "218",
+            "issn": "",
+            "pages": "102-113",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Active Arf6 recruits ARNO/cytohesin GEFs to the PM by binding their PH domains",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Biol. Cell",
+            "volume": "18",
+            "issn": "",
+            "pages": "2244-2253",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF129": {
+            "title": "An Arf-like small G protein, ARL-8, promotes the axonal transport of presynaptic cargoes by suppressing vesicle aggregation",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Klassen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Neuron",
+            "volume": "66",
+            "issn": "",
+            "pages": "710-723",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF130": {
+            "title": "The Arl4 family of small G proteins can recruit the cytohesin Arf6 exchange factors to the plasma membrane",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Sanderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Munro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Curr. Biol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "711-716",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF131": {
+            "title": "ARL4D recruits cytohesin-2/ARNO to modulate actin remodeling",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Biol. Cell",
+            "volume": "18",
+            "issn": "",
+            "pages": "4420-4437",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF132": {
+            "title": "Structural basis and mechanism of autoregulation in 3-phosphoinositide-dependent Grp1 family Arf GTPase exchange factors",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "DiNitto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Cell",
+            "volume": "28",
+            "issn": "",
+            "pages": "569-583",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF133": {
+            "title": "Kinetic studies of the Arf activator Arno on model membranes in the presence of Arf effectors suggest control by a positive feedback loop",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stalder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Biol. Chem.",
+            "volume": "286",
+            "issn": "",
+            "pages": "3873-3883",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF134": {
+            "title": "A phosphatidylinositol-3-kinase-dependent signal transition regulates ARF1 and ARF6 during Fc\u03b3 receptor-mediated phagocytosis",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Beemiller",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Hoppe",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Swanson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF135": {
+            "title": "The CNK1 scaffold binds cytohesins and promotes insulin pathway signaling",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Veenstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Morrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Genes Dev.",
+            "volume": "24",
+            "issn": "",
+            "pages": "1496-1506",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF136": {
+            "title": "Cytohesins are cytoplasmic ErbB receptor activators",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "143",
+            "issn": "",
+            "pages": "201-211",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF137": {
+            "title": "The cytohesin Steppke is essential for insulin signalling in Drosophila",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Fuss",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Zinke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hoch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "444",
+            "issn": "",
+            "pages": "945-948",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF138": {
+            "title": "Inhibition of cytohesins by SecinH3 leads to hepatic insulin resistance",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hafner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "444",
+            "issn": "",
+            "pages": "941-944",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF139": {
+            "title": "GRASP and IPCEF promote ARF-to-Rac signaling and cell migration by coordinating the association of ARNO/cytohesin 2 with Dock180",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "McShea",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Attar",
+                    "suffix": ""
+                },
+                {
+                    "first": "LC",
+                    "middle": [],
+                    "last": "Santy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biol. Cell",
+            "volume": "21",
+            "issn": "",
+            "pages": "562-571",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

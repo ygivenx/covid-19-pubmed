@@ -1,0 +1,976 @@
+{
+    "paper_id": "PMC7104563",
+    "metadata": {
+        "title": "Design and application of the method for isolating magnetotactic bacteria",
+        "authors": [
+            {
+                "first": "Zhijie",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bin",
+                "middle": [],
+                "last": "Lian",
+                "suffix": "",
+                "email": "bin2368@vip.163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Jun",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "H.",
+                "middle": [
+                    "Henry"
+                ],
+                "last": "Teng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Magnetosome formation in prokaryotes [J]",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Reviews Microbiology",
+            "volume": "2",
+            "issn": "",
+            "pages": "217-230",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro842"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Multiple evolutionary origins of magnetotaxis in bacteria [J]",
+            "authors": [
+                {
+                    "first": "E.F.",
+                    "middle": [],
+                    "last": "DeLong",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Science",
+            "volume": "259",
+            "issn": "",
+            "pages": "803-806",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.259.5096.803"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Magnetic Material in the Human Hippocampus [J]",
+            "authors": [
+                {
+                    "first": "J.R.",
+                    "middle": [],
+                    "last": "Dunn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Brain Research Bulletin",
+            "volume": "36",
+            "issn": "",
+            "pages": "149-153",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0361-9230(94)00182-Z"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Magnetic iron-sulphur crystals from a magnetotactic microorganism [J]",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Farina",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.M.S.",
+                    "middle": [],
+                    "last": "Esquivel",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.G.P.",
+                    "middle": [],
+                    "last": "Lins de Barros",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Nature",
+            "volume": "343",
+            "issn": "",
+            "pages": "256-258",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/343256a0"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Magnetofossils from Ancient Mars: A Robust Biosignature in the Martian Meteorite ALH84001 [J]",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Kathie",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Thomas-Keprta",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Applied and Environmental Microbiology",
+            "volume": "68",
+            "issn": "",
+            "pages": "3663-3672",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AEM.68.8.3663-3672.2002"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Ultrafine-grained magnetite in deep-sea sediments: Possible bacterial magnetofossils [J]",
+            "authors": [
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Kirschvink",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.R.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Geology",
+            "volume": "12",
+            "issn": "",
+            "pages": "559-562",
+            "other_ids": {
+                "DOI": [
+                    "10.1130/0091-7613(1984)12<559:UMIDSP>2.0.CO;2"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "A novel Coronavirus associated with severe acute respiratory syndrome [J]",
+            "authors": [
+                {
+                    "first": "T.G.",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.S.",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The New England Journal of Medicine",
+            "volume": "348",
+            "issn": "",
+            "pages": "53-66",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "TEM study on magnetotactic bacteria and contained magnetite grains as biogenic minerals, mainly from Hokuriku-Niigata region [J]",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Lida",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Akai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Japan, Sci. Rep. Niigata Univ, Ser. E (Geology)",
+            "volume": "11",
+            "issn": "",
+            "pages": "43-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Biomineralization of ferrimagnetic greigite (Fe3S4) and iron pyrite (FeS2) in a magnetotactic bacterium [J]",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.C.H.",
+                    "middle": [],
+                    "last": "Sparks",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.W.",
+                    "middle": [],
+                    "last": "Jannasch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Nature",
+            "volume": "343",
+            "issn": "",
+            "pages": "258-261",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/343258a0"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "A novel method for the isolation and study of a magnetotactic bacterium [J]",
+            "authors": [
+                {
+                    "first": "T.T.",
+                    "middle": [],
+                    "last": "Moench",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.A.",
+                    "middle": [],
+                    "last": "Konetzka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Arch. Microbiol.",
+            "volume": "119",
+            "issn": "",
+            "pages": "203-212",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00964274"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome [J]",
+            "authors": [
+                {
+                    "first": "J.S.M.",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.T.",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.L.M.",
+                    "middle": [],
+                    "last": "Poom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1319-1325",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Controlled biomineralization of magnetite (Fe3O4) and greigite (Fe3S4) in a magnetotactic bacterium [J]",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Applied and Environmental Microbiology",
+            "volume": "61",
+            "issn": "",
+            "pages": "3232-3239",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Simulation experiments of MB and MSs contributions to the magnetic susceptibility of Chinese loess-paleosol sequences [J]",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Quaternary Sciences",
+            "volume": "22",
+            "issn": "",
+            "pages": "188-194",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Intercellular connections in a many-celled magnetotactic prokaryote [J]",
+            "authors": [
+                {
+                    "first": "F.G.",
+                    "middle": [],
+                    "last": "Rodgers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.P.",
+                    "middle": [],
+                    "last": "Blakemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Blakemore",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Archives of Microbiology",
+            "volume": "154",
+            "issn": "",
+            "pages": "18-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00249172"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Biogeochemical evaluation of Nannorrhops ritchiana A Mg-flora from Khuzdar, Balochistan, Pakistan [J]",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Sadaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Shahid",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Erum",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Khaula",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Shamin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Chinese Journal of Geochemistry",
+            "volume": "24",
+            "issn": "",
+            "pages": "327-337",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "A noval method for isolation of magnetic bacteria without magnetic collection using magnetotaxis [J]",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Sakaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Tsujimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Matsunaga",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Microbiol. Meth.",
+            "volume": "26",
+            "issn": "",
+            "pages": "139-145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0167-7012(96)00905-0"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Bacterial magnetosomes: Microbiology, biomineralization and biotechnological applications [J]",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Schuler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Appl. Microbiol. Biotechnol.",
+            "volume": "52",
+            "issn": "",
+            "pages": "464-473",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s002530051547"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Diversity of magnetotactic bacteria [J]",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Spring",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.L.",
+                    "middle": [],
+                    "last": "Scheifer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "System. Appl. Microbiol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "147-153",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Simple homemade apparatus for harvesting uncultured magnetotactic microorganisms [J]",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Ulysses",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Flavia",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Carolina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Brazilian Journal of Microbiology",
+            "volume": "34",
+            "issn": "",
+            "pages": "111-116",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Morphogical characteristics of magnetotactic bacterium from the east Lake in Wuchang and isolation of its strain WD-1 [J]",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Journal of Wuhan University",
+            "volume": "6",
+            "issn": "",
+            "pages": "115-120",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "A capillary racetrack method for isolation of magnetotactic bacteria [J]",
+            "authors": [
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Wolfe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.K.",
+                    "middle": [],
+                    "last": "Thauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Pfennig",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "FEMS Microbiol. Ecol.",
+            "volume": "45",
+            "issn": "",
+            "pages": "31-36",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1574-6968.1987.tb02335.x"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Effects of heavy metal contamination on microbial biomass and community structure in soils [J]",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chinese Journal of Geochemistry",
+            "volume": "23",
+            "issn": "",
+            "pages": "319-328",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Controlled biomineralization of magnetite (Fe3O4) and greigite (Fe3S4) in a magnetotactic bacterium [J]",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Applied and Environmental Microbiology",
+            "volume": "61",
+            "issn": "",
+            "pages": "3232-3239",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Environmental Microbe-Mineral Interactions [M]",
+            "volume": "",
+            "issn": "",
+            "pages": "109-144",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Copper association with iron sulfide magnetosomes in a magnetotactic bacterium [J]",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.J.",
+                    "middle": [],
+                    "last": "Garratt-Reed",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Arch. Microbiol.",
+            "volume": "160",
+            "issn": "",
+            "pages": "35-42",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Anaerobic Production of magnetite by a marine magnetotactic bacterium [J]",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.J.",
+                    "middle": [],
+                    "last": "Garratt-Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Nature",
+            "volume": "334",
+            "issn": "",
+            "pages": "518-519",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/334518a0"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Electron-microscopic studies of magnetosomes in magnetotactic bacteria [J]",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bazylinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Garratt-Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.B.",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Microscopy Research Technology",
+            "volume": "27",
+            "issn": "",
+            "pages": "389-401",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jemt.1070270505"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Isolation and pure culture of a freshwater magnetic spirillum in chemically defined medium [J]",
+            "authors": [
+                {
+                    "first": "R.P.",
+                    "middle": [],
+                    "last": "Blakemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Maratea",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Wolfe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J. Bacteriol.",
+            "volume": "14",
+            "issn": "",
+            "pages": "720-729",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Evolutionary relationships among magnetospirillum strains inferred from phylogenetic analysis of 16SrDNA sequences [J]",
+            "authors": [
+                {
+                    "first": "G.J.",
+                    "middle": [],
+                    "last": "Burgess",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Kawaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Sakaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Richard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Matsunaga",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Journal of Bacteriology",
+            "volume": "20",
+            "issn": "",
+            "pages": "6689-6694",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

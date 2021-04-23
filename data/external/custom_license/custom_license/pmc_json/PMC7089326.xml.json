@@ -1,0 +1,611 @@
+{
+    "paper_id": "PMC7089326",
+    "metadata": {
+        "title": "Whole-genome based Archaea phylogeny and taxonomy: A composition vector approach",
+        "authors": [
+            {
+                "first": "JianDong",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhao",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "BaiLin",
+                "middle": [],
+                "last": "Hao",
+                "suffix": "",
+                "email": "hao@mail.itp.ac.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Phylogenetic structure of the prokaryotic domain: the primary kingdoms",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Woese",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Fox",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "74",
+            "issn": "",
+            "pages": "5088-5090",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.74.11.5088"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Prokaryote phylogeny meets taxonomy: An exhaustive comparison of composition vector trees with systematic bacteriology",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Sci China Ser C-Life Sci",
+            "volume": "50",
+            "issn": "",
+            "pages": "587-599",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11427-007-0084-3"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "A fungal phylogeny based on 82 complete genomes using the composition vector method",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "BMC Evol Biol",
+            "volume": "9",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2148-9-195"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "The All-Species Living Tree project: a 16S rRNA-based phylogenetic tree of all sequenced type strains",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Yarza",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Richter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Peplies",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "System Appl Microbiol",
+            "volume": "31",
+            "issn": "",
+            "pages": "241-250",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.syapm.2008.07.001"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "The neighbor-joining method: A new method for reconstructing phylogenetic tress",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Mol Biol Evol",
+            "volume": "4",
+            "issn": "",
+            "pages": "406-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "CVTree: A phylogenetic tree reconstruction tool based on whole genomes",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res",
+            "volume": "32",
+            "issn": "WebServerIssue",
+            "pages": "W45-W47",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh362"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Genome of Rice Cluster I archaea \u2014 The key methane producers in the rice rhizospere",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Erkel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kube",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Reinhardt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "313",
+            "issn": "",
+            "pages": "370-372",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1127062"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Margulis",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Five Kingdoms",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "The genome of nanoarchaeum equitans: Insights into early archaeal evolution and derived parasitism",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Waters",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Hohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Ahel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "12984-12988",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1735403100"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "The bacterial species dilemma and the genomic-phylogenetic species concept",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Staley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Phil Trans R Soc, B",
+            "volume": "361",
+            "issn": "",
+            "pages": "1899-1909",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2006.1914"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Towards a genome-based taxonomy for prokaryotes",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Konstantinidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Tiedje",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Bacteriol",
+            "volume": "187",
+            "issn": "",
+            "pages": "6258-6264",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.187.18.6258-6264.2005"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Whole-proteome prokaryote phylogeny without sequence alignment: A K-string composition approach",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Mol Evol",
+            "volume": "58",
+            "issn": "",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00239-003-2493-7"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Prokaryote phylogeny without sequence alignment: From avoidance signature to composition distance",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Bioinf Comput Biol",
+            "volume": "2",
+            "issn": "",
+            "pages": "1-19",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0219720004000442"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Molecular phylogeny of coronaviruses including human SARS-CoV",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Sci Bull",
+            "volume": "48",
+            "issn": "",
+            "pages": "1170-1174",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Whole genome molecular phylogeny of large dsDNA viruses using composition vector method",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "BMC Evol Biol",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2148-7-41"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Origin and phylogeny of chloroplasts revealed by a simple correlation analysis of complete genomes",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol Biol Evol",
+            "volume": "28",
+            "issn": "",
+            "pages": "70-76",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

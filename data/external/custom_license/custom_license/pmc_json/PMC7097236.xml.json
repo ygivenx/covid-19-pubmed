@@ -1,0 +1,105 @@
+{
+    "paper_id": "PMC7097236",
+    "metadata": {
+        "title": "Synthetic DNA firms embrace hazardous agents guidance but remain wary of automated 'best-match'",
+        "authors": [
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Eisenstein",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "After more than four years of public and private discussion and review, the US government has officially issued its Screening Framework Guidance for Providers of Synthetic Double-Stranded DNA (http://www.phe.gov/Preparedness/legal/guidance/syndna/Documents/syndna-guidance.pdf), a set of voluntary guidelines intended to help gene synthesis companies intercept unauthorized purchases of genetic components from human or agricultural pathogens. Many are relieved that standardized guidelines have finally been established, enabling the industry to harmonize practices and provide reassurance to large corporate clients that represent their bread and butter.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "\u201cOverall it's not a bad framework, and I think it's been designed with a lot of expertise,\u201d says Markus Fischer, director and cofounder of Entelechon in Regensburg, Germany, a gene synthesis provider, also part of the International Association Synthetic Biology (IASB), one of two major industry groups representing gene synthesis companies. In the absence of clear government guidance, the IASB and its counterpart, the International Gene Synthesis Consortium (IGSC), each developed their own 'best practices' for screening both DNA orders and the customers that place them. To draw up its official guideline, the US Department of Health and Human Services (HHS), in Washington, DC, received comments from 22 organizations and individuals since publishing its draft Guidance in November 2009 (Table 1). The final version\u2014released in October\u2014includes only a few notable changes, such as the elimination of a size cut-off for screening decisions on double-stranded segments.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": [
+                {
+                    "start": 794,
+                    "end": 801,
+                    "mention": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ]
+        },
+        {
+            "text": "Although the Guidance structurally resembles preexisting protocols, critics such as Stephen Maurer of the University of California at Berkeley are concerned that its recommendations are weaker than what is needed and may encourage companies to cut corners in the future. \u201cIndustry had embraced a higher standard, and now the government is going to lead us to a lower standard,\u201d he says. Chief among his concerns is the proposed mechanism for screening sequences.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "The government proposes a 'best match' strategy, in which orders are compared against GenBank in 200-bp segments, based on both nucleotide and all six possible peptide sequences. If the top 'hit' is from a pathogen on the government's list of select agents and toxins (http://www.selectagents.gov/Select%20Agents%20and%20Toxins%20List.html) or, for international orders, the 'Commerce Control List' (http://www.gpo.gov/bis/ear/pdf/ccl1.pdf), it should be considered a 'sequence of concern' for further expert analysis, in conjunction with a careful assessment of the ordering customer's credentials.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Maurer suggests that by not expressly calling for human review of database matches\u2014regardless of whether or not they are on the select agents list\u2014this strategy is inherently less effective than the 'top homology' method already in use at several companies, including Entelechon, in which all GenBank results are manually assessed. \u201cWe mandate that one of our employees reviews the complete list of hits, and not just the ones that have been automatically flagged,\u201d says Fischer. \u201cA fully automated screening system leaves significant biosecurity questions unanswered.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "According to Theresa Lawrence, a senior science advisor with HHS, top homology was rejected in the interest of applying a consistent standard for distinguishing potential threats based on analysis of an established data source. \u201cThere was concern with the top homology approach that we would have to designate an arbitrary threshold,\u201d she says, \u201cand this approach needs human screeners, which can represent an inconsistent mechanism from provider to provider.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Although GenBank represents a rich resource for genetic data and is therefore a powerful foundation for such screens, it is nevertheless a product of community curation and potential 'sequences of concern' may be inconsistently designated. \u201cGenBank is just a repository,\u201d says Sean Eddy, a computational biologist at the Howard Hughes Medical Institute's Janelia Farm Research Campus in Loudon County, Virginia. He adds, \u201cThe annotation is as provided by the person that deposited the sequence.\u201d Screening effectiveness could also be constrained by biases in the database contents, according to James Diggans, a researcher at MITRE, a not-for-profit national technology resource that focuses on security issues, located in Bedford, Massachusetts and McLean, Virginia. \u201cThere are far more harmless sequences in these databases than there are sequences that could be used to harm human health.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "For other scientists, the reliance on the select agents list is also problematic. Eighty-two items currently listed represent known risks to human, plant or animal health, and are unambiguously regulated by federal law. But many known human pathogens, such as severe acute respiratory syndrome virus, are omitted, and others worry about the problems that could be posed by the yet-unknown sequence variants. \u201cIf you synthesize a genome without creating the actual organism it encodes\u2014and where now you aren't even limited to the variability found in nature\u2014how do you taxonomically classify that genome sequence?\u201d says Eddy.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Eddy and other scientists recently partnered with the US National Research Council in an effort to bring some clarity to the characterization of high-risk genes. The resulting report, Sequence-Based Classification of Select Agents: A Brighter Line (http://www.nap.edu/catalog/12970.html), concludes that although it is presently impossible to reliably predict gene function based on sequence, it should nevertheless be within reach to develop mechanisms that can help categorize sequences as belonging to predefined 'hazardous' or 'safe' classes of genes, an effort that could greatly improve the future efficiency of synthetic gene order screening.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Several parallel efforts are also underway to develop more sophisticated and comprehensive pathogen databases. Fischer and Maurer are collaborating on Virulence Factor Information Repository (VIREP), a repository for annotated information about known virulence genes, based at UC, Berkeley. The IGSC has also stated its intention to develop an extensive regulated pathogens database, which could offer a broadly useful community resource. However, both groups are waiting on government support to help move these projects forward.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "For now, the member companies of the IGSC, which are predominantly based in the US, are moving to adapt their standards to comply with the HHS recommendations. However, the guidance also invites companies to apply their own \u201cequivalent or superior\u201d screening standards and several companies indicate that they will continue to err on the side of caution in their screening procedures. \u201cIf we get a gene in, we screen it,\u201d says Robert Dawson, director of bioinformatics at Coralville, Iowa\u2013based Integrated DNA Technologies. \u201cThere's never a case where we would have a gene go right into production without a human being having looked at both the sequence and the prospective customer.\u201d HHS has also made it clear that these are minimum screening recommendations and not the final word, and discussions are ongoing.",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        },
+        {
+            "text": "Given the early stage of the field, when the risk from synthetic biology is still seen as relatively low\u2014to date, no IGSC member company reports having received an order for a 'sequence of concern' that also came from a dubious customer\u2014some hope that there will be sufficient opportunity for these guidelines to grow into a more effective monitoring strategy. \u201cIt's a line in the sand drawn by the US government that now serves as something to be improved over time,\u201d says Diggans. \u201cAll of these things make a direct contribution to maintaining near-term biosecurity, but it will need to evolve quickly\u2014the technology is moving ever faster.\u201d",
+            "cite_spans": [],
+            "section": "",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Timeline of events leading up to the synthetic DNA guidance\n",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {}
+}

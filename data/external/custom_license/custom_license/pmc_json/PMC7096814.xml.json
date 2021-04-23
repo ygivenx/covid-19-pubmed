@@ -1,0 +1,4180 @@
+{
+    "paper_id": "PMC7096814",
+    "metadata": {
+        "title": "Viral security proteins: counteracting host defences",
+        "authors": [
+            {
+                "first": "Vadim",
+                "middle": [
+                    "I."
+                ],
+                "last": "Agol",
+                "suffix": "",
+                "email": "agol@belozersky.msu.ru",
+                "affiliation": {}
+            },
+            {
+                "first": "Anatoly",
+                "middle": [
+                    "P."
+                ],
+                "last": "Gmyl",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Properties of the leader proteins of picornaviruses*\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Properties of the 2A proteins and peptides of picornaviruses\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: The organization of an 'idealized' picornaviral polyprotein is shown, with specific viral leader (L) and 2A proteins given below; protein sizes are not to scale but give approximate relative lengths. There is great variability in L and 2A proteins. Multiple L and 2A proteins are known for some viral genera. Several picornaviruses do not possess L but have large 2A proteins. Cosaviruses contain no L and only a very short 2A. Other viruses (for example, some sapeloviruses) possess an unusually long L (we propose that in this case it might correspond to at least two separate polypeptides; see Supplementary information S1 (figure)) and a very short 2A (if there is a 2A peptide at all). Remarkably, other sapeloviruses possess a long 2A and a short L. Notable differences in the organization of the L and 2A proteins can occur among representatives of the same genus, such as in cardioviruses and parechoviruses. Well-defined amino acid motifs are indicated. See main text for details about the H-NC and AIG1 domains. L*, alternative leader protein encoded by an alternative reading frame beginning in the L-encoding sequence; P\u2193, the NPG(P) motif, which interrupts translation at the proline residue; Pro, protease; VPg, primer for RNA synthesis; Zn, zinc finger.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The distribution of security proteins among different viruses is not congruent with either the type of internal ribosome entry site (IRES; the key cis-acting element responsible for cap-independent translation of picornavirus RNAs) or the topology of the RNA-dependent RNA polymerase (RdRP) tree. For example, viruses harbouring type II IRESs can possess different L proteins (aphthoviruses and cardioviruses) or be devoid of this protein (cosaviruses). A similar situation occurs with viruses that use type IV IRESs. Conversely, different kobuviruses can possess unrelated IRESs. 2A proteins with the H-NC motif are present in viruses of distant RdRP lineages (kobuviruses on the one hand and avihepatoviruses, parechoviruses and tremoviruses on the other), but this motif is not shared by more closely related viruses (for example, it is present in tremoviruses but absent in hepatoviruses). The same pattern is characteristic of the 2A proteins that contain the NPG(P) motif (which interrupts translation at the indicated proline residue; shown by P\u2193). The closely related seal picornavirus type 1 (SePV-1), duck hepatitis A virus (DHV), Ljungan virus (LV) and human parechovirus type 2 (HPeV-2) each harbour a distinct 2A protein. Well-defined amino acid motifs are indicated. Viral RdRP protein sequences were taken from GenBank. Multiple alignments of protein sequences were constructed using CLUSTAL-X2. The RdRP tree was constructed by using MrBayes with default parameters. Solenopsis invicta virus 2 (SolV-2) was used as the outgroup. AEV, avian encephalomyelitis virus; AiV, Aichi virus; ASV, avian sapelovirus; EMCV, encephalomyocarditis virus; ERBV, equine rhinitis B virus; FMDV, foot-and-mouth disease virus; HAV, hepatitis A virus; HCoSV-A, human cosavirus A; HPV-1, human poliovirus type 1 str. Mahoney; HRV, human rhinovirus A101; PKV, porcine kobuvirus; Pro, protease; PSV, porcine sapelovirus; PTV, porcine teschovirus; SalV, Salivirus NG-J1; SSV, simian sapelovirus; SVV, Seneca Valley virus; TMEV, Theiler's murine encephalomyelitis virus; Zn, zinc finger.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: There is a striking similarity between the functional activities of the enterovirus 2A protease (2Apro) and the cardiovirus leader protein (L), but the underlying mechanisms by which these functions are carried out are fundamentally different. By contrast, the known functional activities of aphthovirus L, which is a protease (Lpro), seem to be more limited. IRF3, interferon regulatory factor 3; NF-\u03baB, nuclear factor-\u03baB.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "RNA replication without RNA-dependent RNA polymerase: surprises from hepatitis delta virus",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7951-7958",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.13.7951-7958.2005"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Structure of the FMDV translation initiation site and of the structural proteins",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Beck",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Forss",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Strebel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cattaneo",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Feil",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Nucleic Acids Res.",
+            "volume": "11",
+            "issn": "",
+            "pages": "7873-7885",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/11.22.7873"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Proteolytic cleavage of the p65-RelA subunit of NF-\u03baB during poliovirus infection",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Neznanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "24153-24158",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M502303200"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Disruption of innate immunity due to mitochondrial targeting of a picornaviral protease precursor",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "7253-7258",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0611506104"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "RIG-I is cleaved during picornavirus infection",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Barral",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sarkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                },
+                {
+                    "first": "VR",
+                    "middle": [],
+                    "last": "Racaniello",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virology",
+            "volume": "391",
+            "issn": "",
+            "pages": "171-176",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2009.06.045"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gossert",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bienz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Molecular Biology of Picornaviruses",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Inhibition of cellular protein secretion by poliovirus proteins 2B and 3A",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "894-907",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1995.tb07071.x"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Coxsackievirus B3 inhibits antigen presentation in vivo, exerting a profound and selective effect on the MHC class I pathway",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Kemball",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000618"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Role of nonstructural proteins 3A and 3B in host range and pathogenicity of foot-and-mouth disease virus",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Pacheco",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "VK",
+                    "middle": [],
+                    "last": "O'Donnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Mason",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "13017-13027",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.24.13017-13027.2003"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Early phosphatidylinositol 3-kinase/Akt pathway activation limits poliovirus-induced JNK-mediated cell death",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Autret",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "3796-3802",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02020-07"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Foot-and-mouth disease virus Lb proteinase can stimulate rhinovirus and enterovirus IRES-driven translation and cleave several proteins of cellular and viral origin",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ziegler",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Borman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kirchweger",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skern",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Kean",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "3465-3474",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "The C-terminal domain of eukaryotic protein synthesis initiation factor (eIF) 4G is sufficient to support cap-independent translation in the absence of eIF4E",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rau",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Pain",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Morley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "EMBO J.",
+            "volume": "15",
+            "issn": "",
+            "pages": "1371-1382",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1996.tb00479.x"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "A second protease of foot-and-mouth disease virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Strebel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Beck",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Virol.",
+            "volume": "58",
+            "issn": "",
+            "pages": "893-899",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "2Apro is a multifunctional protein that regulates the stability, translation and replication of poliovirus RNA",
+            "authors": [
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Jurgens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "345",
+            "issn": "",
+            "pages": "346-357",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2005.09.067"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Coding changes in the poliovirus protease 2A compensate for 5\u2032NCR domain V disruptions in a cell-specific manner",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Minor",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Macadam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "269",
+            "issn": "",
+            "pages": "284-293",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2000.0244"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The C-terminal residues of poliovirus proteinase 2Apro are critical for viral RNA replication but not for cis- or trans-proteolytic cleavage",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mueller",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Gen. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "397-408",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-82-2-397"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Replication of poliovirus RNA and subgenomic RNA transcripts in transfected cells",
+            "authors": [
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Collis",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "O'Donnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Barton",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Flanegan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "6480-6488",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Aichi virus 2A protein is involved in viral RNA replication",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Taniguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "9765-9769",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01051-08"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Intrinsic signals for the assembly of hepatitis A virus particles. Role of structural proteins VP4 and 2A. J. Biol.",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Probst",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gauss-M\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Chem.",
+            "volume": "274",
+            "issn": "",
+            "pages": "4527-4531",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Morphogenesis of hepatitis A virus: isolation and characterization of subviral particles",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ross",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Virol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "5284-5289",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Identification and site-directed mutagenesis of the primary (2A/2B) cleavage site of the hepatitis A virus polyprotein: functional impact on the infectivity of HAV RNA transcripts",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "213",
+            "issn": "",
+            "pages": "213-222",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1995.1561"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The unique role of domain 2A of the hepatitis A virus precursor polypeptide P1\u20132A in viral morphogenesis",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Morace",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kusov",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dzagurov",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Beneduce",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gauss-Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMB Rep.",
+            "volume": "41",
+            "issn": "",
+            "pages": "678-683",
+            "other_ids": {
+                "DOI": [
+                    "10.5483/BMBRep.2008.41.9.678"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Picornavirales, a proposed order of positive-sense single-stranded RNA viruses with a pseudo-T = 3 virion architecture",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Le Gall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Arch. Virol.",
+            "volume": "153",
+            "issn": "",
+            "pages": "715-727",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00705-008-0041-x"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The two species of the foot-and-mouth disease virus leader protein, expressed individually, exhibit the same activities",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Brangwyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Belsham",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "194",
+            "issn": "",
+            "pages": "355-359",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1993.1267"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gromeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Origin and Evolution of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Translational barrier in central region of encephalomyocarditis virus genome. Modulation by elongation factor 2 (eEF-2)",
+            "authors": [
+                {
+                    "first": "YV",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "VI",
+                    "middle": [],
+                    "last": "Agol",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Eur. J. Biochem.",
+            "volume": "133",
+            "issn": "",
+            "pages": "145-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1983.tb07440.x"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Occurrence, function and evolutionary origins of '2A-like' sequences in virus genomes",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Luke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Gen. Virol.",
+            "volume": "89",
+            "issn": "",
+            "pages": "1036-1042",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.83428-0"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "A case for ''StopGo'': reprogramming translation to augment codon meaning of GGN by promoting unconventional termination (Stop) after addition of glycine and then allowing continued translation (Go)",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Atkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "RNA",
+            "volume": "13",
+            "issn": "",
+            "pages": "803-810",
+            "other_ids": {
+                "DOI": [
+                    "10.1261/rna.487907"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Euprosterna elaeasa virus genome sequence and evolution of the Tetraviridae family: Emergence of bipartite genomes and conservation of the VPg signal with the dsRNA Birnaviridae family",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Zeddam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Virology",
+            "volume": "397",
+            "issn": "",
+            "pages": "145-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2009.10.042"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Molecular Basis of Viral Evolution",
+            "volume": "",
+            "issn": "",
+            "pages": "49-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Genomic features and evolutionary constraints in Saffold-like cardioviruses",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Drexler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Gen. Virol.",
+            "volume": "91",
+            "issn": "",
+            "pages": "1418-1427",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.018887-0"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "VI",
+                    "middle": [],
+                    "last": "Agol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "The Picornaviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "239-252",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Mechanisms of severe acute respiratory syndrome pathogenesis and innate immunomodulation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Frieman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Microbiol. Mol. Biol. Rev.",
+            "volume": "72",
+            "issn": "",
+            "pages": "672-685",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MMBR.00015-08"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "NS1\u2032 of flaviviruses in the Japanese encephalitis virus serogroup is a product of ribosomal frameshifting and plays a role in viral neuroinvasiveness",
+            "authors": [
+                {
+                    "first": "EB",
+                    "middle": [],
+                    "last": "Melian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "1641-1647",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01979-09"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Conservation of L and 3C proteinase activities across distantly related aphthoviruses",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Hinton",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ross-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Warner",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Belsham",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Crabb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Gen. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "3111-3121",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-83-12-3111"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "NSs protein of Rift Valley fever virus induces the specific degradation of the double-stranded RNA-dependent protein kinase",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Habjan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "4365-4375",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02148-08"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Divergent picornavirus IRES elements",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Belsham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virus Res.",
+            "volume": "139",
+            "issn": "",
+            "pages": "183-192",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2008.07.001"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gasteiger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "The Proteomics Protocols Handbook",
+            "volume": "",
+            "issn": "",
+            "pages": "571-607",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Clustal W and Clustal X version 2.0",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Larkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Bioinformatics",
+            "volume": "23",
+            "issn": "",
+            "pages": "2947-2948",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btm404"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "CDD: specific functional annotation with the Conserved Domain Database",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marchler-Bauer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nucleic Acids Res.",
+            "volume": "37",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkn845"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Genomic evidence that simian virus 2 and six other simian picornaviruses represent a new genus in Picornaviridae",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Pallansch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "314",
+            "issn": "",
+            "pages": "283-293",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0042-6822(03)00420-3"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Cleavage of foot-and-mouth disease virus polyprotein is mediated by residues located within a 19 amino acid sequence",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Ryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AMQ",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Gen. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "2727-2732",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-72-11-2727"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Site-specific release of nascent chains from ribosomes at a sense codon",
+            "authors": [
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Doronina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "28",
+            "issn": "",
+            "pages": "4227-4239",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.00421-08"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Equine rhinovirus serotypes 1 and 2: relationship to each other and to aphthoviruses and cardioviruses",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wutz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Gen. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "1719-1730",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-77-8-1719"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Sequence analysis of a porcine enterovirus serotype 1 isolate: relationships with other picornaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Doherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Todd",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "McFerran",
+                    "suffix": ""
+                },
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Hoey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Gen. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "1929-1941",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-80-8-1929"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Complete genome sequence analysis of Seneca Valley virus-001, a novel oncolytic picornavirus. J. Gen.",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Hales",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virol.",
+            "volume": "89",
+            "issn": "",
+            "pages": "1265-1275",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Persistent yeast single-stranded RNA viruses exist in vivo as genomic RNA\u00b7RNA polymerase complexes in 1:1 stoichiometry",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Solorzano",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Rodr\u00edguez-Cousi\u00f1o",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Esteban",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fujimura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "26428-26435",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M002281200"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "A highly prevalent and genetically diversified Picornaviridae genus in South Asian children",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "20482-20487",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0807979105"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Molecular analysis of three Ljungan virus isolates reveals a new, close-to-root lineage of the Picornaviridae with a cluster of two unrelated 2A proteins",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Johansson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Niklasson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Maizel",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lindberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "8920-8930",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.17.8920-8930.2002"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Molecular analysis of duck hepatitis virus type 1",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "361",
+            "issn": "",
+            "pages": "9-17",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2007.01.007"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "A highly divergent picornavirus in a marine mammal. J.",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "311-320",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01240-07"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "The cleavage activity of aphtho- and cardiovirus 2A proteins",
+            "authors": [
+                {
+                    "first": "MLL",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Flint",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Monoghan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Ryan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Gen. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "13-21",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-78-1-13"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "The position of polypeptide G on the encephalomyocarditis virus polyprotein cleavage map",
+            "authors": [
+                {
+                    "first": "YA",
+                    "middle": [],
+                    "last": "Kazachkov",
+                    "suffix": ""
+                },
+                {
+                    "first": "YV",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "VI",
+                    "middle": [],
+                    "last": "Agol",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "FEBS Lett.",
+            "volume": "154",
+            "issn": "",
+            "pages": "161-165",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(83)80895-3"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "RNA-binding properties of nonstructural polypeptide G of encephalomyocarditis virus",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Chumakov",
+                    "suffix": ""
+                },
+                {
+                    "first": "VI",
+                    "middle": [],
+                    "last": "Agol",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Virology",
+            "volume": "88",
+            "issn": "",
+            "pages": "183-185",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(78)90122-8"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "The 2A proteins of three diverse picornaviruses are related to each other and to the H-rev107 family of proteins involved in the control of cell proliferation",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stanway",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Gen. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "201-207",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-81-1-201"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Leader polypeptides encoded in the 5\u2032-region of the encephalomyocarditis virus genome",
+            "authors": [
+                {
+                    "first": "YA",
+                    "middle": [],
+                    "last": "Kazachkov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "FEBS Lett.",
+            "volume": "141",
+            "issn": "",
+            "pages": "153-156",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(82)80035-5"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "The leader peptide of Theiler's murine encephalomyelitis virus is a zinc-binding protein",
+            "authors": [
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "8076-8078",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Giardiavirus double-stranded RNA genome encodes a capsid polypeptide and a gag-pol-like fusion protein by a translation frameshift",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "90",
+            "issn": "",
+            "pages": "8595-8599",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.90.18.8595"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "NMR structure of the mengovirus Leader protein zinc-finger domain",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Cornilescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "FW",
+                    "middle": [],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "KQ",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Markley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "FEBS Lett.",
+            "volume": "582",
+            "issn": "",
+            "pages": "896-900",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2008.02.023"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Leader protein of encephalomyocarditis virus binds zinc, is phosphorylated during viral infection, and affects the efficiency of genome translation",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Dvorak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "290",
+            "issn": "",
+            "pages": "261-271",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2001.1193"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "The mengovirus leader protein suppresses \u03b1/\u03b2 interferon production by inhibition of the iron/ferritin-mediated activation of NF-\u03baB",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Galama",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "9664-9672",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.19.9664-9672.2002"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Alternative translation initiation site in the DA strain of Theiler's murine encephalomyelitis virus",
+            "authors": [
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Virol.",
+            "volume": "65",
+            "issn": "",
+            "pages": "3395-3399",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "A picornaviral protein synthesized out of frame with the polyprotein plays a key role in a virus-induced immune-mediated demyelinating disease",
+            "authors": [
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Nature Med.",
+            "volume": "1",
+            "issn": "",
+            "pages": "927-931",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0995-927"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Poliovirus mutant that does not selectively inhibit host cell protein synthesis",
+            "authors": [
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Bernstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baltimore",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "2913-2923",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.5.11.2913"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Poliovirus proteinase 2A induces cleavage of eucaryotic initiation factor 4F polypeptide p220",
+            "authors": [
+                {
+                    "first": "HG",
+                    "middle": [],
+                    "last": "Kr\u00e4usslich",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Nicklin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Toyoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Etchison",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J. Virol.",
+            "volume": "61",
+            "issn": "",
+            "pages": "2711-2718",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Purification of two picornaviral 2A proteinases: interaction with eIF4\u03b3 and influence on translation",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liebig",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Biochemistry",
+            "volume": "32",
+            "issn": "",
+            "pages": "7581-7588",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi00080a033"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Coxsackievirus B3 proteases 2A and 3C induce apoptotic cell death through mitochondrial injury and cleavage of eIF4GI but not DAP5/p97/NAT1",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Chau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Apoptosis",
+            "volume": "12",
+            "issn": "",
+            "pages": "513-524",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10495-006-0013-0"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Leader protein of foot-and-mouth disease virus is required for cleavage of the p220 component of the cap-binding protein complex",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Devaney",
+                    "suffix": ""
+                },
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "Vakharia",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Virol.",
+            "volume": "62",
+            "issn": "",
+            "pages": "4407-4409",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "The Big Bang of picorna-like virus evolution antedates the radiation of eukaryotic supergroups",
+            "authors": [
+                {
+                    "first": "EV",
+                    "middle": [],
+                    "last": "Koonin",
+                    "suffix": ""
+                },
+                {
+                    "first": "YI",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nagasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "VV",
+                    "middle": [],
+                    "last": "Dolja",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "925-939",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro2030"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Cleavage of poly(A)-binding protein by enterovirus proteases concurrent with inhibition of translation in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Joachims",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "van Breugel",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "718-727",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Cleavage of poly(A)-binding protein by coxsackievirus 2A protease in vitro and in vivo: another mechanism for host protein synthesis shutoff?",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kerekatte",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "709-717",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Genetic analysis of mengovirus protein 2A: its function in polyprotein processing and virus reproduction",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Galama",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Gen. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "17-25",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-79-1-17"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Rapamycin and wortmannin enhance replication of a defective encephalomyocarditis virus",
+            "authors": [
+                {
+                    "first": "YV",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Gingras",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "5811-5819",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Virus-specific proteins associated with ribosomes of Krebs II cells infected with encephalomyocarditis virus",
+            "authors": [
+                {
+                    "first": "OA",
+                    "middle": [],
+                    "last": "Medvedkina",
+                    "suffix": ""
+                },
+                {
+                    "first": "IV",
+                    "middle": [],
+                    "last": "Scarlat",
+                    "suffix": ""
+                },
+                {
+                    "first": "NO",
+                    "middle": [],
+                    "last": "Kalinina",
+                    "suffix": ""
+                },
+                {
+                    "first": "VI",
+                    "middle": [],
+                    "last": "Agol",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "FEBS Lett.",
+            "volume": "39",
+            "issn": "",
+            "pages": "4-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(74)80003-7"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Cardiovirus 2A protein associates with 40S but not 80S ribosome subunits during infection",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Groppo",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "13067-13074",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00185-07"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "Encephalomyocarditis viral protein 2A localizes to nucleoli and inhibits cap-dependent mRNA translation",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Aminev",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Amineva",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virus Res.",
+            "volume": "95",
+            "issn": "",
+            "pages": "45-57",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1702(03)00162-X"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "Encephalomyocarditis virus (EMCV) proteins 2A and 3BCD localize to nuclei and inhibit cellular mRNA transcription but not rRNA transcription",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Aminev",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Amineva.",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virus Res.",
+            "volume": "95",
+            "issn": "",
+            "pages": "59-73",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1702(03)00163-1"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Mengovirus leader is involved in the inhibition of host cell protein synthesis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Galama",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "4948-4952",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "A picornavirus protein interacts with Ran-GTPase and disrupts nucleocytoplasmic transport",
+            "authors": [
+                {
+                    "first": "FW",
+                    "middle": [],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "YA",
+                    "middle": [],
+                    "last": "Bochkov",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Albee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wiese",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "12417-12422",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0605375103"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "Antiapoptotic activity of the cardiovirus leader protein, a viral \u201csecurity\u201d protein",
+            "authors": [
+                {
+                    "first": "LI",
+                    "middle": [],
+                    "last": "Romanova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "7273-7284",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00467-09"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "Inhibition of mRNA export and dimerization of interferon regulatory factor 3 by Theiler's virus leader protein",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ricour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Gen. Virol.",
+            "volume": "90",
+            "issn": "",
+            "pages": "177-186",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.005678-0"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Inhibition of cap-dependent gene expression induced by protein 2A of hepatitis A virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Maltese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Gen. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "1373-1381",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-81-5-1373"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Poliovirus-encoded protease 2APro cleaves the TATA-binding protein but does not inhibit host cell RNA polymerase II transcription in vitro",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yalamanchili",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dasgupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "6881-6886",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "The effect of poliovirus proteinase 2Apro expression on cellular metabolism. Inhibition of DNA replication, RNA polymerase II transcription, and translation",
+            "authors": [
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pelletier",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Meerovitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Kaufman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Biol. Chem.",
+            "volume": "266",
+            "issn": "",
+            "pages": "14714-14720",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Inhibition of U snRNP assembly by a virus-encoded proteinase",
+            "authors": [
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Almstead",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Genes Dev.",
+            "volume": "21",
+            "issn": "",
+            "pages": "1086-1097",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1535607"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "Degradation of nuclear factor kappa B during foot-and-mouth disease virus infection. J.",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "de los Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Diaz-San Segundo",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "12803-12815",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01467-07"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "A conserved domain in the leader proteinase of foot-and-mouth disease virus is required for proper subcellular localization and function",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "de los Santos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "1800-1810",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02112-08"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Intracellular localization and effects of individually expressed human parechovirus 1 non-structural proteins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Krogerus",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Samuilova",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Poyry",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jokitalo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hyypia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Gen. Virol.",
+            "volume": "88",
+            "issn": "",
+            "pages": "831-841",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.82201-0"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "2A proteinase of human rhinovirus cleaves cytokeratin 8 in infected HeLa cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seipelt",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Liebig",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sommergruber",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gerner",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kuechler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "20084-20089",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.275.26.20084"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Enteroviral protease 2A cleaves dystrophin: evidence of cytoskeletal disruption in an acquired cardiomyopathy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Badorff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature Med.",
+            "volume": "5",
+            "issn": "",
+            "pages": "320-326",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/6543"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "Evading the host immune response: how foot-and-mouth disease virus has become an effective pathogen",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Moraes",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Diaz-San Segundo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pena",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "de los Santos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "FEMS Immunol. Med. Microbiol.",
+            "volume": "53",
+            "issn": "",
+            "pages": "8-17",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1574-695X.2008.00409.x"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Bidirectional increase in permeability of nuclear envelope upon poliovirus infection and accompanying alterations of nuclear pores",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Belov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "10166-10177",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.18.10166-10177.2004"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Differential targeting of nuclear pore complex proteins in poliovirus-infected cells. J.",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Katikaneni",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skern",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Gustin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "1647-1655",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01670-07"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "RNA nuclear export is blocked by poliovirus 2A protease and is concomitant with nucleoporin cleavage",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Castell\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Izquierdo",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Welnowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Cell Sci.",
+            "volume": "122",
+            "issn": "",
+            "pages": "3799-3809",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/jcs.055988"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "The leader protein of Theiler's virus interferes with nucleocytoplasmic trafficking of cellular proteins",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Delhaye",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "van Pesch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Michiels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "4357-4362",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.8.4357-4362.2004"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Nucleo-cytoplasmic traffic disorder induced by cardioviruses",
+            "authors": [
+                {
+                    "first": "PV",
+                    "middle": [],
+                    "last": "Lidsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "2705-2717",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.6.2705-2717.2006"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Mengovirus-induced rearrangement of the nuclear pore complex: hijacking cellular phosphorylation machinery",
+            "authors": [
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Bardina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "3150-3161",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01456-08"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "Leader-induced phosphorylation of nucleoporins correlates with nuclear trafficking inhibition by cardioviruses",
+            "authors": [
+                {
+                    "first": "FW",
+                    "middle": [],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Palmenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "1941-1951",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01752-08"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Ability of foot-and-mouth disease virus to form plaques in cell culture is associated with suppression of alpha/beta interferon. J.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chinsangaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Piccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "9891-9898",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Inhibition of L-deleted foot-and-mouth disease virus replication by \u03b1/\u03b2 interferon involves double-stranded RNA-dependent protein kinase. J.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chinsangaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koster",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "5498-5503",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.12.5498-5503.2001"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "The leader proteinase of foot-and-mouth disease virus inhibits the induction of beta interferon mRNA and blocks the host innate immune response. J.",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "de los Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "de Avila Botton",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weiblen",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "1906-1914",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.4.1906-1914.2006"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "A second virus-encoded proteinase involved in proteolytic processing of poliovirus polyprotein",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Toyoda",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Cell",
+            "volume": "45",
+            "issn": "",
+            "pages": "761-770",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(86)90790-7"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "Proteinase 2Apro is essential for enterovirus replication in type I interferon-treated cells",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Morrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "VR",
+                    "middle": [],
+                    "last": "Racaniello",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "4412-4422",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02177-08"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Cleavage of IPS-1 in cells infected with human rhinovirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Drahos",
+                    "suffix": ""
+                },
+                {
+                    "first": "VR",
+                    "middle": [],
+                    "last": "Racaniello",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "11581-11587",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01490-09"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "Proteolytic cleavage of the catalytic subunit of DNA-dependent protein kinase during poliovirus infection",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "6313-6321",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.12.6313-6321.2004"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "The leader protein of Theiler's virus inhibits immediate-early alpha/beta interferon production",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "van Pesch",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "van Eyll",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Michiels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "7811-7817",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.17.7811-7817.2001"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "The mengovirus leader protein blocks interferon-a/b gene transcription and inhibits activation of interferon regulatory factor 3",
+            "authors": [
+                {
+                    "first": "SV",
+                    "middle": [],
+                    "last": "Hato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell. Microbiol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "2921-2930",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1462-5822.2007.01006.x"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "A Theiler's virus alternatively initiated protein inhibits the generation of H-2K-restricted virus-specific cytotoxicity",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                },
+                {
+                    "first": "LR",
+                    "middle": [],
+                    "last": "Pease",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wettstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Immunol.",
+            "volume": "162",
+            "issn": "",
+            "pages": "17-24",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "CD4 T cells are important for clearance of the DA strain of TMEV from the central nervous system of SJL/J mice",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Int. Immunol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "1237-1240",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/intimm/dxh125"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "Involvement of cardiovirus leader in host cell-restricted virus expression",
+            "authors": [
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Ghadge",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "91",
+            "issn": "",
+            "pages": "1796-1800",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.91.5.1796"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "The leader polypeptide of Theiler's virus is essential for neurovirulence but not for virus growth in BHK cells",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Calenoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Badshah",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Dal Canto",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Lipton",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Rundell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "5544-5549",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Protein 2A is not required for Theiler's virus replication",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Michiels",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Dejong",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rodrigus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Shaw-Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "9549-9556",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Viral cysteine proteases are homologous to the trypsin-like family of serine proteases: structural and functional implications",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Bazan",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Fletterick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "85",
+            "issn": "",
+            "pages": "7872-7876",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.85.21.7872"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "L* protein of the DA strain of Theiler's murine encephalomyelitis virus is important for virus growth in a murine macrophage-like cell line",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takata",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "4950-4955",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "Influence of the Theiler's virus L* protein on macrophage infection, viral persistence, and neurovirulence",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "van Eyll",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Michiels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "9071-9077",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.19.9071-9077.2000"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Poliovirus 2A protease induces apoptotic cell death",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Goldstaub",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "1271-1277",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.20.4.1271-1277.2000"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Infection with enterovirus 71 or expression of its 2A protease induces apoptotic cell death",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Kung",
+                    "suffix": ""
+                },
+                {
+                    "first": "YY",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Gen. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "1367-1376",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-83-6-1367"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Poliovirus protein 3A inhibits tumor necrosis factor (TNF)-induced apoptosis by eliminating the TNF receptor from the cell surface",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Neznanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "10409-10420",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.21.10409-10420.2001"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Bypass suppression of small-plaque phenotypes by mutation in poliovirus 2A that enhances apoptosis",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Burgon",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Deitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Spagnolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "10129-10139",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00642-09"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "2Aprotease is not a prerequisite for poliovirus replication",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Igarashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "5947-5957",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02575-09"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "Theiler's murine encephalomyelitis virus leader protein is the only nonstructural protein tested that induces apoptosis when transfected into mammalian cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "KN",
+                    "middle": [],
+                    "last": "Son",
+                    "suffix": ""
+                },
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Arslan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Lipton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "6546-6553",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00353-09"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "A protein critical for a Theiler's virus-induced immune system-mediated demyelinating disease has a cell type-specific antiapoptotic effect and a key role in virus persistence",
+            "authors": [
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Ghadge",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "8605-8612",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Pathogenesis of wild-type and leaderless foot-and-mouth disease virus in cattle",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Piccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Mason",
+                    "suffix": ""
+                },
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "McKenna",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "5638-5641",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "Putative papain-related thiol proteases of positive-strand RNA viruses. Identification of rubi- and aphthovirus proteases and delineation of a novel conserved domain associated with proteases of rubi-, alpha- and coronaviruses",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "EV",
+                    "middle": [],
+                    "last": "Koonin",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "FEBS Lett.",
+            "volume": "288",
+            "issn": "",
+            "pages": "201-205",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(91)81034-6"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "title": "Cardiovirus leader proteins are functionally interchangeable and have evolved to adapt to virus replication fitness",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paul",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Michiels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Gen. Virol.",
+            "volume": "87",
+            "issn": "",
+            "pages": "1237-1246",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.81642-0"
+                ]
+            }
+        },
+        "BIBREF125": {
+            "title": "An attenuating mutation in the 2A protease of swine vesicular disease virus, a picornavirus, regulates cap- and internal ribosome entry site-dependent protein synthesis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sakoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ross-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Inoue",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Belsham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "10643-10650",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.22.10643-10650.2001"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "Construction of a chimeric Theiler's murine encephalomyelitis virus containing the leader gene of foot-and-mouth disease virus",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Piccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Virology",
+            "volume": "226",
+            "issn": "",
+            "pages": "135-139",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1996.0637"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "Differential IFN-\u03b1/\u03b2 production suppressing capacities of the leader proteins of mengovirus and foot-and-mouth disease virus",
+            "authors": [
+                {
+                    "first": "SV",
+                    "middle": [],
+                    "last": "Hato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell. Microbiol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "310-317",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1462-5822.2009.01395.x"
+                ]
+            }
+        },
+        "BIBREF128": {
+            "title": "Theiler's murine encephalomyelitis virus (TMEV) L* amino acid position 93 is important for virus persistence and virus-induced demyelination",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stavrou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "1348-1354",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01585-09"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "title": "The foot-and-mouth disease virus leader proteinase gene is not required for viral replication",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Piccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rieder",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Mason",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Grubman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "5376-5382",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF130": {
+            "title": "Hepatitis A viruses with deletions in the 2A gene are infectious in cultured cells and marmosets",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harmon",
+                    "suffix": ""
+                },
+                {
+                    "first": "SU",
+                    "middle": [],
+                    "last": "Emerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "YK",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Summers",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "5576-5581",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF131": {
+            "title": "Analysis of deletion mutants indicates that the 2A polypeptide of hepatitis A virus participates in virion morphogenesis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "B\u00e9nichou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "7495-7505",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.15.7495-7505.2002"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "title": "Studies on dicistronic polioviruses implicate viral proteinase 2Apro in RNA replication",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Molla",
+                    "suffix": ""
+                },
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Paul",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schmid",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Jang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "196",
+            "issn": "",
+            "pages": "739-747",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1993.1531"
+                ]
+            }
+        },
+        "BIBREF133": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dasgupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Molecular Biology of Picornaviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "321-333",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

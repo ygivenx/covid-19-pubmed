@@ -1,0 +1,768 @@
+{
+    "paper_id": "PMC7091190",
+    "metadata": {
+        "title": "Investigating a safe ventilation rate for the prevention of indoor SARS transmission: An attempt based on a simulation approach",
+        "authors": [
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "email": "jiangyi@tsinghua.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Bin",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xiaofeng",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xudong",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhiqin",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yufeng",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Transport properties of two-phase materials with random structure",
+            "authors": [
+                {
+                    "first": "G.K.",
+                    "middle": [],
+                    "last": "Batchelor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Journal of Fluid Mechanics",
+            "volume": "6",
+            "issn": "",
+            "pages": "227-255",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.fl.06.010174.001303"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Indoor particles and symptoms among office workers: results from a double-blind cross-over study",
+            "authors": [
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Mendell",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Fisk",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.R.",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Epidemiology",
+            "volume": "13",
+            "issn": "",
+            "pages": "296-304",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/00001648-200205000-00010"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Droplet fate in indoor environments, or can we prevent the spread of infection?",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Morawska",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Indoor Air",
+            "volume": "16",
+            "issn": "",
+            "pages": "335-347",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-0668.2006.00432.x"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Diffusion characteristics of airborne particles with gravitational settling in a convection-dominant indoor flow field",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Nagano",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "ASHRAE Transactions",
+            "volume": "98",
+            "issn": "1",
+            "pages": "82-97",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Toward understanding the risk of secondary airborne infection: emission of respirable pathogens",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nicas",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.W.",
+                    "middle": [],
+                    "last": "Nazaroff",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Hubbard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of Occupational and Environmental Hygiene",
+            "volume": "2",
+            "issn": "",
+            "pages": "143-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/15459620590918466"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.A.",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.S.",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.S.",
+                    "middle": [],
+                    "last": "Monroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.A.",
+                    "middle": [],
+                    "last": "Nix",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Campagnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.P.",
+                    "middle": [],
+                    "last": "Icenogle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Study of SARS transmission via liquid droplets in air",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.X.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of Biomechanical Engineering: Transactions of the ASME",
+            "volume": "127",
+            "issn": "",
+            "pages": "32-38",
+            "other_ids": {
+                "DOI": [
+                    "10.1115/1.1835350"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Evidence of airborne transmission of the severe acute respiratory syndrome virus",
+            "authors": [
+                {
+                    "first": "I.T.S.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.W.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.T.",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.Y.",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "The New England Journal of Medicine",
+            "volume": "350",
+            "issn": "",
+            "pages": "1731-1739",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa032867"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Numerical investigation of particle diffusion in clean room",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Indoor and Built Environment",
+            "volume": "14",
+            "issn": "",
+            "pages": "469-479",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1420326X05060190"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Characterization of expiration air jets and droplet size distributions immediately at the mouth opening",
+            "authors": [
+                {
+                    "first": "C.Y.H.",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.P.",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Morawska",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.R.",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.D.",
+                    "middle": [],
+                    "last": "Ristovski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Hargreaves",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Mengersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Corbett",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Katoshevski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Journal of Aerosol Science",
+            "volume": "40",
+            "issn": "",
+            "pages": "122-133",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jaerosci.2008.10.003"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Numerical study of the transport of droplets or particles generated by respiratory system indoors",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Building and Environment",
+            "volume": "40",
+            "issn": "",
+            "pages": "1032-1039",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.buildenv.2004.09.018"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "The numbers and the sites of origin of the droplets expelled during expiratory activities",
+            "authors": [
+                {
+                    "first": "J.F.",
+                    "middle": [],
+                    "last": "Duguid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1945,
+            "venue": "Edinburgh Medicine Journal",
+            "volume": "52",
+            "issn": "",
+            "pages": "335-340",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Cytomegalovirus",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Gold",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.A.",
+                    "middle": [],
+                    "last": "Nankervis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Viral Infections of Humans",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "C.E.",
+                    "middle": [],
+                    "last": "Junge",
+                    "suffix": ""
+                }
+            ],
+            "year": 1963,
+            "venue": "Air Chemistry and Radioactivity",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Role of ventilation in airborne transmission of infectious agents in the built environment \u2014 A multidisciplinary systematic review",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.M.",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.W.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.W.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.V.",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.C.",
+                    "middle": [],
+                    "last": "Sleigh",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.J.",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sundell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.W.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.L.",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Indoor Air",
+            "volume": "17",
+            "issn": "",
+            "pages": "2-18",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-0668.2006.00445.x"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Two-phase and non-Newtonain flows",
+            "authors": [
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Lumley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Turbulence",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Detection of airborne cytomegalovirus in hospital rooms of immunocompromised patients",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "McCluskey",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Sandin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Greene",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Journal of Virological Methods",
+            "volume": "56",
+            "issn": "",
+            "pages": "115-118",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0166-0934(95)01955-3"
+                ]
+            }
+        }
+    }
+}

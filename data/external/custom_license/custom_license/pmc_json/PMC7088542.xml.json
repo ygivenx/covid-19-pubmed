@@ -1,0 +1,955 @@
+{
+    "paper_id": "PMC7088542",
+    "metadata": {
+        "title": "Simulation of the spread of infectious diseases in a geographical environment",
+        "authors": [
+            {
+                "first": "ShaoBo",
+                "middle": [],
+                "last": "Zhong",
+                "suffix": "",
+                "email": "zhongshaobo@tsinghua.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "QuanYi",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "DunJiang",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Modeling epidemics using cellular automata",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "del Rey",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Sanchez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Appl Math Comput",
+            "volume": "186",
+            "issn": "",
+            "pages": "193-202",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.amc.2006.06.126"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Geographical Cellular Automata",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Discovery of transition rules for geographical cellular automata by using ant colony optimization",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "O.",
+                        "E."
+                    ],
+                    "last": "Anthony",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Sci China Ser-D Earth Sci",
+            "volume": "50",
+            "issn": "10",
+            "pages": "1578-1588",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11430-007-0083-z"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "VecGCA: An vector-based geographic cellular automata model allowing geometric transformations of objects",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "M\u00e9nard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Marceau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Environ Plann B",
+            "volume": "35",
+            "issn": "4",
+            "pages": "647-665",
+            "other_ids": {
+                "DOI": [
+                    "10.1068/b33093"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Epidemic spreading in scale-free networks",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Phys Rev Lett",
+            "volume": "86",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.86.3200"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Complex networks: Topology, dynamics and synchronization",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Int J Bifurcat Chaos",
+            "volume": "12",
+            "issn": "",
+            "pages": "885-916",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0218127402004802"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Velocity and hierarchical spread of epidemic outbreaks in scale-free networks",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Barth\u00e9lemy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Barrat",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Phys Rev Lett",
+            "volume": "92",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.92.178701"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "The impacts of network topology on disease spread",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "D.",
+                        "F."
+                    ],
+                    "last": "Shirley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Rushton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Ecol Complex",
+            "volume": "2",
+            "issn": "",
+            "pages": "287-299",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ecocom.2005.04.005"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Epidemic processes on complex networks: The effect of topology on the spread of epidemics",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Draief",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Physica A",
+            "volume": "363",
+            "issn": "",
+            "pages": "120-131",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.physa.2006.01.054"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Cellular automata and epidemiological models with spatial dependence",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Fuentes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Kuperman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Physica A",
+            "volume": "267",
+            "issn": "",
+            "pages": "471-486",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0378-4371(99)00027-8"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Epidemic spreading in a scale-free network of regular lattices",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Martins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Physica A",
+            "volume": "377",
+            "issn": "",
+            "pages": "689-697",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.physa.2006.11.027"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Allman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Rhodes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mathematical Models in Biology: An Introduction",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "A computer movie simulating urban growth in the Detroit region",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Tobler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Econ Geol",
+            "volume": "46",
+            "issn": "",
+            "pages": "234-240",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Odland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Spatial Autocorrelation",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Cliff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Ord",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Spatial Processes: Models and Applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Tobler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Linear Operators Applied to Areal Data",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "YUE-SMPD scenarios of Beijing population distribution (in Chinese)",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Yue",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Geo-information Sci",
+            "volume": "10",
+            "issn": "4",
+            "pages": "479-488",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Understanding the spatial diffusion process of SARS in Beijing",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Public Health",
+            "volume": "119",
+            "issn": "",
+            "pages": "1080-1087",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.puhe.2005.02.003"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Spatial dynamics of an epidemic of severe acute respiratory syndrome in an urban area",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "McMichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Bull World Health Organ",
+            "volume": "84",
+            "issn": "",
+            "pages": "965-968",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.06.030247"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Congruent epidemic models for unstructured and structured populations: Analytical reconstruction of a 2003 SARS outbreak",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Bombardt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Math Biosci",
+            "volume": "203",
+            "issn": "",
+            "pages": "171-203",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2006.05.004"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Infectious Diseases of Humans: Dynamics and Control",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Airline networks and the international diffusion of severe acute respiratory syndrome (SARS)",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Bowen",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Laroe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Geogr J",
+            "volume": "72",
+            "issn": "",
+            "pages": "130-144",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1475-4959.2006.00196.x"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "The effect of global travel on the spread of SARS",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Levin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Math Biosci Eng",
+            "volume": "3",
+            "issn": "",
+            "pages": "205-218",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Data-driven exploration of \u201cspatial pattern-time process-driving forces\u201d associations of SARS epidemic in Beijing, China",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Christakos",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Public Health",
+            "volume": "30",
+            "issn": "3",
+            "pages": "234-244",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/pubmed/fdn023"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "On modeling epidemics including latency, incubation and variable susceptibility",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Agiza",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Physica A",
+            "volume": "253",
+            "issn": "",
+            "pages": "347-352",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0378-4371(97)00665-1"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "A cellular automaton model for the effects of population movement and vaccination on epidemic propagation",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Sirakoulis",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Karafyllidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Thanailakis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Ecol Model",
+            "volume": "133",
+            "issn": "",
+            "pages": "209-223",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0304-3800(00)00294-5"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Spatial Analysis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Von Neumann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1966,
+            "venue": "Theory of Self-Reproducing Automata",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Cellular automata modelling of SEIRS",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Chin Phys",
+            "volume": "14",
+            "issn": "",
+            "pages": "1370-1377",
+            "other_ids": {
+                "DOI": [
+                    "10.1088/1009-1963/14/7/018"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Modeling infectious diseases using global stochastic cellular automata",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Mikler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Venkatachalam",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Abbas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Biol Syst",
+            "volume": "13",
+            "issn": "",
+            "pages": "421-439",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0218339005001604"
+                ]
+            }
+        }
+    }
+}

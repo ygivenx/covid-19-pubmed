@@ -1,0 +1,863 @@
+{
+    "paper_id": "PMC7091362",
+    "metadata": {
+        "title": "Manifold construction based on local distance invariance",
+        "authors": [
+            {
+                "first": "Wei-Chen",
+                "middle": [],
+                "last": "Cheng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Cheng-Yuan",
+                "middle": [],
+                "last": "Liou",
+                "suffix": "",
+                "email": "cyliou@csie.ntu.edu.tw",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The memetic tree-based genetic algorithm and its application to portfolio optimization",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Aranha",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Iba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Memetic Comput",
+            "volume": "1",
+            "issn": "",
+            "pages": "139-151",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12293-009-0010-2"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Self-organized formation of topologically correct feature maps",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kohonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Biol Cybern",
+            "volume": "43",
+            "issn": "",
+            "pages": "59-69",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00337288"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kohonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Self-organization and associative memory",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Comparison of SOM point densities based on different criteria",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kohonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Neural Comput",
+            "volume": "11",
+            "issn": "",
+            "pages": "2081-2095",
+            "other_ids": {
+                "DOI": [
+                    "10.1162/089976699300016098"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kohonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Self-organizing maps",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Self-organizing maps of symbol strings",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kohonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Somervuo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Neurocomputing",
+            "volume": "21",
+            "issn": "",
+            "pages": "19-30",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0925-2312(98)00031-9"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Clustal W and Clustal X version 2.0",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Larkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Blackshields",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Bioinformatics",
+            "volume": "23",
+            "issn": "",
+            "pages": "2947-2948",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btm404"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Separable cross-entropy approach to power spectrum estimation",
+            "authors": [
+                {
+                    "first": "C-Y",
+                    "middle": [],
+                    "last": "Liou",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Musicus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "IEEE T Acoust Speech",
+            "volume": "38",
+            "issn": "",
+            "pages": "105-113",
+            "other_ids": {
+                "DOI": [
+                    "10.1109/29.45622"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "The influenza virus resource at the national center for biotechnology information",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bolotov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "596-601",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02005-07"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Conformal self-organization for continuity on a feature map",
+            "authors": [
+                {
+                    "first": "C-Y",
+                    "middle": [],
+                    "last": "Liou",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-P",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Neural Netw",
+            "volume": "12",
+            "issn": "",
+            "pages": "893-905",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0893-6080(99)00034-9"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Conformality in the self-organization network",
+            "authors": [
+                {
+                    "first": "C-Y",
+                    "middle": [],
+                    "last": "Liou",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-P",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Artif Intell",
+            "volume": "116",
+            "issn": "",
+            "pages": "265-286",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0004-3702(99)00093-4"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Handprinted character recognition based on spatial topology distance measurement",
+            "authors": [
+                {
+                    "first": "C-Y",
+                    "middle": [],
+                    "last": "Liou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-C",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "IEEE T Pattern Anal",
+            "volume": "18",
+            "issn": "9",
+            "pages": "941-945",
+            "other_ids": {
+                "DOI": [
+                    "10.1109/34.537349"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Code vector density in topographic mappings: scalar case",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Luttrell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "IEEE T Neural Netw",
+            "volume": "2",
+            "issn": "",
+            "pages": "427-436",
+            "other_ids": {
+                "DOI": [
+                    "10.1109/72.88162"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "A proposition on memes and meta-memes in computing for higher-order learning",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Meuth",
+                    "suffix": ""
+                },
+                {
+                    "first": "M-H",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-S",
+                    "middle": [],
+                    "last": "Ong",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wunsch II",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Memetic Comput",
+            "volume": "1",
+            "issn": "",
+            "pages": "85-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12293-009-0011-1"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Nonlinear dimensionality reduction by locally linear embedding",
+            "authors": [
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Roweis",
+                    "suffix": ""
+                },
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Saul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "290",
+            "issn": "",
+            "pages": "2323-2326",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.290.5500.2323"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "The neighbor-joining method: a new method for reconstructing phylogenetic trees",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Mol Biol Evol",
+            "volume": "4",
+            "issn": "",
+            "pages": "406-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Additive similarity trees",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sattath",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tversky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Psychometrika",
+            "volume": "42",
+            "issn": "",
+            "pages": "319-345",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02293654"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Biochemical systematics of members of the genus Rana native to western north America",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Case",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Syst Zool",
+            "volume": "27",
+            "issn": "",
+            "pages": "299-311",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2412881"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Sokal",
+                    "suffix": ""
+                },
+                {
+                    "first": "PHA",
+                    "middle": [],
+                    "last": "Sneath",
+                    "suffix": ""
+                }
+            ],
+            "year": 1963,
+            "venue": "Principles of numerical taxonomy",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "A global geometric framework for nonlinear dimensionality reduction",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tenenbaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "de Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Langford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "290",
+            "issn": "",
+            "pages": "2319-2323",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.290.5500.2319"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Multidimensional scaling I: theory and method",
+            "authors": [
+                {
+                    "first": "WS",
+                    "middle": [],
+                    "last": "Torgerson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1952,
+            "venue": "Psychometrika",
+            "volume": "17",
+            "issn": "",
+            "pages": "401-419",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02288916"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Function approximation using generalized adalines",
+            "authors": [
+                {
+                    "first": "J-M",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-H",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "IEEE T Neural Netw",
+            "volume": "17",
+            "issn": "",
+            "pages": "541-558",
+            "other_ids": {
+                "DOI": [
+                    "10.1109/TNN.2006.873284"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Global versus local methods in nonlinear dimensionality reduction",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "de Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Tenenbaum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Adv Neur Inf Process Syst",
+            "volume": "15",
+            "issn": "",
+            "pages": "705-712",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Deboeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kohonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Visual explorations in finance: with self-organizing maps",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+            "authors": [
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Edgar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res",
+            "volume": "32",
+            "issn": "",
+            "pages": "1792-1797",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh340"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Self-organizing maps: ordering, convergence properties and energy functions",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Erwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Obermayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schulten",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Biol Cybern",
+            "volume": "67",
+            "issn": "",
+            "pages": "47-55",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00201801"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Estimating phylogenetic trees from distance matrices",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Farris",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Am Nat",
+            "volume": "106",
+            "issn": "",
+            "pages": "645-668",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/282802"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Hierarchical clustering schemes",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1967,
+            "venue": "Psychometrika",
+            "volume": "32",
+            "issn": "3",
+            "pages": "241-254",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02289588"
+                ]
+            }
+        }
+    }
+}

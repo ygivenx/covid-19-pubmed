@@ -1,0 +1,611 @@
+{
+    "paper_id": "PMC7089478",
+    "metadata": {
+        "title": "SARS epidemical forecast research in mathematical model",
+        "authors": [
+            {
+                "first": "Ding",
+                "middle": [],
+                "last": "Guanghong",
+                "suffix": "",
+                "email": "ghding@fudan.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Liu",
+                "middle": [],
+                "last": "Chang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Gong",
+                "middle": [],
+                "last": "Jianqiu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wang",
+                "middle": [],
+                "last": "Ling",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Cheng",
+                "middle": [],
+                "last": "Ke",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhang",
+                "middle": [],
+                "last": "Di",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "One year after outbreak, SARS virus yields some secrets",
+            "authors": [
+                {
+                    "first": "Martin",
+                    "middle": [],
+                    "last": "Enserink",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "304",
+            "issn": "",
+            "pages": "1097-1097",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.304.5674.1097"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "A double epidemic model for the SARS propagation",
+            "authors": [
+                {
+                    "first": "Tuen",
+                    "middle": [
+                        "Wai"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gabriel",
+                    "middle": [],
+                    "last": "Turinici",
+                    "suffix": ""
+                },
+                {
+                    "first": "Antoine",
+                    "middle": [],
+                    "last": "Danchin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMC Infectious Diseases",
+            "volume": "3",
+            "issn": "",
+            "pages": "19-19",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2334-3-19"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Seasonality and period-doubling bifurcations in an epidemic model",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Aron",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J. Theory. Biol.",
+            "volume": "110",
+            "issn": "",
+            "pages": "665-679",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-5193(84)80150-2"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "A simple model for complex dynamical transitions in epidemics",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Earn",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Rohani",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Bolker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "287",
+            "issn": "",
+            "pages": "667-670",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.287.5453.667"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Transmission potential of smallpox in contemporary populations",
+            "authors": [
+                {
+                    "first": "Raymond",
+                    "middle": [],
+                    "last": "Gani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Steve",
+                    "middle": [],
+                    "last": "Leach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "414",
+            "issn": "",
+            "pages": "748-751",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/414748a"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "The predictive power of R0 in an epidemic probabilistic system",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Alves",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Haas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Caliri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of Biological Physics",
+            "volume": "29",
+            "issn": "1",
+            "pages": "63-75",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1022567418081"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Population dynamics and the epidemiological model proposed by Severo",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Tend?Encias em Matem\u2032 atica Aplicada e Computacional",
+            "volume": "3",
+            "issn": "2",
+            "pages": "227-236",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Predicting the local dynamics of epizootic rabies among raccoons in the United States",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Childs",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Curns",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Dey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "97",
+            "issn": "25",
+            "pages": "13666-13671",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.240326697"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The basic reproductive number of Ebola and the effects of public health measures: the cases of Congo and Uganda",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Chowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Hengartner",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Castillo-Chavez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Theor. Biol.",
+            "volume": "229",
+            "issn": "1",
+            "pages": "119-126",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2004.03.006"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Severe acute respiratory syndrome\u2014Singapore",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Leo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Heng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "MMWR",
+            "volume": "18",
+            "issn": "52",
+            "pages": "405-411",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Transmission dynamics and control of sever acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "Marc",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ted",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ben",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1966-1970",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086616"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Transmission dynamics of the etiological agent of SARS in Hong Kong: Impact of public health interventions",
+            "authors": [
+                {
+                    "first": "Steven",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christophe",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christ",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1961-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086478"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Modeling the SARS epidemic",
+            "authors": [
+                {
+                    "first": "Chris",
+                    "middle": [],
+                    "last": "Dye",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nigel",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1884-1885",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086925"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Stochastic model application in SARS forecast and epidemic analysis",
+            "authors": [
+                {
+                    "first": "Chen",
+                    "middle": [],
+                    "last": "Qizhi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "University of Peking College Journal (Medical Science Version)",
+            "volume": "35",
+            "issn": "z1",
+            "pages": "75-80",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "SARS, lay epidemiology, and fear",
+            "authors": [
+                {
+                    "first": "Oliver",
+                    "middle": [],
+                    "last": "Razum",
+                    "suffix": ""
+                },
+                {
+                    "first": "Heiko",
+                    "middle": [],
+                    "last": "Becher",
+                    "suffix": ""
+                },
+                {
+                    "first": "Annette",
+                    "middle": [],
+                    "last": "Kapaun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "9370",
+            "pages": "1739-1740",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13335-1"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "Christl",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "Azra",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Ghani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gabriel",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "9371",
+            "pages": "1761-1766",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13410-1"
+                ]
+            }
+        }
+    }
+}

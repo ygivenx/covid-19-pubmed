@@ -1,0 +1,1801 @@
+{
+    "paper_id": "PMC7086889",
+    "metadata": {
+        "title": "Development of a duplex reverse transcription recombinase-aided amplification assay for respiratory syncytial virus incorporating an internal control",
+        "authors": [
+            {
+                "first": "Juju",
+                "middle": [],
+                "last": "Qi",
+                "suffix": "",
+                "email": "13932153959@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Xinna",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "1054245959@qq.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": "zhangyicdc@126.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Xinxin",
+                "middle": [],
+                "last": "Shen",
+                "suffix": "",
+                "email": "x616815@126.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Guowei",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "email": "13363880067@126.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Pan",
+                "suffix": "",
+                "email": "39328113@qq.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Tao",
+                "middle": [],
+                "last": "Fan",
+                "suffix": "",
+                "email": "hugengkun@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Ruihuan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": "15286855786@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Lixin",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "lilixinsjz@163.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Xuejun",
+                "middle": [],
+                "last": "Ma",
+                "suffix": "",
+                "email": "maxj@ivdc.chinacdc.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table\u00a01: The oligonucleotides used for RT-PCR, rtRAA, and RT-qPCR\nProbe modifications: FAM, 6-carboxyfluorescein; HEX, 5-hexachlorofluorescein; THF, tetrahydrofuran; BHQ, Black Hole Quencher; C3-spacer, 3\u2019phosphate blocker",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table\u00a02: The reproducibility of singleplex-rtRAA and duplex-rtRAA\naEach dilution was tested in a total of 8 replicates",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table\u00a03: Detection of RSV in clinical specimens\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Fig.\u00a01: The amplification curves of the singleplex-rtRAA. A serial tenfold dilution of RSV recombinant plasmids from 1 \u00d7 104 to 1 \u00d7 100 copies per reaction was used to determine the detection limit. NTC, no-template control",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Fig.\u00a02: The amplification curves of the duplex-rtRAA. Successful simultaneous detection of RSV target and the IC template (100 copies per reaction) was observed. (A) FAM fluorescence signal produced by RSV recombinant plasmids (Target) amplification. A higher plasmid concentration resulted in an earlier appearance of an amplification signal in the presence of the IC template (100 copies). (B) HEX fluorescence signal produced by amplification of the internal control template. In the presence of a series of concentrations of RSV plasmids, IC (100 copies) amplification signals appeared at approximately the same time. However, when the RSV plasmid concentration increased, the fluorescence intensity of the IC decreased. In the presence of 104-100 copies of RSV plasmid per reaction, no significant competitive inhibition was observed in the amplification of the IC. In the presence of 105 copies of RSV plasmid per reaction, the amplification of IC was significantly inhibited",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Laboratory epidemiology of respiratory viruses in a large children\u2019s hospital",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Medicine",
+            "volume": "97",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1097/MD.0000000000011385"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Comparison of direct immunofluorescence, conventional cell culture and polymerase chain reaction techniques for detecting respiratory syncytial virus in nasopharyngeal aspirates from infants",
+            "authors": [
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Reis",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Fink",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Machado",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJP",
+                    "middle": [],
+                    "last": "Paz Jde",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Oliveira",
+                    "suffix": ""
+                },
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Tateno",
+                    "suffix": ""
+                },
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Machado",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Cardoso",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Pannuti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Revista Do Instituto De Medicina Tropical De S\u00e3o Paulo",
+            "volume": "50",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1590/S0036-46652008000100008"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Respiratory syncytial virus detection by Remel Xpect, Binax now RSV, direct immunofluorescent staining, and tissue culture",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Borek",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Clemens",
+                    "suffix": ""
+                },
+                {
+                    "first": "VK",
+                    "middle": [],
+                    "last": "Gaskins",
+                    "suffix": ""
+                },
+                {
+                    "first": "DZ",
+                    "middle": [],
+                    "last": "Aird",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Valsamakis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Clin Microbiol",
+            "volume": "44",
+            "issn": "",
+            "pages": "1105-1107",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.44.3.1105-1107.2006"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Diagnosis of respiratory syncytial virus infection: comparison of reverse transcription-PCR to viral culture and serology in adults with respiratory illness",
+            "authors": [
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Falsey",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Formica",
+                    "suffix": ""
+                },
+                {
+                    "first": "EE",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Clin Microbiol",
+            "volume": "40",
+            "issn": "",
+            "pages": "817-820",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.40.3.817-820.2002"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Use of a multiplex real-time PCR to study the incidence of human metapneumovirus and human respiratory syncytial virus infections during two winter seasons in a Belgian paediatric hospital",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bonroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vankeerberghen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Boel",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Beenhouwer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Clin Microbiol Infect",
+            "volume": "13",
+            "issn": "",
+            "pages": "504-509",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1469-0691.2007.01682.x"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Real-time PCR to improve the diagnosis of respiratory syncytial virus infection",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mentel",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Wegner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bruns",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "G\u00fcrtler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Med Microbiol",
+            "volume": "52",
+            "issn": "",
+            "pages": "893-896",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/jmm.0.05290-0"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Isothermal amplified detection of DNA and RNA",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Gamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Roembke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nakayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "HO",
+                    "middle": [],
+                    "last": "Sintim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Mol Biosyst",
+            "volume": "10",
+            "issn": "",
+            "pages": "970-1003",
+            "other_ids": {
+                "DOI": [
+                    "10.1039/c3mb70304e"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Nucleic acid sequence-based amplification",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Compton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Nature",
+            "volume": "350",
+            "issn": "",
+            "pages": "91-92",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/350091a0"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Rapid and highly sensitive qualitative real-time assay for detection of respiratory syncytial virus A and B using NASBA and molecular beacon technology",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Deiman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schrover",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Westmoreland",
+                    "suffix": ""
+                },
+                {
+                    "first": "PVD",
+                    "middle": [],
+                    "last": "Wiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol Methods",
+            "volume": "146",
+            "issn": "",
+            "pages": "29-35",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2007.05.030"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Loop-mediated isothermal amplification of DNA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Notomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Okayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Masubuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yonekawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Amino",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hase",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nucleic Acids Res",
+            "volume": "28",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/28.12.e63"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Reverse-transcription loop-mediated isothermal amplification for rapid detection of respiratory syncytial virus directly from nasopharyngeal swabs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hoos",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tabatabai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Grulichhenn",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schnitzler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pfeil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Virol Methods",
+            "volume": "242",
+            "issn": "",
+            "pages": "53-57",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2017.01.006"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Respiratory syncytial virus infection in immunocompromised adults",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Englund",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "LP",
+                    "middle": [],
+                    "last": "Dehner",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Vercellotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Balfour",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Ann Intern Med",
+            "volume": "109",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.7326/0003-4819-109-3-203"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Helicase-dependent isothermal DNA amplification",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vincent",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "EMBO Rep",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.embor.7400200"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Na: DNA detection using recombination proteins\u2014art. no. e204",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Piepenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stemple",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Biol",
+            "volume": "4",
+            "issn": "",
+            "pages": "1115-1121",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pbio.0040204"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Recombinase-aid amplification: a novel technology of in vitro rapid nucleic acid amplification",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bei",
+                    "suffix": ""
+                },
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "QF",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GF",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZF",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "LI",
+                    "middle": [],
+                    "last": "Yinv",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZX",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Sci Sin",
+            "volume": "40",
+            "issn": "",
+            "pages": "983-988",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/ze2010-40-9-983"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Rapid detection of Salmonella with recombinase aided amplification",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xue",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Microbiol Methods",
+            "volume": "139",
+            "issn": "",
+            "pages": "202-204",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mimet.2017.06.011"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "A two-tube multiplex reverse transcription PCR assay for simultaneous detection of viral and bacterial pathogens of infectious diarrhea",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Biomed Res Int",
+            "volume": "2014",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Clinical evaluation of multiplex real-time PCR panels for rapid detection of respiratory viral infections",
+            "authors": [
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Sanghavi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Arlene",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shahid",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Rinaldo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Med Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "162-169",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.22186"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Strategies for overcoming PCR inhibition",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "R\u00e5dstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "L\u00f6fstr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "L\u00f6venklev",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Knutsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wolffs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "CSH Protoc",
+            "volume": "2008",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Use of a rapid reverse-transcription recombinase aided amplification assay for respiratory syncytial virus detection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "XN",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "GX",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "SX",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZS",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Diagn Microbiol Infect Dis",
+            "volume": "90",
+            "issn": "",
+            "pages": "90-95",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.diagmicrobio.2017.10.005"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Development of a reverse transcription recombinase-aided amplification assay for the detection of coxsackievirus A10 and coxsackievirus A6 RNA",
+            "authors": [
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "XN",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "SX",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "LX",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Arch Virol",
+            "volume": "163",
+            "issn": "",
+            "pages": "1455-1461",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00705-018-3734-9"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "A probe directed recombinase amplification assay for detection of MTHFR A1298C polymorphism associated with congenital heart disease",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Biotechniques",
+            "volume": "64",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.2144/btn-2018-2010"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Viral respiratory infections in the institutionalized elderly: clinical and epidemiologic findings",
+            "authors": [
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Falsey",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Treanor",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Betts",
+                    "suffix": ""
+                },
+                {
+                    "first": "EE",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Am Geriatr Soc",
+            "volume": "40",
+            "issn": "",
+            "pages": "115-119",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1532-5415.1992.tb01929.x"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Practical considerations in design of internal amplification controls for diagnostic PCR assays",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hoorfar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Malorny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abdulmawjood",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Fach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Clin Microbiol",
+            "volume": "42",
+            "issn": "",
+            "pages": "1863-1868",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.5.1863-1868.2004"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Duplex recombinase polymerase amplification assays incorporating competitive internal controls for bacterial meningitis detection",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Clancy",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Forrest",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Piepenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cormican",
+                    "suffix": ""
+                },
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Boo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "O\u2019Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mcguinness",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cafferty",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cunney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Anal Biochem",
+            "volume": "546",
+            "issn": "",
+            "pages": "10-16",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ab.2018.01.016"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "New method for the visual detection of human respiratory syncytial virus using reverse transcription loop-mediated amplification",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ming",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Virol Methods",
+            "volume": "206",
+            "issn": "",
+            "pages": "84-88",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2014.06.005"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Detection of respiratory syncytial virus A and B and parainfluenzavirus 3 sequences in respiratory tracts of infants by a single PCR with primers targeted to the L-polymerase gene and differential hybridization",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Eugene-Ruellan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Freymuth",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bahloul",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Badrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vabret",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tordo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Clin Microbiol",
+            "volume": "36",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Epidemiology and clinical characteristics of acute respiratory tract infections among hospitalized infants and young children in Chengdu, West China, 2009\u20132014",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Pediatr",
+            "volume": "18",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12887-018-1203-y"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Two distinct subtypes of human respiratory syncytial (RS) virus",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Mufson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "\u00d6rvell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rafnar",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Norrby",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Virus Res",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0168-1702(85)90422-8"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "The respiratory syncytial virus vaccine landscape: lessons from the graveyard and promising candidates",
+            "authors": [
+                {
+                    "first": "NI",
+                    "middle": [],
+                    "last": "Mazur",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Nunes",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Melero",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Langedijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Horsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "UJ",
+                    "middle": [],
+                    "last": "Buchholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Openshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Mclellan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Englund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(18)30292-5"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Clinical and financial benefits of rapid detection of respiratory viruses: an outcomes study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barenfanger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drake",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Leon",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mueller",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Troutt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Clin Microbiol",
+            "volume": "38",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Impact of a rapid respiratory panel test on patient outcomes",
+            "authors": [
+                {
+                    "first": "BB",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Shankar",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Jerris",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kotzbauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "O\u2019Brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Uwindatwa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcnamara",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Bost",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Arch Pathol Lab Med",
+            "volume": "139",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.5858/arpa.2014-0257-OA"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Diagnostic utility of BINAX NOW RSV\u2014an evaluation of the diagnostic performance of BINAX NOW RSV in comparison with cell culture and direct immunofluorescence",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jonathan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Ann Clin Microbiol Antimicrob",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1476-0711-5-13"
+                ]
+            }
+        }
+    }
+}

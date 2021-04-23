@@ -1,0 +1,4517 @@
+{
+    "paper_id": "PMC7096986",
+    "metadata": {
+        "title": "Translational control of retroviruses",
+        "authors": [
+            {
+                "first": "Laurent",
+                "middle": [],
+                "last": "Balvay",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Marcelo",
+                "middle": [
+                    "Lopez"
+                ],
+                "last": "Lastra",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bruno",
+                "middle": [],
+                "last": "Sargueil",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jean-Luc",
+                "middle": [],
+                "last": "Darlix",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Th\u00e9ophile",
+                "middle": [],
+                "last": "Ohlmann",
+                "suffix": "",
+                "email": "tohlmann@ens-lyon.fr",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: The life cycle of retroviruses can be broadly divided into six essential steps, which are shown schematically in the figure: interaction, adsorption and entry into the cell (a); synthesis of reverse transcribed DNA (b); integration (c); transcription, splicing and nuclear export (d); translation and encapsidation (e); and viral assembly and budding (f).",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The 5\u2032-UTR (or leader) of the simian immunodeficiency virus (SIV) genomic RNA contains numerous cis-acting sequences, such as the TAR stem-loop, the poly (A) loop, the primer-binding site (PBS), the dimerization initiation site (DIS), the core packaging signals (Psi) and the major splice donor (SD). The R-U5, packaging and coding regions are indicated in the figure.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Schematic diagram of the position of the different IRESs within the lentiviral genomic RNAs. The N-truncated Gag isoforms that result from alternative translation initiation from the coding region are shown.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Secondary structure model deduced from chemical and enzymatic probing data (adapted from Ref. 44). Helices are numbered from P1 to P8, structures after P8 were not named and are not conserved in HIV-1 and simian immunodeficiency virus (SIV)mac. The P2 helix is also absent from HIV-1. The three initiation codons are highlighted in red.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: The figure summarizes the events that modulate and control the translation of the lentiviral genomic RNA. The table summarizes the location of the IRESs, the number of Gag isoforms and the effect of the protease on the translational apparatus for all the retroviruses described in the manuscript. ALV, avian leukosis virus; eIF4G, eukaryotic initiation factor (eIF) 4G (isoform I and II); MLV, murine leukaemia virus; MoMLV, Moloney MLV; MMTV, mouse mammary tumour virus; PABP, poly (A) binding protein; PBS, primer binding site; Rev, regulator of expression of virion proteins; RRE, Rev response element; SIV, simian immunodeficiency virus; TAR, transactivation response element.",
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Figure 6: Transcription of the integrated provirus generates the genome length RNA (gRNA). A fraction of the gRNA is spliced to give the spliced viral RNAs (not shown here). The gRNA is exported to the cytoplasm where it is recruited by active ribosomes (scenarios a and b with gRNA in black) or eventually accumulates as a pool of non-translated RNA (gRNA in red). According to scenario a, the gRNA is translated to give Gag molecules and Gag-Pol (not shown here). Once Gag molecules accumulate, there is a switch from translation to packaging as Gag binds to the gRNA at the 5\u2032-IRES-Psi signal. Virus formation and release by budding follow. In scenario b, the gRNA is continuously translated. Newly formed Gag molecules bind the gRNA from the non-translated pool (red gRNA). Virus formation follows.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Telenitsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Goff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Retroviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "121-160",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Assembling the human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cimarelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell. Mol. Life Sci.",
+            "volume": "59",
+            "issn": "",
+            "pages": "1166-1184",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00018-002-8495-6"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Recognition of the high affinity binding site in rev-response element RNA by the human immunodeficiency virus type-1 rev protein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Iwai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pritchard",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Karn",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Gait",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Nucleic Acids Res.",
+            "volume": "20",
+            "issn": "",
+            "pages": "6465-6472",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/20.24.6465"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Specific binding of a basic peptide from HIV-1 Rev",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kjems",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Calnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Frankel",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "EMBO J.",
+            "volume": "11",
+            "issn": "",
+            "pages": "1119-1129",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1992.tb05152.x"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "HIV-1 regulator of virion expression (Rev) protein binds to an RNA stem-loop structure located within the Rev response element region",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Heaphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Cell",
+            "volume": "60",
+            "issn": "",
+            "pages": "685-693",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(90)90671-Z"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "A role for Rev in the association of HIV-1 gag mRNA with cytoskeletal b-actin and viral protein expression",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hashimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nishikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "JI",
+                    "middle": [],
+                    "last": "Fujisawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Biochimie",
+            "volume": "78",
+            "issn": "",
+            "pages": "1075-1080",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0300-9084(97)86732-6"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Rev is necessary for translation but not cytoplasmic accumulation of HIV-1 vif, vpr, and env/vpu 2 RNAs",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Arrigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "IS",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Genes Dev.",
+            "volume": "5",
+            "issn": "",
+            "pages": "808-819",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.5.5.808"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "The Rev protein of human immunodeficiency virus type 1 promotes polysomal association and translation of gag/pol and vpu/env mRNAs",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "D'Agostino",
+                    "suffix": ""
+                },
+                {
+                    "first": "BK",
+                    "middle": [],
+                    "last": "Felber",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "GN",
+                    "middle": [],
+                    "last": "Pavlakis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Mol. Cell Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1375-1386",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.12.3.1375"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Regulation of HIV-1 env mRNA translation by Rev protein",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Perales",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Gonzalez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1743",
+            "issn": "",
+            "pages": "169-175",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbamcr.2004.09.030"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "The HIV-1 Rev protein: a model system for coupled RNA transport and translation",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Lawrence",
+                    "suffix": ""
+                },
+                {
+                    "first": "AW",
+                    "middle": [],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "CV",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Rosen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "New Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "1220-1232",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Treatment with indinavir, zidovudine, and lamivudine in adults with human immunodeficiency virus infection and prior antiretroviral therapy",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Gulick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "N. Engl. J. Med.",
+            "volume": "337",
+            "issn": "",
+            "pages": "734-739",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJM199709113371102"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "A controlled trial of two nucleoside analogues plus indinavir in persons with human immunodeficiency virus infection and CD4 cell counts of 200 per cubic millimeter or less. AIDS Clinical Trials Group 320 Study Team",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Hammer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "N. Engl. J. Med.",
+            "volume": "337",
+            "issn": "",
+            "pages": "725-733",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJM199709113371101"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The HIV lipidome: a raft with an unusual composition",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Brugger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "2641-2646",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0511136103"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Cell killing by HIV-1 protease",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Blanco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ventoso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "1086-1093",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M205636200"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Conducting the initiation of protein synthesis: the role of eIF4G",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Prevot",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohlmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biol. Cell.",
+            "volume": "95",
+            "issn": "",
+            "pages": "141-156",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0248-4900(03)00031-5"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "HIV-1 protease cleaves eukaryotic initiation factor 4G and inhibits cap-dependent translation",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ventoso",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Blanco",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Perales",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "23",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "In vitro cleavage of eIF4GI but not eIF4GII by HIV-1 protease and its effects on translation in the rabbit reticulocyte lysate system",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohlmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Mol. Biol.",
+            "volume": "318",
+            "issn": "",
+            "pages": "9-20",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(02)00070-0"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Characterization of a novel RNA-binding region of eIF4GI critical for ribosomal scanning",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Prevot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "EMBO J.",
+            "volume": "22",
+            "issn": "",
+            "pages": "1909-1921",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/cdg175"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Mapping of functional domains in eukaryotic protein synthesis initiation factor 4G (eIF4G) with picornaviral proteases. Implications for cap-dependent and cap-independent translational initiation",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Lamphear",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kirchweger",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skern",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Rhoads",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Biol. Chem.",
+            "volume": "270",
+            "issn": "",
+            "pages": "21975-21983",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.270.37.21975"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Foot-and-mouth disease virus Lb proteinase can stimulate rhinovirus and enterovirus IRES-driven translation and cleave several proteins of cellular and viral origin",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ziegler",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Borman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kirchweger",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skern",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Kean",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "3465-3474",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Picornavirus 2A proteinase-mediated stimulation of internal initiation of translation is dependent on enzymatic activity and the cleavage products of cellular proteins",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ziegler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "213",
+            "issn": "",
+            "pages": "549-557",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0042-6822(95)90001-2"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The C-terminal domain of eukaryotic protein synthesis initiation factor (eIF) 4G is sufficient to support cap-independent translation in the absence of eIF4E",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rau",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Pain",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Morley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "EMBO J.",
+            "volume": "15",
+            "issn": "",
+            "pages": "1371-1382",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1996.tb00479.x"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "The eukaryotic translation initiation factor 4GI is cleaved by different retroviral proteases",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Menendez-Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "12392-12400",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.23.12392-12400.2003"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "HIV capsid assembly",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Morikawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Curr. HIV Res.",
+            "volume": "1",
+            "issn": "",
+            "pages": "1-14",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1570162033352084"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "HIV protease cleaves poly (A)-binding protein",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Castello",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Menendez-Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem. J.",
+            "volume": "396",
+            "issn": "",
+            "pages": "219-226",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BJ20060108"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Translation is not required to generate virion precursor RNA in human immunodeficiency virus type 1-infected T cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Butsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "11531-11537",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.24.11531-11537.2000"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Translational control during virus infection",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res.",
+            "volume": "119",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2005.11.013"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Eukaryotic initiation factor 4GI is a poor substrate for HIV-1 proteinase",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schlick",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Skern",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "FEBS Lett.",
+            "volume": "529",
+            "issn": "",
+            "pages": "337-340",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(02)03415-4"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Proteolysis of human eukaryotic translation initiation factor eIF4GII, but not eIF4GI, coincides with the shutoff of host protein synthesis after poliovirus infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "YV",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imataka",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "11089-11094",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.95.19.11089"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Eukaryotic initiation factor 4GII (eIF4GII), but not eIF4GI, cleavage correlates with inhibition of host cell protein synthesis after human rhinovirus infection",
+            "authors": [
+                {
+                    "first": "YV",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imataka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Morino",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "3467-3472",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Vpr-induced cell cycle arrest is conserved among primate lentiviruses",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Planelles",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "2516-2524",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Suppression of cap-dependent translation in mitosis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pyronnet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dostie",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Genes Dev.",
+            "volume": "15",
+            "issn": "",
+            "pages": "2083-2093",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.889201"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Takeover of host ribosomes by divergent IRES elements",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Cevallos",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem. Soc. Trans.",
+            "volume": "33",
+            "issn": "",
+            "pages": "1479-1482",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BST0331479"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Alternative mechanisms of initiating translation of mammalian mRNAs",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem. Soc. Trans.",
+            "volume": "33",
+            "issn": "",
+            "pages": "1231-1241",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BST0331231"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "From the cover: Structural basis for targeting HIV-1 Gag proteins to the plasma membrane for virus assembly",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Saad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "11364-11369",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0602818103"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Protein synthesis in eukaryotes: the growing biological relevance of cap-independent translation initiation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lopez-Lastra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rivas",
+                    "suffix": ""
+                },
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Barria",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biol. Res.",
+            "volume": "38",
+            "issn": "",
+            "pages": "121-146",
+            "other_ids": {
+                "DOI": [
+                    "10.4067/S0716-97602005000200003"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Internal ribosome entry sites in cellular mRNAs: mystery of their existence",
+            "authors": [
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Komar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hatzoglou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "23425-23428",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.R400041200"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Picornavirus IRES: structure function relationship",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Martinez-Salas",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Fernandez-Miragall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Pharm. Des.",
+            "volume": "10",
+            "issn": "",
+            "pages": "3757-3767",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1381612043382657"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "IRESdb: the internal ribosome entry site database",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonnal",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Boutonnet",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Prado-Lourenco",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vagner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res.",
+            "volume": "31",
+            "issn": "",
+            "pages": "427-428",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg003"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "IRESite: the database of experimentally verified IRES structures",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mokrejs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res.",
+            "volume": "34",
+            "issn": "",
+            "pages": "D125-D130",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkj081"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Translation initiation by factor-independent binding of eukaryotic ribosomes to internal ribosomal entry sites",
+            "authors": [
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Pisarev",
+                    "suffix": ""
+                },
+                {
+                    "first": "NE",
+                    "middle": [],
+                    "last": "Shirokikh",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "C. R. Biol",
+            "volume": "328",
+            "issn": "",
+            "pages": "589-605",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.crvi.2005.02.004"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Regulation of cap-dependent translation by eIF4E inhibitory proteins",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Richter",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "433",
+            "issn": "",
+            "pages": "477-480",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature03205"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Translation of vascular endothelial growth factor mRNA by internal ribosome entry: implications for translation under hypoxia",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Stein",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "3112-3119",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.18.6.3112"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Hypoxia-inducible factor-1\u03b1 mRNA contains an internal ribosome entry site that allows efficient translation during normoxia and hypoxia",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kappel",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Goodall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Biol. Cell",
+            "volume": "13",
+            "issn": "",
+            "pages": "1792-1801",
+            "other_ids": {
+                "DOI": [
+                    "10.1091/mbc.02-02-0017"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Internal ribosome initiation of translation and the control of cell death",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Holcik",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Korneluk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Trends Genet.",
+            "volume": "16",
+            "issn": "",
+            "pages": "469-473",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-9525(00)02106-5"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Structure and function of the human immunodeficiency virus leader RNA",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Prog. Nucleic Acid Res. Mol. Biol.",
+            "volume": "54",
+            "issn": "",
+            "pages": "1-34",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0079-6603(08)60359-1"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "c-Myc protein synthesis is initiated from the internal ribosome entry segment during apoptosis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stoneley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "1162-1169",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.20.4.1162-1169.2000"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Regulation of vascular endothelial growth factor (VEGF) expression is mediated by internal initiation of translation and alternative initiation of transcription",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Akiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Oncogene",
+            "volume": "17",
+            "issn": "",
+            "pages": "227-236",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.onc.1202019"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Internal ribosome entry site-mediated translation of a mammalian mRNA is regulated by amino acid availability",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fernandez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Biol. Chem.",
+            "volume": "276",
+            "issn": "",
+            "pages": "12285-12291",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M009714200"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Continuous heat shock enhances translational initiation directed by internal ribosomal entry site",
+            "authors": [
+                {
+                    "first": "YK",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Jang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "297",
+            "issn": "",
+            "pages": "224-231",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(02)02154-X"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "eIF4 initiation factors: effectors of mRNA recruitment to ribosomes and regulators of translation",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Gingras",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Raught",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "68",
+            "issn": "",
+            "pages": "913-963",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.biochem.68.1.913"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Molecular mechanisms of translation initiation in eukaryotes",
+            "authors": [
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Pestova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "98",
+            "issn": "",
+            "pages": "7029-7036",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.111145798"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Association of the yeast poly (A) tail binding protein with translation initiation factor eIF-4G",
+            "authors": [
+                {
+                    "first": "SZ",
+                    "middle": [],
+                    "last": "Tarun",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "AB",
+                    "middle": [],
+                    "last": "Sachs",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "EMBO J.",
+            "volume": "15",
+            "issn": "",
+            "pages": "7168-7177",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1996.tb01108.x"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "A newly identified N-terminal amino acid sequence of human eIF4G binds poly (A)-binding protein and functions in poly (A)-dependent translation",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imataka",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "EMBO J.",
+            "volume": "17",
+            "issn": "",
+            "pages": "7480-7489",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/17.24.7480"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "The scanning model for translation: an update",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kozak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Cell Biol.",
+            "volume": "108",
+            "issn": "",
+            "pages": "229-241",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.108.2.229"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "In vitro evidence that the untranslated leader of the HIV-1 genome is an RNA checkpoint that regulates multiple functions through conformational changes",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "19967-19975",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M200950200"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Functions of the 5\u2032 leader of murine leukemia virus genomic RNA in virion structure, viral replication and pathogenesis, and MLV-derived vectors",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Corbin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Biochimie",
+            "volume": "78",
+            "issn": "",
+            "pages": "632-638",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0300-9084(96)80009-5"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "The 5\u2032 and 3\u2032 TAR elements of human immunodeficiency virus exert effects at several points in the virus life cycle",
+            "authors": [
+                {
+                    "first": "AT",
+                    "middle": [],
+                    "last": "Das",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Klaver",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "9217-9223",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "The ability of the HIV-1 AAUAAA signal to bind polyadenylation factors is controlled by local RNA structure",
+            "authors": [
+                {
+                    "first": "BI",
+                    "middle": [],
+                    "last": "Klasens",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Thiesen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Virtanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nucleic Acids Res.",
+            "volume": "27",
+            "issn": "",
+            "pages": "446-454",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/27.2.446"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Murine leukemia virus protease is encoded by the gag-pol gene and is synthesized through suppression of an amber termination codon",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yoshinaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Katoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Copeland",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Oroszlan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "82",
+            "issn": "",
+            "pages": "1618-1622",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.82.6.1618"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Dimerization of retroviral genomes: an inseperable pair",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Paillart",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shehu-Xhilaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marquet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Mircobiol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "461-472",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro903"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "cis Acting RNA sequences control the gag-pol translation readthrough in murine leukemia virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Honigman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yaish",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Falk",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Panet",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Virology",
+            "volume": "183",
+            "issn": "",
+            "pages": "313-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(91)90144-Z"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Signals for ribosomal frameshifting in the Rous sarcoma virus gag-pol region",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jacks",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Madhani",
+                    "suffix": ""
+                },
+                {
+                    "first": "FR",
+                    "middle": [],
+                    "last": "Masiarz",
+                    "suffix": ""
+                },
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Varmus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Cell",
+            "volume": "55",
+            "issn": "",
+            "pages": "447-458",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(88)90031-1"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Frameshift and intragenic suppressor mutations in a Rous sarcoma provirus suggest src encodes two proteins",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mardon",
+                    "suffix": ""
+                },
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Varmus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Cell",
+            "volume": "32",
+            "issn": "",
+            "pages": "871-879",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(83)90072-7"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Characterization of an efficient coronavirus ribosomal frameshifting signal: requirement for an RNA pseudoknot",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Brierley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Digard",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Inglis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Cell",
+            "volume": "57",
+            "issn": "",
+            "pages": "537-547",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(89)90124-4"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "A mechanical explanation of RNA pseudoknot function in programmed ribosomal frameshifting",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Namy",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Moran",
+                    "suffix": ""
+                },
+                {
+                    "first": "DI",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Brierley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "441",
+            "issn": "",
+            "pages": "244-247",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04735"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Maintenance of the Gag/Gag-Pol ratio is important for human immunodeficiency virus type 1 RNA dimerization and viral infectivity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shehu-Xhilaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Crowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "1834-1841",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.4.1834-1841.2001"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "CUG initiation codon used for the synthesis of a cell surface antigen coded by the murine leukemia virus",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Prats",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "De Billy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Mol. Biol.",
+            "volume": "205",
+            "issn": "",
+            "pages": "363-372",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-2836(89)90347-1"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "The glycosylated gag protein of MuLV is a determinant of neuroinvasiveness: analysis of second site revertants of a mutant MuLV lacking expression of this protein",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Portis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fujisawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "McAtee",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Virology",
+            "volume": "226",
+            "issn": "",
+            "pages": "384-392",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1996.0666"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "A nonstructural gag-encoded glycoprotein precursor is necessary for efficient spreading and pathogenesis of murine leukemia viruses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Corbin",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Prats",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sitbon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "3857-3867",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "An internal ribosomal entry mechanism promotes translation of murine leukemia virus gag polyprotein precursors",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Berlioz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "2214-2222",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "PK",
+                    "middle": [],
+                    "last": "Vogt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Retroviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "1-25",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Alternative translation initiation of the Moloney murine leukemia virus mRNA controlled by internal ribosome entry involving the p57/PTB splicing factor",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vagner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Biol. Chem.",
+            "volume": "270",
+            "issn": "",
+            "pages": "20376-20383",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.270.35.20376"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Construction and applications of a highly transmissible murine retrovirus shuttle vector",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Cepko",
+                    "suffix": ""
+                },
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Mulligan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Cell",
+            "volume": "37",
+            "issn": "",
+            "pages": "1053-1062",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(84)90440-9"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Characterization of an internal ribosomal entry segment in the 5\u2032 leader of murine leukemia virus env RNA",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Deffaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "846-850",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.2.846-850.2000"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "An internal ribosomal entry signal in the rat VL30 region of the Harvey murine sarcoma virus leader and its use in dicistronic retroviral vectors",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Berlioz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Torrent",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "6400-6407",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Identification of an internal ribosome entry segment in the 5\u2032 region of the mouse VL30 retrotransposon and its use in the development of retroviral vectors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lopez-Lastra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ulrici",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gabus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "8393-8402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Identification of a novel \u03b3 retrovirus in prostate tumors of patients homozygous for R462Q RNASEL variant",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Urisman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Pathog",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0020025"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "Characterization of an internal ribosomal entry segment within the 5\u2032 leader of avian reticuloendotheliosis virus type A RNA and development of novel MLV-REV-based retroviral vectors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lopez-Lastra",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gabus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Hum. Gene Ther.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1855-1865",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hum.1997.8.16-1855"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "Structure-function relationship of Rous sarcoma virus leader RNA",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zuker",
+                    "suffix": ""
+                },
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "Spahr",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Nucleic Acids Res.",
+            "volume": "10",
+            "issn": "",
+            "pages": "5183-5196",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/10.17.5183"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "The first and third uORFs in RSV leader RNA are efficiently translated: implications for translational regulation and viral RNA packaging",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Donze",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Damay",
+                    "suffix": ""
+                },
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "Spahr",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Nucleic Acids Res.",
+            "volume": "23",
+            "issn": "",
+            "pages": "861-868",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/23.5.861"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Role of the open reading frames of Rous sarcoma virus leader RNA in translation and genome packaging",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Donze",
+                    "suffix": ""
+                },
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "Spahr",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "EMBO J.",
+            "volume": "11",
+            "issn": "",
+            "pages": "3747-3757",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1992.tb05460.x"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AB",
+                    "middle": [],
+                    "last": "Rabson",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Graves",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Retroviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "205-261",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Rous sarcoma virus translation revisited: characterization of an internal ribosome entry segment in the 5\u2032 leader of the genomic RNA",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Deffaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "11581-11588",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.24.11581-11588.2000"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Characterization of two distinct RNA domains that regulate translation of the Drosophila gypsy retroelement",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ronfort",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "De Breyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sandrin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohlmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Rna",
+            "volume": "10",
+            "issn": "",
+            "pages": "504-515",
+            "other_ids": {
+                "DOI": [
+                    "10.1261/rna.5185604"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "The human immunodeficiency virus type 1 gag gene encodes an internal ribosome entry site",
+            "authors": [
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Buck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "181-191",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.1.181-191.2001"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "The leader of human immunodeficiency virus type 1 genomic RNA harbors an internal ribosome entry segment that is active during the G2/M phase of the cell cycle",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brasey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "3939-3949",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.7.3939-3949.2003"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "HIV-2 genomic RNA contains a novel type of IRES located downstream of its initiation codon",
+            "authors": [
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Herbreteau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1001-1007",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb1011"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "An internal ribosome entry segment promotes translation of the simian immunodeficiency virus genomic RNA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lopez-Lastra",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "11899-11906",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.275.16.11899"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "The human immunodeficiency virus type 1 5\u2032 packaging signal structure affects translation but does not function as an internal ribosome entry site structure",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Miele",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mouland",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lever",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "944-951",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Retrovirus translation initiation: Issues and hypotheses derived from study of HIV-1",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yilmaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bolinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. HIV Res.",
+            "volume": "4",
+            "issn": "",
+            "pages": "131-139",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/157016206776055039"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "A novel long distance base-pairing interaction in human immunodeficiency virus type 1 RNA occludes the Gag start codon",
+            "authors": [
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Abbink",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "11601-11611",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M210291200"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Swanstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Willis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Retroviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "263-334",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Regulated HIV-2 RNA dimerization by means of alternative RNA conformations",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Dirac",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huthoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kjems",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nucleic Acids Res.",
+            "volume": "30",
+            "issn": "",
+            "pages": "2647-2655",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkf381"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Mutations in the TAR hairpin affect the equilibrium between alternative conformations of the HIV-1 leader RNA",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huthoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nucleic Acids Res.",
+            "volume": "29",
+            "issn": "",
+            "pages": "2594-2600",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/29.12.2594"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Multiple secondary structure rearrangements during HIV-1 RNA dimerization",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huthoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochemistry",
+            "volume": "41",
+            "issn": "",
+            "pages": "10439-10445",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi025993n"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "The HIV-1 leader RNA conformational switch regulates RNA dimerization but does not regulate mRNA translation",
+            "authors": [
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Abbink",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ooms",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Haasnoot",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochemistry",
+            "volume": "44",
+            "issn": "",
+            "pages": "9058-9066",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi0502588"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Polypurine (A)-rich sequences promote cross-kingdom conservation of internal ribosome entry",
+            "authors": [
+                {
+                    "first": "YL",
+                    "middle": [],
+                    "last": "Dorokhov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "5301-5306",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.082107599"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "title": "A structural linkage between the dimerization and encapsidation signals in HIV-2 leader RNA",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Lanchy",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Ivanovitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Lodmell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Rna",
+            "volume": "9",
+            "issn": "",
+            "pages": "1007-1018",
+            "other_ids": {
+                "DOI": [
+                    "10.1261/rna.5590603"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "RNA interactions in the 5\u2032 region of the HIV-1 genome",
+            "authors": [
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Damgaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Knudsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gorodkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kjems",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Mol. Biol.",
+            "volume": "336",
+            "issn": "",
+            "pages": "369-379",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2003.12.010"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "In vitro evidence for a long range pseudoknot in the 5\u2032-untranslated and matrix coding regions of HIV-1 genomic RNA",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Paillart",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Skripkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ehresmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ehresmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marquet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "5995-6004",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M108972200"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "First snapshots of the HIV-1 RNA structure in infected cells and in virions",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Paillart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "48397-48403",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M408294200"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Human immunodeficiency virus type 1 Gag polyprotein modulates its own translation",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lever",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "10478-10486",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02596-05"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "Destiny of unspliced retroviral RNA: ribosome and/or virion?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Butsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3089-3094",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.7.3089-3094.2002"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "Phylogenetic and physical analysis of the 5\u2032 leader RNA sequences of avian retroviruses",
+            "authors": [
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Hackett",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Dalton",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RB",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Nucleic Acids Res.",
+            "volume": "19",
+            "issn": "",
+            "pages": "6929-6934",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/19.24.6929"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "A study of the dimer formation of Rous sarcoma virus RNA and of its effect on viral protein synthesis in vitro",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bieth",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gabus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Darlix",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Nucleic Acids Res.",
+            "volume": "18",
+            "issn": "",
+            "pages": "119-127",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/18.1.119"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Autogenous regulation of RNA translation and packaging by Rous sarcoma virus Pr76gag",
+            "authors": [
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Sonstegard",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Hackett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "6642-6652",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "An Mpsi-containing heterologous RNA, but not env mRNA, is efficiently packaged into avian retroviral particles",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Banks",
+                    "suffix": ""
+                },
+                {
+                    "first": "BO",
+                    "middle": [],
+                    "last": "Kealoha",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Linial",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "8926-8933",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "A minimal avian retroviral packaging sequence has a complex structure",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Banks",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cepeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Linial",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "6190-6194",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "The 5\u2032 RNA terminus of spleen necrosis virus contains a novel posttranscriptional control element that facilitates human immunodeficiency virus Rev/RRE-independent Gag production",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Butsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "4847-4855",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "RU5 of Mason-Pfizer monkey virus 5\u2032 long terminal repeat enhances cytoplasmic expression of human immunodeficiency virus type 1 gag-pol and nonviral reporter RNA",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "10211-10218",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.20.10211-10218.2002"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "The 5\u2032 RNA terminus of spleen necrosis virus stimulates translation of nonviral mRNA",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "8111-8118",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.17.8111-8118.2000"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "Analysis of synergy between divergent simple retrovirus posttranscriptional control elements",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hull",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boris-Lawrie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "317",
+            "issn": "",
+            "pages": "146-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2003.08.037"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "RNA helicase A is necessary for translation of selected messenger RNAs",
+            "authors": [
+                {
+                    "first": "TR",
+                    "middle": [],
+                    "last": "Hartman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "509-516",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb1092"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Synthesis of murine leukemia virus proteins associated with virions assembled in actinomycin D-treated cells: evidence for persistence of viral messenger RNA",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Rosenak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "73",
+            "issn": "",
+            "pages": "1154-1158",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.73.4.1154"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "The location of cis-acting regulatory sequences in the human T cell lymphotropic virus type III (HTLV-III/LAV) long terminal repeat",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Rosen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Sodroski",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Haseltine",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Cell",
+            "volume": "41",
+            "issn": "",
+            "pages": "813-823",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(85)80062-3"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Regulation of mRNA accumulation by a human immunodeficiency virus trans-activator protein",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Muesing",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Capon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Cell",
+            "volume": "48",
+            "issn": "",
+            "pages": "691-701",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(87)90247-9"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Mutational analysis of the trans-activation-responsive region of the human immunodeficiency virus type I long terminal repeat",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Cullen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Virol.",
+            "volume": "62",
+            "issn": "",
+            "pages": "673-679",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "HIV-1 TAR RNA: the target of molecular interactions between the virus and its host",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bannwarth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gatignol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. HIV Res.",
+            "volume": "3",
+            "issn": "",
+            "pages": "61-71",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1570162052772924"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "Mutational analysis of the 5\u2032 non-coding region of human immunodeficiency virus type 1: effects of secondary structure on translation",
+            "authors": [
+                {
+                    "first": "NT",
+                    "middle": [],
+                    "last": "Parkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "EMBO J.",
+            "volume": "7",
+            "issn": "",
+            "pages": "2831-2837",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1988.tb03139.x"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "Activation of double-stranded RNA-dependent kinase (dsl) by the TAR region of HIV-1 mRNA: a novel translational control mechanism",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Edery",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Petryshyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Cell",
+            "volume": "56",
+            "issn": "",
+            "pages": "303-312",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(89)90904-5"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "title": "HIV-1 TAR RNA has an intrinsic ability to activate interferon-inducible enzymes",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Maitra",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Virology",
+            "volume": "204",
+            "issn": "",
+            "pages": "823-827",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1994.1601"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Kaufman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Translational Control of Gene Expression",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Initiation of protein synthesis in eukaryotic cells",
+            "authors": [
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Pain",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Eur. J. Biochem.",
+            "volume": "236",
+            "issn": "",
+            "pages": "747-771",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1996.00747.x"
+                ]
+            }
+        },
+        "BIBREF125": {
+            "title": "The 2\u20135A system and HIV infection",
+            "authors": [
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "Schroder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kelve",
+                    "suffix": ""
+                },
+                {
+                    "first": "WE",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Prog. Mol. Subcell. Biol.",
+            "volume": "14",
+            "issn": "",
+            "pages": "176-197",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-3-642-78549-8_10"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "The major human immunodeficiency virus type 2 (HIV-2) packaging signal is present on all HIV-2 RNA species: cotranslational RNA encapsidation and limitation of Gag protein confer specificity",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lever",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "12058-12069",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.24.12058-12069.2001"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "Translational regulation by HIV leader RNA, TAT, and interferon-inducible enzymes",
+            "authors": [
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Silverman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Sengupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Exp. Pathol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "69-77",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Characterization of the solution complex between the interferon-induced, double-stranded RNA-activated protein kinase and HIV-I trans-activating region RNA",
+            "authors": [
+                {
+                    "first": "BW",
+                    "middle": [],
+                    "last": "Carpick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Biol. Chem.",
+            "volume": "272",
+            "issn": "",
+            "pages": "9510-9516",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.272.14.9510"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "title": "Double-stranded-RNA-dependent protein kinase and TAR RNA-binding protein form homo- and heterodimers in vivo",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Cosentino",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "92",
+            "issn": "",
+            "pages": "9445-9449",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.92.21.9445"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "title": "Control of the interferon-induced 68-kilodalton protein kinase by the HIV-1 tat gene product",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Science",
+            "volume": "247",
+            "issn": "",
+            "pages": "1216-1219",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.2180064"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "title": "HIV-1 Tat directly interacts with the interferon-induced, double-stranded RNA-dependent kinase, PKR",
+            "authors": [
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "McMillan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "213",
+            "issn": "",
+            "pages": "413-424",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1995.0014"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "title": "HIV-I TAT inhibits PKR activity by both RNA-dependent and RNA-independent mechanisms",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Carpick",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Chun",
+                    "suffix": ""
+                },
+                {
+                    "first": "KT",
+                    "middle": [],
+                    "last": "Jeang",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Arch. Biochem. Biophys.",
+            "volume": "373",
+            "issn": "",
+            "pages": "361-367",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/abbi.1999.1583"
+                ]
+            }
+        },
+        "BIBREF133": {
+            "title": "Direct evidence for translational regulation by leader RNA and Tat protein of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "SenGupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gatignol",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Silverman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "87",
+            "issn": "",
+            "pages": "7492-7496",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.87.19.7492"
+                ]
+            }
+        },
+        "BIBREF134": {
+            "title": "Characterization of a human TAR RNA-binding protein that activates the HIV-1 LTR",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gatignol",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Buckler-White",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "KT",
+                    "middle": [],
+                    "last": "Jeang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Science",
+            "volume": "251",
+            "issn": "",
+            "pages": "1597-1600",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.2011739"
+                ]
+            }
+        },
+        "BIBREF135": {
+            "title": "La autoantigen alleviates translational repression by the 5\u2032 leader sequence of the human immunodeficiency virus type 1 mRNA",
+            "authors": [
+                {
+                    "first": "YV",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pause",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "7001-7007",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF136": {
+            "title": "Direct interactions between autoantigen La and human immunodeficiency virus leader RNA",
+            "authors": [
+                {
+                    "first": "YN",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Kenan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Keene",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gatignol",
+                    "suffix": ""
+                },
+                {
+                    "first": "KT",
+                    "middle": [],
+                    "last": "Jeang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "7008-7020",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF137": {
+            "title": "Nonreciprocal packaging of human immunodeficiency virus type 1 and type 2 RNA: a possible role for the p2 domain of Gag in RNA encapsidation",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Kaye",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lever",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "5877-5885",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF138": {
+            "title": "A role of RNA helicase A in cis-acting transactivation response element-mediated transcriptional regulation of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fujii",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Biol. Chem.",
+            "volume": "276",
+            "issn": "",
+            "pages": "5445-5451",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M006892200"
+                ]
+            }
+        },
+        "BIBREF139": {
+            "title": "Interaction of Staufen1 with the 5\u2032 end of mRNA facilitates translation of these RNAs",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dugre-Brisson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res.",
+            "volume": "33",
+            "issn": "",
+            "pages": "4797-4812",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gki794"
+                ]
+            }
+        },
+        "BIBREF140": {
+            "title": "Recognition of 5\u2032-terminal TAR structure in human immunodeficiency virus-1 mRNA by eukaryotic translation initiation factor 2",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ben-Asouli",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Banai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hauser",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaempfer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nucleic Acids Res.",
+            "volume": "28",
+            "issn": "",
+            "pages": "1011-1018",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/28.4.1011"
+                ]
+            }
+        },
+        "BIBREF141": {
+            "title": "The rev (trs/art) protein of human immunodeficiency virus type 1 affects viral mRNA and protein expression via a cis-acting sequence in the env region",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hadzopoulou-Cladaras",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Virol.",
+            "volume": "63",
+            "issn": "",
+            "pages": "1265-1274",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF142": {
+            "title": "Sequence-specific RNA binding by the HIV-1 Rev protein",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Zapp",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Nature",
+            "volume": "342",
+            "issn": "",
+            "pages": "714-716",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/342714a0"
+                ]
+            }
+        },
+        "BIBREF143": {
+            "title": "Function of the human immunodeficiency virus types 1 and 2 Rev proteins is dependent on their ability to interact with a structured region present in env gene mRNA",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Dillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nelbock",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Rosen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Virol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "4428-4437",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF144": {
+            "title": "Specific interaction of the human immunodeficiency virus Rev protein with a structured region in the env mRNA",
+            "authors": [
+                {
+                    "first": "AW",
+                    "middle": [],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Rosen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "87",
+            "issn": "",
+            "pages": "1198-1202",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.87.3.1198"
+                ]
+            }
+        },
+        "BIBREF145": {
+            "title": "A molecular rheostat. Co-operative rev binding to stem I of the rev-response element modulates human immunodeficiency virus type-1 late gene expression",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Mol. Biol.",
+            "volume": "241",
+            "issn": "",
+            "pages": "193-207",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1994.1488"
+                ]
+            }
+        },
+        "BIBREF146": {
+            "title": "Identification of a high-affinity RNA-binding site for the human immunodeficiency virus type 1 Rev protein",
+            "authors": [
+                {
+                    "first": "LS",
+                    "middle": [],
+                    "last": "Tiley",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Malim",
+                    "suffix": ""
+                },
+                {
+                    "first": "HK",
+                    "middle": [],
+                    "last": "Tewary",
+                    "suffix": ""
+                },
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Stockley",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Cullen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "758-762",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.89.2.758"
+                ]
+            }
+        },
+        "BIBREF147": {
+            "title": "HIV-1 Rev regulation involves recognition of non-Watson-Crick base pairs in viral RNA",
+            "authors": [
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Bartel",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Zapp",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Szostak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Cell",
+            "volume": "67",
+            "issn": "",
+            "pages": "529-536",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(91)90527-6"
+                ]
+            }
+        }
+    }
+}

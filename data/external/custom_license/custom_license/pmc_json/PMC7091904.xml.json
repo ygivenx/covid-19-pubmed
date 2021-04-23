@@ -1,0 +1,1469 @@
+{
+    "paper_id": "PMC7091904",
+    "metadata": {
+        "title": "Enzymatic activity characterization of SARS coronavirus 3C-like protease by fluorescence resonance energy transfer technique ",
+        "authors": [
+            {
+                "first": "Shuai",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Li-li",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hai-bin",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Tao",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Fei",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jian-hua",
+                "middle": [],
+                "last": "Cai",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jing-kang",
+                "middle": [],
+                "last": "Shen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xu",
+                "middle": [],
+                "last": "Shen",
+                "suffix": "",
+                "email": "xshen@mail.shcnc.ac.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Hua-liang",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "email": "hljiang@mail.shcnc.ac.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "SARS coronavirus: a new challenge for prevention and therapy.",
+            "authors": [
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Clin Invest",
+            "volume": "111",
+            "issn": "",
+            "pages": "1605-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI18819"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "The complete sequence (22 kilobases) of murine coronavirus gene 1encoding the putative proteases and RNA polymerase.",
+            "authors": [
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Shieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "EV",
+                    "middle": [],
+                    "last": "Koonin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Monica",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tuler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Virology",
+            "volume": "180",
+            "issn": "",
+            "pages": "567-82",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(91)90071-I"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Characterization and mutational analysis of an ORF 1a-encoding proteinase domain responsible for proteolytic processing of the infectious bronchitis virus 1a/1b polyprotein.",
+            "authors": [
+                {
+                    "first": "DX",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "209",
+            "issn": "",
+            "pages": "420-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1995.1274"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Virus-encoded proteinases and proteolytic processing in Nidovirales.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Gen Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "853-79",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-81-4-853"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Conservation of substrate specificities among coronavirus main proteases.",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hegyi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Gen Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "595-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-83-3-595"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Characterization of a human coronavirus (strain 229E) 3C-like proteinase activity.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Herold",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Virol",
+            "volume": "69",
+            "issn": "",
+            "pages": "4331-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Structure of coronavirus main proteinase reveals combination of a chymotrypsin fold with an extra alpha-helical domain.",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Plam",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Mesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Higenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J",
+            "volume": "21",
+            "issn": "",
+            "pages": "3213-24",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/cdf327"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Biosynthesis, purification, and substrate specificity of severe acute respiratory syndrome coronavirus 3C-like proteinase.",
+            "authors": [
+                {
+                    "first": "KQ",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Biol Chem",
+            "volume": "279",
+            "issn": "",
+            "pages": "1637-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M310875200"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Coronavirus main proteinase (3CLpro) structure: basis for design of anti-SARS drugs.",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wadhwani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Mesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1763-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085658"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "The crystal structures of severe acute respiratory syndrome virus main protease and its complex with an inhibitor.",
+            "authors": [
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "YW",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "13190-5",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1835675100"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Coronavirus protein processing and RNA synthesis is inhibited by the cysteine protease inhibitor E43d.",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Spence",
+                    "suffix": ""
+                },
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "Currier",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "208",
+            "issn": "",
+            "pages": "1-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1995.1123"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome.",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "LY",
+                    "middle": [],
+                    "last": "Yam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1319-25",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Identification of active-site amino acid residues in the Chiba virus 3C-like protease.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Someya",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Miyamura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "5949-58",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.12.5949-5958.2002"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "A 3D model of SARS-CoV 3CL proteinase and its inhibitors design by virtual screening.",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Gui",
+                    "suffix": ""
+                },
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HB",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Acta Pharmacol Sin",
+            "volume": "24",
+            "issn": "",
+            "pages": "497-504",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Molecular cloning, expression, purification, and mass spectrometric characterization of 3C-like protease of SARS coronavirus.",
+            "authors": [
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "HB",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "CY",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Protein Exp Purif",
+            "volume": "32",
+            "issn": "",
+            "pages": "302-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pep.2003.08.016"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "A novel coumarin-labelled peptide for sensitive continuous assays of the matrix metalloproteinases.",
+            "authors": [
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Knight",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Willenbrock",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "FEBS Lett",
+            "volume": "296",
+            "issn": "",
+            "pages": "263-6",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(92)80300-6"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Internally quenched fluorogenic substrate for furin.",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Angliker",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Neumann",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Molloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Anal Biochem",
+            "volume": "224",
+            "issn": "",
+            "pages": "409-12",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/abio.1995.1058"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Synthesis and evaluation of fluorescent probes for the detection of calpain activity.",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mittoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "LE",
+                    "middle": [],
+                    "last": "Sundstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bradley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Anal Biochem",
+            "volume": "319",
+            "issn": "",
+            "pages": "234-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0003-2697(03)00324-5"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Characterization of SARS main protease and inhibitor assay using a fluorogenic substrate.",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Chi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "318",
+            "issn": "",
+            "pages": "862-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.04.098"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "New intramolecularly quenched fluorogenic peptide substrates for the study of the kinetic specificity of papain.",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Garcia-Echeverria",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Rich",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "FEBS Lett",
+            "volume": "297",
+            "issn": "",
+            "pages": "100-2",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(92)80336-F"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Design and synthesis of new fluorogenic HIV protease substrates based on resonance energy transfer.",
+            "authors": [
+                {
+                    "first": "GT",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Matayoshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jan Huffaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Krafft",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Tetrahedron Lett",
+            "volume": "31",
+            "issn": "",
+            "pages": "6493-6",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0040-4039(00)97099-0"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Novel fluorogenic substrates for assaying retroviral proteases by resonance energy transfer.",
+            "authors": [
+                {
+                    "first": "ED",
+                    "middle": [],
+                    "last": "Matayoshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "GT",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Krafft",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Erickson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Science",
+            "volume": "247",
+            "issn": "",
+            "pages": "954-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.2106161"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Aetiology: Koch's postulates fulfilled for SARS virus.",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schutten",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Van Amerongen",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Van Doornum",
+                    "suffix": ""
+                },
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Van Den Hoogen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "423",
+            "issn": "",
+            "pages": "240-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/423240a"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "A general method for the preparation of internally quenched fluorogenic protease substrates using solid-phase peptide synthesis.",
+            "authors": [
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Maggiora",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Med Chem",
+            "volume": "35",
+            "issn": "",
+            "pages": "3727-30",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm00099a001"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "3C-like proteinase from SARS coronavirus catalyzes substrate hydrolysis by a general base mechanism.",
+            "authors": [
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "KQ",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochemistry",
+            "volume": "43",
+            "issn": "",
+            "pages": "4568-74",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi036022q"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Copeland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Enzymes: A Practical Introduction to Structure, Mechanism, and Data Analysis",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Coronavirus genome: prediction of putative functional domains in the non-structural polyprotein by comparative amino acid sequence analysis.",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "EV",
+                    "middle": [],
+                    "last": "Koonin",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Donchenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Blinov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Nucleic Acids Res",
+            "volume": "17",
+            "issn": "",
+            "pages": "4847-61",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/17.12.4847"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The genome sequence of the SARS-associated coronavirus.",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJM",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Astell",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "AB",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "YSN",
+                    "middle": [],
+                    "last": "Butterfield",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-403",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Determinants of mouse hepatitis virus 3C-like proteinase activity.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "230",
+            "issn": "",
+            "pages": "335-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1997.8479"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Mutational analysis of the active centre of coronavirus 3C-like proteases.",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hegyi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Friebe",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Gen Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "581-93",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-83-3-581"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "SARS-associated coronavirus.",
+            "authors": [
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1948-51",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMp030078"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Biosynthesis, purification, and characterization of the human coronavirus 229E 3C-like proteinase.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Heusipp",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Virol",
+            "volume": "71",
+            "issn": "",
+            "pages": "3992-7",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Expression of virus-encoded proteinases: functional and structural similarities with cellular enzymes.",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Dougherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Semler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Microbiol Rev",
+            "volume": "57",
+            "issn": "",
+            "pages": "781-822",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Complete sequence (20 kilobases) of the polyprotein-encoding gene 1of transmissible gastroenteritis virus.",
+            "authors": [
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Eleouet",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rasschaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lambert",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vende",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Laude",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "206",
+            "issn": "",
+            "pages": "817-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1995.1004"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Viral replicase gene products suffice for coronavirus discontinuous transcription.",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Herold",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "6676-81",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.14.6676-6681.2001"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Nucleotide sequence of the human coronavirus 229E RNA polymerase locus.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Herold",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Raabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schelle-Prinz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "195",
+            "issn": "",
+            "pages": "680-91",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1993.1419"
+                ]
+            }
+        }
+    }
+}

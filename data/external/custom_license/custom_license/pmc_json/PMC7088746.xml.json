@@ -1,0 +1,1848 @@
+{
+    "paper_id": "PMC7088746",
+    "metadata": {
+        "title": "Analysis of proteins that interact with nucleocapsid protein of SARS-CoV using 15-mer phage-displayed library",
+        "authors": [
+            {
+                "first": "ZhengXue",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "email": "zxliu99@yahoo.com.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "ZhanHui",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "YingLe",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Dong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "YiPeng",
+                "middle": [],
+                "last": "Qi",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Aetiology: Koch\u2019s postulates fulfilled for SARS virus",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Schutten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "423",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/423240a"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Infection of SARS-CoV on juvenile and adult Brandt\u2019s vole Microtus brandtii",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Chin Sci Bull",
+            "volume": "50",
+            "issn": "12",
+            "pages": "1199-1204",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/982004-598"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Our strategies for fighting severe acute respiratory syndrome (SARS)",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "168",
+            "issn": "",
+            "pages": "7-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1164/rccm.200305-707OE"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1948-1951",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMp030078"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "SARS coronavirus: A new challenge for prevention and therapy",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Clin Invest",
+            "volume": "111",
+            "issn": "",
+            "pages": "1605-1609",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI200318819"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Haematological manifestations in patients with severe acute respiratory syndrome: Retrospective analysis",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMJ",
+            "volume": "326",
+            "issn": "",
+            "pages": "1358-1362",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.326.7403.1358"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "SARS\u2014Understanding the coronavirus: Apoptosis may explain lymphopenia of SARS",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "O\u2019Donnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Tasker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "F.",
+                        "E."
+                    ],
+                    "last": "Roe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMJ",
+            "volume": "327",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.327.7415.620-b"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Over-expression of 7a, a protein specifi-cally encoded by the severe acute respiratory syndrome (SARS)-coronavirus, induces apoptosis via a caspase-dependent pathway",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Fielding",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Goh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "14043-14047",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.24.14043-14047.2004"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Identification of single-chain antibody fragments specific against SARS-associated coronavirus from phage-displayed antibody library",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "329",
+            "issn": "2",
+            "pages": "437-444",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2005.02.003"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Monoclonal antibody-based blocking Enzyme-Linked Immunosorbent Assay for specific detection and titration of Peste-Des-Petits-Ruminants Virus antibody in Caprine and Ovine sera",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Jeremiah",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Genevieve",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Clin Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "1075-1082",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "In vitro detection of apoptosis in monocytes/macrophages infected with human coronavirus",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Clin Diagn Lab Immunol",
+            "volume": "9",
+            "issn": "6",
+            "pages": "1392-1395",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CDLI.9.6.1392-1395.2002"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Diagnosis of severe acute respiratory syndrome (SARS) by detection of SARS coronavirus nucleocapsid antibodies in an antigencapturing enzyme-linked immunosorbent assay",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Clin Microbiol",
+            "volume": "41",
+            "issn": "",
+            "pages": "5781-5782",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.41.12.5781-5782.2003"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "The C-terminal portion of the nucleocapsid protein demonstrates SARS-CoV antigenicity",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Genomics Proteomics Bioinformatics",
+            "volume": "1",
+            "issn": "3",
+            "pages": "193-197",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Recombinant protein-based enzyme-linked immunosorbent assay and immunochromatographic tests for detection of immunoglobulin G antibodies to severe acute respiratory syndrome (SARS) coronavirus in SARS patients",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Foo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Clin Diagn Lab Immunol",
+            "volume": "11",
+            "issn": "",
+            "pages": "287-291",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CDLI.11.2.287-291.2004"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Molecular cloning and expression of the severe acute respiratory syndrome-associated coronavirus nucleocapsid protein and its clinical application",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Chin J Exp Clin Virol (in Chinese)",
+            "volume": "19",
+            "issn": "1",
+            "pages": "64-67",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "A study of serum IGG antibodies to herpes simplex type-1 antigens of gastroduodenal mucosa in peptic ulcer",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Acad J SUMS",
+            "volume": "13",
+            "issn": "2",
+            "pages": "70-73",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Detection of specific antibodies to severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein for serodiagnosis of SARS coronavirus pneumonia",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "C.",
+                        "Y."
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K.",
+                        "P."
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "H.",
+                        "L."
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Clin Microbiol",
+            "volume": "42",
+            "issn": "",
+            "pages": "2306-2309",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.5.2306-2309.2004"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Relative rates of non-pneumonic SARS coronavirus infection and SARS coronavirus pneumonia",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "C.",
+                        "Y."
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K.",
+                        "P."
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Tsoi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "363",
+            "issn": "",
+            "pages": "841-845",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(04)15729-2"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Detection of severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein in SARS patients by Enzyme-Linked Immunosorbent Assay",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K.",
+                        "P."
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "C.",
+                        "Y."
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "H.",
+                        "L."
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Clin Microbiol",
+            "volume": "42",
+            "issn": "7",
+            "pages": "2884-2889",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.7.2884-2889.2004"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Antigenic cross-reactivity between the nucleocapsid protein of severe acute respiratory syndrome (SARS) coronavirus and polyclonal antisera of antigenic group I animal coronaviruses: Implication for SARS diagnosis",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Clin Microbiol",
+            "volume": "42",
+            "issn": "5",
+            "pages": "2351-2352",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.5.2351-2352.2004"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Profile of antibodies to the nucleocapsid protein of the severe acute respiratory syndrome (SARS)-associated coronavirus in probable SARS patient",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Clin Diagn Lab Immunol",
+            "volume": "11",
+            "issn": "1",
+            "pages": "227-228",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CDLI.11.1.227-228.2004"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1319-1325",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Characterization of monoclonal antibody against SARS coronavirus nucleocapsid antigen and development of an antigen capture ELISA",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol Methods",
+            "volume": "127",
+            "issn": "1",
+            "pages": "46-53",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Recombinant nucleocapsid protein-based IgG enzyme-linked immunosorbent assay for the serological diagnosis of SARS",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Saijo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Ogino",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol Methods",
+            "volume": "125",
+            "issn": "2",
+            "pages": "181-186",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2005.01.028"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Use of the COOH portion of the nucleocapsid protein in an antigen-capturing enzyme-linked immunosorbent assay for specific and sensitive detection of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin Diagn Lab Immunol.",
+            "volume": "12",
+            "issn": "3",
+            "pages": "474-476",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CDLI.12.3.474-476.2005"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "The SARS coronavirus nucleocapsid protein induces actin reorganization and apoptosis in COS-1 cells in the absence of growth factors",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Surjit",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Jameel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem J",
+            "volume": "383",
+            "issn": "1",
+            "pages": "13-18",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BJ20040984"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Importance of Akt signaling pathway for apoptosis in SARS-CoV-infected Vero E6 cells",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Fukushi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Saijo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "327",
+            "issn": "2",
+            "pages": "169-174",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.07.005"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Phosphorylation of p38 MAPK and its downstream targets in SARS coronavirus-infected cells",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Fukushi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Saijo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "319",
+            "issn": "",
+            "pages": "1228-1234",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.05.107"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Detection of cell apoptosis in the pathological tissues of patients with SARS and its significance",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J First Mil Med Oniv (in Chinese)",
+            "volume": "23",
+            "issn": "8",
+            "pages": "770-773",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "SARS coronavirus induces apoptosis in Vero E6 cells",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Med Virol",
+            "volume": "73",
+            "issn": "3",
+            "pages": "323-331",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.20094"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Severe acute respiratory syndrome coronavirus 3a protein is a viral structural protein",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Ito",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Mossel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Narayanan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "5",
+            "pages": "3182-3186",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.5.3182-3186.2005"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Characterization of cytokine and chemokine profiles of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "10",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratorysyndrome",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Preiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Glycyrrhizic acid alters Kaposi sarcoma-associated herpesvirus latency, triggering p53-mediated apoptosis in transformed B lymphocytes",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Curreli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Friedman-Kien",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Flore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Clin Invest",
+            "volume": "115",
+            "issn": "",
+            "pages": "642-652",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI200523334"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "The viral nucleocapsid protein of transmissible gastroenteritis coronavirus (TGEV) is cleaved by caspase-6 and-7 during TGEV-induced apoptosis",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "El\u00e9ou\u00ebt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Slee",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Saurini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Virol",
+            "volume": "74",
+            "issn": "9",
+            "pages": "3975-3983",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.9.3975-3983.2000"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "coronavirus MHV-3-induced apoptosis in macrophages",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Belyavsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Belyavskaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Levy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "250",
+            "issn": "1",
+            "pages": "41-49",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9356"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Induction of caspase-dependent apoptosis in cultured cells by the avian coronavirus infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "14",
+            "pages": "6402-6409",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.14.6402-6409.2001"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "The primary structure of the iron-sulfur subunit of ubiquinol cytochrome c reductase from Neurospora, determined by cDNA and genes equencing",
+            "authors": [
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Harnisch",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Sebald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Eur J Biochem",
+            "volume": "149",
+            "issn": "",
+            "pages": "95-99",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1985.tb08898.x"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Nucleotides equence and transcription of the fbc operon from Rhodopseudomon assphaeroides\u2014Evaluation of the deduced amino acid sequences of the FeS protein, cytochrome b and cytochrome c1",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Gabellini",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Sebald",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Eur J Biochem",
+            "volume": "154",
+            "issn": "",
+            "pages": "569-579",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1986.tb09437.x"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "The genes of the Paracoccus denitrificans bc1 complex-nucleotide sequence and homologies between bacterial and mitochondrial subunits",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Kurowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Ludwig",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J Biol Chem",
+            "volume": "262",
+            "issn": "",
+            "pages": "13805-13811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "The primary structure of human Rieske iron-sulfur protein of mitochondrial cytochrome bc1 complex deduced from cDNA analysis",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nishikimi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Hosokawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Toda",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Biochem Int",
+            "volume": "20",
+            "issn": "",
+            "pages": "155-160",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Structure, sequence and location of the UQCRFS1 gene for the human Rieske Fe-S protein",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Pennacchio",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Bergmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Fukushima",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Gene",
+            "volume": "155",
+            "issn": "",
+            "pages": "207-211",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1119(94)00683-J"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Severe acute respiratory syndrome (SARS)-paradigm of an emerging viral infection",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Doerr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Clin Virol",
+            "volume": "29",
+            "issn": "",
+            "pages": "13-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2003.09.011"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Renal cell carcinoma and normal kidney protein expression",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Sarto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Marocchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Sanchez",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Electrophoresis",
+            "volume": "18",
+            "issn": "",
+            "pages": "599-604",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/elps.1150180343"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Strausberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Feingold",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Grouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "16899-16903",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.242603899"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "The DNA sequence and biology of human chromosome 19",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Grimwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "428",
+            "issn": "",
+            "pages": "529-535",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02399"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Import and processing of the precursor of the Rieske FeS protein of tobacco chloroplasts",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Madueno",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Napier",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Cejudo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Plant Mol Biol",
+            "volume": "20",
+            "issn": "",
+            "pages": "289-299",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00014496"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Serologic and molecular biologic methods for SARS-associated coronavirus infection",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Tseng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Taiwan Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "304-310",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Monroe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Astell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "VIROLOGY: The SARS coronavirus: A postgenomicera",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1377-1378",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086418"
+                ]
+            }
+        }
+    }
+}

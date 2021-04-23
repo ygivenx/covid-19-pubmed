@@ -1,0 +1,1156 @@
+{
+    "paper_id": "PMC7089483",
+    "metadata": {
+        "title": "Using maximum likelihood method to detect adaptive evolution of HCV envelope protein-coding genes",
+        "authors": [
+            {
+                "first": "Wenjuan",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yuan",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yang",
+                "middle": [],
+                "last": "Zhong",
+                "suffix": "",
+                "email": "yang-zhong@fudan.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Molecular Evolution and Phylogenetics",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Consensus proposals for a unified system of nomenclature of hepatitis C virus genotypes",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Simmonds",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Bukh",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Combet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Hepatology",
+            "volume": "42",
+            "issn": "",
+            "pages": "962-973",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/hep.20819"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Chronic hepatitis C virus infection: Genotyping and its clinical role",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Bowden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Berzsenyi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Future Microbiol",
+            "volume": "1",
+            "issn": "",
+            "pages": "103-112",
+            "other_ids": {
+                "DOI": [
+                    "10.2217/17460913.1.1.103"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "CLUSTAL: A package for performing multiple sequence alignment on a microcomputer",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Higgins",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Gene",
+            "volume": "73",
+            "issn": "",
+            "pages": "237-244",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-1119(88)90330-7"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The Clustal-X windows interface: Flexible strategies for multiple sequence alignment aided by quality analysis tools",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Gibson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Plewniak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nucleic Acids Res",
+            "volume": "25",
+            "issn": "",
+            "pages": "4876-4882",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/25.24.4876"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Multiple sequence alignment with Clustal X",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Jeanmougin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Gouy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Trends Biochem Sci",
+            "volume": "23",
+            "issn": "",
+            "pages": "403-405",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0968-0004(98)01285-7"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "EMBOSS: The european molecular biology open software suite",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Longden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Bleasby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Trends Genet",
+            "volume": "16",
+            "issn": "",
+            "pages": "276-277",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-9525(00)02024-2"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "The neighbor-joining method: A new method for reconstructing phylogenetic trees",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Mol Biol Evol",
+            "volume": "4",
+            "issn": "",
+            "pages": "406-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "MEGA3: Integrated software for molecular evolutionary genetics analysis and sequence alignment",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Briefings Bioinfor",
+            "volume": "5",
+            "issn": "",
+            "pages": "150-163",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bib/5.2.150"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "A simple method for estimating evolutionary rate of base substitution through comparative studies of nucleotide sequences",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "J Mol Evol",
+            "volume": "16",
+            "issn": "",
+            "pages": "111-120",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01731581"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Codon-substitution models for heterogeneous selection pressure at amino acid sites",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Goldman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Genetics",
+            "volume": "155",
+            "issn": "",
+            "pages": "431-449",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Genetic diversity and evolution of hepatitis C virus\u201415 years on",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Simmonds",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Gen Virol",
+            "volume": "85",
+            "issn": "",
+            "pages": "3173-3188",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.80401-0"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The Los Alamos hepatitis C immunology database",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Yusim",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Richardson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Appl Bioinform",
+            "volume": "4",
+            "issn": "",
+            "pages": "217-225",
+            "other_ids": {
+                "DOI": [
+                    "10.2165/00822942-200504040-00002"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Statistical methods for detecting molecular adaptation",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Bielawski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Trends Ecol Evol",
+            "volume": "15",
+            "issn": "",
+            "pages": "496-502",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0169-5347(00)01994-7"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Evolutionary dynamics of hepatitis C virus envelope genes during chronic infection",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Juttla",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Tarr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Gen Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "1931-1942",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.80957-0"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Hypervariable regions in the putative glycoprotein of hepatitis C virus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Hijikata",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Ootsuyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "175",
+            "issn": "",
+            "pages": "220-228",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(05)81223-9"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Variable and hypervariable domains are found in the regions of HCV corresponding to the flavivirus envelope and NS1 proteins and the pestivirus envelope glycoproteins",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Weiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Brauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Rosenblatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Virology",
+            "volume": "180",
+            "issn": "",
+            "pages": "842-848",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(91)90104-J"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "A model for the hepatitis C virus envelope glycoprotein E2",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Yagnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Lahm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Meola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proteins",
+            "volume": "40",
+            "issn": "",
+            "pages": "355-366",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/1097-0134(20000815)40:3<355::AID-PROT20>3.0.CO;2-K"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Evidence for immune selection of hepatitis C virus (HCV) putative envelope glycoprotein variants: Potential role in chronic HCV infections",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Weiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Geysen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Christopherson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "3468-3472",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.89.8.3468"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Prevention of hepatitis C virus infection in chimpanzees by hyperimmune serum against the hypervariable region 1 of the envelope 2 protein",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Farci",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Shimoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "15394-15399",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.26.15394"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Epitope mapping of antibodies directed against hypervariable region 1 in acute self-limiting and chronic infections due to hepatitis C virus",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Zibert",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Kraas",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Meisel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Virol",
+            "volume": "71",
+            "issn": "",
+            "pages": "4123-4127",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Mutational evidence for an internal fusion peptide in flavivirus envelope protein E",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Allison",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Schalich",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "4268-4275",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.9.4268-4275.2001"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Functional hepatitis C virus envelope glycoproteins",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Voisset",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Dubuisson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biol Cell",
+            "volume": "96",
+            "issn": "",
+            "pages": "413-420",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.biolcel.2004.03.008"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Induction of hepatitis C virus E1 envelope protein-specific immune response can be enhanced by mutation of N-glycosylation sites",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Fournillier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Wychowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Boucreux",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "12088-12097",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.24.12088-12097.2001"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "A new method of inference of ancestral nucleotide and amino acid sequences",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Genetics",
+            "volume": "141",
+            "issn": "",
+            "pages": "1641-1650",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Accuracies of ancestral amino acid sequences inferred by the parsimony, likelihood, and distance methods",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Mol Evol",
+            "volume": "44",
+            "issn": "",
+            "pages": "S139-S146",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/PL00000067"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "A method for detecting positive selection at single amino acid sites",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Gojobori",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol Biol Evol",
+            "volume": "16",
+            "issn": "",
+            "pages": "1315-1328",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "ADAPTSITE: Detecting natural selection at single amino acid sites",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Gojobori",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "",
+            "pages": "660-661",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/17.7.660"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Error thresholds and the constraints to RNA virus evolution",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Microbiol",
+            "volume": "11",
+            "issn": "",
+            "pages": "543-546",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2003.10.006"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "New methods for detecting positive selection at single amino acid sites",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Mol Evol",
+            "volume": "59",
+            "issn": "",
+            "pages": "11-19",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Reconstruction of the most recent common ancestor sequences of SARS-CoV S gene and detection of adaptive evolution in the spike protein",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chin Sci Bull",
+            "volume": "49",
+            "issn": "",
+            "pages": "1311-1313",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/04wc0153"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Conservation of the conformation and positive charges of hepatitis C virus E2 envelope glycoprotein hypervariable region 1 points to a role in cell attachment",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Penin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Combet",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Germanidis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "5703-5710",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.12.5703-5710.2001"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Positively selected amino acid sites in the entire coding region of hepatitis C virus subtype 1b",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Gojobori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Gene",
+            "volume": "276",
+            "issn": "",
+            "pages": "83-87",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0378-1119(01)00640-0"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "HCVDB: Hepatitis C virus sequences database",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Combet",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Penin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Geourjon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Appl Bioinfo",
+            "volume": "3",
+            "issn": "",
+            "pages": "237-240",
+            "other_ids": {
+                "DOI": [
+                    "10.2165/00822942-200403040-00005"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "The Los Alamos HCV sequence database",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Yusim",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Boykin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "379-384",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bth485"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Likelihood models for detecting positively selected amino acid sites and applications to the HIV-1 envelope gene",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Genetics",
+            "volume": "148",
+            "issn": "",
+            "pages": "929-936",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "PAML: A program for package for phylogenetic analysis by maximum likelihood",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "CABIOS",
+            "volume": "15",
+            "issn": "",
+            "pages": "555-556",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

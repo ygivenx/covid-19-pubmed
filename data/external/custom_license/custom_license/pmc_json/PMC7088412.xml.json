@@ -1,0 +1,3412 @@
+{
+    "paper_id": "PMC7088412",
+    "metadata": {
+        "title": "Three dimensional model of severe acute respiratory syndrome coronavirus helicase ATPase catalytic domain and molecular design of severe acute respiratory syndrome coronavirus helicase inhibitors",
+        "authors": [
+            {
+                "first": "Marcin",
+                "middle": [],
+                "last": "Hoffmann",
+                "suffix": "",
+                "email": "mmh@bioinfo.pl",
+                "affiliation": {}
+            },
+            {
+                "first": "Krystian",
+                "middle": [],
+                "last": "Eitner",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Marcin",
+                "middle": [],
+                "last": "von Grotthuss",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Leszek",
+                "middle": [],
+                "last": "Rychlewski",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ewa",
+                "middle": [],
+                "last": "Banachowicz",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Tomasz",
+                "middle": [],
+                "last": "Grabarkiewicz",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Tomasz",
+                "middle": [],
+                "last": "Szkoda",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Andrzej",
+                "middle": [],
+                "last": "Kolinski",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Apweiler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bairoch",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Natale",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Barker",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Boeckmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ferro",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gasteiger",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Magrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mazumder",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "O\u2019Donovan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Redaschi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Suzek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res",
+            "volume": "34",
+            "issn": "Database issue",
+            "pages": "D187-D191",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkj161"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sali",
+                    "suffix": ""
+                },
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Blundell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Mol Biol",
+            "volume": "234",
+            "issn": "3",
+            "pages": "779-815",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1993.1626"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "WD",
+                    "middle": [],
+                    "last": "Cornell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cieplak",
+                    "suffix": ""
+                },
+                {
+                    "first": "CI",
+                    "middle": [],
+                    "last": "Bayly",
+                    "suffix": ""
+                },
+                {
+                    "first": "IR",
+                    "middle": [],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Merz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JDM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Spellmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Caldwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Kollman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Am Chem Soc",
+            "volume": "117",
+            "issn": "",
+            "pages": "5179-5197",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00124a002"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sali",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Potterton",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van Vlijmen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karplus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proteins",
+            "volume": "23",
+            "issn": "3",
+            "pages": "318-326",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.340230306"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "FC",
+                    "middle": [],
+                    "last": "Spector",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Giordano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sivaraja",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Peterson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Virol",
+            "volume": "72",
+            "issn": "9",
+            "pages": "6979-6987",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AW",
+                    "middle": [],
+                    "last": "Ravna",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Schroder",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Edvardsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Comput Chem",
+            "volume": "23",
+            "issn": "5",
+            "pages": "435-437",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0097-8485(99)00026-1"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Ljungberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Marelius",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Musil",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Svensson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Norden",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Aqvist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Eur J Pharm Sci",
+            "volume": "12",
+            "issn": "4",
+            "pages": "441-446",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0928-0987(00)00185-8"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Egan",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Walters",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Murcko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr Opin Drug Discov Dev",
+            "volume": "5",
+            "issn": "4",
+            "pages": "540-549",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Plewczynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "von Grotthuss",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Appl Bioinf",
+            "volume": "1",
+            "issn": "4",
+            "pages": "223-225",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Xue",
+                    "suffix": ""
+                },
+                {
+                    "first": "CY",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HB",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Yue",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "XM",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "KX",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "YX",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "GX",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Acta Pharmacol Sin",
+            "volume": "24",
+            "issn": "6",
+            "pages": "505-511",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Oda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yamaotsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hirono",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Comput Chem",
+            "volume": "26",
+            "issn": "8",
+            "pages": "818-826",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcc.20221"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Berman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Henrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nat Struct Biol",
+            "volume": "10",
+            "issn": "12",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsb1203-980"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Jojart",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Martinek",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Comput Aided Mol Des",
+            "volume": "19",
+            "issn": "5",
+            "pages": "341-356",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10822-005-7137-0"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Comput Aided Mol Des",
+            "volume": "18",
+            "issn": "6",
+            "pages": "375-388",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10822-004-2283-3"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Vreven",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Morokuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Farkas",
+                    "suffix": ""
+                },
+                {
+                    "first": "HB",
+                    "middle": [],
+                    "last": "Schlegel",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Frisch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Comput Chem",
+            "volume": "24",
+            "issn": "6",
+            "pages": "760-769",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcc.10156"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Saen-oon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kuno",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hannongbua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proteins",
+            "volume": "61",
+            "issn": "4",
+            "pages": "859-869",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.20690"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wieczorek",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Dannenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Am Chem Soc",
+            "volume": "127",
+            "issn": "42",
+            "pages": "14534-14535",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja053839t"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hoffmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "IV",
+                    "middle": [],
+                    "last": "Khavrutskii",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Musaev",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Morokuma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Int J Quant Chem",
+            "volume": "99",
+            "issn": "6",
+            "pages": "972-980",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Burgoyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Bioinformatics",
+            "volume": "22",
+            "issn": "11",
+            "pages": "1335-1342",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nemoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Fedorov",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Uebayasi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kanazawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kitaura",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Komeiji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Comput Biol Chem",
+            "volume": "29",
+            "issn": "6",
+            "pages": "434-439",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.compbiolchem.2005.09.005"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Klingenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochemistry",
+            "volume": "44",
+            "issn": "24",
+            "pages": "8563-8570",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi050543r"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Waldron",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Schrift",
+                    "suffix": ""
+                },
+                {
+                    "first": "KP",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Mol Biol",
+            "volume": "346",
+            "issn": "3",
+            "pages": "895-905",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2004.12.018"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "BW",
+                    "middle": [],
+                    "last": "Neuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Kroeker",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Churchill",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Moulton",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Bestwick",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Iversen",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Buchmeier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "15",
+            "pages": "9665-9676",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.15.9665-9676.2005"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Nissink",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hartshorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Verdonk",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proteins",
+            "volume": "49",
+            "issn": "4",
+            "pages": "457-471",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.10232"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Swegat",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schlitter",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kruger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wollmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biophys J",
+            "volume": "84",
+            "issn": "3",
+            "pages": "1493-1506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-3495(03)74962-5"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ginalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pas",
+                    "suffix": ""
+                },
+                {
+                    "first": "LS",
+                    "middle": [],
+                    "last": "Wyrwicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "von Grotthuss",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Bujnicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res",
+            "volume": "31",
+            "issn": "13",
+            "pages": "3804-3807",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg504"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Karplus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Karchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Barrett",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cline",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Diekhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Grate",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Casper",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hughey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proteins",
+            "volume": "5",
+            "issn": "Suppl",
+            "pages": "86-91",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.10021"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jaroszewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Godzik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res",
+            "volume": "33",
+            "issn": "Web Server issue",
+            "pages": "W284-W288",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gki418"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Mol Biol",
+            "volume": "287",
+            "issn": "4",
+            "pages": "797-815",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1999.2583"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Pac Symp Biocomput",
+            "volume": "5",
+            "issn": "",
+            "pages": "119-130",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Blundell",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mizuguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Mol Biol",
+            "volume": "310",
+            "issn": "1",
+            "pages": "243-257",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.2001.4762"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Kelley",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "MacCallum",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Sternberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Mol Biol",
+            "volume": "299",
+            "issn": "2",
+            "pages": "499-520",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.2000.3741"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hogbom",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Andersson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nordlund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Biol Inorg Chem",
+            "volume": "6",
+            "issn": "3",
+            "pages": "315-323",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s007750000205"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Korolev",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "GH",
+                    "middle": [],
+                    "last": "Gauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Lohman",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Waksman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Cell",
+            "volume": "90",
+            "issn": "4",
+            "pages": "635-647",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80525-5"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Singleton",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Dillingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gaudier",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Kowalczykowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Wigley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "432",
+            "issn": "7014",
+            "pages": "187-193",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02988"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Eswar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mirkovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Ilyin",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Pieper",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marti-Renom",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Madhusudhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yerkovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res",
+            "volume": "31",
+            "issn": "13",
+            "pages": "3375-3380",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg543"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marti-Renom",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Melo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Annu Rev Biophys Biomol Struct",
+            "volume": "29",
+            "issn": "",
+            "pages": "291-325",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.biophys.29.1.291"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Kollman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proteins",
+            "volume": "25",
+            "issn": "3",
+            "pages": "315-334",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1097-0134(199607)25:3<315::AID-PROT4>3.0.CO;2-E"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Cheatham",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cieplak",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Kollman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Biomol Struct Dyn",
+            "volume": "16",
+            "issn": "4",
+            "pages": "845-862",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Weiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Kollman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Case",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J\u2423Comput Chem",
+            "volume": "7",
+            "issn": "2",
+            "pages": "230-252",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "WDCP",
+                    "middle": [],
+                    "last": "Cornell",
+                    "suffix": ""
+                },
+                {
+                    "first": "CI",
+                    "middle": [],
+                    "last": "Bayly",
+                    "suffix": ""
+                },
+                {
+                    "first": "IR",
+                    "middle": [],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Merz",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Spellmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Caldwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Kollman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Am Chem Soc",
+            "volume": "117",
+            "issn": "",
+            "pages": "5179-5197",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00124a002"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Ponder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Phys Chem B",
+            "volume": "107",
+            "issn": "",
+            "pages": "5933-5947",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jp027815+"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Ponder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Comput Chem",
+            "volume": "23",
+            "issn": "16",
+            "pages": "1497-1506",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcc.10127"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kliger",
+                    "suffix": ""
+                },
+                {
+                    "first": "EY",
+                    "middle": [],
+                    "last": "Levanon",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gerber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Drug Discov Today",
+            "volume": "10",
+            "issn": "5",
+            "pages": "345-352",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1359-6446(04)03320-3"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RV",
+                    "middle": [],
+                    "last": "Pappu",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Hart",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Ponder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Phys Chem B",
+            "volume": "102",
+            "issn": "",
+            "pages": "9725-9742",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jp982255t"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Hodsdon",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Ponder",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Cistola",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Mol Biol",
+            "volume": "264",
+            "issn": "3",
+            "pages": "585-602",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1996.0663"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Meagher",
+                    "suffix": ""
+                },
+                {
+                    "first": "LT",
+                    "middle": [],
+                    "last": "Redman",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Carlson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Comput Chem",
+            "volume": "24",
+            "issn": "9",
+            "pages": "1016-1025",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcc.10262"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Jewsbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Essex",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Comput Aided Mol Des",
+            "volume": "16",
+            "issn": "3",
+            "pages": "151-166",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1020155510718"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Watt",
+                    "suffix": ""
+                },
+                {
+                    "first": "YB",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "LY",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Kung",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Biol Chem",
+            "volume": "278",
+            "issn": "41",
+            "pages": "39578-39582",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.C300328200"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Joseph-McCarthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proteins",
+            "volume": "51",
+            "issn": "2",
+            "pages": "189-202",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.10296"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Miranker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karplus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proteins",
+            "volume": "23",
+            "issn": "4",
+            "pages": "472-490",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.340230403"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Caflisch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Miranker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karplus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Med Chem",
+            "volume": "36",
+            "issn": "15",
+            "pages": "2142-2167",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm00067a013"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Streek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Acta Crystallogr B",
+            "volume": "62",
+            "issn": "Pt 4",
+            "pages": "567-579",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "FH",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Acta Crystallogr B",
+            "volume": "58",
+            "issn": "Pt 3 Pt 1",
+            "pages": "380-388",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0108768102003890"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Bujnicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Elofsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "8",
+            "pages": "750-751",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/17.8.750"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "FH",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "WDS",
+                    "middle": [],
+                    "last": "Motherwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Acta Crystallogr B",
+            "volume": "58",
+            "issn": "Pt 3",
+            "pages": "407-422",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Cramer",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Truhlar",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Chem Rev",
+            "volume": "99",
+            "issn": "8",
+            "pages": "2161-2200",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/cr960149m"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MJS",
+                    "middle": [],
+                    "last": "Dewar",
+                    "suffix": ""
+                },
+                {
+                    "first": "EG",
+                    "middle": [],
+                    "last": "Zoebisch",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Healy",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJP",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J\u2423Am Chem Soc",
+            "volume": "107",
+            "issn": "13",
+            "pages": "3902-3909",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MJS",
+                    "middle": [],
+                    "last": "Dewar",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Reynolds",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J Comput Chem",
+            "volume": "7",
+            "issn": "2",
+            "pages": "140-143",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MJS",
+                    "middle": [],
+                    "last": "Dewar",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Mckee",
+                    "suffix": ""
+                },
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Rzepa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "J Am Chem Soc",
+            "volume": "100",
+            "issn": "11",
+            "pages": "3607-3607",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JJP",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J Comput Chem",
+            "volume": "10",
+            "issn": "2",
+            "pages": "209-220",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JJP",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J Comput Chem",
+            "volume": "10",
+            "issn": "2",
+            "pages": "221-264",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Monroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Nix",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Campagnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Icenogle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Penaranda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bankamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tamin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Frace",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "DeRisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "DD",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Burns",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liffick",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Holloway",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Limor",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "McCaustland",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Olsen-Rasmussen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Pallansch",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bellini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ginalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Elofsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics",
+            "volume": "19",
+            "issn": "8",
+            "pages": "1015-1018",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btg124"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Caruthers",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "McKay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr Opin Struct Biol",
+            "volume": "12",
+            "issn": "1",
+            "pages": "123-133",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0959-440X(02)00298-1"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Velankar",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Soultanas",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Dillingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Subramanya",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Wigley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Cell",
+            "volume": "97",
+            "issn": "1",
+            "pages": "75-84",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80716-3"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "EV",
+                    "middle": [],
+                    "last": "Koonin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Curr Opin Struct Biol",
+            "volume": "3",
+            "issn": "",
+            "pages": "419-429",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0959-440X(05)80116-2"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saraste",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Runswick",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Embo J",
+            "volume": "1",
+            "issn": "8",
+            "pages": "945-951",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Matson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol Microbiol",
+            "volume": "34",
+            "issn": "5",
+            "pages": "867-877",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2958.1999.01659.x"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "George",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Brosh",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Matson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Mol Biol",
+            "volume": "235",
+            "issn": "2",
+            "pages": "424-435",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1994.1003"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Story",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Steitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Nature",
+            "volume": "355",
+            "issn": "6358",
+            "pages": "374-376",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/355374a0"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pause",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Methot",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Mol Cell Biol",
+            "volume": "13",
+            "issn": "11",
+            "pages": "6789-6798",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Ivanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van der Meer",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "11",
+            "pages": "5619-5632",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.11.5619-5632.2004"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ginalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proteins",
+            "volume": "53",
+            "issn": "Suppl 6",
+            "pages": "410-417",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.10548"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Borowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Niebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Haag",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Schmitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "zur Wiesch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Siwecka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kulikowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Acta Biochim Pol",
+            "volume": "48",
+            "issn": "3",
+            "pages": "739-744",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Borowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Deinert",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schalinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bretner",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ginalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kulikowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shugar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Eur J Biochem",
+            "volume": "270",
+            "issn": "8",
+            "pages": "1645-1653",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1432-1033.2003.03540.x"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res",
+            "volume": "33",
+            "issn": "Database issue",
+            "pages": "D238-241",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gki059"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Humphrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dalke",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schulten",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Mol Graph",
+            "volume": "14",
+            "issn": "1",
+            "pages": "33-38",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ginalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "NV",
+                    "middle": [],
+                    "last": "Grishin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Godzik",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rychlewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucleic Acids Res",
+            "volume": "33",
+            "issn": "6",
+            "pages": "1874-1891",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gki327"
+                ]
+            }
+        }
+    }
+}

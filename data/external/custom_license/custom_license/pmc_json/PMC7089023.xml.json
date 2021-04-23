@@ -1,0 +1,584 @@
+{
+    "paper_id": "PMC7089023",
+    "metadata": {
+        "title": "Genome sequencing and characterization analysis of a Beijing isolate of chicken coronavirus infectious bronchitis virus",
+        "authors": [
+            {
+                "first": "Weiwu",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Chen",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ying",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yiqiang",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jidong",
+                "middle": [],
+                "last": "Feng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Fuyong",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qingming",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hanchun",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ming",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jialin",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ning",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "ninglbau@public3.bta.net.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Yuanshi",
+                "middle": [],
+                "last": "Gong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qixin",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhangliang",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": "zhangliangchen@pku.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Infectious bronchitis",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Naqi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Diseases of Poultry",
+            "volume": "",
+            "issn": "",
+            "pages": "511-526",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Studies on etiology of infectious bronchitis",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Chin. J. Vet. Med.",
+            "volume": "11",
+            "issn": "",
+            "pages": "8-10",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Monroe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Astell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "A complete sequence and comparative analysis of a SARS-associated virus (Isolate BJ01)",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Science Bulletin",
+            "volume": "48",
+            "issn": "10",
+            "pages": "941-948",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03wc0186"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Sequence analysis of genes and genomes",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Sterky",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Lundeberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biotech.",
+            "volume": "76",
+            "issn": "",
+            "pages": "1-31",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1656(99)00176-5"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Brian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Coronaviridae, Virus Taxonomy: Classification and Nomenclature of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "835-849",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Completion of the sequence of the genome of the Coronavirus avian infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Boursell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "D.",
+                        "K."
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Foulds",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J. Gen. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "55-77",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Coronavirus IBV: structural characterization of the spike protein",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "J. Gen. Virol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "2577-2583",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-64-12-2577"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Coronavirus IBV glycopolypeptides: size of their polypeptides and nature of their oligosaccharides",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "J. Gen. Virol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "1187-1191",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-64-5-1187"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Coronavirus IBV: removal of spike glycopolypeptide S1 by urea abolishes infectivity and haemagglutination but not attachment to cells",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Gen. Virol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "1443-1448",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-67-7-1443"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Location of the amino acid differences in the S1 spike glycoprotein subunit of closely related serotypes of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "K.",
+                        "A."
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Avian Pathol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "33-43",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/03079459208418816"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Relationship between serotypes and genotypes based on the hypervariable region of the S1 gene of infectious bronchitis virus",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Arch. Virol.",
+            "volume": "145",
+            "issn": "",
+            "pages": "291-300",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s007050050024"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "The coronaviridae, The Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "1-49",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Variant serotypes of infectious bronchitis virus isolated from commercial layer and broiler chickens",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Gelb",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Wolff",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Moran",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Avian Dis.",
+            "volume": "35",
+            "issn": "",
+            "pages": "82-87",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/1591298"
+                ]
+            }
+        }
+    }
+}

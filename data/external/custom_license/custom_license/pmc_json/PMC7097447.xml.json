@@ -1,0 +1,4552 @@
+{
+    "paper_id": "PMC7097447",
+    "metadata": {
+        "title": "Hendra and Nipah viruses: different and dangerous",
+        "authors": [
+            {
+                "first": "Bryan",
+                "middle": [
+                    "T."
+                ],
+                "last": "Eaton",
+                "suffix": "",
+                "email": "Bryan.Eaton@csiro.au",
+                "affiliation": {}
+            },
+            {
+                "first": "Christopher",
+                "middle": [
+                    "C."
+                ],
+                "last": "Broder",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Deborah",
+                "middle": [],
+                "last": "Middleton",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Lin-Fa",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: a | Pteropus poliocephalus is an Australian flying fox and member of the family Pteropodidae, one of 18 bat families in the order Chiroptera. There are four Pteropus species in Australia4. b | Sixty-five Pteropus species are distributed from Madagascar through the Indian subcontinent to south-eastern Asia and Australia and as far east as the Cook Islands4. Some Pteropus species are among the largest of all bats, weighing as much as 1.2 kg and displaying a wing span of up to 1.7 m. Pteropus species are unique because they lack the complex neural and behavioural mechanisms required for echolocation that characterize the vast majority of bat species. Instead, they have large eyes and they navigate visually, feeding mainly on fruit and flowers, which they locate by smell. The sites of disease outbreaks caused by henipaviruses are indicated. Map modified with permission from Ref. 4 \u00a9 (2002) University of New South Wales Press.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | A schematic representation of henipavirus structure. Henipaviruses, like other paramyxoviruses, contain a linear ribonucleoprotein (RNP) core consisting of a single-stranded genomic RNA molecule of negative polarity to which nucleocapsid proteins (N) are tightly bound in a ratio of one N for every six nucleotides127,139. The RNP also contains smaller numbers of the phosphoprotein (P) and the large (L) polymerase protein, both of which are required to transcribe genomic RNA into mRNA and anti-genome RNA. The RNP core is surrounded by an envelope from which two spikes protrude; one is the receptor-binding glycoprotein (G) and the other the fusion (F) protein. The G and F proteins are arranged as homotetramers and homotrimers, respectively. The matrix protein (M) which underlies the viral envelope is important in determining virion architecture and is released from the RNP core on its entry into cells. b | Electron micrograph of Hendra virus (HeV). The ultrastructural characteristics of HeV and Nipah virus have been reviewed140. c | The henipavirus genome. The negative-sense genomic RNA is presented in the 3\u2032 to 5\u2032 orientation. The open reading frames indicated by the yellow arrows encode the nucleocapsid protein (N), phosphoprotein (P), matrix protein (M), fusion protein (F), glycoprotein or attachment protein (G) and large protein (L) or RNA polymerase, in the order 3\u2032-N-P-M-F-G-L-5\u2032. The vertical lines represent gene start and stop signals. Note the long untranslated 3\u2032 regions in all genes except the L gene. All genes except the P gene are monocistronic. The P gene of henipaviruses encodes not only the P protein, but also V, C and W proteins (Box 3). Genomic RNA in RNPs is transcribed by the viral polymerase which associates with the RNP at the 3\u2032 terminus and sequentially generates discrete mRNAs from each of the viral genes. The mRNAs are not produced in equimolar amounts and there is a transcription gradient from the N to the L gene, with significant attenuation at the M\u2013F and G\u2013L gene junctions of HeV, a pattern of attenuation more closely resembling that observed in Sendai virus than in measles virus141,142,143.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: The innate immune system depends on the ability of cells to detect the presence of unique, pathogen-specific molecules. The molecule considered most likely to be seen as foreign by virus-infected cells and activate the innate immune system is dsRNA, generated as a result of virus infection87. Several cellular sensors detect the dsRNA signal and respond by activating pre-existing transcription factors such as IFN-regulatory factor 3 (IRF-3) and the general transcription factor nuclear factor (NF)-\u03baB83,97,144,145,146. Activated IRF-3 and NF-\u03baB are redistributed to the nucleus, where they cooperate with other transcriptional activators to induce transcription of the interferon (IFN)-\u03b1/\u03b2 genes. In one pathway, the sensor is an intracellular RNA helicase encoded by the retinoic inducible gene-1 (RIG1) or the melanoma differentiation-associated gene 5 (MDA5)102,147. RIG-1 and MDA5 proteins are DExD/H-box RNA helicases that unwind dsRNA by virtue of their intrinsic ATPase activity. They also contain caspase-recruitment domains (CARD). The binding of dsRNA to the helicase has been hypothesized to result in the activation of the ATPase leading to conformational changes in CARD102. An activated CARD acts as an interface between signalling molecules, and the CARD of RIG-1 and MDA5 has been shown to interact with the CARD-like domain of a protein called IFN-\u03b2 promoter stimulator 1 (IPS-1)148 to transmit a signal downstream, resulting in the phosphorylation of IRF-3 by the kinases TANK-binding kinase 1 (TBK-1) and I\u03baB kinase \u03b5 (IKK-\u03b5)149,150. Activated IRF-3 dimerizes and is translocated to the nucleus. Intracellular dsRNA signalling through RNA helicases also activates NF-\u03baB. The inhibitor of NF-\u03baB, I-\u03baB, is phosphorylated by an activated member of the IKK complex, and I-\u03baB is destroyed in proteasomes. NF-\u03baB is therefore released and translocated to the nucleus. A second IFN-induction pathway, likely to be activated after the helicase-dependant pathway, uses Toll-like receptor 3 (TLR3), which probably detects dsRNA released from virus-infected cells151. Signalling through TLR3 is mediated by an intracellular adaptor protein called TRIF, which signals two protein-kinase complexes, TBK-1\u2013IKK-\u03b5 and IKK-\u03b1\u2013IKK-\u03b2, and leads to the activation of both IRF-3 and NF-\u03baB. The sites where henipavirus and other paramyxoviruses are known to interfere with dsRNA signalling and the viral proteins responsible are indicated (see text). HeV, Hendra virus; hPIV2, human parainfluenza virus 2; MuV, mumps virus; NiV, Nipah virus; SeV, Sendai virus; SV5, simian parainfluenza virus 5.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Type I IFN (IFN-\u03b2 and a subset of IFN-\u03b1) induced as a result of virus infection activates IFN-inducible genes using the Jak-STAT pathway, a signalling pathway shared by many cytokines and growth factors that use members of the Janus tyrosine kinase family (TYK2 and JAK1) and a family of proteins called signal transducers and activators of transcription (STAT)83,84,90,97. Type I IFN binds to two heterologous receptor subunits (IFNAR1 and IFNAR2) on the cell surface, and their dimerization leads to the activation of TYK2 and JAK1 tyrosine kinases bound to IFNAR1 and IFNAR2, respectively. TYK2 and JAK1 cross-activate each other and phosphorylate STATs. STAT1 and STAT2 form heterodimers and translocate to the nucleus where, in association with a DNA-binding protein p48 in a complex called IFN-stimulated gene factor 3 (ISGF3), they activate the transcription of genes containing IFN-stimulated response elements within their promoters. Antiviral activity and the additional, profound effects that IFNs have on cellular physiology are mediated by hundreds of IFN-induced proteins. The best characterized antiviral IFN-inducible gene products include dsRNA-dependent protein kinase (PKR), 2\u2032,5\u2032-oligoadenylate synthetases (2-5A) and RNase L and Mx proteins, which inhibit virus replication in various ways82. Paramyxoviruses block IFN signalling by targeting specific components of the Jak-STAT pathway (see text).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Sulkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Virus Infections in Bats",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Molecular biology of Hendra and Nipah viruses",
+            "authors": [
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbes Infect.",
+            "volume": "3",
+            "issn": "",
+            "pages": "279-287",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Sendai virus C proteins counteract the interferon-mediated induction of an antiviral state",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Garcin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Latorre",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kolakofsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "6559-6565",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Paramyxoviridae use distinct virus-specific mechanisms to circumvent the interferon response",
+            "authors": [
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Didcock",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodbourn",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Randall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "269",
+            "issn": "",
+            "pages": "383-390",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "The V proteins of paramyxoviruses bind the IFN-inducible RNA helicase, mda-5, and inhibit its activation of the IFN-\u03b3 promoter",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Andrejeva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "17264-17269",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Nuclear localization of the Nipah virus W protein allows for inhibition of both virus- and Toll-like receptor 3-triggered signaling pathways",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Cardenas",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zamarin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Basler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "6078-6088",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Identification of the nuclear export signal and STAT-binding domains of the Nipah virus V protein reveals mechanisms underlying interferon invasion",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Cruz",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "5358-5367",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Nipah virus V and W proteins have a common STAT1-binding domain yet inhibit STAT1 activation from the cytoplasmic and nuclear compartments, respectively",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garcia-Sastre",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Basler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "5633-5641",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "The V protein of human parainfluenza virus 2 antagonizes type 1 interferon responses by destabilizing signal transducer and activator of transcription 2",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Parisien",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "283",
+            "issn": "",
+            "pages": "230-239",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "The V protein of Simian virus 5 inhibits interferon signalling by targeting STAT1 for proteasome-mediated degradation",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Didcock",
+                    "suffix": ""
+                },
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodbourn",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Randall",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "9928-9933",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "The carboxyl segment of the mumps virus V protein associates with STAT proteins in vitro via a tryptophan-rich motif",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nishio",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Garcin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Simonet",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kolakofsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "300",
+            "issn": "",
+            "pages": "92-99",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "STAT3 ubiquitylation and degradation by mumps virus suppress cytokine and oncogene signaling",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Ulane",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Parisien",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "6385-6393",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Molecular characterization of Nipah virus, a newly emergent paramyxovirus",
+            "authors": [
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Harcourt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "271",
+            "issn": "",
+            "pages": "334-349",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Selective STAT protein degradation induced by paramyxoviruses requires both STAT1 and STAT2 but is independent of \u03b1/\u03b2 interferon signal transduction",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Parisien",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Ulane",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "4190-4198",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Paramyxoviruses SV5 and HPIV2 assemble STAT protein ubiquitin ligase complexes from cellular components",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Ulane",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "304",
+            "issn": "",
+            "pages": "160-166",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "The p127 subunit (DDB1) of the UV-DNA damage repair binding protein is essential for the targeted degradation of STAT1 by the V protein of the paramyxovirus simian virus 5",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Andrejeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Poole",
+                    "suffix": ""
+                },
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodbourn",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Randall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "11379-11386",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "High resistance of human parainfluenza type 2 virus protein-expressing cells to the antiviral and anti-cell proliferative activities of \u03b1/\u03b2 interferons: cysteine-rich V-specific domain is required for high resistance to the interferons",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nishio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "9165-9176",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Naturally occurring substitutions in the P/V gene convert the noncytopathic paramyxovirus simian virus 5 into a virus that induces \u03b1/\u03b2 interferon synthesis and cell death",
+            "authors": [
+                {
+                    "first": "EK",
+                    "middle": [],
+                    "last": "Wansley",
+                    "suffix": ""
+                },
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Parks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "10109-10121",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Single amino acid substitution in the V protein of simian virus 5 differentiates its ability to block interferon signaling in human and murine cells",
+            "authors": [
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "3363-3370",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "The STAT2 activation process is a crucial target of Sendai virus C protein for the blockade of \u03b1 interferon signaling",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gotoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Komatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yokoo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "3360-3370",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "STAT protein interference and suppression of cytokine signal transduction by measles virus V protein",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Palosaari",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Parisien",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Ulane",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "7635-7644",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Measles virus V protein blocks interferon (IFN)-\u03b1/\u03b2 but not IFN-\u03b3 signaling by inhibiting STAT1 and STAT2 phosphorylation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kadota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Miyajima",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nagata",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett.",
+            "volume": "545",
+            "issn": "",
+            "pages": "177-182",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Measles virus suppresses interferon-\u03b1 signaling pathway: suppression of Jak1 phosphorylation and association of viral accessory proteins, C and V, with interferon-\u03b1 receptor complex",
+            "authors": [
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Yokota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "306",
+            "issn": "",
+            "pages": "135-146",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "The exceptionally large genome of Hendra virus: support for creation of a new genus within the family Paramyxoviridae",
+            "authors": [
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "9972-9979",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Nipah virus V protein evades \u03b1 and \u03b3 interferons by preventing STAT1 and STAT2 activation and nuclear accumulation",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Parisien",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "11476-11483",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Hendra virus V protein inhibits interferon signaling by preventing STAT1 and STAT2 nuclear accumulation",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "11842-11845",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Newcastle disease virus (NDV)-based assay demonstrates interferon-antagonist activity for the NDV V protein and the Nipah virus V, W, and C proteins",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "1501-1511",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Involvement of the zinc-binding capacity of Sendai virus V protein in viral pathogenesis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "7834-7841",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "V and C proteins of measles virus function as virulence factors in vivo",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lewicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Billeter",
+                    "suffix": ""
+                },
+                {
+                    "first": "MBA",
+                    "middle": [],
+                    "last": "Oldstone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "267",
+            "issn": "",
+            "pages": "80-89",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Mutations in the C, D, and V open reading frames of human parainfluenza virus type 3 attenuate replication in rodents and primates",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Durbin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Mcauliffe",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Virology",
+            "volume": "261",
+            "issn": "",
+            "pages": "319-330",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Newcastle Disease virus V protein is a determinant of host range restriction",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garc\u00eda-Sastre",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Cros",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Basler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "9522-9532",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Paramyxoviridae: the viruses and their replication",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kolakofsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "1305-1340",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "The Sendai paramyxovirus accessory C proteins inhibit viral genome amplification in a promoter-specific fashion",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cadd",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "5067-5074",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "The Sendai virus P gene expresses both an essential protein and an inhibitor of RNA synthesis by shuffling modules via mRNA editing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Curran",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Boeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kolakofsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "EMBO J.",
+            "volume": "10",
+            "issn": "",
+            "pages": "3079-3085",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Molecular characterization of the polymerase gene and genomic termini of Nipah virus",
+            "authors": [
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Harcourt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "287",
+            "issn": "",
+            "pages": "192-201",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "The human parainfluenza virus type 3 (hPIV 3) C protein inhibits viral transcription",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Malur",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virus Res.",
+            "volume": "99",
+            "issn": "",
+            "pages": "199-204",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Impact of mannose-binding lectin on susceptibility to infectious diseases",
+            "authors": [
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Eisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Minchinton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "37",
+            "issn": "",
+            "pages": "1496-1505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Novel innate immune functions for galectin-1: galectin-1 inhibits cell fusion by Nipah virus envelope glycoproteins and augments dendritic cell secretion of proinflammatory cytokines",
+            "authors": [
+                {
+                    "first": "EL",
+                    "middle": [],
+                    "last": "Levroney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Immunol.",
+            "volume": "175",
+            "issn": "",
+            "pages": "413-420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Virus Taxonomy \u2014 Houston 2002",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Mayo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Archives of Virology",
+            "volume": "147",
+            "issn": "",
+            "pages": "1071-1076",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Transmission studies of Hendra virus (equine morbillivirus) in fruit bats, horses and cats",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Williamson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Aus. Vet. J.",
+            "volume": "76",
+            "issn": "",
+            "pages": "813-818",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Experimental Hendra virus infection in pregnant guinea-pigs and fruit bats (Pteropus poliocephalus)",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Williamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PT",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Selleck",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Westbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Slocombe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Comp. Pathol.",
+            "volume": "122",
+            "issn": "",
+            "pages": "201-207",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Nipah virus infection \u2014 pathology and pathogenesis of an emerging paramyxoviral zoonosis",
+            "authors": [
+                {
+                    "first": "KT",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Am. J. Pathol.",
+            "volume": "161",
+            "issn": "",
+            "pages": "2153-2167",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Invasion of the central nervous system in a porcine host by Nipah virus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Weingartl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7528-7534",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Laboratory diagnosis of Nipah and Hendra virus infections",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daniels",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbes Infect.",
+            "volume": "3",
+            "issn": "",
+            "pages": "289-295",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Nipah virus conforms to the rule of six in a minigenome replication assay",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Halpin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bankamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Harcourt",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bellini",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "701-707",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Isolation and molecular characterization of a novel cytopathogenic paramyxovirus from tree shrews",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Tidona",
+                    "suffix": ""
+                },
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Kurz",
+                    "suffix": ""
+                },
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Gelderblom",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Darai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Virology",
+            "volume": "258",
+            "issn": "",
+            "pages": "425-434",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Ultrastructure of Hendra virus and Nipah virus within cultures cells and host animals",
+            "authors": [
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Hyatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wise",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Hengstberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbes Infect.",
+            "volume": "3",
+            "issn": "",
+            "pages": "297-306",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Altered transcription of a defective measles virus genome derived from a diseased human brain",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cattaneo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "EMBO J.",
+            "volume": "6",
+            "issn": "",
+            "pages": "681-688",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Sendai virus gene expression in lytically and persistently infected cells",
+            "authors": [
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Homann",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Hofschneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Neubert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Virology",
+            "volume": "177",
+            "issn": "",
+            "pages": "131-140",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "RNA synthesis during infection by Hendra virus: an examination by quantitative real-time PCR of RNA accumulation, the effect of ribavirin and the attenuation of transcription",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Crameri",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Arch. Virol.",
+            "volume": "150",
+            "issn": "",
+            "pages": "521-532",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Multiple signaling pathways leading to the activation of interferon regulatory factor 3",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Servant",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Grandvaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hiscott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem. Pharm.",
+            "volume": "64",
+            "issn": "",
+            "pages": "985-992",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Toll-like receptor signalling",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "499-511",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "RIGging an antiviral defense \u2014 it's in the CARDs",
+            "authors": [
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "IJ",
+                    "middle": [],
+                    "last": "Marie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Immunol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "699-701",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "The RNA helicase RIG-I has an essential function in double-stranded RNA-induced innate antiviral responses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yoneyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Immunol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "730-737",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "IPS-1, an adaptor triggering RIG-I- and Mda5-mediated type I interferon induction",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kawai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Immunol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "981-988",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "IKK\u03b5 and TBK1 are essential components of the IRF3 signaling pathway",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Immunol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "491-496",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "The complete genome sequence of the novel rodent paramyxovirus J-virus reveals a unique genome structure",
+            "authors": [
+                {
+                    "first": "PJM",
+                    "middle": [],
+                    "last": "Jack",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Boyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "1069-1070",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Triggering the interferon antiviral response through an IKK-related pathway",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1148-1151",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Inferences, questions and possibilities in Toll-like receptor signalling",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Beutler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "430",
+            "issn": "",
+            "pages": "257-263",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Investigation of a second focus of equine morbillivirus infection in coastal Queensland",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Aus. Vet. J.",
+            "volume": "74",
+            "issn": "",
+            "pages": "243-244",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "The retrospective diagnosis of a second outbreak of equine morbillivirus infection",
+            "authors": [
+                {
+                    "first": "PT",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Kattenbelt",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Aus. Vet. J.",
+            "volume": "74",
+            "issn": "",
+            "pages": "244-245",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Serologic evidence for the presence in Pteropus bats of a paramyxovirus related to equine morbillivirus",
+            "authors": [
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "2",
+            "issn": "",
+            "pages": "239-240",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "A fatal case of Hendra virus infection in a horse in north Queensland: clinical and epidemiological features",
+            "authors": [
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Field",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Barratt",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shield",
+                    "suffix": ""
+                },
+                {
+                    "first": "ND",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Aus. Vet. J.",
+            "volume": "78",
+            "issn": "",
+            "pages": "279-280",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Isolation of Hendra virus from pteropid bats: a natural reservoir of Hendra virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Halpin",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "HE",
+                    "middle": [],
+                    "last": "Field",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Mackenzie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Gen. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "1927-1932",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "The natural history of Hendra and Nipah viruses",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Field",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbes Infect.",
+            "volume": "3",
+            "issn": "",
+            "pages": "307-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Nipah virus outbreak in malaysia",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Clin. Virol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "265-275",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "A novel P/V/C gene in a new member of the Paramyxoviridae family, which causes lethal infection in humans, horses, and other animals",
+            "authors": [
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "1482-1490",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Case-control study of risk factors for human infection with a new zoonotic paramyxovirus, Nipah virus, during a 1998\u20131999 outbreak of severe encephalitis in Malaysia",
+            "authors": [
+                {
+                    "first": "UD",
+                    "middle": [],
+                    "last": "Parashar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Infect. Dis.",
+            "volume": "181",
+            "issn": "",
+            "pages": "1755-1759",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Outbreak of Nipah-virus infection among abattoir workers in Singapore",
+            "authors": [
+                {
+                    "first": "NI",
+                    "middle": [],
+                    "last": "Paton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Lancet",
+            "volume": "354",
+            "issn": "",
+            "pages": "1253-1256",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Nipah virus encephalitis reemergence, Bangladesh",
+            "authors": [
+                {
+                    "first": "VP",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "12",
+            "issn": "",
+            "pages": "2082-2087",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Isolation of Nipah virus from Malaysian Island flying-foxes",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Microbes Infect.",
+            "volume": "4",
+            "issn": "",
+            "pages": "145-151",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Nipah virus infection in bats (order Chiroptera) in Peninsular Malaysia",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Yob",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "7",
+            "issn": "",
+            "pages": "439-441",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Nipah virus in Lyle's flying foxes, Cambodia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reynes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "11",
+            "issn": "",
+            "pages": "1042-1047",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "676-679",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Nipah virus: a recently emergent deadly paramyxovirus",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "288",
+            "issn": "",
+            "pages": "1432-1435",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Comparative pathology of the diseases caused by Hendra and Nipah viruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daniels",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Middleton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbes Infect.",
+            "volume": "3",
+            "issn": "",
+            "pages": "315-322",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Nipah virus infection of pigs in peninsular Malaysia",
+            "authors": [
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Mohd. Nor",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Gan",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Ong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Rev. Sci. Tech.",
+            "volume": "19",
+            "issn": "",
+            "pages": "160-165",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Experimental Nipah virus infection in pigs and cats",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Middleton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Comp. Pathol.",
+            "volume": "126",
+            "issn": "",
+            "pages": "124-136",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "A guinea pig model of Hendra virus encephalitis",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Williamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PT",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Selleck",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Westbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Slocombe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Comp. Pathol.",
+            "volume": "124",
+            "issn": "",
+            "pages": "273-279",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "A golden hamster model for human acute Nipah virus infection",
+            "authors": [
+                {
+                    "first": "KT",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Am. J. Pathol.",
+            "volume": "163",
+            "issn": "",
+            "pages": "2127-2137",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "A canine distemper virus epidemic in Serengeti lions (Panthera leo)",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Roelke-Parker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature",
+            "volume": "379",
+            "issn": "",
+            "pages": "441-445",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Pathogenicity of morbilliviruses for terrestrial carnivores",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Appel",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Summers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Vet. Microbiol.",
+            "volume": "44",
+            "issn": "",
+            "pages": "187-191",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "A morbillivirus that caused fatal disease in horses and humans",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Science",
+            "volume": "268",
+            "issn": "",
+            "pages": "94-97",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Infection of humans and horses by a newly described morbillivirus",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Selvey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Med. J. Aus.",
+            "volume": "162",
+            "issn": "",
+            "pages": "642-645",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats",
+            "authors": [
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "14040-14045",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Fatal encephalitis due to Nipah virus among pig-farmers in Malaysia",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Lancet",
+            "volume": "354",
+            "issn": "",
+            "pages": "1257-1259",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Lesions of experimental equine morbillivirus pneumonia in horses",
+            "authors": [
+                {
+                    "first": "PT",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Ketterer",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Hyatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Vet. Pathol.",
+            "volume": "34",
+            "issn": "",
+            "pages": "312-322",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Clinical features of nipah virus encephalitis among pig farmers in Malaysia",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Goh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "New Engl. J. Med.",
+            "volume": "342",
+            "issn": "",
+            "pages": "1229-1235",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Nipah virus infection, an emerging paramyxoviral zoonosis",
+            "authors": [
+                {
+                    "first": "KT",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Shieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Springer Sem. Immunopathol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "215-228",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Relapsed and late-onset Nipah encephalitis",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Ann. Neurol.",
+            "volume": "51",
+            "issn": "",
+            "pages": "703-708",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Relapsed and late-onset Nipah encephalitis, a report of three cases",
+            "authors": [
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Neurol. J. Southeast Asia",
+            "volume": "8",
+            "issn": "",
+            "pages": "109-112",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Fatal encephalitis due to novel paramyxovirus transmitted from horses",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "O'Sullivan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Lancet",
+            "volume": "349",
+            "issn": "",
+            "pages": "93-95",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Functional expression and membrane fusion tropism of the envelope glycoproteins of Hendra virus",
+            "authors": [
+                {
+                    "first": "KN",
+                    "middle": [],
+                    "last": "Bossart",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Broder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "290",
+            "issn": "",
+            "pages": "121-135",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "Membrane fusion tropism and heterotypic functional activities of the Nipah virus and Hendra virus envelope glycoproteins",
+            "authors": [
+                {
+                    "first": "KN",
+                    "middle": [],
+                    "last": "Bossart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "11186-11198",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Sendai virus utilizes specific sialyloligosaccharides as host cell receptor determinants",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Markwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Paulson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "77",
+            "issn": "",
+            "pages": "5693-5697",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Richards",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Flying Foxes: Fruit and Blossom Bats of Australia",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Binding of measles virus to membrane cofactor protein (CD46): importance of disulfide bonds and N-glycans for the receptor function",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maisner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schneider-Schaulies",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Liszewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Atkinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Herrler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "6299-6304",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "The human CD46 molecule is a receptor for measles (Edmonston strain)",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Dorig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marcil",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chopra",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Richardson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Cell",
+            "volume": "75",
+            "issn": "",
+            "pages": "295-305",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Human membrane cofactor protein (CD46) acts as a cellular receptor for measles virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Naniche",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Virol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "6025-6032",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "SLAM (CD150) is a cellular receptor for measles virus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tatsuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ono",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yanagi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "406",
+            "issn": "",
+            "pages": "893-897",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "Morbilliviruses use signaling lymphocyte activation molecules (CD150) as cellular receptors",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tatsuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ono",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yanagi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "5842-5850",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "The attachment protein of Hendra virus has high structural similarity but limited primary sequence homology compared with viruses in the genus Paramyxovirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hansson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Langedijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "251",
+            "issn": "",
+            "pages": "227-233",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Sequence and structure alignment of Paramyxoviridae attachment proteins and discovery of enzymatic activity for a morbillivirus hemagglutinin",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Langedijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Daus",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "van Oirschot",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "6155-6167",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "Crystal structure of the multifunctional paramyxovirus hemagglutinin\u2013neuraminidase",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Crennell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Takimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Portner",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Struct. Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "1068-1074",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "The location, immunogenicity of and relationships between, neutralising epitopes on the attachment protein (G) of Hendra virus",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Gen. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "2839-2848",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "An apparently new virus (family Paramyxoviridae) infectious for pigs, humans, and fruit bats",
+            "authors": [
+                {
+                    "first": "AW",
+                    "middle": [],
+                    "last": "Philbey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "4",
+            "issn": "",
+            "pages": "269-271",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Receptor-binding, fusion inhibition and induction of cross-reactive neutralizing antibodies by a soluble G glycoprotein of Hendra virus",
+            "authors": [
+                {
+                    "first": "KN",
+                    "middle": [],
+                    "last": "Bossart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "6690-6702",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "EphrinB2 is the entry receptor for Nipah virus, an emergent deadly paramyxovirus",
+            "authors": [
+                {
+                    "first": "OA",
+                    "middle": [],
+                    "last": "Negrete",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "436",
+            "issn": "",
+            "pages": "401-405",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "Ephrin-B2 ligand is a functional receptor for Hendra virus and Nipah virus",
+            "authors": [
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Bonaparte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "10652-10657",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "Diverse roles of Eph receptors and Ephrins in the regulation of cell migration and tissue assembly",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Poliakov",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotrina",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Wilkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Dev. Cell",
+            "volume": "7",
+            "issn": "",
+            "pages": "465-480",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Eph family functions from an evolutionary perspective",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Drescher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr. Opin. Genet. Dev.",
+            "volume": "12",
+            "issn": "",
+            "pages": "397-402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF117": {
+            "title": "Ephrins and their Eph receptors: multitalented directors of embryonic development",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Frisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Holmberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barbacid",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "EMBO J.",
+            "volume": "18",
+            "issn": "",
+            "pages": "5159-5165",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF118": {
+            "title": "The ephrins and Eph receptors in neural development",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Flanagan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vanderhaeghen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Annu. Rev. Neurosci.",
+            "volume": "21",
+            "issn": "",
+            "pages": "309-345",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "Molecular distinction and angiogenic interaction between embryonic arteries and veins revealed by Ephrin-B2 and its receptor Eph-B4",
+            "authors": [
+                {
+                    "first": "HU",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZF",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Cell",
+            "volume": "93",
+            "issn": "",
+            "pages": "741-753",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "Expression of Ephrin B2 identifies a stable genetic difference between arterial and venous vascular smooth muscle as well as endothelial cells, and marks subsets of microvessels at sites of adult neovascularization",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Dev. Biol.",
+            "volume": "230",
+            "issn": "",
+            "pages": "139-150",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "Ephrin-B2 selectively marks arterial vessels and neovascularization sites in the adult, with expression in both endothelial and smooth-muscle cells",
+            "authors": [
+                {
+                    "first": "NW",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Dev. Biol.",
+            "volume": "230",
+            "issn": "",
+            "pages": "151-160",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Molecular characterization of Menangle virus, a novel paramyxovirus which infects pigs, fruit bats, and humans",
+            "authors": [
+                {
+                    "first": "TR",
+                    "middle": [],
+                    "last": "Bowden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Westenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Boyle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "283",
+            "issn": "",
+            "pages": "358-373",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "Crystal structure of an Eph receptor\u2013ephrin complex",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Himanen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "414",
+            "issn": "",
+            "pages": "933-938",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Crystal structure of an ephrin ectodomain",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Toth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Dev. Cell",
+            "volume": "1",
+            "issn": "",
+            "pages": "83-92",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "LearnCoil-VMF: computational evidence for coiled-coil-like motifs in many viral membrane-fusion proteins",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Mol. Biol.",
+            "volume": "290",
+            "issn": "",
+            "pages": "1031-1041",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "Enveloped viruses: a common mode of membrane fusion?",
+            "authors": [
+                {
+                    "first": "FM",
+                    "middle": [],
+                    "last": "Hughson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Curr. Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "R565-R569",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF127": {
+            "title": "Mutations in the putative HR-C region of the measles virus F2 glycoprotein modulate syncytium formation",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Plemper",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Compans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "4181-4190",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Peptides from conserved regions of paramyxovirus fusion (F) proteins are potent inhibitors of viral fusion",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Lambert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "2186-2191",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF129": {
+            "title": "A core trimer of the paramyxovirus fusion protein: parallels to influenza virus hemagglutinin and HIV-1 gp41",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Joshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Dutch",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "248",
+            "issn": "",
+            "pages": "20-34",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF130": {
+            "title": "Analysis of a peptide inhibitor of paramyxovirus (NDV) fusion using biological assays, NMR, and molecular modeling",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Hicks",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Morrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "238",
+            "issn": "",
+            "pages": "291-304",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF131": {
+            "title": "A synthetic peptide corresponding to a conserved heptad repeat domain is a potent inhibitor of Sendai virus-cell fusion: an emerging similarity with functional domains of other viruses",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rapaport",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ovadia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "5524-5531",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF132": {
+            "title": "Inhibition of henipavirus fusion and infection by heptad-derived peptides of the Nipah virus fusion protein",
+            "authors": [
+                {
+                    "first": "KN",
+                    "middle": [],
+                    "last": "Bossart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virol. J.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF133": {
+            "title": "Tioman virus, a novel paramyxovirus isolated from fruit bats in Malaysia",
+            "authors": [
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "283",
+            "issn": "",
+            "pages": "215-229",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF134": {
+            "title": "Identification of biological activities of paramyxovirus glycoproteins. Activation of cell fusion, hemolysis, and infectivity of proteolytic cleavage of an inactive precursor protein of Sendai virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Scheid",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Choppin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Virology",
+            "volume": "57",
+            "issn": "",
+            "pages": "475-490",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF135": {
+            "title": "Structure and expression of mouse furin, a yeast Kex2-related protease. Lack of processing of coexpressed prorenin in GH4C1 cells",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hatsuzawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Biol. Chem.",
+            "volume": "265",
+            "issn": "",
+            "pages": "22075-22078",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF136": {
+            "title": "Human furin is a calcium-dependent serine endoprotease that recognizes the sequence Arg-X-X-Arg and efficiently cleaves anthrax toxin protective antigen",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Molloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Bresnahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Leppla",
+                    "suffix": ""
+                },
+                {
+                    "first": "KR",
+                    "middle": [],
+                    "last": "Klimpel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Biol. Chem.",
+            "volume": "267",
+            "issn": "",
+            "pages": "16396-16402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF137": {
+            "title": "Tryptase Clara, an activating protease for Sendai virus in rat lungs, is involved in pneumopathogenicity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tashiro",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "7211-7216",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF138": {
+            "title": "Mini-plasmin found in the epithelial cells of bronchioles triggers infection by broad-spectrum influenza A viruses and Sendai virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Murakami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Eur. J. Biochem.",
+            "volume": "268",
+            "issn": "",
+            "pages": "2847-2855",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF139": {
+            "title": "The cleavage activation and sites of glycosylation in the fusion protein of Hendra virus",
+            "authors": [
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Michalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Crameri",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Shiell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Eaton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virus Res.",
+            "volume": "69",
+            "issn": "",
+            "pages": "83-93",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF140": {
+            "title": "Subcellular localization and calcium and pH requirements for proteolytic processing of the Hendra virus fusion protein",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Pager",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Wurth",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Dutch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "9154-9163",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF141": {
+            "title": "The Nipah virus fusion protein is cleaved within the endosomal compartment",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Diederich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moll",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maisner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "29899-29903",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF142": {
+            "title": "Endocytosis plays a critical role in proteolytic processing of the Hendra virus fusion protein",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Meulendyke",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Wurth",
+                    "suffix": ""
+                },
+                {
+                    "first": "RO",
+                    "middle": [],
+                    "last": "McCann",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Dutch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "12643-12649",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF143": {
+            "title": "Endocytosis of the Nipah virus glycoproteins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vogt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eickmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Diederich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moll",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maisner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "3865-3872",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF144": {
+            "title": "Bat parainfluenza virus. Immunological, chemical, and physical properties",
+            "authors": [
+                {
+                    "first": "FB",
+                    "middle": [],
+                    "last": "Hollinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Pavri",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "Am. J. Trop. Med. Hyg.",
+            "volume": "20",
+            "issn": "",
+            "pages": "131-138",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF145": {
+            "title": "Ubiquitous activation of the Nipah virus fusion protein does not require a basic amino acid at the cleavage site",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moll",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Diederich",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Czub",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maisner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "9705-9712",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF146": {
+            "title": "Cathepsin L is involved in proteolytic processing of the Hendra virus fusion protein",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Pager",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Dutch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "12714-12520",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF147": {
+            "title": "Antiviral actions of interferons",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Samuel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin. Microbiol. Rev.",
+            "volume": "14",
+            "issn": "",
+            "pages": "778-809",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF148": {
+            "title": "Interferons: cell signalling, immune modulation, antiviral response and virus countermeasures",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodbourn",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Didcock",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Randall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Gen. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "2341-2364",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF149": {
+            "title": "How cells respond to interferons",
+            "authors": [
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Kerr",
+                    "suffix": ""
+                },
+                {
+                    "first": "BRG",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Silverman",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Schreiber",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "67",
+            "issn": "",
+            "pages": "227-264",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF150": {
+            "title": "Mechanisms of inhibition of the host interferon \u03b1/\u03b2-mediated antiviral responses by viruses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garc\u00eda-Sastre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Microbes Infect.",
+            "volume": "4",
+            "issn": "",
+            "pages": "647-655",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF151": {
+            "title": "Differential viral induction of distinct interferon-\u03b1 genes by positive feedback through interferon regulatory factor-7",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Marie",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Durbin",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Levy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "EMBO J.",
+            "volume": "17",
+            "issn": "",
+            "pages": "6660-6669",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF152": {
+            "title": "When two strands are better than one: the mediators and modulators of the cellular responses to double-stranded RNA",
+            "authors": [
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "JO",
+                    "middle": [],
+                    "last": "Langland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Virology",
+            "volume": "219",
+            "issn": "",
+            "pages": "339-349",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF153": {
+            "title": "Recognition of the measles virus nucleocapsid as a mechanism of IRF-3 activation",
+            "authors": [
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "tenOever",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Servant",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Grandvaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hiscott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3659-3669",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF154": {
+            "title": "Inverse interference: how viruses fight the interferon system",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kochs",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Haller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Viral Immunol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "498-515",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF155": {
+            "title": "Characterization of Mapuera virus: structure, proteins and nucleotide sequence of the gene encoding the nucleocapsid protein",
+            "authors": [
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Laird",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dermott",
+                    "suffix": ""
+                },
+                {
+                    "first": "BK",
+                    "middle": [],
+                    "last": "Rima",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Gen. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "2509-2518",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF156": {
+            "title": "Viruses and interferon: a fight for supremacy",
+            "authors": [
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Katze",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "675-687",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF157": {
+            "title": "Effects of nonstructural proteins NS1 and NS2 of human respiratory syncytial virus on interferon regulatory factor 3, NF-\u03baB, and proinflammatory cytokines",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Spann",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5353-5362",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF158": {
+            "title": "Bovine respiratory syncytial virus nonstructural proteins NS1 and NS2 cooperatively antagonize \u03b1/\u03b2 interferon-induced antiviral response",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schlender",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bossert",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Buchholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Conzelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "8234-8242",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF159": {
+            "title": "The V proteins of simian virus 5 and other paramyxoviruses inhibit induction of interferon-\u03b2",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Poole",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Randall",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodbourn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "303",
+            "issn": "",
+            "pages": "33-46",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF160": {
+            "title": "Recovery of paramyxovirus simian virus 5 with a V protein lacking the conserved cysteine-rich domain: the multifunctional V protein blocks both interferon-\u03b2 induction and interferon signaling",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "303",
+            "issn": "",
+            "pages": "15-32",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF161": {
+            "title": "C and V proteins of Sendai virus target signaling pathways leading to Irf-3 activation for the negative regulation of interferon-\u03b2 production",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Komatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yokoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gotoh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "325",
+            "issn": "",
+            "pages": "137-148",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF162": {
+            "title": "Evasion of host defenses by measles virus: wild-type measles virus infection interferes with induction of \u03b1/\u03b2 interferon production",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Naniche",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "7478-7484",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF163": {
+            "title": "Transcriptional activation of \u03b1/\u03b2 interferon genes: interference by nonsegmented negative-strand RNA viruses",
+            "authors": [
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Conzelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5241-5248",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF164": {
+            "title": "Host evasion by emerging paramyxoviruses: Hendra virus and Nipah virus V proteins inhibit interferon signaling",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Viral Immunol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "210-219",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF165": {
+            "title": "Silencing STATs: lessons from paramyxovirus interferon evasion",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Horvath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cytokine Growth Factor Rev.",
+            "volume": "15",
+            "issn": "",
+            "pages": "117-127",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

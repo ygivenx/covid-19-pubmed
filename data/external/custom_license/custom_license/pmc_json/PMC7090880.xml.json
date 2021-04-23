@@ -1,0 +1,757 @@
+{
+    "paper_id": "PMC7090880",
+    "metadata": {
+        "title": "Advances of bioinformatics tools applied in virus epitopes prediction",
+        "authors": [
+            {
+                "first": "Ping",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Simon",
+                "middle": [],
+                "last": "Rayner",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Kang-hong",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "email": "hukgh@wh.iov.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Benchmarking B cell epitope prediction: Underperformance of existing methods",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Blythe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Flower",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Protein Sci",
+            "volume": "14",
+            "issn": "1",
+            "pages": "246-248",
+            "other_ids": {
+                "DOI": [
+                    "10.1110/ps.041059505"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Cytotoxic T-lymphocyte epitope vaccination protects against human metapneumovirus infection and disease in mice",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Herd",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mahalingam",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Mackay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "4",
+            "pages": "2034-2044",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.4.2034-2044.2006"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "The antigenic index: a novel algorithm for predicting antigenic determinants",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Jameson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Bioinformatics",
+            "volume": "4",
+            "issn": "1",
+            "pages": "181-186",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/4.1.181"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "A novel HIV T helper epitope-based vaccine elicits cytokine-secreting HIV-specific CD4+ T cells in a Phase I clinical trial in HIV-uninfected adults",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "De-Rosa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Vaccine",
+            "volume": "27",
+            "issn": "50",
+            "pages": "7080-7086",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2009.09.060"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "CEP: a conformational epitope prediction server",
+            "authors": [
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Kulkarni-Kale",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Bhosles",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Kolaskar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nucl Acids Res",
+            "volume": "33",
+            "issn": "",
+            "pages": "W168-W171",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gki460"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Improved method for predicting linear B-cell epitopes",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Immunome Res",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1745-7580-2-2"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Identification of a novel conserved HLA-A*0201-restricted epitope from the spike protein of SARS-CoV",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "BMC Immunol",
+            "volume": "10",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2172-10-61"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Hidden Markov model-based prediction of antigenic peptides that interact with MHC class II molecules",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Noguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Hanai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Biosci Bioeng",
+            "volume": "94",
+            "issn": "3",
+            "pages": "264-270",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "SYFPEITHI: database for MHC ligands and peptide motifs",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Rammensee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Bachmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Emmerich",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Immunogenetics",
+            "volume": "50",
+            "issn": "3\u20134",
+            "pages": "213-219",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s002510050595"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Prediction of Continuous B-cell Epitopes in an Antigen Using Recurrent Neural Network",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Saha",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Raghava",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proteins",
+            "volume": "65",
+            "issn": "1",
+            "pages": "40-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.21078"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Dendritic cell mediated delivery of plasmid DNA encoding LAMP/HIV-1 Gag fusion immunogen enhances T cell epitope responses in HLA DR4 transgenic mice",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Khan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS One",
+            "volume": "5",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0008574"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Ab and T cell epitopes of influenza A virus, knowledge and opportunities",
+            "authors": [
+                {
+                    "first": "H.H.",
+                    "middle": [],
+                    "last": "Bui",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Assarsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "104",
+            "issn": "1",
+            "pages": "246-251",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0609330104"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "ProPred: Prediction of HLA-DR binding sites",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Raghava",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "12",
+            "pages": "1236-1237",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/17.12.1236"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Computational Prediction and Identification of Epstein-Barr Virus Latent Membrane Protein 2A Antigen-Specific CD8+ T-Cell",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell Mol Immunol",
+            "volume": "6",
+            "issn": "2",
+            "pages": "97-103",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/cmi.2009.13"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Screening and identification of B cell epitopes of structural proteins of foot-and-mouth disease virus serotype Asia1",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Vet Microbiol",
+            "volume": "140",
+            "issn": "1\u20132",
+            "pages": "25-33",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2009.07.011"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Sensitive quantitative predictions of peptide-MHC binding by a \u2018Query by Committee\u2019 artificial neural network approach",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Buus",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Lauem\u00f8ller",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Worning",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Tissue Antigens",
+            "volume": "62",
+            "issn": "5",
+            "pages": "378-384",
+            "other_ids": {
+                "DOI": [
+                    "10.1034/j.1399-0039.2003.00112.x"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Harnessing bioinformatics to discover new vaccines",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Flower",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Drug Discov Today",
+            "volume": "12",
+            "issn": "9\u201310",
+            "pages": "389-395",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.drudis.2007.03.010"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "In silico prediction and ex vivo evaluation of potential T-cell epitopes in glycoproteins 4 and 5 and nucleocapsid protein of genotype-I (European) of porcine reproductive and respiratory syndrome virus",
+            "authors": [
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "D\u00edaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Pujols",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Ganges",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Vaccine",
+            "volume": "27",
+            "issn": "41",
+            "pages": "5603-5611",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2009.07.029"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Prediction of MHC class Ibinding peptides, using SVMHC",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Donnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Elofsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "BMC Bioinformatics",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-3-25"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "SVMHC: a server for prediction of MHC-binding peptides",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Donnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Kohlbacher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucl Acids Res",
+            "volume": "34",
+            "issn": "",
+            "pages": "W194-W197",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkl284"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "MHCPred: bringing a quantitative dimension to the online prediction of MHC binding",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Doytchinova",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Zygouri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Appl Bioinformatics",
+            "volume": "2",
+            "issn": "1",
+            "pages": "63-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Prediction of residues in discontinuous B-cell epitopes using protein 3D structures",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Haste Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Protein Sci",
+            "volume": "15",
+            "issn": "11",
+            "pages": "2558-2567",
+            "other_ids": {
+                "DOI": [
+                    "10.1110/ps.062405906"
+                ]
+            }
+        }
+    }
+}

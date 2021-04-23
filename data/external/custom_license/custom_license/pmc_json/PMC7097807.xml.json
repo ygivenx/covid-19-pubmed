@@ -1,0 +1,4129 @@
+{
+    "paper_id": "PMC7097807",
+    "metadata": {
+        "title": "Ubiquitin-like protein conjugation and the ubiquitin\u2013proteasome system as drug targets",
+        "authors": [
+            {
+                "first": "Lynn",
+                "middle": [],
+                "last": "Bedford",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "James",
+                "middle": [],
+                "last": "Lowe",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Lawrence",
+                "middle": [
+                    "R."
+                ],
+                "last": "Dick",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "R.",
+                "middle": [
+                    "John"
+                ],
+                "last": "Mayer",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "James",
+                "middle": [
+                    "E."
+                ],
+                "last": "Brownell",
+                "suffix": "",
+                "email": "james.brownell@mpi.com",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: E1 activating enzymes, their cognate UBLs and biological roles*\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Properties of selected inhibitors of the proteasome and immunoproteasome\n",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table 3: Selected E3 ligases, substrates, associations with human disease and mechanistic targeting\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | Ubiquitin-activating enzyme (UAE) binds ATP and ubiquitin (Ub) to form a ternary complex consisting of E1\u2013ubiquitin thioester with ubiquitin\u2013AMP bound (see text for details). The thioester-bound ubiquitin is then passed to one of several E2 conjugating enzymes through a transthiolation reaction. The ubiquitin-charged E2 then forms a complex with an E3 ligase and a protein substrate to transfer ubiquitin to a lysine residue on the substrate. To mark substrates for degradation, multiple ubiquitins are similarly recruited to produce a K48-linked polyubiquitin chain. Following release from the E3, the proteasome recognizes the polyubiquitin chain, and the substrate is deubiquitylated and destroyed. Substrates marked with ubiquitin chains linked through lysines 6, 11, 27, 29 and 33 also seem to be primarily destined for degradation. Alternatively, substrates marked with monoubiquitin, linear ubiquitin chains or K63 ubiquitin chains are involved in signalling functions that are independent of the proteasome. A second E1 (ubiquitin-like modifier activating enzyme 6 (UBA6)) also activates ubiquitin, but the function(s) of this pathway are unknown. b | Nine classes of UBL and eight E1 activating enzymes participate in diverse biological pathways in humans. E1s, E2s and UBLs are structurally and mechanistically related but are unique to each pathway. Ubiquitin and some E2s are exceptions in that they can be used by both the UAE and UBA6 pathways. Ufl1 and C20orf166 were recently identified and reported by Tatsumi et al139. DUB, deubiquitylating enzyme; NAE, NEDD8-activating enzyme; PPi, inorganic pyrophosphate; SAE, SUMO-activating enzyme.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | In the first step of UBL activation, E1s bind ATP and a cognate UBL and catalyse the formation of a UBL carboxy- terminal acyl adenylate. The E1 catalytic cysteine then attacks the UBL\u2013adenylate to form a thioester with the C terminus of the UBL. The E1 subsequently binds a second ATP and UBL, again forming a UBL\u2013adenylate and resulting in the formation of a ternary complex consisting of an E1\u2013UBL thioester with UBL\u2013adenylate bound to it. This form of the E1 is fully competent to transfer thioester-bound UBL to a cognate E2 enzyme and initiate the downstream effects of UBL signalling. Small molecules, including the pyrazone derivative PYR41, JS-K and MLN4924, use distinct mechanisms to block this process at different stages of the E1 reaction cycle (see Box 2 for further details). b | Substrate-assisted mechanism-based E1 inhibition. E1s use a multistep mechanism to form a ternary complex consisting of an E1\u223cUBL thioester (\u223c denotes a high-energy bond) with UBL\u2013adenylate bound to it (steps 1\u20133). This form of E1 is competent for UBL transfer to an E2 by a transthiolation reaction (step 4). The NEDD8-activating enzyme (NAE)-selective inhibitor MLN4924 and related adenosine sulphamate analogues are mechanism-based inhibitors of E1s and form covalent UBL\u2013inhibitor adducts in situ, catalysed by the E1 itself. Inhibitors of this class bind exclusively to the UBL thioester form of E1 shown in step 2 and attack the thioester bond to yield the UBL\u2013inhibitor adduct. The UBL\u2013inhibitor adduct mimics UBL\u2013adenylate, the first intermediate in the E1 reaction cycle, but cannot be further used in subsequent intra-enzyme reactions. The stability of the UBL\u2013inhibitor adduct within the E1 active site adenylation domain blocks enzyme activity.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: There are four major classes of ubiquitin ligase: HECT domain proteins, U-box proteins, monomeric RING finger E3s, and multisubunit E3 complexes that contain a RING finger protein. a | HECT domain E3s use a unique mechanism in which ubiquitin (Ub) is transferred from an E2 to a conserved cysteine residue within the E3 via transthiolation and is then transferred from the E3 to a substrate amino group. All other types of E3 facilitate transfer of Ub from a charged E2 directly to a substrate. b | The RING finger motif comprises a Zn2+ binding domain that is required for E2 binding. The U-box also binds E2s and is structurally similar to the RING motif, but does not bind metal ions. Monomeric RING finger E3s and U-box E3s bind to both the substrate and the E2. In multimeric RING finger complexes, the RING finger protein binds the E2 while other proteins in the complex bind the substrate. These multimeric complexes include the anaphase promoting complex/cyclosome and cullin-RING ligases (CRLs). A unique aspect of CRLs is the requirement for modification of the cullin subunit by NEDD8 for ubiquitin ligase activity (Box 2). RBX, RING-box protein.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: a | E2s engage in a sequence of highly specific interactions to faithfully transfer a ubiquitin-like protein (UBL) to a substrate. E2s first bind their respective E1 to receive an activated UBL through a transthiolation reaction. In most cases, the E2\u2013UBL thioester then binds a specific E3 or E3\u2013substrate complex. During catalysis to protein substrates, the UBL is transferred from the E2 thiol active site to the amino group of a substrate acceptor lysine residue that is positioned for nucleophilic attack on the E2\u2013UBL thioester bond. Each of these E2 interactions offers potential opportunities for selective inhibition as illustrated by the following examples. b | Targeting E2\u223cUBL thioester formation by blocking E1\u2013E2 protein\u2013protein interaction. A synthetic peptide called UBC12N26 corresponds to the 26-residue amino terminus extension of UBC12 that specifically binds the NEDD8-activiating enzyme (NAE). UBC12N26 competes for binding of UBC12 to NAE, thereby blocking transthiolation of NEDD8 to UBC12 and inhibiting downstream NEDD8-dependent events. c | Targeting E3-dependent E2 allosteric activation. In some cases, E2\u2013E3 binding is necessary but not sufficient for optimal UBL transfer to a substrate. For example, the E3 gp78 binds the E2, UBE2G2, through a RING finger and a second domain called G2BR that binds the backside of UBE2G2, which is opposite from the catalytic cysteine and distal from the RING binding surface. Blocking G2BR interaction with UBE2G2 would inhibit allosteric activation of the E2 and prevent subsequent ubiquitylation of substrate proteins. d | Targeting catalysis of UBL transfer. A conserved asparagine residue in E2s (exemplified by asparagine 79 in UBC13) has been shown to be crucial for UBL transfer and is thought to form the oxyanion hole required to stabilize the E2 thioester\u2013substrate transition state intermediate. Targeting this site with a small-molecule effector may offer yet another approach for inhibition. Ub, ubiquitin. Part b is reproduced, with permission, from Ref. 17 \u00a9 (2004) Macmillan Publishers Ltd. All rights reserved. Part c is reproduced, with permission, from Ref. 127 \u00a9 (2009) Elsevier Science. Part d is reproduced, with permission, from Ref. 128 \u00a9 (2003) Macmillan Publishers Ltd. All rights reserved.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: a | Tumour necrosis factor-\u03b1 (TNF-\u03b1) signalling. b | Interleukin-1 (IL-1) receptor 1 (IL1R1) and Toll-like receptor signalling. The diagrams are based on recent reviews140,141. Although it is tempting to represent a general consensus, some enzymological steps are controversial due, for example, to enzymological redundancy. The role of ubiquitin (Ub) in signalling to NF-\u03baB needs considerably more investigation. See the main text for more details. DUB, deubiquitylating enzyme; LUBAC, linear ubiquitin chain-assembly complex.",
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Figure 6: Neuronal proteins are normally degraded by the activities of the ubiquitin\u2013proteasome system (UPS), chaperone-mediated autophagy (CMA) and macro-autophagy (collectively referred to as autophagy), and the endosome\u2013lysosome pathway. Unfolded proteins, proteins altered by mutation or post-translational modifications and proteins that are damaged (for example, by oxidative stress, irradiation or toxins) are recognized by molecular chaperones and delivered to the UPS and autophagy pathways. Age-related and chronic neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, dementia with Lewy bodies and amyotrophic lateral sclerosis, are 'proteinopathies' associated with the intraneuronal accumulation of insoluble protein aggregates resulting from the malfunction of the neuronal UPS and/or autophagy pathways (see main text for details). The mechanisms of how neurodegeneration results from abnormal protein accumulation due to impaired function of the UPS and autophagy pathways are not known.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The ubiquitin-proteasome pathway: the complexity and myriad functions of proteins death",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "2727-2730",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Ubiquitylation and cell signaling",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Haglund",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dikic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "EMBO J.",
+            "volume": "24",
+            "issn": "",
+            "pages": "3353-3359",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Design and synthesis of an orally bioavailable and selective peptide epoxyketone proteasome inhibitor (PR-047)",
+            "authors": [
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Med. Chem.",
+            "volume": "52",
+            "issn": "",
+            "pages": "3028-3038",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Selective inhibition of chymotrypsin-like activity of the immunoproteasome and constitutive proteasome in Waldenstrom macroglobulinemia",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Roccaro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Blood.",
+            "volume": "115",
+            "issn": "",
+            "pages": "4051-4060",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "A novel orally active proteasome inhibitor induces apoptosis in multiple myeloma cells with mechanisms distinct from Bortezomib",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chauhan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cancer Cell",
+            "volume": "8",
+            "issn": "",
+            "pages": "407-419",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Evaluation of the proteasome inhibitor MLN9708 in preclinical models of human cancer",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kupperman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cancer Res.",
+            "volume": "70",
+            "issn": "",
+            "pages": "1970-1980",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "CEP-18770: a novel, orally active proteasome inhibitor with a tumor-selective pharmacologic profile competitive with bortezomib",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Piva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Blood",
+            "volume": "111",
+            "issn": "",
+            "pages": "2765-2775",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Building on bortezomib: second-generation proteasome inhibitors as anti-cancer therapy",
+            "authors": [
+                {
+                    "first": "LR",
+                    "middle": [],
+                    "last": "Dick",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Fleming",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Drug Discov. Today",
+            "volume": "15",
+            "issn": "",
+            "pages": "243-249",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Discovery of a potent, selective, and orally active proteasome inhibitor for the treatment of cancer",
+            "authors": [
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Dorsey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Med. Chem.",
+            "volume": "51",
+            "issn": "",
+            "pages": "1068-1072",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "A selective inhibitor of the immunoproteasome subunit LMP7 blocks cytokine production and attenuates progression of experimental arthritis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Muchamuel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Med.",
+            "volume": "15",
+            "issn": "",
+            "pages": "781-787",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Targeted inhibition of the immunoproteasome is a potent strategy against models of multiple myeloma that overcomes resistance to conventional drugs and nonspecific proteasome inhibitors",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Blood",
+            "volume": "113",
+            "issn": "",
+            "pages": "4667-4676",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Inhibitors of ubiquitin-activating enzyme (E1), a new class of potential cancer therapeutics",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cancer Res.",
+            "volume": "67",
+            "issn": "",
+            "pages": "9472-9481",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Proteasome-independent functions of ubiquitin in endocytosis and signaling",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mukhopadhyay",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Riezman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Science",
+            "volume": "315",
+            "issn": "",
+            "pages": "201-205",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "The ubiquitin-activating enzyme E1 as a therapeutic target for the treatment of leukemia and multiple myeloma",
+            "authors": [
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Blood",
+            "volume": "115",
+            "issn": "",
+            "pages": "2251-2259",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Nitric oxide prodrug JS-K inhibits ubiquitin E1 and kills tumor cells retaining wild-type p53",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kitagaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Oncogene",
+            "volume": "28",
+            "issn": "",
+            "pages": "619-624",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "An inhibitor of NEDD8-activating enzyme as a new approach to treat cancer",
+            "authors": [
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Soucy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "458",
+            "issn": "",
+            "pages": "732-736",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Targeting NEDD8-activated cullin-RING ligases for the treatment of cancer",
+            "authors": [
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Soucy",
+                    "suffix": ""
+                },
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rolfe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Clin. Cancer Res.",
+            "volume": "15",
+            "issn": "",
+            "pages": "3912-3916",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Cullin-based ubiquitin ligase and its control by NEDD8-conjugating system",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chiba",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Protein Pept. Sci.",
+            "volume": "5",
+            "issn": "",
+            "pages": "177-184",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Structural insights into NEDD8 activation of cullin-RING ligases: conformational control of conjugation",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Duda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell",
+            "volume": "134",
+            "issn": "",
+            "pages": "995-1006",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Pre-clinical antitumor activity of MLN4924, an inhibitor of NEDD8-activating enzyme (NAE), in a novel primary human DLBCL xenograft model",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Traore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Blood",
+            "volume": "114",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Inhibition of NEDD8-activating enzyme: a novel approach for the treatment of acute myeloid leukemia",
+            "authors": [
+                {
+                    "first": "RT",
+                    "middle": [],
+                    "last": "Swords",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Blood",
+            "volume": "115",
+            "issn": "",
+            "pages": "3796-3800",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Substrate-assisted inhibition of ubiquitin-like protein activating enzymes: the NEDD8 E1 inhibitor MLN4924 forms a NEDD8-AMP mimetic in situ.",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Brownell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Cell",
+            "volume": "37",
+            "issn": "",
+            "pages": "102-111",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Ubiquitin-conjugating enzyme UBE2Q2 suppresses cell proliferation and is down-regulated in recurrent head and neck cancer",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Maeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cancer Res.",
+            "volume": "7",
+            "issn": "",
+            "pages": "1553-1562",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Breaking the chains: structure and function of the deubiquitinases",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Komander",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Clague",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Urbe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "550-563",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Targeting the SUMO E2 conjugating enzyme Ubc9 interaction for anti-cancer drug design",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JO",
+                    "middle": [],
+                    "last": "Trent",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Anticancer Agents Med. Chem.",
+            "volume": "9",
+            "issn": "",
+            "pages": "51-54",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Targeting Ubc9 for cancer therapy",
+            "authors": [
+                {
+                    "first": "YY",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Moschos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Expert Opin. Ther. Targets",
+            "volume": "9",
+            "issn": "",
+            "pages": "1203-1216",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Ubc9 promotes breast cell invasion and metastasis in a sumoylation-independent manner",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sachdeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "YY",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Oncogene",
+            "volume": "29",
+            "issn": "",
+            "pages": "1763-1772",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Elevated expression of UBE2T in lung cancer tumors and cell lines",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Tumour Biol.",
+            "volume": "29",
+            "issn": "",
+            "pages": "195-203",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Overexpression of the E2 ubiquitin-conjugating enzyme UbcH10 causes chromosome missegregation and tumor formation",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "van Ree",
+                    "suffix": ""
+                },
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Jeganathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Malureanu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "van Deursen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cell Biol.",
+            "volume": "188",
+            "issn": "",
+            "pages": "83-100",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Association of clinicopathological features with UbcH10 expression in colorectal cancer",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Cancer Res. Clin. Oncol.",
+            "volume": "136",
+            "issn": "",
+            "pages": "419-426",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "E2-c-Cbl recognition is necessary but not sufficient for ubiquitination activity",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Mol. Biol.",
+            "volume": "385",
+            "issn": "",
+            "pages": "507-519",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Allosteric activation of E2-RING finger-mediated ubiquitylation by a structurally defined specific E2-binding region of gp78",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Das",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell",
+            "volume": "34",
+            "issn": "",
+            "pages": "674-685",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "A conserved catalytic residue in the ubiquitin-conjugating enzyme family",
+            "authors": [
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "EMBO J.",
+            "volume": "22",
+            "issn": "",
+            "pages": "5241-5250",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Regulation and cellular roles of ubiquitin-specific deubiquitinating enzymes",
+            "authors": [
+                {
+                    "first": "FE",
+                    "middle": [],
+                    "last": "Reyes-Turcu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Ventii",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Wilkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "78",
+            "issn": "",
+            "pages": "363-397",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Targeting E3 ubiquitin ligases for cancer therapy",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cancer Biol. Ther.",
+            "volume": "2",
+            "issn": "",
+            "pages": "623-629",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Mechanisms, biology and inhibitors of deubiquitinating enzymes",
+            "authors": [
+                {
+                    "first": "KR",
+                    "middle": [],
+                    "last": "Love",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Catic",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schlieker",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Ploegh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Chem. Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "697-705",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "A UAF1-containing multisubunit protein complex regulates the Fanconi anemia pathway",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Cohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Cell",
+            "volume": "28",
+            "issn": "",
+            "pages": "786-797",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "The HAUSP gene plays an important role in non-small cell lung carcinogenesis through p53-dependent pathways",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Masuya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Pathol.",
+            "volume": "208",
+            "issn": "",
+            "pages": "724-732",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "CYLD is a deubiquitinating enzyme that negatively regulates NF-\u03baB activation by TNFR family members",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Trompouki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "424",
+            "issn": "",
+            "pages": "793-796",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "The UCH-L1 gene encodes two opposing enzymatic activities that affect alpha-synuclein degradation and Parkinson's disease susceptibility",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell",
+            "volume": "111",
+            "issn": "",
+            "pages": "209-218",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Targeting ubiquitin specific proteases for drug discovery",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Daviet",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Colland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochimie",
+            "volume": "90",
+            "issn": "",
+            "pages": "270-283",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Structure-based design, synthesis, and biological evaluation of a series of novel and reversible inhibitors for the severe acute respiratory syndrome-coronavirus papain-like protease",
+            "authors": [
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Med. Chem.",
+            "volume": "52",
+            "issn": "",
+            "pages": "5228-5240",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "A noncovalent class of papain-like protease/deubiquitinase inhibitors blocks SARS virus replication",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ratia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "16119-16124",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "AMSH interacts with ESCRT-0 to regulate the stability and trafficking of CXCR4",
+            "authors": [
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Sierra",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Nash",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "13990-14004",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "A novel type of E3 ligase for the Ufm1 conjugation system",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tatsumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "5417-5427",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Deubiquitylating enzymes and disease",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Singhal",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "RT",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMC Biochem.",
+            "volume": "9",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Signalling to NF-\u03baB: regulation by ubiquitin",
+            "authors": [
+                {
+                    "first": "IE",
+                    "middle": [],
+                    "last": "Wertz",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Dixit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cold Spring Harb. Perspect. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "\u201cWithout Ub I am nothing\u201d: NEMO as a multifunctional player in ubiquitin-mediated control of NF-\u03baB activation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gautheron",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Courtois",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell. Mol. Life Sci.",
+            "volume": "67",
+            "issn": "",
+            "pages": "3101-3113",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Ubiquitin and ubiquitin-like proteins in protein regulation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "LO",
+                    "middle": [],
+                    "last": "Lerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Circ. Res.",
+            "volume": "100",
+            "issn": "",
+            "pages": "1276-1291",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Origin and function of ubiquitin-like proteins",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hochstrasser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "458",
+            "issn": "",
+            "pages": "422-429",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "MDM2 is a negative regulator of p21WAF1/CIP1, independent of p53",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "16000-16006",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "In vivo activation of the p53 pathway by small-molecule antagonists of MDM2",
+            "authors": [
+                {
+                    "first": "LT",
+                    "middle": [],
+                    "last": "Vassilev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "",
+            "pages": "844-848",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Small molecule RITA binds to p53, blocks p53\u2013HDM-2 interaction and activates p53 function in tumors",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Issaeva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Med.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1321-1328",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Parthenolide promotes the ubiquitination of MDM2 and activates p53 cellular functions",
+            "authors": [
+                {
+                    "first": "YN",
+                    "middle": [],
+                    "last": "Gopal",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Chanchorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Van Dyke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cancer Ther.",
+            "volume": "8",
+            "issn": "",
+            "pages": "552-562",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Wrenches in the works: drug discovery targeting the SCF ubiquitin ligase and APC/C complexes",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cardozo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pagano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "BMC Biochem.",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "The human F box protein beta-Trcp associates with the Cul1/Skp1 complex and regulates the stability of beta-catenin",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Latres",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Chiaur",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pagano",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Oncogene",
+            "volume": "18",
+            "issn": "",
+            "pages": "849-854",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Ubiquitin-like protein activation by E1 enzymes: the apex for downstream signalling pathways",
+            "authors": [
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Schulman",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Harper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "319-331",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "NEDD8 modification of cul-1 activates SCF(beta(TrCP)-dependent ubiquitination of I\u03baB\u03b1",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Read",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Cell Biol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "2326-2333",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "IAPs: what's in a name?",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Srinivasula",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Ashwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Cell",
+            "volume": "30",
+            "issn": "",
+            "pages": "123-135",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "XIAP as a ubiquitin ligase in cellular signaling",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Galban",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Duckett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell Death Differ.",
+            "volume": "17",
+            "issn": "",
+            "pages": "54-60",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "X-linked inhibitor of apoptosis protein and its E3 ligase activity promote transforming growth factor-\u03b2-mediated nuclear factor-\u03baB activation during breast cancer progression",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Neil",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Schiemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Biol. Chem.",
+            "volume": "284",
+            "issn": "",
+            "pages": "21209-21217",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Triptolide sensitizes AML cells to TRAIL-induced apoptosis via decrease of XIAP and p53-mediated increase of DR5",
+            "authors": [
+                {
+                    "first": "BZ",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Blood",
+            "volume": "111",
+            "issn": "",
+            "pages": "3742-3750",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Simultaneous activation of p53 and inhibition of XIAP enhance the activation of apoptosis signaling pathways in AML",
+            "authors": [
+                {
+                    "first": "BZ",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Blood",
+            "volume": "115",
+            "issn": "",
+            "pages": "306-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Method validation and preliminary qualification of pharmacodynamic biomarkers employed to evaluate the clinical efficacy of an antisense compound (AEG35156) targeted to the X-linked inhibitor of apoptosis protein XIAP",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Br. J. Cancer.",
+            "volume": "95",
+            "issn": "",
+            "pages": "42-48",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "The mRNA decay factor tristetraprolin (TTP) induces senescence in human papillomavirus-transformed cervical cancer cells by targeting E6-AP ubiquitin ligase",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sanduja",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kaza",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Dixon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Aging (Albany NY).",
+            "volume": "1",
+            "issn": "",
+            "pages": "803-817",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "De novo truncating mutations in E6-AP ubiquitin-protein ligase gene (UBE3A) in Angelman syndrome",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Matsuura",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature Genet.",
+            "volume": "15",
+            "issn": "",
+            "pages": "74-77",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "& Chen S. VHL inactivation in renal cell carcinoma: implications for diagnosis, prognosis and treatment",
+            "authors": [
+                {
+                    "first": "WK",
+                    "middle": [],
+                    "last": "Rathmell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Expert Rev. Anticancer Ther.",
+            "volume": "8",
+            "issn": "",
+            "pages": "63-73",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Conservation in the mechanism of NEDD8 activation by the human AppBp1\u2013Uba3 heterodimer",
+            "authors": [
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Bohnsack",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Haas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "26823-26830",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "HIF-1alpha and EPAS ubiquitination mediated by the VHL tumour suppressor involves flexibility in the ubiquitination mechanism, similar to other RING E3 ligases",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paltoglou",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Oncogene",
+            "volume": "26",
+            "issn": "",
+            "pages": "604-609",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "RNF4 and VHL regulate the proteasomal degradation of SUMO-conjugated hypoxia-inducible factor-2\u03b1",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "van Hagen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Overmeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Abolvardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Vertegaal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic Acids Res.",
+            "volume": "38",
+            "issn": "",
+            "pages": "1922-1931",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Oxygen-independent degradation of HIF-alpha via bioengineered VHL tumour suppressor complex",
+            "authors": [
+                {
+                    "first": "RI",
+                    "middle": [],
+                    "last": "Sufan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "EMBO Mol. Med.",
+            "volume": "1",
+            "issn": "",
+            "pages": "66-78",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Cell death: protein misfolding and neurodegenerative diseases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Lipton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Apoptosis",
+            "volume": "14",
+            "issn": "",
+            "pages": "455-468",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "The E3 ubiquitin-ligase Bmi1/Ring1A controls the proteasomal degradation of Top2alpha cleavage complex \u2014 a potentially new drug target",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Alchanati",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS One",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "The proteasome: a suitable antineoplastic target",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Cancer.",
+            "volume": "4",
+            "issn": "",
+            "pages": "349-360",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "The development of proteasome inhibitors as anticancer drugs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cancer Cell",
+            "volume": "5",
+            "issn": "",
+            "pages": "417-421",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Effects of PS-341 on the activity and composition of proteasomes in multiple myeloma cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Altun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cancer Res.",
+            "volume": "65",
+            "issn": "",
+            "pages": "7896-7901",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Potent activity of carfilzomib, a novel, irreversible inhibitor of the ubiquitin-proteasome pathway, against preclinical models of multiple myeloma",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Blood",
+            "volume": "110",
+            "issn": "",
+            "pages": "3281-3290",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Salinosporamide A: a highly cytotoxic proteasome inhibitor from a novel microbial source, a marine bacterium of the new genus Salinospora",
+            "authors": [
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Feling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Angew. Chem. Int. Ed Engl.",
+            "volume": "42",
+            "issn": "",
+            "pages": "355-357",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "A unique E1\u2013E2 interaction required for optimal conjugation of the ubiquitin-like protein NEDD8",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "927-935",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Building ubiquitin chains: E2 enzymes at work",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rape",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "755-764",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Lingering mysteries of ubiquitin-chain assembly",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hochstrasser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell",
+            "volume": "124",
+            "issn": "",
+            "pages": "27-34",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Targeting the ubiquitin system in cancer therapy",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hoeller",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dikic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "458",
+            "issn": "",
+            "pages": "438-444",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Molecular discrimination of structurally equivalent Lys 63-linked and linear polyubiquitin chains",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Komander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "EMBO Rep.",
+            "volume": "10",
+            "issn": "",
+            "pages": "466-473",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/embor.2009.55"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "The E2 ubiquitin conjugating enzymes direct polyubiquitination to preferred lysines",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "David",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ziv",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Admon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Navon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "8595-8604",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "The family of ubiquitin-conjugating enzymes (E2s): deciding between life and death of proteins",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "van Wijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "Timmers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "FASEB J.",
+            "volume": "24",
+            "issn": "",
+            "pages": "981-993",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Function and regulation of cullin-RING ubiquitin ligases",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Petroski",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Deshaies",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "9-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Chemical genetics screen for enhancers of rapamycin identifies a specific inhibitor of an SCF family E3 ubiquitin ligase",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aghajan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Biotech.",
+            "volume": "28",
+            "issn": "",
+            "pages": "738-742",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "An allosteric inhibitor of substrate recognition by the SCF(Cdc4) ubiquitin ligase",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Orlicky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Biotech.",
+            "volume": "28",
+            "issn": "",
+            "pages": "733-737",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Identification of a primary target of thalidomide teratogenicity",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ito",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "327",
+            "issn": "",
+            "pages": "1345-1350",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Defining the human deubiquitinating enzyme interaction landscape",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Sowa",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Gygi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Harper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "138",
+            "issn": "",
+            "pages": "389-403",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "A tangled web of ubiquitin chains: breaking news in TNF-R1 signaling",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bianchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Meier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell",
+            "volume": "36",
+            "issn": "",
+            "pages": "736-742",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Nonproteolytic functions of ubiquitin in cell signaling",
+            "authors": [
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell",
+            "volume": "33",
+            "issn": "",
+            "pages": "275-286",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "The ubiquitin proteasome system in neuropathology",
+            "authors": [
+                {
+                    "first": "NL",
+                    "middle": [],
+                    "last": "Lehman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Acta Neuropathol.",
+            "volume": "118",
+            "issn": "",
+            "pages": "329-347",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Involvement of linear polyubiquitylation of NEMO in NF-\u03baB activation",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tokunaga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Cell Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "123-132",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Recruitment of the linear ubiquitin chain assembly complex stabilizes the TNF-R1 signaling complex and is required for TNF-mediated gene induction",
+            "authors": [
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Haas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell",
+            "volume": "36",
+            "issn": "",
+            "pages": "831-844",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Specific recognition of linear ubiquitin chains by NEMO is important for NF-\u03baB activation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rahighi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "136",
+            "issn": "",
+            "pages": "1098-1109",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "NEMO specifically recognizes K63-linked poly-ubiquitin chains through a new bipartite ubiquitin-binding domain",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Laplantine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "EMBO J.",
+            "volume": "28",
+            "issn": "",
+            "pages": "2885-2895",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Direct activation of protein kinases by unanchored polyubiquitin chains",
+            "authors": [
+                {
+                    "first": "ZP",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "461",
+            "issn": "",
+            "pages": "114-119",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "IAPs, RINGs and ubiquitylation",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Vaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Silke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "287-297",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "The HECT-type E3 ubiquitin ligase AIP2 inhibits activation-induced T-cell death by catalyzing EGR2 ubiquitination",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "29",
+            "issn": "",
+            "pages": "5348-5356",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "The structure of the CYLD USP domain explains its specificity for Lys63-linked polyubiquitin and reveals a B box module",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Komander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Cell",
+            "volume": "29",
+            "issn": "",
+            "pages": "451-464",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "De-ubiquitination and ubiquitin ligase domains of A20 downregulate NF-\u03baB signalling",
+            "authors": [
+                {
+                    "first": "IE",
+                    "middle": [],
+                    "last": "Wertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "430",
+            "issn": "",
+            "pages": "694-699",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "Inhibition of NF-\u03baB signaling by A20 through disruption of ubiquitin enzyme complexes",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shembade",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Harhaj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "327",
+            "issn": "",
+            "pages": "1135-1139",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Role of the ubiquitin proteasome system in renal cell carcinoma",
+            "authors": [
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Corn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "BMC Biochem.",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "The ubiquitin-editing enzyme A20 (TNFAIP3) is a central regulator of immunopathology",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vereecke",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beyaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "van Loo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Trends Immunol.",
+            "volume": "30",
+            "issn": "",
+            "pages": "383-391",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "A20: from ubiquitin editing to tumour suppression",
+            "authors": [
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Hymowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "IE",
+                    "middle": [],
+                    "last": "Wertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Rev. Cancer",
+            "volume": "10",
+            "issn": "",
+            "pages": "332-341",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "Phosphorylation-driven assembly of the RIP1-RIP3 complex regulates programmed necrosis and virus-induced inflammation",
+            "authors": [
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "137",
+            "issn": "",
+            "pages": "1112-1123",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "RIP3, an energy metabolism regulator that switches TNF-induced cell death from apoptosis to necrosis",
+            "authors": [
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Science",
+            "volume": "325",
+            "issn": "",
+            "pages": "332-336",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Identification of RIP1 kinase as a specific cellular target of necrostatins",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Degterev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Chem. Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "313-321",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "RIP kinases at the crossroads of cell death and survival",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Declercq",
+                    "suffix": ""
+                },
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Vanden",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vandenabeele",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "138",
+            "issn": "",
+            "pages": "229-232",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "NF-\u03baB modulators in osteolytic bone diseases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cytokine Growth Factor Rev.",
+            "volume": "20",
+            "issn": "",
+            "pages": "7-17",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Nrf2-dependent upregulation of antioxidative enzymes: a novel pathway for proteasome inhibitor-mediated cardioprotection",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dreger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cardiovasc. Res.",
+            "volume": "83",
+            "issn": "",
+            "pages": "354-361",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Functional alterations of cardiac proteasomes under physiological and pathological conditions",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Tsukamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Minamino",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kitakaze",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cardiovasc. Res.",
+            "volume": "85",
+            "issn": "",
+            "pages": "339-346",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "Proteasome inhibition during myocardial infarction",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Kem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cardiovasc. Res.",
+            "volume": "85",
+            "issn": "",
+            "pages": "312-320",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "The ubiquitin\u2013proteasome system in cardiovascular diseases-a hypothesis extended",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                },
+                {
+                    "first": "LO",
+                    "middle": [],
+                    "last": "Lerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cardiovasc. Res.",
+            "volume": "61",
+            "issn": "",
+            "pages": "11-21",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "Regulatory roles of the ubiquitin-proteasome system in cardiomyocyte apoptosis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sohns",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "van Veen",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "van der Heyden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Curr. Mol. Med.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1-13",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Unexpected cardiotoxicity in haematological bortezomib treated patients",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Enrico",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Br. J. Haematol.",
+            "volume": "138",
+            "issn": "",
+            "pages": "396-397",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF117": {
+            "title": "Protein degradation systems in viral myocarditis leading to dilated cardiomyopathy",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cardiovasc. Res.",
+            "volume": "85",
+            "issn": "",
+            "pages": "347-356",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF118": {
+            "title": "The proteasome-associated deubiquitinating enzyme Usp14 is essential for the maintenance of synaptic ubiquitin levels and the development of neuromuscular junctions",
+            "authors": [
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Neurosci.",
+            "volume": "29",
+            "issn": "",
+            "pages": "10909-10919",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "Roles of ubiquitination at the synapse",
+            "authors": [
+                {
+                    "first": "KF",
+                    "middle": [],
+                    "last": "Haas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Broadie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1779",
+            "issn": "",
+            "pages": "495-506",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "The role of parkin in familial and sporadic Parkinson's disease",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Dawson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mov. Disord.",
+            "volume": "25",
+            "issn": "",
+            "pages": "S32-S39",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Depletion of 26S proteasomes in mouse brain neurons causes neurodegeneration and Lewy-like inclusions resembling human pale bodies",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Neurosci.",
+            "volume": "28",
+            "issn": "",
+            "pages": "8189-8198",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "Is malfunction of the ubiquitin proteasome system the primary cause of alpha-synucleinopathies and other chronic human neurodegenerative disease?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1782",
+            "issn": "",
+            "pages": "683-690",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Suppression of basal autophagy in neural cells causes neurodegenerative disease in mice",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "441",
+            "issn": "",
+            "pages": "885-889",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "The ubiquitin system, disease, and drug discovery",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Petroski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMC Biochem.",
+            "volume": "9",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "Loss of autophagy in the central nervous system causes neurodegeneration in mice",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Komatsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "441",
+            "issn": "",
+            "pages": "880-884",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF127": {
+            "title": "The UPS and autophagy in chronic neurodegenerative disease: six of one and half a dozen of the other \u2014 or not?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Autophagy",
+            "volume": "5",
+            "issn": "",
+            "pages": "224-227",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Does impairment of the ubiquitin-proteasome system or the autophagy-lysosome pathway predispose individuals to neurodegenerative disorders such as Parkinson's disease?",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Matsuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Alzheimers Dis.",
+            "volume": "19",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF129": {
+            "title": "The ESCRT machinery in endosomal sorting of ubiquitylated membrane proteins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Raiborg",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stenmark",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "458",
+            "issn": "",
+            "pages": "445-452",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF130": {
+            "title": "ESCRTing autophagic clearance of aggregating proteins",
+            "authors": [
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Rusten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Filimonenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Rodahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stenmark",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Simonsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Autophagy",
+            "volume": "4",
+            "issn": "",
+            "pages": "233-236",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF131": {
+            "title": "XBP-1 deficiency in the nervous system protects against amyotrophic lateral sclerosis by increasing autophagy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hetz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Genes Dev.",
+            "volume": "23",
+            "issn": "",
+            "pages": "2294-2306",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF132": {
+            "title": "Immunoreactivity to Lys63-linked polyubiquitin is a feature of neurodegeneration",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Paine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Neurosci. Lett.",
+            "volume": "460",
+            "issn": "",
+            "pages": "205-208",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF133": {
+            "title": "A decade of modeling Alzheimer's disease in transgenic mice",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "McGowan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Eriksen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hutton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Trends Genet.",
+            "volume": "22",
+            "issn": "",
+            "pages": "281-289",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF134": {
+            "title": "Parkinson's disease: a rethink of rodent models",
+            "authors": [
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Melrose",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Lincoln",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Tyndall",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Farrer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Exp. Brain Res.",
+            "volume": "173",
+            "issn": "",
+            "pages": "196-204",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF135": {
+            "title": "Enhancement of proteasome activity by a small-molecule inhibitor of USP14",
+            "authors": [
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "467",
+            "issn": "",
+            "pages": "179-184",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF136": {
+            "title": "Dual E1 activation systems for ubiquitin differentially regulate E2 enzyme charging",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Gygi",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Harper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "447",
+            "issn": "",
+            "pages": "1135-1138",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF137": {
+            "title": "Potential therapeutic applications of autophagy",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Rubinsztein",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Gestwicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "LO",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Klionsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Drug Discov.",
+            "volume": "6",
+            "issn": "",
+            "pages": "304-312",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF138": {
+            "title": "Mutations of optineurin in amyotrophic lateral sclerosis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Maruyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "465",
+            "issn": "",
+            "pages": "223-226",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF139": {
+            "title": "Optineurin negatively regulates TNFalpha- induced NF-kappaB activation by competing with NEMO for ubiquitinated RIP",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Ashwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Curr. Biol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "1438-1443",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF140": {
+            "title": "Proteasome inhibitors in cancer therapy: lessons from the first decade",
+            "authors": [
+                {
+                    "first": "RZ",
+                    "middle": [],
+                    "last": "Orlowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Clin. Cancer Res.",
+            "volume": "14",
+            "issn": "",
+            "pages": "1649-1657",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF141": {
+            "title": "Targeted therapy for brain tumours",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Lesniak",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Brem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Drug Discov.",
+            "volume": "3",
+            "issn": "",
+            "pages": "499-508",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF142": {
+            "title": "The E6 oncoprotein encoded by human papillomavirus types 16 and 18 promotes the degradation of p53",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Scheffner",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Werness",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Huibregtse",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Howley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Cell",
+            "volume": "63",
+            "issn": "",
+            "pages": "1129-1136",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF143": {
+            "title": "A ubiquitin conjugating enzyme encoded by African swine fever virus",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Hingamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Arnold",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Mayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Dixon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "EMBO J.",
+            "volume": "11",
+            "issn": "",
+            "pages": "361-366",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF144": {
+            "title": "Structure of a Shigella effector reveals a new class of ubiquitin ligases",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "1302-1308",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF145": {
+            "title": "Ubiquitin and ubiquitin-like specific proteases targeted by infectious pathogens: emerging patterns and molecular principles",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Edelmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Kessler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1782",
+            "issn": "",
+            "pages": "809-816",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF146": {
+            "title": "Ebola Zaire virus blocks type I interferon production by exploiting the host SUMO modification machinery",
+            "authors": [
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF147": {
+            "title": "E1-L2 activates both ubiquitin and FAT10",
+            "authors": [
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Cell",
+            "volume": "27",
+            "issn": "",
+            "pages": "1014-1023",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF148": {
+            "title": "Retrovirus budding",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Morita",
+                    "suffix": ""
+                },
+                {
+                    "first": "WI",
+                    "middle": [],
+                    "last": "Sundquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Annu. Rev. Cell Dev. Biol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "395-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF149": {
+            "title": "Autophagy pathway intersects with HIV-1 biosynthesis and regulates viral yields in macrophages",
+            "authors": [
+                {
+                    "first": "GB",
+                    "middle": [],
+                    "last": "Kyei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Cell Biol.",
+            "volume": "186",
+            "issn": "",
+            "pages": "255-268",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF150": {
+            "title": "Antiviral activity of innate immune protein ISG15",
+            "authors": [
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Harty",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Pitha",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Okumura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Innate Immunol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "397-404",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF151": {
+            "title": "The adaptor protein p62/SQSTM1 targets invading bacteria to the autophagy pathway. J.",
+            "authors": [
+                {
+                    "first": "YT",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Immunol.",
+            "volume": "183",
+            "issn": "",
+            "pages": "5909-5916",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF152": {
+            "title": "The TBK1 adaptor and autophagy receptor NDP52 restricts the proliferation of ubiquitin-coated bacteria",
+            "authors": [
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Thurston",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ryzhakov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bloor",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "von Muhlinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Randow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Immunol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1215-1221",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF153": {
+            "title": "Listeria monocytogenes ActA-mediated escape from autophagic recognition",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yoshikawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature Cell Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "1233-1240",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF154": {
+            "title": "Prokaryotic ubiquitin-like protein provides a two-part degron to Mycobacterium proteasome substrates",
+            "authors": [
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Burns",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Pearce",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Darwin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Bacteriol.",
+            "volume": "192",
+            "issn": "",
+            "pages": "2933-2935",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF155": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF156": {
+            "title": "The proteasome of Mycobacterium tuberculosis is required for resistance to nitric oxide",
+            "authors": [
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Darwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ehrt",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Gutierrez-Ramos",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Weich",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Nathan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "1963-1966",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF157": {
+            "title": "Ubiquitin-like protein involved in the proteasome pathway of Mycobacterium tuberculosis",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Pearce",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mintseris",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ferreyra",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Gygi",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Darwin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Science",
+            "volume": "322",
+            "issn": "",
+            "pages": "1104-1107",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF158": {
+            "title": "Distinct monoubiquitin signals in receptor endocytosis",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Haglund",
+                    "suffix": ""
+                },
+                {
+                    "first": "PP",
+                    "middle": [],
+                    "last": "Di Fiore",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dikic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Biochem. Sci.",
+            "volume": "28",
+            "issn": "",
+            "pages": "598-603",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF159": {
+            "title": "Molecular analysis of the prokaryotic ubiquitin-like protein (Pup) conjugation pathway in Mycobacterium tuberculosis",
+            "authors": [
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Cerda-Maira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Microbiol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "1123-1135",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF160": {
+            "title": "\u201cDepupylation\u201d of prokaryotic ubiquitin-like protein from mycobacterial proteasome substrates",
+            "authors": [
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Burns",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Cell",
+            "volume": "39",
+            "issn": "",
+            "pages": "821-827",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF161": {
+            "title": "Structural insights on the Mycobacterium tuberculosis proteasomal ATPase Mpa",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Structure",
+            "volume": "17",
+            "issn": "",
+            "pages": "1377-1385",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF162": {
+            "title": "Mycobacterium tuberculosis prcBA genes encode a gated proteasome with broad oligopeptide specificity",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Microbiol.",
+            "volume": "59",
+            "issn": "",
+            "pages": "1405-1416",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF163": {
+            "title": "Structure of the Mycobacterium tuberculosis proteasome and mechanism of inhibition by a peptidyl boronate",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Microbiol.",
+            "volume": "59",
+            "issn": "",
+            "pages": "1417-1428",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF164": {
+            "title": "Distinct specificities of Mycobacterium tuberculosis and mammalian proteasomes for N-acetyl tripeptide substrates",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dick",
+                    "suffix": ""
+                },
+                {
+                    "first": "XK",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Nathan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Biol. Chem.",
+            "volume": "283",
+            "issn": "",
+            "pages": "34423-34431",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF165": {
+            "title": "Inhibitors selective for mycobacterial versus human proteasomes",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "461",
+            "issn": "",
+            "pages": "621-626",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF166": {
+            "title": "Proteasome inhibitor-based primary therapy for antibody-mediated renal allograft rejection",
+            "authors": [
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Transplantation",
+            "volume": "89",
+            "issn": "",
+            "pages": "277-284",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF167": {
+            "title": "20S proteasome and its inhibitors: crystallographic knowledge for drug development",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Borissenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Groll",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Chem. Rev.",
+            "volume": "107",
+            "issn": "",
+            "pages": "687-717",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF168": {
+            "title": "Antitumor activity of PR-171, a novel irreversible inhibitor of the proteasome",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Demo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cancer Res.",
+            "volume": "67",
+            "issn": "",
+            "pages": "6383-6391",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

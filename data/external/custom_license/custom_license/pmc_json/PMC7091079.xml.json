@@ -1,0 +1,1873 @@
+{
+    "paper_id": "PMC7091079",
+    "metadata": {
+        "title": "Identifying key genes associated with Hirschsprung\u2019s disease based on bioinformatics analysis of RNA-sequencing data",
+        "authors": [
+            {
+                "first": "Wei-Kang",
+                "middle": [],
+                "last": "Pan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ya-Fei",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hui",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ya",
+                "middle": [],
+                "last": "Gao",
+                "suffix": "",
+                "email": "ygao@mail.xjtu.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Bai-Jun",
+                "middle": [],
+                "last": "Zheng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Peng",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Chong",
+                "middle": [],
+                "last": "Xie",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xin",
+                "middle": [],
+                "last": "Ge",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Pathogenesis of Hirschsprung\u2019s disease and its variants: recent progress",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Puri",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shinkai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Semin Pediatr Surg",
+            "volume": "13",
+            "issn": "",
+            "pages": "18-24",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.sempedsurg.2003.09.004"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "A novel point variant in NTRK3, R645C, suggests a role of this gene in the pathogenesis of Hirschsprung disease",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Fern\u00e1ndez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "S\u00e1nchez-Mej\u00edas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mena",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ruiz-Ferrer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "L\u00f3pez-Alonso",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Anti\u00f1olo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Ann Hum Genet",
+            "volume": "73",
+            "issn": "",
+            "pages": "19-25",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1469-1809.2008.00479.x"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "NTF-3, a gene involved in the enteric nervous system development, as a candidate gene for Hirschsprung disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ruiz-Ferrer",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Fernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Anti\u00f1olo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lopez-Alonso",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Borrego",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Pediatr Surg",
+            "volume": "43",
+            "issn": "",
+            "pages": "1308-1311",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jpedsurg.2008.02.076"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Clinical relationship between EDN-3 gene, EDNRB gene and Hirschsprung\u2019s disease",
+            "authors": [
+                {
+                    "first": "X-L",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "World J Gastroenterol",
+            "volume": "9",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.3748/wjg.v9.i12.2839"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Interactions between Sox10 and EdnrB modulate penetrance and severity of aganglionosis in the Sox10Dom mouse model of Hirschsprung disease",
+            "authors": [
+                {
+                    "first": "VA",
+                    "middle": [],
+                    "last": "Cantrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Owens",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Chandler",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Airey",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Hum Mol Genet",
+            "volume": "13",
+            "issn": "",
+            "pages": "2289-2301",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/hmg/ddh243"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "RNA sequencing: advances, challenges and opportunities",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ozsolak",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Milos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat Rev Genet",
+            "volume": "12",
+            "issn": "",
+            "pages": "87-98",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrg2934"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Identification of novel genes in Hirschsprung disease pathway using whole genome expression study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saeed",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Barreto",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Neogii",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loos",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mcfarlane",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aslam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Pediatr Surg",
+            "volume": "47",
+            "issn": "",
+            "pages": "303-307",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jpedsurg.2011.11.017"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Learning dysregulated pathways in cancers from differential variability analysis",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Afsari",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Geman",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Fertig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cancer Inform",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "NGS QC Toolkit: a toolkit for quality control of next generation sequencing data",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0030619"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pertea",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Trapnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Pimentel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kelley",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Salzberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome biol",
+            "volume": "14",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/gb-2013-14-4-r36"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The UCSC genome browser database",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Karolchik",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Baertsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Diekhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Furey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hinrichs",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res",
+            "volume": "31",
+            "issn": "",
+            "pages": "51-54",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkg129"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Symptomatology, pathophysiology, diagnostic work-up, and treatment of Hirschsprung disease in infancy and childhood",
+            "authors": [
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "De",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Boeckxstaens",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Benninga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Curr Gastroenterol Rep",
+            "volume": "9",
+            "issn": "",
+            "pages": "245-253",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11894-007-0026-z"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Trapnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Goff",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pertea",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Kelley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nat Protoc",
+            "volume": "7",
+            "issn": "",
+            "pages": "562-578",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nprot.2012.016"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Limma: linear models for microarray data",
+            "authors": [
+                {
+                    "first": "GK",
+                    "middle": [],
+                    "last": "Smyth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics and computational biology solutions using R and Bioconductor",
+            "volume": "",
+            "issn": "",
+            "pages": "397-420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "The Gene Ontology in 2010: extensions and refinements",
+            "authors": [
+                {
+                    "first": "GO",
+                    "middle": [],
+                    "last": "Consortium",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic acids research",
+            "volume": "38",
+            "issn": "",
+            "pages": "D331-D335",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkp1018"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "KEGG for linking genomes to life and the environment",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kanehisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Araki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hattori",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hirakawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Itoh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nucleic Acids Res",
+            "volume": "36",
+            "issn": "",
+            "pages": "D480-D484",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkm882"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "STRING v10: protein-protein interaction networks, integrated over the tree of life",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Szklarczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Franceschini",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wyder",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Forslund",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Heller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huerta-Cepas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nucleic Acids Res.",
+            "volume": "43",
+            "issn": "",
+            "pages": "D447-D52",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gku1003"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "A travel guide to Cytoscape plugins",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Smoot",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ono",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ruscheinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "P-L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lotia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nat Methods",
+            "volume": "9",
+            "issn": "",
+            "pages": "1069-1076",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nmeth.2212"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "An automated method for finding molecular complexes in large protein interaction networks",
+            "authors": [
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Bader",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Hogue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMC Bioinformatics",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-4-2"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "The enteric nervous system: normal functions and enteric neuropathies",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Furness",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Neurogastroenterol Motil",
+            "volume": "20",
+            "issn": "",
+            "pages": "32-38",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-2982.2008.01094.x"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Developmental determinants of the independence and complexity of the enteric nervous system",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Gershon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Trends Neurosci",
+            "volume": "33",
+            "issn": "",
+            "pages": "446-456",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tins.2010.06.002"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Hirschsprung disease: a developmental disorder of the enteric nervous system",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "McKeown",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Stamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Wiley Interdiscip Rev Dev Biol",
+            "volume": "2",
+            "issn": "",
+            "pages": "113-129",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/wdev.57"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "The developmental etiology and pathogenesis of Hirschsprung disease",
+            "authors": [
+                {
+                    "first": "NE",
+                    "middle": [],
+                    "last": "Butler Tjaden",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Trainor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Transl Res",
+            "volume": "162",
+            "issn": "",
+            "pages": "1-15",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.trsl.2013.03.001"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The role of c-fos in cell death and regeneration of retinal ganglion cells",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Oshitari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dezawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Okada",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Takano",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Negishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Horie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Invest Ophthalmol Vis Sci",
+            "volume": "43",
+            "issn": "",
+            "pages": "2442-2449",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "FosB expression in the central nervous system following isotonic volume expansion in unanesthetized rats",
+            "authors": [
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Howe",
+                    "suffix": ""
+                },
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Bruno",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Higgs",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Stigers",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Exp Neurol",
+            "volume": "187",
+            "issn": "",
+            "pages": "190-198",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.expneurol.2004.01.020"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "The dusp1 immediate early gene is regulated by natural stimuli predominantly in sensory input neurons",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Horita",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wada",
+                    "suffix": ""
+                },
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Rivas",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hara",
+                    "suffix": ""
+                },
+                {
+                    "first": "ED",
+                    "middle": [],
+                    "last": "Jarvis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Comp Neurol",
+            "volume": "518",
+            "issn": "",
+            "pages": "2873-2901",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Antibody targeting of the CC chemokine ligand 5 results in diminished leukocyte infiltration into the central nervous system and reduced neurologic disease in a viral model of multiple sclerosis",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Glass",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Hickey",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Hardison",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Manning",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Immunol",
+            "volume": "172",
+            "issn": "",
+            "pages": "4018-4025",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.172.7.4018"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Reduced macrophage infiltration and demyelination in mice lacking the chemokine receptor CCR5 following infection with a neurotropic coronavirus",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Glass",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Kuziel",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "288",
+            "issn": "",
+            "pages": "8-17",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2001.1050"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Functional expression of chemokine receptor CCR5 on CD4+ T cells during virus-induced central nervous system disease",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Glass",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "191-198",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.1.191-198.2003"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Functional analysis of the CC chemokine receptor 5 (CCR5) on virus-specific CD8+ T cells following coronavirus infection of the central nervous system",
+            "authors": [
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Glass",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "312",
+            "issn": "",
+            "pages": "407-414",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0042-6822(03)00237-X"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Tis 21 knock-out enhances the frequency of medulloblastoma in Patched1 heterozygous mice by inhibiting the Cxcl3-dependent migration of cerebellar neurons",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Farioli-Vecchioli",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Cin\u00e0",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ceccarelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Micheli",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Leonardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Ciotti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Neurosci",
+            "volume": "32",
+            "issn": "",
+            "pages": "15547-15564",
+            "other_ids": {
+                "DOI": [
+                    "10.1523/JNEUROSCI.0412-12.2012"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Activating transcription factor 3 (ATF3) induction by axotomy in sensory and motoneurons: A novel neuronal marker of nerve injury",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tsujino",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kondo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fukuoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tokunaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Miki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol Cell Neurosci",
+            "volume": "15",
+            "issn": "",
+            "pages": "170-182",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mcne.1999.0814"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "ATF3 increases the intrinsic growth state of DRG neurons to enhance peripheral nerve regeneration",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Seijffers",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Mills",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Woolf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Neurosci",
+            "volume": "27",
+            "issn": "",
+            "pages": "7911-7920",
+            "other_ids": {
+                "DOI": [
+                    "10.1523/JNEUROSCI.5313-06.2007"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Hirschsprung\u2019s disease in Japan: analysis of 3852 patients based on a nationwide survey in 30 years",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Suita",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ieiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakatsuji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Pediatr Surg",
+            "volume": "40",
+            "issn": "",
+            "pages": "197-202",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jpedsurg.2004.09.052"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Activating transcription factor 3 and the nervous system",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hunt",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Raivich",
+                    "suffix": ""
+                },
+                {
+                    "first": "PN",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Front Mol Neurosci",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fnmol.2012.00007"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "The transcription factor ATF-3 promotes neurite outgrowth",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Seijffers",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Allchorne",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Woolf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol Cell Neurosci",
+            "volume": "32",
+            "issn": "",
+            "pages": "143-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mcn.2006.03.005"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "ATF3 enhances c-Jun-mediated neurite sprouting",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Pearson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Gray",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Pearson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Greenwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "During",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dragunow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol Brain Res",
+            "volume": "120",
+            "issn": "",
+            "pages": "38-45",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molbrainres.2003.09.014"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Effects of vasoactive intestinal peptide, secretin, and related peptides on rat colonic transport and adenylate cyclase activity",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Waldman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zfass",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Makhlouf",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Gastroenterology",
+            "volume": "73",
+            "issn": "",
+            "pages": "518-523",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Inhibitory effect of experimental colitis on fluid absorption in rat jejunum: role of the enteric nervous system, VIP, and nitric oxide",
+            "authors": [
+                {
+                    "first": "FH",
+                    "middle": [],
+                    "last": "Mourad",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Barada",
+                    "suffix": ""
+                },
+                {
+                    "first": "NAB",
+                    "middle": [],
+                    "last": "Rached",
+                    "suffix": ""
+                },
+                {
+                    "first": "CI",
+                    "middle": [],
+                    "last": "Khoury",
+                    "suffix": ""
+                },
+                {
+                    "first": "NE",
+                    "middle": [],
+                    "last": "Saad\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Nassar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Am J Physiol-Gastrl",
+            "volume": "290",
+            "issn": "",
+            "pages": "G262-G268",
+            "other_ids": {
+                "DOI": [
+                    "10.1152/ajpcell.00070.2005"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Enzymatic function of nitric oxide synthases",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Andrew",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mayer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Cardiovasc Res",
+            "volume": "43",
+            "issn": "",
+            "pages": "521-531",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0008-6363(99)00115-7"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Importance of NO and its related compounds in enteric nervous system regulation of gut homeostasis and disease susceptibility",
+            "authors": [
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Savidge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Curr Opin Pharmacol",
+            "volume": "19",
+            "issn": "",
+            "pages": "54-60",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.coph.2014.07.009"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Notch signaling is required for the maintenance of enteric neural crest progenitors",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Okamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Saga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Development",
+            "volume": "135",
+            "issn": "",
+            "pages": "3555-3565",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/dev.022319"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Mutations of the RET gene in isolated and syndromic Hirschsprung\u2019s disease in human disclose major and modifier alleles at a single locus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "de Pontual",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pelet",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Trochet",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jaubert",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Espinosa-Parrilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Munnich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Med Genet",
+            "volume": "43",
+            "issn": "",
+            "pages": "419-423",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jmg.2005.040113"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Genome-wide association study identifies NRG1 as a susceptibility locus for Hirschsprung\u2019s disease",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Garcia-Barcelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Ngan",
+                    "suffix": ""
+                },
+                {
+                    "first": "VC",
+                    "middle": [],
+                    "last": "Lui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "So",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "106",
+            "issn": "",
+            "pages": "2694-2699",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0809630105"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Association of genetic polymorphisms in the RET-protooncogene and NRG1 with Hirschsprung disease in Thai patients",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Phusantisampan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sangkhathat",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Phongdara",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chiengkriwate",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Patrapinyokul",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mahasirimongkol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Hum Genet",
+            "volume": "57",
+            "issn": "",
+            "pages": "286-293",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/jhg.2012.18"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Conditional ablation of GFRa1 in postmigratory enteric neurons triggers unconventional neuronal death in the colon and causes a Hirschsprung\u2019s disease phenotype",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Uesaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yonemura",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Uchiyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Milbrandt",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Enomoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Development",
+            "volume": "134",
+            "issn": "",
+            "pages": "2171-2181",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/dev.001388"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2413 @@
+{
+    "paper_id": "PMC7097549",
+    "metadata": {
+        "title": "A Simple and Multiplex Loop-Mediated Isothermal Amplification (LAMP) Assay for Rapid Detection of SARS-CoV",
+        "authors": [
+            {
+                "first": "Jin",
+                "middle": [
+                    "Hwa"
+                ],
+                "last": "Kim",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Minhee",
+                "middle": [],
+                "last": "Kang",
+                "suffix": "",
+                "email": "minhee.kang@samsung.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Eunkyoung",
+                "middle": [],
+                "last": "Park",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Doo",
+                "middle": [
+                    "Ryeon"
+                ],
+                "last": "Chung",
+                "suffix": "",
+                "email": "minikang@skku.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Jiyeon",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Eung",
+                "middle": [
+                    "Soo"
+                ],
+                "last": "Hwang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "LLM",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "LYC",
+                    "middle": [],
+                    "last": "Yam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nicholls",
+                    "suffix": ""
+                },
+                {
+                    "first": "WKS",
+                    "middle": [],
+                    "last": "Yee",
+                    "suffix": ""
+                },
+                {
+                    "first": "WW",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "VCC",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "DNC",
+                    "middle": [],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "RWH",
+                    "middle": [],
+                    "last": "Yung",
+                    "suffix": ""
+                },
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "361",
+            "issn": "9366",
+            "pages": "1319-1325",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13077-2"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "The battle against SARS and MERS coronaviruses: Reservoirs and Animal Models",
+            "authors": [
+                {
+                    "first": "Shu-ran",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lin-lin",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Animal Models and Experimental Medicine",
+            "volume": "1",
+            "issn": "2",
+            "pages": "125-133",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ame2.12017"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Severe Acute Respiratory Syndrome Coronavirus as an Agent of Emerging and Reemerging Infection",
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle": [
+                        "C.",
+                        "C."
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K.",
+                        "P."
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "C.",
+                        "Y."
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clinical Microbiology Reviews",
+            "volume": "20",
+            "issn": "4",
+            "pages": "660-694",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00023-07"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Development of a quantitative assay for SARS coronavirus and correlation of GAPDH mRNA with SARS coronavirus in clinical specimens",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C",
+                        "C"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of Clinical Pathology",
+            "volume": "58",
+            "issn": "3",
+            "pages": "276-280",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jcp.2004.016592"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Using patient-collected clinical samples and sera to detect and quantify the severe acute respiratory syndrome coronavirus (SARS-CoV)",
+            "authors": [
+                {
+                    "first": "Zhongping",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hui",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chunhui",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Qingming",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Guoai",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dominic",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dwyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology Journal",
+            "volume": "4",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1743-422X-4-32"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Serologic and Molecular Biologic Methods for SARS-associated Coronavirus Infection, Taiwan",
+            "authors": [
+                {
+                    "first": "Ho-Sheng",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shu-Chun",
+                    "middle": [],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tsan-Chang",
+                    "middle": [],
+                    "last": "Tseng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Szu-Fong",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jih-Hui",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yu-Fen",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mei-Ching",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tsuey-Li",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wen-Zieh",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tian-Lin",
+                    "middle": [],
+                    "last": "Ferng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kai-Hung",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li-Ching",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li-Li",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jyh-Yuan",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hour-Young",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shun-Pi",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shih-Yan",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ting-Hsiang",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ih-Jen",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerging Infectious Diseases",
+            "volume": "10",
+            "issn": "2",
+            "pages": "305-310",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1002.030731"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Application of nanodiagnostics in point-of-care tests for infectious diseases",
+            "authors": [
+                {
+                    "first": "Yongzhong",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiaowei",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Leming",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "International Journal of Nanomedicine",
+            "volume": "Volume 12",
+            "issn": "",
+            "pages": "4789-4803",
+            "other_ids": {
+                "DOI": [
+                    "10.2147/IJN.S137338"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Loopmediated isothermal amplification of DNA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Notomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Okayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Masubuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yonekawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Amino",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hase",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nucleic Acids Res.",
+            "volume": "28",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/28.12.e63"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Detection of Botrytis cinerea by loop-mediated isothermal amplification",
+            "authors": [
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Tomlinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Dickinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Boonham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Letters in Applied Microbiology",
+            "volume": "51",
+            "issn": "6",
+            "pages": "650-657",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1472-765X.2010.02949.x"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Detection of Ralstonia solanacearum by Loop-Mediated Isothermal Amplification",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Kubota",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Vine",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Jenkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Phytopathology",
+            "volume": "98",
+            "issn": "9",
+            "pages": "1045-1051",
+            "other_ids": {
+                "DOI": [
+                    "10.1094/PHYTO-98-9-1045"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Detection of Loop-Mediated Isothermal Amplification Reaction by Turbidity Derived from Magnesium Pyrophosphate Formation",
+            "authors": [
+                {
+                    "first": "Yasuyoshi",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kentaro",
+                    "middle": [],
+                    "last": "Nagamine",
+                    "suffix": ""
+                },
+                {
+                    "first": "Norihiro",
+                    "middle": [],
+                    "last": "Tomita",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tsugunori",
+                    "middle": [],
+                    "last": "Notomi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biochemical and Biophysical Research Communications",
+            "volume": "289",
+            "issn": "1",
+            "pages": "150-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.2001.5921"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "A Cluster of Cases of Severe Acute Respiratory Syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "Kenneth",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pak",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gaik",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wilson",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Yee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Teresa",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Moira",
+                    "middle": [],
+                    "last": "Chan-Yeung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wah",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wing",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Seto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Loretta",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Yam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Thomas",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Poon",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bing",
+                    "middle": [],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mary",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Ip",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jane",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kwok",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kar",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "New England Journal of Medicine",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1977-1985",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030666"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Loop-Mediated Isothermal Amplification for Direct Detection of Mycobacterium tuberculosis Complex, M. avium, and M. intracellulare in Sputum Samples",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Iwamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Sonobe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "41",
+            "issn": "6",
+            "pages": "2616-2622",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.41.6.2616-2622.2003"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Loop-Mediated Isothermal Amplification Assay for Rapid Detection of Common Strains of Escherichia coli",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Beriwal",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Chandra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Paul",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kapil",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Wadowsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Goyal",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Jahnukainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "I."
+                    ],
+                    "last": "Tarr",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Vats",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "46",
+            "issn": "8",
+            "pages": "2800-2804",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00152-08"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Development and evaluation of a real-time fluorogenic loop-mediated isothermal amplification assay integrated on a microfluidic disc chip (on-chip LAMP) for rapid and simultaneous detection of ten pathogenic bacteria in aquatic animals",
+            "authors": [
+                {
+                    "first": "Qian-Jin",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lei",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jiong",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rui-Na",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yu-Hong",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chang-Hong",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "De-Min",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao-Jun",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yan-Jun",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Microbiological Methods",
+            "volume": "104",
+            "issn": "",
+            "pages": "26-35",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mimet.2014.06.008"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Loop-mediated isothermal amplification (LAMP): Early detection of Toxoplasma gondii infection in mice",
+            "authors": [
+                {
+                    "first": "Qing-Ming",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shao-Hong",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Qun-Bo",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rui",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bin",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Takashi",
+                    "middle": [],
+                    "last": "Kumagai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li-Yong",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nobuo",
+                    "middle": [],
+                    "last": "Ohta",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao-Nong",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Parasites & Vectors",
+            "volume": "5",
+            "issn": "1",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1756-3305-5-2"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Loop-Mediated Isothermal Amplification Assay for Rapid Detection of Hepatitis C virus",
+            "authors": [
+                {
+                    "first": "Mohammad",
+                    "middle": [],
+                    "last": "Kargar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ahzam",
+                    "middle": [],
+                    "last": "Askari",
+                    "suffix": ""
+                },
+                {
+                    "first": "Abbas",
+                    "middle": [],
+                    "last": "Doosti",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sadegh",
+                    "middle": [],
+                    "last": "Ghorbani-Dalini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Indian Journal of Virology",
+            "volume": "23",
+            "issn": "1",
+            "pages": "18-23",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s13337-012-0067-2"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Rapid and real-time detection of hepatitis A virus by reverse transcription loop-mediated isothermal amplification assay",
+            "authors": [
+                {
+                    "first": "Tetsuo",
+                    "middle": [],
+                    "last": "Yoneyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tomoko",
+                    "middle": [],
+                    "last": "Kiyohara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Noriko",
+                    "middle": [],
+                    "last": "Shimasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gen",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yoshinori",
+                    "middle": [],
+                    "last": "Ota",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tsugunori",
+                    "middle": [],
+                    "last": "Notomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Atsuko",
+                    "middle": [],
+                    "last": "Totsuka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Takaji",
+                    "middle": [],
+                    "last": "Wakita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of Virological Methods",
+            "volume": "145",
+            "issn": "2",
+            "pages": "162-168",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2007.05.023"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Development and Evaluation of a Novel Loop-Mediated Isothermal Amplification Method for Rapid Detection of Severe Acute Respiratory Syndrome Coronavirus",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "T.",
+                        "C."
+                    ],
+                    "last": "Thai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Vuong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Parida",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Minekawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Notomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Hasebe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Morita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of Clinical Microbiology",
+            "volume": "42",
+            "issn": "5",
+            "pages": "1956-1961",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.5.1956-1961.2004"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Rapid Detection of the Severe Acute Respiratory Syndrome (SARS) Coronavirus by a Loop-Mediated Isothermal Amplification Assay",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L.M."
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Clinical Chemistry",
+            "volume": "50",
+            "issn": "6",
+            "pages": "1050-1052",
+            "other_ids": {
+                "DOI": [
+                    "10.1373/clinchem.2004.032011"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Loop-Mediated Isothermal Amplification Technology: Towards Point of Care Diagnostics",
+            "authors": [
+                {
+                    "first": "Zablon",
+                    "middle": [
+                        "Kithinji"
+                    ],
+                    "last": "Njiru",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Neglected Tropical Diseases",
+            "volume": "6",
+            "issn": "6",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pntd.0001572"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Genome Filtering for New DNA Biomarkers of Loa loa Infection Suitable for Loop-Mediated Isothermal Amplification",
+            "authors": [
+                {
+                    "first": "Catherine",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Poole",
+                    "suffix": ""
+                },
+                {
+                    "first": "Laurence",
+                    "middle": [],
+                    "last": "Ettwiller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nathan",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "Thomas",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Samuel",
+                    "middle": [],
+                    "last": "Wanji",
+                    "suffix": ""
+                },
+                {
+                    "first": "Clotilde",
+                    "middle": [
+                        "K.",
+                        "S."
+                    ],
+                    "last": "Carlow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLOS ONE",
+            "volume": "10",
+            "issn": "9",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0139286"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "Thijs",
+                    "middle": [],
+                    "last": "Kuiken",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ron",
+                    "middle": [
+                        "AM"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "Martin",
+                    "middle": [],
+                    "last": "Schutten",
+                    "suffix": ""
+                },
+                {
+                    "first": "Guus",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rimmelzwaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Geert",
+                    "middle": [],
+                    "last": "van Amerongen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Debby",
+                    "middle": [],
+                    "last": "van Riel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jon",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Laman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ton",
+                    "middle": [],
+                    "last": "de Jong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gerard",
+                    "middle": [],
+                    "last": "van Doornum",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wilina",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ai",
+                    "middle": [
+                        "Ee"
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "Paul",
+                    "middle": [
+                        "KS"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "John",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Maria",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Zambon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robin",
+                    "middle": [],
+                    "last": "Gopal",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christian",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sylvie",
+                    "middle": [],
+                    "last": "van der Werf",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nicolas",
+                    "middle": [],
+                    "last": "Escriou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jean-Claude",
+                    "middle": [],
+                    "last": "Manuguerra",
+                    "suffix": ""
+                },
+                {
+                    "first": "Klaus",
+                    "middle": [],
+                    "last": "St\u00f6hr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S",
+                        "Malik"
+                    ],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "Albert",
+                    "middle": [
+                        "DME"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "362",
+            "issn": "9380",
+            "pages": "263-270",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13967-0"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Development of fluorescent reverse transcription loop-mediated isothermal amplification (RT-LAMP) using quenching probes for the detection of the Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "Kazuya",
+                    "middle": [],
+                    "last": "Shirato",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shohei",
+                    "middle": [],
+                    "last": "Semba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sherif",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "El-Kafrawy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ahmed",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Hassan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ahmed",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Tolah",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ikuyo",
+                    "middle": [],
+                    "last": "Takayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tsutomu",
+                    "middle": [],
+                    "last": "Kageyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tsugunori",
+                    "middle": [],
+                    "last": "Notomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wataru",
+                    "middle": [],
+                    "last": "Kamitani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shutoku",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Esam",
+                    "middle": [
+                        "Ibraheem"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Journal of Virological Methods",
+            "volume": "258",
+            "issn": "",
+            "pages": "41-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2018.05.006"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Field evaluation of a real time loop-mediated isothermal amplification assay (RealAmp) for malaria diagnosis in Cruzeiro do Sul, Acre, Brazil",
+            "authors": [
+                {
+                    "first": "Giselle",
+                    "middle": [
+                        "Maria",
+                        "Rachid"
+                    ],
+                    "last": "Viana",
+                    "suffix": ""
+                },
+                {
+                    "first": "Luciana",
+                    "middle": [],
+                    "last": "Silva-Flannery",
+                    "suffix": ""
+                },
+                {
+                    "first": "Danielle",
+                    "middle": [
+                        "Regina"
+                    ],
+                    "last": "Lima Barbosa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Naomi",
+                    "middle": [],
+                    "last": "Lucchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Suiane",
+                    "middle": [
+                        "Costa",
+                        "Negreiros"
+                    ],
+                    "last": "do Valle",
+                    "suffix": ""
+                },
+                {
+                    "first": "Samela",
+                    "middle": [],
+                    "last": "Farias",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nayara",
+                    "middle": [],
+                    "last": "Barbalho",
+                    "suffix": ""
+                },
+                {
+                    "first": "Paola",
+                    "middle": [],
+                    "last": "Marchesini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Juliana",
+                    "middle": [
+                        "Chedid",
+                        "Nogaredi"
+                    ],
+                    "last": "Rossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Venkatachalam",
+                    "middle": [],
+                    "last": "Udhayakumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marinete",
+                    "middle": [
+                        "Marins"
+                    ],
+                    "last": "P\u00f3voa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Alexandre",
+                    "middle": [
+                        "Macedo"
+                    ],
+                    "last": "de Oliveira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLOS ONE",
+            "volume": "13",
+            "issn": "7",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0200492"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "A Loop-Mediated Isothermal Amplification Assay for Rapid Detection of Pectobacterium aroidearum that Causes Soft Rot in Konjac",
+            "authors": [
+                {
+                    "first": "Miaomiao",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hao",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Junbin",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jinbo",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Fuhua",
+                    "middle": [],
+                    "last": "Fei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ya",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tom",
+                    "middle": [],
+                    "last": "Hsiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lu",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "International Journal of Molecular Sciences",
+            "volume": "20",
+            "issn": "8",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.3390/ijms20081937"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Application of a loop-mediated isothermal amplification (LAMP) assay targeting cox1 gene for the detection of Clonorchis sinensis in human fecal samples",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "M.",
+                        "Mazidur"
+                    ],
+                    "last": "Rahman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hyun",
+                    "middle": [
+                        "Beom"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yan",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin-Kyoung",
+                    "middle": [],
+                    "last": "Oh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Min",
+                    "middle": [
+                        "Kyung"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sung-Tae",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Min-Ho",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLOS Neglected Tropical Diseases",
+            "volume": "11",
+            "issn": "10",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pntd.0005995"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Fragment Size Difference between Multiplex and Singleplex PCR Products and Their Practical Implications",
+            "authors": [
+                {
+                    "first": "H.-W.",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.R.",
+                    "middle": [],
+                    "last": "Recker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.L.",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "BioTechniques",
+            "volume": "29",
+            "issn": "2",
+            "pages": "298-308",
+            "other_ids": {
+                "DOI": [
+                    "10.2144/00292st05"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Human Coronaviruses: A Review of Virus\u2013Host Interactions",
+            "authors": [
+                {
+                    "first": "Yvonne",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yan",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "James",
+                    "middle": [],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ding",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Diseases",
+            "volume": "4",
+            "issn": "4",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.3390/diseases4030026"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "The Genome Sequence of the SARS-Associated Coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Coronavirus reverse genetic systems: Infectious clones and replicons",
+            "authors": [
+                {
+                    "first": "Fernando",
+                    "middle": [],
+                    "last": "Almaz\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "Isabel",
+                    "middle": [],
+                    "last": "Sola",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sonia",
+                    "middle": [],
+                    "last": "Zu\u00f1iga",
+                    "suffix": ""
+                },
+                {
+                    "first": "Silvia",
+                    "middle": [],
+                    "last": "Marquez-Jurado",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lucia",
+                    "middle": [],
+                    "last": "Morales",
+                    "suffix": ""
+                },
+                {
+                    "first": "Martina",
+                    "middle": [],
+                    "last": "Becares",
+                    "suffix": ""
+                },
+                {
+                    "first": "Luis",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Virus Research",
+            "volume": "189",
+            "issn": "",
+            "pages": "262-270",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2014.05.026"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Development of a Real-Time Fluorescence Loop-Mediated Isothermal Amplification Assay for Rapid and Quantitative Detection of Fusarium oxysporum f. sp. cubense Tropical Race 4 In Soil",
+            "authors": [
+                {
+                    "first": "Xin",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "He",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jinji",
+                    "middle": [],
+                    "last": "Pu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yanxiang",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Qunfang",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yixian",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jun",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS ONE",
+            "volume": "8",
+            "issn": "12",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0082841"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Severe acute respiratory syndrome spreads worldwide",
+            "authors": [
+                {
+                    "first": "Patricia",
+                    "middle": [],
+                    "last": "Schlagenhauf",
+                    "suffix": ""
+                },
+                {
+                    "first": "Haroon",
+                    "middle": [],
+                    "last": "Ashra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "The Lancet",
+            "volume": "361",
+            "issn": "9362",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)12843-7"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Severe Acute Respiratory Syndrome (SARS): The new epidemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kenneth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Natl. Med. J. India",
+            "volume": "16",
+            "issn": "",
+            "pages": "115-116",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "A Novel Coronavirus Associated with Severe Acute Respiratory Syndrome",
+            "authors": [
+                {
+                    "first": "Thomas",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dean",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cynthia",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sherif",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Teresa",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shannon",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "Suxiang",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Carlo",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "James",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Comer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wilina",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pierre",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Scott",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Dowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ai-Ee",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "Charles",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Humphrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wun-Ju",
+                    "middle": [],
+                    "last": "Shieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jeannette",
+                    "middle": [],
+                    "last": "Guarner",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christopher",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Paddock",
+                    "suffix": ""
+                },
+                {
+                    "first": "Paul",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "Barry",
+                    "middle": [],
+                    "last": "Fields",
+                    "suffix": ""
+                },
+                {
+                    "first": "Joseph",
+                    "middle": [],
+                    "last": "DeRisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jyh-Yuan",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nancy",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "James",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "James",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "LeDuc",
+                    "suffix": ""
+                },
+                {
+                    "first": "William",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Bellini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Larry",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "New England Journal of Medicine",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Middle East Respiratory Syndrome Coronavirus: Another Zoonotic Betacoronavirus Causing SARS-Like Disease",
+            "authors": [
+                {
+                    "first": "Jasper",
+                    "middle": [
+                        "F.",
+                        "W."
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Susanna",
+                    "middle": [
+                        "K.",
+                        "P."
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kelvin",
+                    "middle": [
+                        "K.",
+                        "W."
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "Vincent",
+                    "middle": [
+                        "C.",
+                        "C."
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Patrick",
+                    "middle": [
+                        "C.",
+                        "Y."
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kwok-Yung",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Clinical Microbiology Reviews",
+            "volume": "28",
+            "issn": "2",
+            "pages": "465-522",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00102-14"
+                ]
+            }
+        }
+    }
+}

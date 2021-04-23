@@ -1,0 +1,604 @@
+{
+    "paper_id": "PMC7089017",
+    "metadata": {
+        "title": "Phylogeny of SARS-CoV as inferred from complete genome comparison",
+        "authors": [
+            {
+                "first": "Zhen",
+                "middle": [],
+                "last": "Qi",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yu",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yanjun",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhihua",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Shiwei",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hongchao",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jingfen",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Dongbo",
+                "middle": [],
+                "last": "Bu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Lunjiang",
+                "middle": [],
+                "last": "Ling",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Runsheng",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": "crs@sun5.ibp.ac.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Astell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Jackknife, bootstrap and other resampling plans in regression analysis",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "F.",
+                        "J."
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Annals of Statistics",
+            "volume": "14",
+            "issn": "",
+            "pages": "1261-1295",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/aos/1176350142"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "An emprical test of bootstrapping as a method for assessing confidence in phylogenetic analysis",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Hillis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Syst. Biol.",
+            "volume": "42",
+            "issn": "",
+            "pages": "182-192",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Alignment-ambiguous nucleotide sites and the exclusion of systematic data",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Rob",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Mol. Phylogenet. Evol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "152-157",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mpev.1993.1015"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Elision: a method for accommodating multiple molecular sequence alignments with alignmentambiguous sites",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Rob",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Mol. Phylogenet. Evol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/mpev.1995.1001"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Taxon sampling and the accuracy of large phylogenies",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Rannala",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Huelsenbeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Syst. Biol.",
+            "volume": "47",
+            "issn": "",
+            "pages": "702-710",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/106351598260680"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "Stephan",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Monroe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "5624",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Comparative full-length genome sequence analysis of 14 S ARS coronavirus isolates and common mutations associated with putative origins of infection",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Ee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "9371",
+            "pages": "1779-1785",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13414-9"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "A complete sequence and comparative analysis of a SARS-associated virus (Isolate BJ01)",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Science Bulletin",
+            "volume": "48",
+            "issn": "10",
+            "pages": "941-948",
+            "other_ids": {
+                "DOI": [
+                    "10.1360/03wc0186"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Coronaviridae, in Virus Taxonomy",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Brian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Classification and Nomenclature of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "835-849",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Coronavmidae: The viruses and their replication",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "M.",
+                        "C."
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [
+                        "V."
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "in Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "1163-1163",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Effects of passage history and sampling bias on phylogenetic reconstruction of human influenza A evolution",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Cox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "7",
+            "issn": "",
+            "pages": "6974-6980",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.97.13.6974"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "The characterization of a measure of information discrepancy",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Information Sciences",
+            "volume": "125",
+            "issn": "",
+            "pages": "207-232",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0020-0255(00)00008-6"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Phylogeny based on whole genome as inferred from complete information set analysis",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Ling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Journal of Biological Physics",
+            "volume": "28",
+            "issn": "3",
+            "pages": "439-449",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1020316706928"
+                ]
+            }
+        }
+    }
+}

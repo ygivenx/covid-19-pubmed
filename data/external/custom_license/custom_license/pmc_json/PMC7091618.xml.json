@@ -1,0 +1,2492 @@
+{
+    "paper_id": "PMC7091618",
+    "metadata": {
+        "title": "Mutation trend of hemagglutinin of influenza A virus: a review from a computational mutation viewpoint",
+        "authors": [
+            {
+                "first": "Guang",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "email": "hongguanglishibahao@yahoo.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Shao-min",
+                "middle": [],
+                "last": "Yan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Influenza type A in humans, mammals and birds: determinants of virus virulence, host-range and interspecies transmission.",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Baigent",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "McCauley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioessays",
+            "volume": "25",
+            "issn": "",
+            "pages": "657-71",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Realities and enigmas of human viral influenza: pathogenesis, epidemiology and control.",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Hilleman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Vaccine",
+            "volume": "20",
+            "issn": "",
+            "pages": "3068-87",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Epidemiology and pathogenesis of influenza.",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Zambon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Antimicrob Chemother",
+            "volume": "44",
+            "issn": "Suppl B",
+            "pages": "3-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Avian influenza viruses infecting humans.",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell Mol Life Sci",
+            "volume": "57",
+            "issn": "",
+            "pages": "1770-84",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Hemagglutinin specificity and neuraminidase coding capacity of neuraminidase-deficient influenza viruses.",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bansal",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Air",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "229",
+            "issn": "",
+            "pages": "155-65",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "New options for prevention and control of influenza.",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Patriarca",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "JAMA",
+            "volume": "282",
+            "issn": "",
+            "pages": "75-7",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Distinct lineages of influenza virus H4 hemagglutinin genes in different regions of the world.",
+            "authors": [
+                {
+                    "first": "RO",
+                    "middle": [],
+                    "last": "Donis",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Virology",
+            "volume": "169",
+            "issn": "",
+            "pages": "408-17",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Characterization of the influenza A virus gene pool in avian species in southern China: was H6N1 a derivative or a precursor of H5N1?",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hoffmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stech",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Leneva",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Krauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scholtissek",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "74",
+            "issn": "",
+            "pages": "6309-15",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Characterization of the surface proteins of influenza A (H5N1) viruses isolated from humans in 1997\u20131998.",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bender",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klimov",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Virology",
+            "volume": "254",
+            "issn": "",
+            "pages": "115-23",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Assessment of hemagglutinin sequence heterogeneity during influenza virus transmission in families.",
+            "authors": [
+                {
+                    "first": "LV",
+                    "middle": [],
+                    "last": "Gubareva",
+                    "suffix": ""
+                },
+                {
+                    "first": "DV",
+                    "middle": [],
+                    "last": "Novikov",
+                    "suffix": ""
+                },
+                {
+                    "first": "FG",
+                    "middle": [],
+                    "last": "Hayden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Infect Dis",
+            "volume": "186",
+            "issn": "",
+            "pages": "1575-81",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Characterization of H5N1 influenza viruses that continue to circulate in geese in southeastern China.",
+            "authors": [
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Krauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "NN",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "118-26",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Scientific triumphalism and learning from facts: bacteriology and the \u201cSpanish flu\u201d challenge of 1918.",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Tognotti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Soc Hist Med",
+            "volume": "16",
+            "issn": "",
+            "pages": "97-110",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Sequence analysis of recent H7 avian influenza viruses associated with three different outbreaks in commercial poultry in the United States.",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Spackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Senne",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Davison",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Suarez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "13399-402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Sequence space localization in the immune system response to vaccination and disease.",
+            "authors": [
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Deem",
+                    "suffix": ""
+                },
+                {
+                    "first": "HY",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Phys Rev Lett",
+            "volume": "91",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Ecological and immunological determinants of influenza evolution.",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Galvani",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Bush",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "422",
+            "issn": "",
+            "pages": "428-33",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Traveling waves in a model of influenza A drift.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Andreasen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Casagrandi",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Theor Biol",
+            "volume": "222",
+            "issn": "",
+            "pages": "437-45",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "The first and second order Markov chain analysis on amino acids sequence of human haemoglobin \u03b1-chain and its three variants with low O2 affinity.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Comp Haematol Int",
+            "volume": "9",
+            "issn": "",
+            "pages": "148-51",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "The first, second and third order Markov chain analysis on amino acids sequence of human tyrosine aminotransferase and its variant causing tyrosinemia type II.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Pediatr Relat Top",
+            "volume": "39",
+            "issn": "",
+            "pages": "37-47",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "The first, second, third and fourth order Markov chain analysis on amino acids sequence of human dopamine \u03b2-hydroxylase.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol Psychiatry",
+            "volume": "5",
+            "issn": "",
+            "pages": "448-51",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Frequency and Markov chain analysis of amino-acid sequence of human glutathione reductase.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "268",
+            "issn": "",
+            "pages": "823-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Frequency and Markov chain analysis of amino-acid sequence of human tumor necrosis factor.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cancer Lett",
+            "volume": "153",
+            "issn": "",
+            "pages": "145-50",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Frequency and Markov chain analysis of the amino-acid sequence of sheep p53 protein.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Biochem Mol Biol Biophys",
+            "volume": "4",
+            "issn": "",
+            "pages": "179-85",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "The origin of the 1918 pandemic influenza virus: a continuing enigma.",
+            "authors": [
+                {
+                    "first": "AH",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Taubenberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Gen Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "2285-92",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Frequency and Markov chain analysis of amino-acid sequences of mouse p53.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Human Exp Toxicol",
+            "volume": "19",
+            "issn": "",
+            "pages": "535-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Frequency and Markov chain analysis of the amino-acid sequence of human alcohol dehydrogenase \u03b1-chain.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Alcohol Alcohol",
+            "volume": "35",
+            "issn": "",
+            "pages": "302-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Frequency and Markov chain analysis of amino-acids sequence of human platelet-activating factor acetylhydrolase \u03b1-subunit and its variant causing the lissencephaly syndrome.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Pediatr Relat Top",
+            "volume": "39",
+            "issn": "",
+            "pages": "513-26",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Prediction of two- and three-amino-acid sequences of Citrobacter Freundii \u03b2-lactamase from its amino acid composition.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Mol Microbiol Biotechnol",
+            "volume": "2",
+            "issn": "",
+            "pages": "277-81",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Prediction of two- and three-amino acid sequence of human acute myeloid leukemia 1 protein from its amino acid composition.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Comp Haematol Int",
+            "volume": "10",
+            "issn": "",
+            "pages": "85-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Frequency and Markov chain analysis of amino-acid sequences of human connective tissue growth factor.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Mol Model",
+            "volume": "5",
+            "issn": "",
+            "pages": "120-4",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Prediction of presence and absence of two- and three-amino-acid sequence of human monoamine oxidase B from its amino acid composition according to the random mechanism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biomol Eng",
+            "volume": "18",
+            "issn": "",
+            "pages": "23-7",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Prediction of presence and absence of two- and three-amino-acid sequence of human tyrosinase from their amino acid composition and related changes in human tyrosinase variant causing oculocutaneous albinism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Pediatr Relat Top",
+            "volume": "40",
+            "issn": "",
+            "pages": "153-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Random analysis of presence and absence of two- and three-amino-acid sequences and distributions of amino acids, two- and three-amino-acid sequences in bovine p53 protein.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol Biol Today",
+            "volume": "3",
+            "issn": "",
+            "pages": "31-7",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Prediction of distributions of amino acids and amino acid pairs in human haemoglobin \u03b1-chain and its seven variants causing \u03b1-thalassemia from their occurrences according to the random mechanism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Comp Haematol Int",
+            "volume": "10",
+            "issn": "",
+            "pages": "80-4",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Origin of the pandemic 1957 H2 influenza A virus and the persistence of its possible progenitors in the avian reservoir.",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Schafer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Suss",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Senne",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Virology",
+            "volume": "194",
+            "issn": "",
+            "pages": "781-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Analysis of distributions of amino acids, amino acid pairs and triplets in human insulin precursor and four variants from their occurrences according to the random mechanism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Biochem Mol Biol Biophys",
+            "volume": "5",
+            "issn": "",
+            "pages": "293-300",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Analysis of distributions of amino acids and amino acid pairs in human tumor necrosis factor precursor and its eight variants according to random mechanism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Mol Model",
+            "volume": "7",
+            "issn": "",
+            "pages": "318-23",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Analysis of distributions of amino acids in the primary structure of apoptosis regulator Bcl-2 family according to the random mechanism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Biochem Mol Biol Biophys",
+            "volume": "6",
+            "issn": "",
+            "pages": "407-14",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Analysis of distributions of amino acids in the primary structure of tumor suppressor p53 family according to the random mechanism.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Mol Model",
+            "volume": "8",
+            "issn": "",
+            "pages": "191-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Randomness in the primary structure of protein: methods and implications.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol Biol Today",
+            "volume": "3",
+            "issn": "",
+            "pages": "55-69",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Prediction of amino acid pairs sensitive to mutations in the spike protein from SARS related coronavirus.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Pep-tides",
+            "volume": "24",
+            "issn": "",
+            "pages": "1837-45",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Fate of 130 hemagglutinins from different influenza A viruses.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "317",
+            "issn": "",
+            "pages": "917-24",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Potential targets for anti-SARS drugs in the structural proteins from SARS related coronavirus.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Peptides",
+            "volume": "25",
+            "issn": "",
+            "pages": "901-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Mutation features of 215 polymerase proteins from different influenza A viruses.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Med Sci Monit",
+            "volume": "11",
+            "issn": "",
+            "pages": "BR367-72",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Reasoning of spike glycoproteins being more vulnerable to mutations among 158 coronavirus proteins from different species.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Mol Model",
+            "volume": "11",
+            "issn": "",
+            "pages": "8-16",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Evolution of the H3 influenza virus hemagglutinin from human and nonhuman hosts.",
+            "authors": [
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Naeve",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Gorman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Virol",
+            "volume": "66",
+            "issn": "",
+            "pages": "1129-38",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Determination of amino acid pairs sensitive to variants in human low-density lipoprotein receptor precursor by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Biochem Mol Biol Biophys",
+            "volume": "6",
+            "issn": "",
+            "pages": "401-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Estimation of amino acid pairs sensitive to variants in human phenylalanine hydroxylase protein by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Peptides",
+            "volume": "23",
+            "issn": "",
+            "pages": "2085-90",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Analysis of amino acid pairs sensitive to variants in human collagen \u03b15(IV) chain precursor by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Peptides",
+            "volume": "24",
+            "issn": "",
+            "pages": "347-52",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Determination of amino acid pairs sensitive to variants in human \u03b2-glucocerebrosidase by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Protein Eng",
+            "volume": "16",
+            "issn": "",
+            "pages": "195-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Determination of amino acid pairs in human haemoglobulin \u03b1-chain sensitive to variants by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Comp Clin Pathol",
+            "volume": "12",
+            "issn": "",
+            "pages": "21-5",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Determination of amino acid pairs sensitive to variants in human Bruton's tyrosine kinase by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol Simul",
+            "volume": "29",
+            "issn": "",
+            "pages": "249-54",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Determination of amino acid pairs sensitive to variants in human coagulation factor IX precursor by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Biomed Sci",
+            "volume": "10",
+            "issn": "",
+            "pages": "451-4",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Determination of amino acid pairs in human p53 protein sensitive to mutations/variants by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Mol Model",
+            "volume": "9",
+            "issn": "",
+            "pages": "337-41",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Determination of amino acid pairs in Von Hippel-Lindau disease tumour suppressor (G7 protein) sensitive to variants by means of a random approach.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Appl Res",
+            "volume": "3",
+            "issn": "",
+            "pages": "512-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Determination of amino acid pairs sensitive to variants in human copper-transporting ATPase 2.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "319",
+            "issn": "",
+            "pages": "27-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Avian-to-human transmission of H9N2 subtype influenza A viruses: relationship between H9N2 and H5N1 human isolates.",
+            "authors": [
+                {
+                    "first": "YP",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klimov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "9654-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Susceptible amino acid pairs in variants of human collagen a1(III) chain precursor.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "EXCLI J",
+            "volume": "3",
+            "issn": "",
+            "pages": "20-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Amino acid pairs sensitive to variants in human collagen a1(I) chain precursor.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "EXCLI J",
+            "volume": "3",
+            "issn": "",
+            "pages": "10-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Amino acid pairs susceptible to variants in human protein C precursor.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Protein Pept Lett",
+            "volume": "10",
+            "issn": "",
+            "pages": "491-4",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Determination of sensitive positions to mutations in human p53 protein.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "321",
+            "issn": "",
+            "pages": "313-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Pattern of positions sensitive to mutations in human haemoglobin \u03b1-chain.",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Protein Pept Lett",
+            "volume": "13",
+            "issn": "",
+            "pages": "101-7",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Prediction of mutation trend in hemagglutinins and neuraminidases from influenza A viruses by means of cross-impact analysis.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "326",
+            "issn": "",
+            "pages": "475-82",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Timing of mutation in hemagglutinins from influenza A virus by means of unpredictable portion of amino-acid pair and fast Fourier transform.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "333",
+            "issn": "",
+            "pages": "70-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Timing of mutation in hemagglutinins from influenza A virus by means of amino-acid distribution rank and fast Fourier transform.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Protein Pept Lett",
+            "volume": "13",
+            "issn": "",
+            "pages": "143-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "A new concept of the epidemic process of influenza A virus.",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Hope-Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Golubev",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Epidemiol Infect",
+            "volume": "99",
+            "issn": "",
+            "pages": "5-54",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Avian influenza and human health.",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Capua",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Acta Trop",
+            "volume": "83",
+            "issn": "",
+            "pages": "1-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "The impact of avian influenza viruses on public health.",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Katz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Dis",
+            "volume": "47",
+            "issn": "",
+            "pages": "914-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Early alterations of the receptor-binding properties of H1, H2, and H3 avian influenza virus hemagglutinins after their introduction into mammals.",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Matrosovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tuzikov",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bovin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gambaryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klimov",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Castrucci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Virol",
+            "volume": "74",
+            "issn": "",
+            "pages": "8502-12",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Evolutionary characterization of the six internal genes of H5N1 human influenza A virus.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hiromoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yamazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fukushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Lindstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Omoe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Gen Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "1293-303",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Rapid evolution of H5N1 influenza viruses in chickens in Hong Kong.",
+            "authors": [
+                {
+                    "first": "NN",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "KF",
+                    "middle": [],
+                    "last": "Shortridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "ECJ",
+                    "middle": [],
+                    "last": "Claas",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Krauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J Virol",
+            "volume": "73",
+            "issn": "",
+            "pages": "3366-74",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "H5N1 influenza: a protean pandemic threat.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "CY",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Lipatov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "8156-61",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Lethality to ferrets of H5N1 influenza viruses isolated from humans and poultry in 2004.",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Govorkova",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Rehg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Krauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Yen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "2191-8",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Molecular characterization of the complete genome of human influenza H5N1 virus isolates from Thailand.",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Puthavathana",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Auewarakul",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Charoenying",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sangsiriwut",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pooruk",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Boonnak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Gen Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "423-33",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Evolution and ecology of influenza A viruses.",
+            "authors": [
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "OT",
+                    "middle": [],
+                    "last": "Gorman",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Chambers",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Microbiol Rev",
+            "volume": "56",
+            "issn": "",
+            "pages": "152-79",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Pandemic and epidemic influenza, 1830\u20131848.",
+            "authors": [
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Soc Sci Med",
+            "volume": "21",
+            "issn": "",
+            "pages": "571-80",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Determination of mutation trend in proteins by means of translation probability between RNA codes and mutated amino acids.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "337",
+            "issn": "",
+            "pages": "692-700",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Public health risk from avian influenza viruses.",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Perdue",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Swayne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Avian Dis",
+            "volume": "49",
+            "issn": "",
+            "pages": "317-27",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Initial genetic characterization of the 1918 \u201cSpanish\u201d influenza virus.",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Taubenberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "AH",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Krafft",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Bijwaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Fanning",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Science",
+            "volume": "275",
+            "issn": "",
+            "pages": "1793-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Origin and evolution of the 1918 \u201cSpanish\u201d influenza virus hemagglutinin gene.",
+            "authors": [
+                {
+                    "first": "AH",
+                    "middle": [],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Fanning",
+                    "suffix": ""
+                },
+                {
+                    "first": "JV",
+                    "middle": [],
+                    "last": "Hultin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Taubenberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "1651-6",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Feller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "An introduction to probability theory and its applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Initial experiments with the cross-impact matrix method of forecasting.",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hayward",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "Futures",
+            "volume": "1",
+            "issn": "",
+            "pages": "100-16",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Cross-impact matrices - an illustration of their use for policy analysis.",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1969,
+            "venue": "Futures",
+            "volume": "2",
+            "issn": "",
+            "pages": "527-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Delphi and cross-impact techniques: an effective combination for systematic futures analysis.",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Enzer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Futures",
+            "volume": "3",
+            "issn": "",
+            "pages": "48-61",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Cross-impact techniques in technology assessment.",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Enzer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Futures",
+            "volume": "4",
+            "issn": "",
+            "pages": "30-51",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Sage",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Methodology for large-scale systems",
+            "volume": "",
+            "issn": "",
+            "pages": "165-203",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Application of cross-impact analysis to the relationship between aldehyde dehydrogenase 2 allele and the flushing syndrome.",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Alcohol Alcohol",
+            "volume": "35",
+            "issn": "",
+            "pages": "55-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Influenza: forecast for a pandemic.",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "de la Barrera",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Reyes-Teran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Arch Med Res",
+            "volume": "36",
+            "issn": "",
+            "pages": "628-36",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

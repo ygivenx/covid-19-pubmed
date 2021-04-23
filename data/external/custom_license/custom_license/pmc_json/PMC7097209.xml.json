@@ -1,0 +1,2711 @@
+{
+    "paper_id": "PMC7097209",
+    "metadata": {
+        "title": "From genotype to phenotype: can systems biology be used to predict Staphylococcus aureus virulence?",
+        "authors": [
+            {
+                "first": "Nicholas",
+                "middle": [
+                    "K."
+                ],
+                "last": "Priest",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Justine",
+                "middle": [
+                    "K."
+                ],
+                "last": "Rudkin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Edward",
+                "middle": [
+                    "J."
+                ],
+                "last": "Feil",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jean",
+                "middle": [
+                    "M.",
+                    "H."
+                ],
+                "last": "van den Elsen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ambrose",
+                "middle": [],
+                "last": "Cheung",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Sharon",
+                "middle": [
+                    "J."
+                ],
+                "last": "Peacock",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Maisem",
+                "middle": [],
+                "last": "Laabei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "A."
+                ],
+                "last": "Lucks",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Mario",
+                "middle": [],
+                "last": "Recker",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ruth",
+                "middle": [
+                    "C."
+                ],
+                "last": "Massey",
+                "suffix": "",
+                "email": "r.c.massey@bath.ac.uk",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: Inside the circle are all the regulatory genes shown to have an effect on each other and on virulence66,67,68,69,70,71,72,73,74,75,76,77,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96. Outside the circle are the known effects of each regulator on adhesiveness (A), toxicity (T) and evasiveness (E). Much of the data used to generate this image is qualitative. A question mark indicates that there is either no information regarding the direct activity of the regulator or the available information is conflicting.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The sequence variability within virulence-regulatory genes across ten Staphylococcus aureus strains. Pi is the probability that nucleotides in a gene differ between individuals.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Whole-genome random sequencing and assembly of Haemophilus influenzae Rd",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Fleischmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Science.",
+            "volume": "269",
+            "issn": "",
+            "pages": "496-512",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.7542800"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "The cost of multiple drug resistance in Pseudomonas aeruginosa",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "GG",
+                    "middle": [],
+                    "last": "Perron",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Maclean",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Evol. Biol.",
+            "volume": "22",
+            "issn": "",
+            "pages": "997-1003",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1420-9101.2009.01712.x"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Modeling and simulation of genetic regulatory systems: a literature review",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "De Jong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Comput. Biol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "67-103",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/10665270252833208"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Biological networks",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Alm",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Arkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Curr. Opin. Struct. Biol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "193-202",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0959-440X(03)00031-9"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The Inferelator: an algorithm for learning parsimonious regulatory networks from systems-biology data sets de novo",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bonneau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Genome Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/gb-2006-7-5-r36"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "How to infer gene networks from expression profiles",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bansal",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Belcastro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ambesi-Impiombato",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "di Bernardo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Syst. Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/msb4100158"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Gene regulatory network inference: data integration in dynamic models\u2014a review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Heckera",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lambecka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Toepferb",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "van Somerenc",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Guthkea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biosystems",
+            "volume": "96",
+            "issn": "",
+            "pages": "86-103",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.biosystems.2008.12.004"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Noise and robustness in prokaryotic regulatory networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Silva-Rocha",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "de Lorenzo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Annu. Rev. Microbiol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "257-275",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.micro.091208.073229"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Mathematical modeling of gene expression: a guide for the perplexed biologist",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahmet",
+                    "suffix": ""
+                },
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Arnosti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Crit. Rev. Biochem. Mol. Biol.",
+            "volume": "46",
+            "issn": "",
+            "pages": "137-151",
+            "other_ids": {
+                "DOI": [
+                    "10.3109/10409238.2011.556597"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Reconstruction of microbial transcriptional regulatory networks",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Herrgard",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Covert",
+                    "suffix": ""
+                },
+                {
+                    "first": "BO",
+                    "middle": [],
+                    "last": "Palsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Opin. Biotechnol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "70-77",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.copbio.2003.11.002"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Mathematical modelling of the regulation of spa (protein A) transcription in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gustafsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Int. J. Med. Microbiol.",
+            "volume": "299",
+            "issn": "",
+            "pages": "65-74",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijmm.2008.05.011"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "BO",
+                    "middle": [],
+                    "last": "Palsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Systems Biology. Properties of Reconstructed Networks",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Integration of 'omics' data: does it lead to new insights into host\u2013microbe interactions?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kint",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fierro",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Marchal",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vanderleyden",
+                    "suffix": ""
+                },
+                {
+                    "first": "SCJ",
+                    "middle": [],
+                    "last": "De Keersmaecker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Future Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "313-328",
+            "other_ids": {
+                "DOI": [
+                    "10.2217/fmb.10.1"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Global network analysis of drug tolerance, mode of action and virulence in methicillin-resistant S. aureus",
+            "authors": [
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Overton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Syst Biol.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1752-0509-5-68"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Validation of gene regulatory networks: scientific and inferential",
+            "authors": [
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Dougherty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Brief. Bioinform.",
+            "volume": "12",
+            "issn": "",
+            "pages": "245-252",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bib/bbq078"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Systems analysis of multiple regulator perturbations allows discovery of virulence factors in Salmonella",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yoon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Syst. Biol.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1752-0509-5-100"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Staphylococcus aureus infections",
+            "authors": [
+                {
+                    "first": "FD",
+                    "middle": [],
+                    "last": "Lowy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "N. Engl. J. Med.",
+            "volume": "339",
+            "issn": "",
+            "pages": "520-532",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJM199808203390806"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Pathogenesis of methicillin-resistant Staphylococcus aureus infection",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "FD",
+                    "middle": [],
+                    "last": "Lowy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "46",
+            "issn": "Suppl. 5",
+            "pages": "S350-359",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/533591"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Basis of virulence in community-associated methicillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Otto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Annu. Rev. Microbiol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "143-146",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.micro.112408.134309"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Community-associated meticillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "FR",
+                    "middle": [],
+                    "last": "DeLeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Otto",
+                    "suffix": ""
+                },
+                {
+                    "first": "BN",
+                    "middle": [],
+                    "last": "Kreiswirth",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Chambers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Lancet.",
+            "volume": "375",
+            "issn": "",
+            "pages": "1557-1568",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(09)61999-1"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Surface adhesins of Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Clarke",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv. Microb. Physiol.",
+            "volume": "51",
+            "issn": "",
+            "pages": "187-224",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-2911(06)51004-5"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Immune evasion by staphylococci",
+            "authors": [
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "948-958",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1289"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "A systems biology approach to infectious disease research: innovating the pathogen-host research paradigm",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aderem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "mBio",
+            "volume": "2",
+            "issn": "",
+            "pages": "e00325-00310",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00325-10"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Staphylococcal innate immune evasion",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Rooijakkers",
+                    "suffix": ""
+                },
+                {
+                    "first": "KP",
+                    "middle": [],
+                    "last": "van Kessel",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "van Strijp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Trends Microbiol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "596-601",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2005.10.002"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Regulation of virulence determinants in vitro and in vivo in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Bayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gresham",
+                    "suffix": ""
+                },
+                {
+                    "first": "YQ",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "FEMS Immunol. Med. Microbiol.",
+            "volume": "40",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0928-8244(03)00309-2"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "The Staphylococcus aureus RNome and its commitment to virulence",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Felden",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Vandenesch",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bouloc",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Romby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog.",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1002006"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Offsetting virulence and antibiotic resistance costs by MRSA",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "ISME J.",
+            "volume": "4",
+            "issn": "",
+            "pages": "577-584",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ismej.2009.151"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Methicillin resistance reduces the toxicity of HA-MRSA by interfering with agr activation",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Rudkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Infect. Dis.",
+            "volume": "205",
+            "issn": "",
+            "pages": "798-806",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jir845"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "\u03c3B modulates virulence determinant expression and stress resistance: characterization of a functional rsbU strain derived from Staphylococcus aureus 8325-4",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Horsburgh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Bacteriol.",
+            "volume": "184",
+            "issn": "",
+            "pages": "5457-5467",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.184.19.5457-5467.2002"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "A point mutation in the sensor histidine kinase SaeS of Staphylococcus aureus strain Newman alters the response to biocide exposure",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schafer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Bacteriol.",
+            "volume": "191",
+            "issn": "",
+            "pages": "7306-7314",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.00630-09"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Transcriptional profiling of a Staphylococcus aureus clinical isolate and its isogenic agr and sarA mutants reveals global differences in comparison to the laboratory strain RN6390",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cassat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Microbiology.",
+            "volume": "152",
+            "issn": "",
+            "pages": "3075-3090",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/mic.0.29033-0"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Staphylococcus aureus host cell invasion and virulence in sepsis is facilitated by the multiple repeats within FnBPA",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Edwards",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000964"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Potential associations between severity of infection and the presence of virulence-associated genes in clinical strains of Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Gill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS ONE.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0018673"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Genetic characterization indicates that a specific subpopulation of Pseudomonas aeruginosa is associated with keratitis infections",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "49",
+            "issn": "",
+            "pages": "993-1003",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.02036-10"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Risk factors for hematogenous complications of intravascular catheter-associated Staphylococcus aureus bacteremia",
+            "authors": [
+                {
+                    "first": "VG",
+                    "middle": [],
+                    "last": "Fowler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "40",
+            "issn": "",
+            "pages": "695-703",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/427806"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Fibrinogen and fibronectin binding cooperate for valve infection and invasion in Staphylococcus aureus experimental endocarditis",
+            "authors": [
+                {
+                    "first": "YA",
+                    "middle": [],
+                    "last": "Que",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Exp. Med.",
+            "volume": "201",
+            "issn": "",
+            "pages": "1627-1635",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20050125"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Global analysis of community-associated methicillin-resistant Staphylococcus aureus exoproteins reveals molecules produced in vitro and during infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Burlak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell. Microbiol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1172-1190",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1462-5822.2006.00858.x"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Proteomic and functional genomic landscape of receptor tyrosine kinase and Ras to extracellular signal-related kinase signalling",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Freidman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Sci. Signal.",
+            "volume": "196",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Differential network biology",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ideker",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Krogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Mol. Syst. Biol.",
+            "volume": "565",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Inferring genetic networks and identifying compound mode of action via expression profiling",
+            "authors": [
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "di Bernardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lorenz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "301",
+            "issn": "",
+            "pages": "102-105",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1081900"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Developments in statistical analysis in quantitative genetics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sorensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Genetica",
+            "volume": "136",
+            "issn": "",
+            "pages": "319-332",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10709-008-9303-5"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Complete genomes of two clinical Staphylococcus aureus strains: evidence for the rapid evolution of virulence and drug resistance",
+            "authors": [
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Holden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "9786-9791",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0402521101"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Genome sequence of Staphylococcus aureus strain Newman and comparative analysis of staphylococcal genomes: polymorphism and evolution of two major pathogenicity islands",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Baba",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bae",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schneewind",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hiramatsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Bacteriol.",
+            "volume": "190",
+            "issn": "",
+            "pages": "300-310",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.01000-07"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Complete genome sequence of USA300, an epidemic clone of community-acquired meticillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Diep",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Lancet",
+            "volume": "367",
+            "issn": "",
+            "pages": "731-739",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(06)68231-7"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Methicillin-susceptible Staphylococcus aureus endocarditis isolates are associated with clonal complex 30 genotype and a distinct repertoire of enterotoxins and adhesins",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Neinaber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Infect. Dis.",
+            "volume": "204",
+            "issn": "",
+            "pages": "704-713",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jir389"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Gillaspy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Gram-Positive Pathogens",
+            "volume": "",
+            "issn": "",
+            "pages": "381-412",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Insights on evolution of virulence and resistance from the complete genome analysis of an early methicillin-resistant Staphylococcus aureus strain and a biofilm-producing methicillin-resistant Staphylococcus epidermidis strain",
+            "authors": [
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Gill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Bacteriol.",
+            "volume": "187",
+            "issn": "",
+            "pages": "2426-2438",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.187.7.2426-2438.2005"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Genome sequence of a recently emerged, highly transmissible, multi-antibiotic- and antiseptic-resistant variant of methicillin-resistant Staphylococcus aureus, sequence type 239 (TW)",
+            "authors": [
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Holden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Bacteriol.",
+            "volume": "192",
+            "issn": "",
+            "pages": "888-892",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.01255-09"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Genome and virulence determinants of high virulence community-acquired MRSA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Baba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Lancet",
+            "volume": "359",
+            "issn": "",
+            "pages": "1819-1827",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(02)08713-5"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Whole genome sequencing of meticillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kuroda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Lancet",
+            "volume": "357",
+            "issn": "",
+            "pages": "1225-1240",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(00)04403-2"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Network component analysis: reconstruction of regulatory signals in biological systems",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "15522-15527",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.2136632100"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Using network component analysis to dissect regulatory networks mediated by transcription factors in yeast",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Galbraith",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Eskin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Comput. Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.1000311"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Rapid whole-genome sequencing for investigation of a neonatal MRSA outbreak",
+            "authors": [
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "K\u00f6ser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N. Engl. J. Med.",
+            "volume": "366",
+            "issn": "",
+            "pages": "2267-2275",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1109910"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Molecular tracing of the emergence, adaptation, and transmission of hospital-associated methicillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "McAdam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "109",
+            "issn": "",
+            "pages": "9107-9112",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1202869109"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "Understanding gene sequence variation in the context of transcription regulation in yeast",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Gat-Viks",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Meller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kupiec",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shamir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Genet.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pgen.1000800"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Association between phylogeny, virulence potential and serovars of Salmonella enterica",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Litrup",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Infect. Genet. Evol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1132-1139",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2010.07.015"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Hoyle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Handbook of Structural Equation Modeling",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Interactome networks and human disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vidal",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Cuisick",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Barab\u00e1si",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Cell",
+            "volume": "144",
+            "issn": "",
+            "pages": "986-996",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2011.02.016"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Mobile genetic element-encoded cytolysin connects virulence to methicillin resistance in MRSA",
+            "authors": [
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Queck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000533"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Systems biology of persistent infection: tuberculosis as a case study",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kirschner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Rev Microbiol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "520-528",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1919"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Integrating 'omic' information: a bridge between genomics and systems biology",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJM",
+                    "middle": [],
+                    "last": "Walhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vidal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Genet.",
+            "volume": "19",
+            "issn": "",
+            "pages": "551-560",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tig.2003.08.009"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Systems biology: a brief overview",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kitano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Science",
+            "volume": "295",
+            "issn": "",
+            "pages": "1662-1664",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1069492"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Bacterial competition for human nasal cavity colonization: role of staphylococcal agr alleles",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Appl. Environ. Microbiol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "18-23",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AEM.69.1.18-23.2003"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Bacterial interference caused by autoinducing peptide variants",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beavis",
+                    "suffix": ""
+                },
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Novick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Science.",
+            "volume": "276",
+            "issn": "",
+            "pages": "2027-2030",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.276.5321.2027"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Agr interference between clinical Staphylococcus aureus strains in an insect model of virulence",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Fleming",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Bacteriol.",
+            "volume": "188",
+            "issn": "",
+            "pages": "7686-7688",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.00700-06"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "The human nasal microbiota and Staphylococcus aureus carriage",
+            "authors": [
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Frank",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS ONE.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0010598"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Strain diversity, epistasis and the evolution of drug resistance in Mycobacterium tuberculosis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Borrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gagneux",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Clin. Microbiol. Infect.",
+            "volume": "17",
+            "issn": "",
+            "pages": "815-820",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1469-0691.2011.03556.x"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Transcription profiling-based identification of Staphylococcus aureus genes regulated by the agr and/or sarA loci",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Dunman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Bacteriol.",
+            "volume": "183",
+            "issn": "",
+            "pages": "7341-7353",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.183.24.7341-7353.2001"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Interconnections between Sigma B, agr, and proteolytic activity in Staphylococcus aureus biofilm maturation",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Lauderdale",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Boles",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Horswill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Infect. Immun.",
+            "volume": "77",
+            "issn": "",
+            "pages": "1623-1635",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.01036-08"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Microarray-based analysis of the Staphylococcus aureus \u03c3B regulon",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bischoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Bacteriol.",
+            "volume": "186",
+            "issn": "",
+            "pages": "4085-4099",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.186.13.4085-4099.2004"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Regulation of Rot expression in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "HY",
+                    "middle": [],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Tseng",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Bacteriol.",
+            "volume": "190",
+            "issn": "",
+            "pages": "546-554",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.00536-07"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "Repression of hla by rot is dependent on sae in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Infect. Immun.",
+            "volume": "76",
+            "issn": "",
+            "pages": "1068-1075",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.01069-07"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Global regulation of Staphylococcus aureus genes by Rot",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Said-Salim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Bacteriol.",
+            "volume": "185",
+            "issn": "",
+            "pages": "610-619",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.185.2.610-619.2003"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "sarU, a sarA homolog, is repressed by SarT and regulates virulence genes in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Infect Immun.",
+            "volume": "71",
+            "issn": "",
+            "pages": "343-353",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.71.1.343-353.2003"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "SarT influences sarS expression in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Infect. Immun.",
+            "volume": "71",
+            "issn": "",
+            "pages": "5139-5148",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.71.9.5139-5148.2003"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "Crystal Structure of the SarS protein from Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Bacteriol.",
+            "volume": "185",
+            "issn": "",
+            "pages": "4219-4225",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.185.14.4219-4225.2003"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "SarS, a SarA homolog repressible by agr, is an activator of protein A synthesis in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bateman",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infect. Immun.",
+            "volume": "69",
+            "issn": "",
+            "pages": "2448-2455",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.69.4.2448-2455.2001"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Compensatory adaptation to the deleterious effect of antibiotic resistance in Salmonella typhimurium",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Maisnier-Patin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Microbiol.",
+            "volume": "46",
+            "issn": "",
+            "pages": "355-366",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2958.2002.03173.x"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "The staphylococcus-specific gene rsr represses agr and virulence in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tamber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Infect. Immun.",
+            "volume": "78",
+            "issn": "",
+            "pages": "4384-4391",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.00401-10"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "The virulence regulator Sae of Staphylococcus aureus: promoter activities and response to phagocytosis-related signals",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Geiger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Goerke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mainiero",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kraus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wolz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Bacteriol.",
+            "volume": "190",
+            "issn": "",
+            "pages": "3419-3428",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.01927-07"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "SaeR binds a consensus sequence within virulence gene promoters to advance USA300 pathogenesis",
+            "authors": [
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Nygaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Infect. Dis.",
+            "volume": "201",
+            "issn": "",
+            "pages": "241-254",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/649570"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "The two-component system ArlS\u2013ArlR is a regulator of virulence gene expression in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Fournier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klier",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rapoport",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Microbiol.",
+            "volume": "41",
+            "issn": "",
+            "pages": "247-261",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2958.2001.02515.x"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Identification of a novel two-component regulatory system that acts in global regulation of virulence factors of Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Yarwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "McCormick",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Schlievert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Bacteriol.",
+            "volume": "183",
+            "issn": "",
+            "pages": "1113-1123",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.183.4.1113-1123.2001"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "Staphylococcus aureus CodY negatively regulates virulence gene expression",
+            "authors": [
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Majerczyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Bacteriol.",
+            "volume": "190",
+            "issn": "",
+            "pages": "2257-2265",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.01545-07"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Analysis of genetic elements controlling Staphylococcus aureus lrgAB expression: potential role of DNA topology in SarA regulation",
+            "authors": [
+                {
+                    "first": "DF",
+                    "middle": [],
+                    "last": "Fujimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Brunskill",
+                    "suffix": ""
+                },
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Bayles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Bacteriol.",
+            "volume": "182",
+            "issn": "",
+            "pages": "4822-4828",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.182.17.4822-4828.2000"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "Regulation and characterization of rot transcription in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Microbiology.",
+            "volume": "153",
+            "issn": "",
+            "pages": "1538-1545",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/mic.0.2006/004309-0"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "sarZ, a sarA family gene, is transcriptionally activated by MgrA and is involved in the regulation of genes encoding exoproteins in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ballal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ray",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Bacteriol.",
+            "volume": "191",
+            "issn": "",
+            "pages": "1656-1665",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.01555-08"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "SarZ promotes the expression of virulence factors and represses biofilm formation by modulating SarA and agr in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tamber",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Infect. Immun.",
+            "volume": "77",
+            "issn": "",
+            "pages": "419-428",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.00859-08"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "Positive epistasis drives the acquisition of multidrug resistance",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Trindade",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Genet.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pgen.1000578"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Expression of SarX, a negative regulator of agr and exoprotein synthesis, is activated by MgrA in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Bacteriol.",
+            "volume": "188",
+            "issn": "",
+            "pages": "4288-4299",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.00297-06"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "Identification of sarV (SA2062), a new transcriptional regulator, is repressed by SarA and MgrA (SA0641) and involved in the regulation of autolysis in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Ingavale",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Maloney",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "van Wamel",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Bacteriol.",
+            "volume": "186",
+            "issn": "",
+            "pages": "5267-5280",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.186.16.5267-5280.2004"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Characterization of sarR, a modulator of sar expression in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Manna",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infect. Immun.",
+            "volume": "69",
+            "issn": "",
+            "pages": "885-896",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.69.2.885-896.2001"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "The SarA protein family of Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Nishina",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Trotonda",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tamber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Int. J. Biochem. Cell Biol.",
+            "volume": "40",
+            "issn": "",
+            "pages": "355-361",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.biocel.2007.10.032"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "Role of mgrA and sarA in methicillin-resistant Staphylococcus aureus autolysis and resistance to cell wall-active antibiotics",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Trotonda",
+                    "suffix": ""
+                },
+                {
+                    "first": "YQ",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Memmi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Bayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Infect. Dis.",
+            "volume": "199",
+            "issn": "",
+            "pages": "209-218",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/595740"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Direct targets of CodY in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Majerczyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Bacteriol.",
+            "volume": "192",
+            "issn": "",
+            "pages": "2861-2877",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.00220-10"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Staphylococcus aureus ClpC divergently regulates capsule via sae and codY in strain Newman but activates capsule via codY in strain UAMS-1 and in strain Newman with repaired saeS",
+            "authors": [
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Luong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Bacteriol.",
+            "volume": "193",
+            "issn": "",
+            "pages": "686-694",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JB.00987-10"
+                ]
+            }
+        }
+    }
+}

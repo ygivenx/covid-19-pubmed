@@ -1,0 +1,3362 @@
+{
+    "paper_id": "PMC7089013",
+    "metadata": {
+        "title": "Differential expression analysis of the broiler tracheal proteins responsible for the immune response and muscle contraction induced by high concentration of ammonia using iTRAQ-coupled 2D LC-MS/MS",
+        "authors": [
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Xiong",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xiangfang",
+                "middle": [],
+                "last": "Tang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qingshi",
+                "middle": [],
+                "last": "Meng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hongfu",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": "zhanghongfu@caas.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Effect of atmospheric ammonia on the surface ultrastructure of the lung and trachea of broiler chicks",
+            "authors": [
+                {
+                    "first": "E.H.",
+                    "middle": [],
+                    "last": "Al-Mashhadani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.M.",
+                    "middle": [],
+                    "last": "Beck",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Poultry Sci",
+            "volume": "64",
+            "issn": "",
+            "pages": "2056-2061",
+            "other_ids": {
+                "DOI": [
+                    "10.3382/ps.0642056"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Proteomics analysis of differentially expressed proteins in chicken trachea and kidney after infection with the highly virulent and attenuated coronavirus infectious bronchitis virus in vivo",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proteome Sci",
+            "volume": "10",
+            "issn": "",
+            "pages": "1-19",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1477-5956-10-24"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Atmospheric ammonia and broiler cockerel performance",
+            "authors": [
+                {
+                    "first": "D.D.",
+                    "middle": [],
+                    "last": "Caveny",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.L.",
+                    "middle": [],
+                    "last": "Quarles",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.A.",
+                    "middle": [],
+                    "last": "Greathouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Poultry Sci",
+            "volume": "60",
+            "issn": "",
+            "pages": "513-516",
+            "other_ids": {
+                "DOI": [
+                    "10.3382/ps.0600513"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Effects of ammonia exposure on apoptosis, oxidative stress and immune response in pufferfish (Takifugu obscurus)",
+            "authors": [
+                {
+                    "first": "C.H.",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.F.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.Z.",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.A.",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.T.",
+                    "middle": [],
+                    "last": "Miao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.X.",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.L.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Aquatic Toxicol",
+            "volume": "164",
+            "issn": "",
+            "pages": "61-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.aquatox.2015.04.004"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Environmental ammonia exposure induces oxidative stress in gills and brain of Boleophthalmus boddarti (mudskipper)",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Ching",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.F.",
+                    "middle": [],
+                    "last": "Chew",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.P.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.K.",
+                    "middle": [],
+                    "last": "Ip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Aquatic Toxicol",
+            "volume": "95",
+            "issn": "",
+            "pages": "203-212",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.aquatox.2009.09.004"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "RNA-seq analysis of broiler liver transcriptome reveals novel responses to high ambient temperature",
+            "authors": [
+                {
+                    "first": "D.J.",
+                    "middle": [],
+                    "last": "Coble",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Fleming",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.E.",
+                    "middle": [],
+                    "last": "Persia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.M.",
+                    "middle": [],
+                    "last": "Ashwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.F.",
+                    "middle": [],
+                    "last": "Rothschild",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.J.",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.J.",
+                    "middle": [],
+                    "last": "Lamont",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMC Genomics",
+            "volume": "15",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2164-15-1084"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Dynamic measurement of myosin light-chain-domain tilt and twist in muscle contraction",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Irving",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.E.T.",
+                    "middle": [],
+                    "last": "Corrie",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.D.",
+                    "middle": [],
+                    "last": "Brandmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.E.",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.R.",
+                    "middle": [],
+                    "last": "Trentham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Kendrick-Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.C.",
+                    "middle": [],
+                    "last": "Hopkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "U.A.",
+                    "middle": [],
+                    "last": "Heide",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.E.",
+                    "middle": [],
+                    "last": "Goldman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Sabido-David",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.E.",
+                    "middle": [],
+                    "last": "Dale",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Criddle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature",
+            "volume": "400",
+            "issn": "",
+            "pages": "425-430",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/22704"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Structure and function of legumain in health and disease",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Dall",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Brandstetter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Biochimie",
+            "volume": "122",
+            "issn": "",
+            "pages": "126-150",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.biochi.2015.09.022"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Air quality in alternative housing systems may have an impact on laying hen welfare",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "David",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Mejdell",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Michel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Oppermann Moe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Part II\u2014Ammonia. Animals (Basel)",
+            "volume": "5",
+            "issn": "",
+            "pages": "886-896",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Global signatures of protein and mRNA expression levels",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "de Sousa Abreu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.O.",
+                    "middle": [],
+                    "last": "Penalva",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.M.",
+                    "middle": [],
+                    "last": "Marcotte",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol Biosyst",
+            "volume": "5",
+            "issn": "",
+            "pages": "1512-1526",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Crystal structure of a vertebrate smooth muscle myosin motor domain and its complex with the essential light chain",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Dominguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Freyzon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.M.",
+                    "middle": [],
+                    "last": "Trybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Cell",
+            "volume": "94",
+            "issn": "",
+            "pages": "559-571",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)81598-6"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Effect of oxidative stress on the expression of thin filament-associated proteins in gastric smooth muscle cells",
+            "authors": [
+                {
+                    "first": "O.A.",
+                    "middle": [],
+                    "last": "Al-Shboul",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Mustafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mohammad",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Al-Shehabat",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Yousef",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Al-hashimi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cell Biochem Biophys",
+            "volume": "70",
+            "issn": "",
+            "pages": "225-231",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12013-014-9886-7"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The mechanism of mitochondrial superoxide production by the cytochrome bc1 complex",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Dr\u00f6se",
+                    "suffix": ""
+                },
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Brandt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Biol Chem",
+            "volume": "283",
+            "issn": "",
+            "pages": "21649-21654",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M803236200"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Free radicals in the physiological control of cell function",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Dr\u00f6ge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Physiol Rev",
+            "volume": "82",
+            "issn": "",
+            "pages": "47-95",
+            "other_ids": {
+                "DOI": [
+                    "10.1152/physrev.00018.2001"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Muscle contraction and free energy transduction in biological systems",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Eisenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Hill",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Science",
+            "volume": "227",
+            "issn": "",
+            "pages": "999-1006",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.3156404"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The troponin complex and regulation of muscle contraction",
+            "authors": [
+                {
+                    "first": "C.S.",
+                    "middle": [],
+                    "last": "Farah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.C.",
+                    "middle": [],
+                    "last": "Reinach",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "FASEB J",
+            "volume": "9",
+            "issn": "",
+            "pages": "755-767",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Effects of ammonia and nitrite-nitrate concentrations on thyroid hormones and variables parameters of broilers in poorly ventilated poultry houses",
+            "authors": [
+                {
+                    "first": "U.R.",
+                    "middle": [],
+                    "last": "Fidanci",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Yavuz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Kum",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Kiral",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Ozdemir",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Sekkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Filazi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Animal Veterinary Adv",
+            "volume": "9",
+            "issn": "",
+            "pages": "346-353",
+            "other_ids": {
+                "DOI": [
+                    "10.3923/javaa.2010.346.353"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Hematoxylin and eosin staining of tissue and cell sections",
+            "authors": [
+                {
+                    "first": "A.H.",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.A.",
+                    "middle": [],
+                    "last": "Jacobson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Zeller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Basic Methods in Microscopy",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "The extracellular matrix at a glance",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Frantz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.M.",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.M.",
+                    "middle": [],
+                    "last": "Weaver",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Cell Sci",
+            "volume": "123",
+            "issn": "",
+            "pages": "4195-4200",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/jcs.023820"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Detection of rare antigen-presenting cells through T cell-intrinsic meandering motility, mediated by Myo1g",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "G\u00e9rard",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Patino-Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Beemiller",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Nambiar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Ben-Aissa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.J.",
+                    "middle": [],
+                    "last": "Totah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Tyska",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.F.",
+                    "middle": [],
+                    "last": "Krummel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cell",
+            "volume": "158",
+            "issn": "",
+            "pages": "492-505",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2014.05.044"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Estimating farm-gate ammonia emissions from major animal production systems in China",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Roelcke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Atmos Environ",
+            "volume": "79",
+            "issn": "",
+            "pages": "20-28",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.atmosenv.2013.06.025"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "G.M.",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "The Cell: a Molecular Approach",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Members of the chloride intracellular ion channel protein family demonstrate glutaredoxin-like enzymatic activity",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Al Khamici",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.J.",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.R.",
+                    "middle": [],
+                    "last": "Hossain",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.L.",
+                    "middle": [],
+                    "last": "Hudson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.A.",
+                    "middle": [],
+                    "last": "Sinclair-Burton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.P.M.",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.L.",
+                    "middle": [],
+                    "last": "Daniel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.E.",
+                    "middle": [],
+                    "last": "Hare",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.A.",
+                    "middle": [],
+                    "last": "Cornell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.M.G.",
+                    "middle": [],
+                    "last": "Curmi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.W.",
+                    "middle": [],
+                    "last": "Davey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Valenzuela",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.E.S.",
+                    "middle": [],
+                    "last": "Netto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS ONE",
+            "volume": "10",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0115699"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Lifeomics leads the age of grand discoveries",
+            "authors": [
+                {
+                    "first": "F.C.",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Sci China Life Sci",
+            "volume": "56",
+            "issn": "",
+            "pages": "201-212",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11427-013-4464-6"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Redox potential and the response of cardiac ryanodine receptors to CLIC-2, a member of the glutathione S-transferase structural family",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Jalilian",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.M.",
+                    "middle": [],
+                    "last": "Gallant",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.G.",
+                    "middle": [],
+                    "last": "Board",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.F.",
+                    "middle": [],
+                    "last": "Dulhunty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Antioxid Redox Signal",
+            "volume": "10",
+            "issn": "",
+            "pages": "1675-1686",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/ars.2007.1994"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Novel aspects of fibrin(ogen) fragments during inflammation",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Jennewein",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Paulus",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Ellinghaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Eble",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Zacharowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Mol Med",
+            "volume": "17",
+            "issn": "",
+            "pages": "568-573",
+            "other_ids": {
+                "DOI": [
+                    "10.2119/molmed.2010.00146"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Fibrinogen: biochemistry, epidemiology and determinants",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Kamath",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.Y.H.",
+                    "middle": [],
+                    "last": "Lip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "QJM",
+            "volume": "96",
+            "issn": "",
+            "pages": "711-729",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/qjmed/hcg129"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Genome-wide differential gene expression profiles in broiler chickens with gangrenous dermatitis",
+            "authors": [
+                {
+                    "first": "D.K.",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.S.",
+                    "middle": [],
+                    "last": "Lillehoj",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.W.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.I.",
+                    "middle": [],
+                    "last": "Jang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.P.",
+                    "middle": [],
+                    "last": "Neumann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.R.",
+                    "middle": [],
+                    "last": "Siragusa",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.P.",
+                    "middle": [],
+                    "last": "Lillehoj",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.H.",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Avian Dis",
+            "volume": "56",
+            "issn": "",
+            "pages": "670-679",
+            "other_ids": {
+                "DOI": [
+                    "10.1637/10069-013112-Reg.1"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Effect of atmospheric ammonia and the stress of infectious bronchitis vaccination on leghorn males",
+            "authors": [
+                {
+                    "first": "H.F.",
+                    "middle": [],
+                    "last": "Kling",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.L.",
+                    "middle": [],
+                    "last": "Quarles",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Poultry Sci",
+            "volume": "53",
+            "issn": "",
+            "pages": "1161-1167",
+            "other_ids": {
+                "DOI": [
+                    "10.3382/ps.0531161"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Sources of oxygen radicals in brain in acute ammonia intoxication in vivo",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Kosenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Venediktova",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Kaminsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Montoliu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Felipo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Brain Res",
+            "volume": "981",
+            "issn": "",
+            "pages": "193-200",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-8993(03)03035-X"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Ammonia and poultry welfare: a review",
+            "authors": [
+                {
+                    "first": "H.H.",
+                    "middle": [],
+                    "last": "Kristensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.M.",
+                    "middle": [],
+                    "last": "Wathes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Worlds Poult Sci J",
+            "volume": "56",
+            "issn": "",
+            "pages": "235-245",
+            "other_ids": {
+                "DOI": [
+                    "10.1079/WPS20000018"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Elevated tropomyosin expression is associated with epithelial-mesenchymal transition of lens epithelial cells",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Kubo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Hasanova",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Fatma",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Sasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.P.",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Cell Mol Med",
+            "volume": "17",
+            "issn": "",
+            "pages": "212-221",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1582-4934.2012.01654.x"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Mutations in the tyrosine phosphatase CD45 gene in a child with severe combined immunodeficiency disease",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Chatila",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Kung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.T.",
+                    "middle": [],
+                    "last": "Pingel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Heikinheimo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Klemola",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Varkila",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.I.",
+                    "middle": [],
+                    "last": "Yoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Vuopala",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Poyhonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Uhari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.H.",
+                    "middle": [],
+                    "last": "Speck",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.L.",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nat Med",
+            "volume": "6",
+            "issn": "",
+            "pages": "343-345",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/73208"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "The adverse effects of ammonia on chickens including resistance to infection with newcastle disease virus",
+            "authors": [
+                {
+                    "first": "D.P.",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.W.",
+                    "middle": [],
+                    "last": "Beard",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.P.",
+                    "middle": [],
+                    "last": "Hanson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1964,
+            "venue": "Avian Dis",
+            "volume": "8",
+            "issn": "",
+            "pages": "369-379",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/1587967"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Opportunity and challenge: ten years of proteomics in China",
+            "authors": [
+                {
+                    "first": "F.W.",
+                    "middle": [],
+                    "last": "Leng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Sci China Life Sci",
+            "volume": "55",
+            "issn": "",
+            "pages": "837-839",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11427-012-4372-1"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Ammonia toxicity induces glutamine accumulation, oxidative stress and immunosuppression in juvenile yellow catfish Pelteobagrus fulvidraco",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Comp Biochem Physiol C Toxicol Pharmacol",
+            "volume": "183\u2013184",
+            "issn": "",
+            "pages": "1-6",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cbpc.2016.01.005"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "CaMKII promotes TLR-triggered proinflammatory cytokine and type I interferon production by directly binding and activating TAK1 and IRF3 in macrophages",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Blood",
+            "volume": "112",
+            "issn": "",
+            "pages": "4961-4970",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2008-03-144022"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Analysis of relative gene expression data using real-time quantitative PCR and the 2\u2212\u0394\u0394CT method",
+            "authors": [
+                {
+                    "first": "K.J.",
+                    "middle": [],
+                    "last": "Livak",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.D.",
+                    "middle": [],
+                    "last": "Schmittgen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Methods",
+            "volume": "25",
+            "issn": "",
+            "pages": "402-408",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/meth.2001.1262"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Oxidative proteome alterations during skeletal muscle ageing",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Louren\u00e7o dos Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Baraibar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Lundberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Eeg-Olofsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Larsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Friguet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Redox Biol",
+            "volume": "5",
+            "issn": "",
+            "pages": "267-274",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.redox.2015.05.006"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Protection from intracellular oxidative stress by cytoglobin in normal and cancerous oesophageal cells",
+            "authors": [
+                {
+                    "first": "F.E.",
+                    "middle": [],
+                    "last": "McRonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Risk",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.J.",
+                    "middle": [],
+                    "last": "Hodges",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.V.",
+                    "middle": [],
+                    "last": "Blagosklonny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS ONE",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0030587"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Largescale gene function analysis with the PANTHER classification system",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Muruganujan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.T.",
+                    "middle": [],
+                    "last": "Casagrande",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.D.",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Protoc",
+            "volume": "8",
+            "issn": "",
+            "pages": "1551-1566",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nprot.2013.092"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Atmospheric ammonia is detrimental to the performance of modern commercial broilers",
+            "authors": [
+                {
+                    "first": "D.M.",
+                    "middle": [],
+                    "last": "Miles",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.L.",
+                    "middle": [],
+                    "last": "Branton",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.D.",
+                    "middle": [],
+                    "last": "Lott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Poultry Sci",
+            "volume": "83",
+            "issn": "",
+            "pages": "1650-1654",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ps/83.10.1650"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Defective lymphoid organogenesis underlies the immune deficiency caused by a heterozygous S32I mutation in I\u03baBa",
+            "authors": [
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Mooster",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Le Bras",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Massaad",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Jabara",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Galand",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.A.",
+                    "middle": [],
+                    "last": "Heesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.T.",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Mattoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Manis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Geha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Exp Med",
+            "volume": "212",
+            "issn": "",
+            "pages": "185-202",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20140979"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Scanning electron microscopic studies of adverse effects of ammonia on tracheal tissues of turkeys",
+            "authors": [
+                {
+                    "first": "K.V.",
+                    "middle": [],
+                    "last": "Nagaraja",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.A.",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.S.",
+                    "middle": [],
+                    "last": "Pomeroy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Am J Vet Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "1530-1536",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Cathepsin S controls MHC class II-mediated antigen presentation by epithelial cells in vivo",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Beers",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Burich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Kleijmeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.Y.",
+                    "middle": [],
+                    "last": "Rudensky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Immunol",
+            "volume": "174",
+            "issn": "",
+            "pages": "1205-1212",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.174.3.1205"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "",
+            "authors": [],
+            "year": 1994,
+            "venue": "Nutrient Requirements of Poultry",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Induction of cytochrome P450 enzymes and over-generation of oxygen radicals in beta-carotene supplemented rats",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Paolini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Carcinogenesis",
+            "volume": "22",
+            "issn": "",
+            "pages": "1483-1495",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/carcin/22.9.1483"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Exercise-induced oxidative stress: cellular mechanisms and impact on muscle force production",
+            "authors": [
+                {
+                    "first": "S.K.",
+                    "middle": [],
+                    "last": "Powers",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Physiol Rev",
+            "volume": "88",
+            "issn": "",
+            "pages": "1243-1276",
+            "other_ids": {
+                "DOI": [
+                    "10.1152/physrev.00031.2007"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Physical and functional properties of airway secretions in cystic fibrosis\u2014therapeutic approaches",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Puchelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "de Bentzmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Zahm",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Respiration",
+            "volume": "62",
+            "issn": "1",
+            "pages": "2-12",
+            "other_ids": {
+                "DOI": [
+                    "10.1159/000196486"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Airway mucus hypersecretion in asthma: an undervalued pathology",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Rogers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr Opin Pharmacol",
+            "volume": "4",
+            "issn": "",
+            "pages": "241-250",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.coph.2004.01.011"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "CaMKII is essential for the proasthmatic effects of oxidation",
+            "authors": [
+                {
+                    "first": "P.N.",
+                    "middle": [],
+                    "last": "Sanders",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.M.",
+                    "middle": [],
+                    "last": "Koval",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.A.",
+                    "middle": [],
+                    "last": "Jaffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.M.",
+                    "middle": [],
+                    "last": "Prasad",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.R.",
+                    "middle": [],
+                    "last": "Businga",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.J.",
+                    "middle": [],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.D.",
+                    "middle": [],
+                    "last": "Luczak",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.D.",
+                    "middle": [],
+                    "last": "Dickey",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Allamargot",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.K.",
+                    "middle": [],
+                    "last": "Olivier",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.K.",
+                    "middle": [],
+                    "last": "Meyerholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.J.",
+                    "middle": [],
+                    "last": "Robison",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.G.",
+                    "middle": [],
+                    "last": "Winder",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.S.",
+                    "middle": [],
+                    "last": "Blackwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Dworski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Sammut",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.A.",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.R.",
+                    "middle": [],
+                    "last": "Buettner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.M.",
+                    "middle": [],
+                    "last": "Pope",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.J.",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.E.",
+                    "middle": [],
+                    "last": "Dibbern",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.M.",
+                    "middle": [],
+                    "last": "Haitchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.J.",
+                    "middle": [],
+                    "last": "Mohler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.H.",
+                    "middle": [],
+                    "last": "Howarth",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zabner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.N.",
+                    "middle": [],
+                    "last": "Kline",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.M.",
+                    "middle": [],
+                    "last": "Grumbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.E.",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Sci Transl Med",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1126/scitranslmed.3006135"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "gp96\u2014the immune system\u2019s Swiss army knife",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Schild",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.G.",
+                    "middle": [],
+                    "last": "Rammensee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nat Immunol",
+            "volume": "1",
+            "issn": "",
+            "pages": "100-101",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/77770"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "The importance of ammonia in mammalian cell culture",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Biotech",
+            "volume": "46",
+            "issn": "",
+            "pages": "161-185",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0168-1656(95)00196-4"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "The impact of the extracellular matrix on inflammation",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Sorokin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nat Rev Immunol",
+            "volume": "10",
+            "issn": "",
+            "pages": "712-723",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri2852"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "gp96, an endoplasmic reticulum master chaperone for integrins and Toll-like receptors, selectively regulates early T and B lymphopoiesis",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Staron",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Zuniga-Pflucker",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.L.",
+                    "middle": [],
+                    "last": "Aguila",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Goldschneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Blood",
+            "volume": "115",
+            "issn": "",
+            "pages": "2380-2390",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood-2009-07-233031"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Atmospheric ammonia concentration effects on broiler growth and performance1",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Beker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.L.",
+                    "middle": [],
+                    "last": "Vanhooser",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Swartzlander",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.G.",
+                    "middle": [],
+                    "last": "Teeter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Appl Poultry Res",
+            "volume": "13",
+            "issn": "",
+            "pages": "5-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/japr/13.1.5"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Impact of oxidative stress on exercising skeletal muscle",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Steinbacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Eckl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Biomolecules",
+            "volume": "5",
+            "issn": "",
+            "pages": "356-377",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/biom5020356"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Comparative proteome analysis of tracheal tissues in response to infectious bronchitis coronavirus, Newcastle disease virus, and avian influenza virus H9 subtype virus infection",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Proteomics",
+            "volume": "14",
+            "issn": "",
+            "pages": "1403-1423",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pmic.201300404"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "The 11S proteasome subunit PSME3 is a positive feedforward regulator of NF-\u03baB and important for host defense against bacterial pathogens",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Luan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell Rep",
+            "volume": "14",
+            "issn": "",
+            "pages": "737-749",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.celrep.2015.12.069"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Label-free quantitative analysis of changes in broiler liver proteins under heat stress using SWATH-MS technology",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Sci Rep",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/srep15119"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Structure and function of the polymeric mucins in airways mucus",
+            "authors": [
+                {
+                    "first": "D.J.",
+                    "middle": [],
+                    "last": "Thornton",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Rousseau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "McGuckin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Annu Rev Physiol",
+            "volume": "70",
+            "issn": "",
+            "pages": "459-486",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.physiol.70.113006.100702"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Regulation of mucin expression in respiratory diseases",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.E.",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biochm Soc Trans",
+            "volume": "37",
+            "issn": "",
+            "pages": "877-881",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BST0370877"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Distinct roles for glutathione S-transferases in the oxidative stress response in Schizosaccharomyces pombe",
+            "authors": [
+                {
+                    "first": "E.A.",
+                    "middle": [],
+                    "last": "Veal",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.M.",
+                    "middle": [],
+                    "last": "Toone",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.A.",
+                    "middle": [],
+                    "last": "Morgan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Biol Chem",
+            "volume": "277",
+            "issn": "",
+            "pages": "35523-35531",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M111548200"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Titin/connectin and nebulin: giant protein rulers of muscle structure and function",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Adv Biophys",
+            "volume": "33",
+            "issn": "",
+            "pages": "123-134",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0065-227X(96)81668-6"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Universal sample preparation method for proteome analysis",
+            "authors": [
+                {
+                    "first": "J.R.",
+                    "middle": [],
+                    "last": "Wi\u015bniewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Zougman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Nagaraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Meth",
+            "volume": "6",
+            "issn": "",
+            "pages": "359-362",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nmeth.1322"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "The central kink region of fowlicidin-2, an alphahelical host defense peptide, is critically involved in bacterial killing and endotoxin neutralization",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.I.",
+                    "middle": [],
+                    "last": "Herrera",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.R.",
+                    "middle": [],
+                    "last": "Bommineni",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "Soulages",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Prakash",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Innate Immun",
+            "volume": "1",
+            "issn": "",
+            "pages": "268-280",
+            "other_ids": {
+                "DOI": [
+                    "10.1159/000174822"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "What is oxidative stress",
+            "authors": [
+                {
+                    "first": "D.J.",
+                    "middle": [],
+                    "last": "Betteridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Metab Clin Exp",
+            "volume": "49",
+            "issn": "",
+            "pages": "3-8",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0026-0495(00)80077-3"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Comparative proteomics analysis of differential proteins in respond to doxorubicin resistance in myelogenous leukemia cell lines",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Qinghong",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Lina",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Yueming",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Xiaoou",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Jianlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Chengyan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Hongjun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Haifeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proteome Sci",
+            "volume": "13",
+            "issn": "",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12953-014-0057-y"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Cytokines, inflammation, and pain",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Int Anesthesiol Clin",
+            "volume": "45",
+            "issn": "",
+            "pages": "27-37",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/AIA.0b013e318034194e"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "High concentrations of atmospheric ammonia induce alterations in the hepatic proteome of broilers (Gallus gallus): an iTRAQ-based quantitative proteomic analysis",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Sa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.P.",
+                    "middle": [],
+                    "last": "Zahedi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS ONE",
+            "volume": "10",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0123596"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Proteome changes in the small intestinal mucosa of broilers (Gallus gallus) induced by high concentrations of atmospheric ammonia",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Sa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proteome Sci",
+            "volume": "13",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12953-015-0067-4"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "A hierarchical statistical modeling approach to analyze proteomic isobaric tag for relative and absolute quantitation data",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.J.",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.J.K.",
+                    "middle": [],
+                    "last": "Williamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Pierce",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Berzuini",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Dive",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.D.",
+                    "middle": [],
+                    "last": "Whetton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Bioinformatics",
+            "volume": "30",
+            "issn": "",
+            "pages": "549-558",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btt722"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Resveratrol prevents ammonia toxicity in astroglial cells",
+            "authors": [
+                {
+                    "first": "L.D.",
+                    "middle": [],
+                    "last": "Bobermin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Quincozes-Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.C.",
+                    "middle": [],
+                    "last": "Guerra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.C.",
+                    "middle": [],
+                    "last": "Leite",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.O.",
+                    "middle": [],
+                    "last": "Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.A.",
+                    "middle": [],
+                    "last": "Gon\u00e7alves",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Gottfried",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Arai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS ONE",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0052164"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Proteomic analysis of chicken embryonic trachea and kidney tissues after infection in ovo by avian infectious bronchitis coronavirus",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Geng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Proteome Sci",
+            "volume": "9",
+            "issn": "",
+            "pages": "1-17",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1477-5956-9-11"
+                ]
+            }
+        }
+    }
+}

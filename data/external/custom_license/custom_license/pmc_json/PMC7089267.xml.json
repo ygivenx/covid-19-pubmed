@@ -1,0 +1,926 @@
+{
+    "paper_id": "PMC7089267",
+    "metadata": {
+        "title": "Screening efficient siRNAs in vitro as the candidate genes for chicken anti-avian influenza virus H5N1 breeding",
+        "authors": [
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "J.",
+                "middle": [
+                    "G."
+                ],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "J.",
+                "middle": [
+                    "Y."
+                ],
+                "last": "Wan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "W.",
+                "middle": [
+                    "Q."
+                ],
+                "last": "Liu",
+                "suffix": "",
+                "email": "weiquan8@126.com",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.M.",
+                    "middle": [],
+                    "last": "Krug",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Orthomyxoviridae: The Viruses and Their Replication",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Multiple shRNA expressions in a single plasmid vector improve RNAi against the XPA gene",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Nagao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Takegami",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Matsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Matsunaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Ishigaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "370",
+            "issn": "",
+            "pages": "301-305",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2008.03.078"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "RNA interference of avian influenza virus H5N1 by inhibiting viral mRNA with siRNA expression plasmids",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Biotechnology.",
+            "volume": "135",
+            "issn": "",
+            "pages": "140-144",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jbiotec.2008.03.007"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Positional effects of short interfering RNAs targeting the human coagulation trigger tissue factor",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Holen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Amarzguioui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.T.",
+                    "middle": [],
+                    "last": "Wiiger",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Babaie",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Prydz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nucleic Acids Res.",
+            "volume": "30",
+            "issn": "",
+            "pages": "1757-1766",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/30.8.1757"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The efficacy of small interfering RNAs targeted to the type 1 insulin-like growth factor receptor (IGF1R) is influenced by secondary structure in the IGF1R transcript",
+            "authors": [
+                {
+                    "first": "E.A.",
+                    "middle": [],
+                    "last": "Bohula",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.J.",
+                    "middle": [],
+                    "last": "Salisbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Sohail",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.P.",
+                    "middle": [],
+                    "last": "Playford",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Riedemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.M.",
+                    "middle": [],
+                    "last": "Southern",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.M.",
+                    "middle": [],
+                    "last": "Macaulay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chemistry.",
+            "volume": "278",
+            "issn": "",
+            "pages": "15991-15997",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M300714200"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "The gene-silencing efficiency of siRNA is strongly dependent on the local structure of mRNA at the targeted region",
+            "authors": [
+                {
+                    "first": "K.Q.",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.C.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "318",
+            "issn": "",
+            "pages": "303-310",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.04.027"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "A simple method to estimate fifty percent end points",
+            "authors": [
+                {
+                    "first": "L.J.",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.H.",
+                    "middle": [],
+                    "last": "Muench",
+                    "suffix": ""
+                }
+            ],
+            "year": 1938,
+            "venue": "Am. J. Hyg.",
+            "volume": "27",
+            "issn": "",
+            "pages": "493-497",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Rational siRNA design for RNA interference",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Reynolds",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Leake",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Boese",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Scaringe",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.S.",
+                    "middle": [],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Khvorova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Biotechnol.",
+            "volume": "22",
+            "issn": "",
+            "pages": "326-330",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt936"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Guidelines for the selection of highly effective siRNA sequences for mammalian and chick RNA interference",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Ui-Tei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Naito",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Haraguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Ohki-Hamazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Juni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Ueda",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Saigo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res.",
+            "volume": "32",
+            "issn": "",
+            "pages": "936-948",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh247"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Highly specific and accurate selection of siRNAs for high-throughput functional assays",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Santoyo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Vaquerizas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Dopazo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics.",
+            "volume": "21",
+            "issn": "",
+            "pages": "1376-1382",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bti196"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The influenza A virus NS1 protein binds small interfering RNAs and suppresses RNA silencing in plants",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Bucher",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Hemmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "de Haan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Goldbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Prins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "983-991",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19734-0"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Measurement of the mutation rates of animal viruses: Influenza A virus and poliovirus type 1",
+            "authors": [
+                {
+                    "first": "J.D.",
+                    "middle": [],
+                    "last": "Parvin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Moscona",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.T.",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Leider",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Virology.",
+            "volume": "59",
+            "issn": "",
+            "pages": "377-383",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "DNA-directed RNA interference: Hairpin cloning and expression made easy",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Bailey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Promega Notes.",
+            "volume": "87",
+            "issn": "",
+            "pages": "7-11",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Efficient generation of transgenic mice by direct intraovarian injection of plasmid DNA",
+            "authors": [
+                {
+                    "first": "S.Y.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.G.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.X.",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.P.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.Q.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "358",
+            "issn": "",
+            "pages": "266-271",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2007.04.112"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Evolution and ecology of influenza A viruses",
+            "authors": [
+                {
+                    "first": "R.G.",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Bean",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.T.",
+                    "middle": [],
+                    "last": "Gorman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.M.",
+                    "middle": [],
+                    "last": "Chambers",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Microbiol. Rev.",
+            "volume": "56",
+            "issn": "",
+            "pages": "152-179",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "RNA interference of influenza virus production by directly targeting mRNA for degradation and indirectly inhibiting all viral RNA transcription",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl. Acad. Sci. USA.",
+            "volume": "100",
+            "issn": "",
+            "pages": "2718-2723",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0437841100"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Specific small interfering RNAs-mediated inhibition of replication of porcine encephalomyocarditis virus in BHK-21 cells",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Cha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Antiviral Res.",
+            "volume": "79",
+            "issn": "",
+            "pages": "95-104",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2007.12.003"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "RNA interference meets HIV-1: Will silence be golden?",
+            "authors": [
+                {
+                    "first": "R.J.",
+                    "middle": [],
+                    "last": "Pomerantz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat Med.",
+            "volume": "8",
+            "issn": "",
+            "pages": "659-660",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0702-659"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Inhibition of SARS-CoV replication by siRNA",
+            "authors": [
+                {
+                    "first": "C.J.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.W.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.Y.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.F.",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.L.",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Antiviral Res.",
+            "volume": "65",
+            "issn": "",
+            "pages": "45-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2004.09.005"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Protection against lethal influenza virus challenge by RNA interference in vivo",
+            "authors": [
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Tompkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.Y.",
+                    "middle": [],
+                    "last": "Lo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.M.",
+                    "middle": [],
+                    "last": "Tumpey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.L.",
+                    "middle": [],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl. Acad. Sci. USA.",
+            "volume": "101",
+            "issn": "",
+            "pages": "8682-8686",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0402630101"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Inhibition of influenza virus matrix (M1) protein expression and virus replication by U6 promoter-driven and lentivirus-mediated delivery of siRNA",
+            "authors": [
+                {
+                    "first": "E.K.W.",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.M.",
+                    "middle": [],
+                    "last": "Yap",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.S.",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.S.Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.P.",
+                    "middle": [],
+                    "last": "Nayak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "1877-1884",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.79906-0"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,3673 @@
+{
+    "paper_id": "PMC3324781",
+    "metadata": {
+        "title": "Why do RNA viruses recombine?",
+        "authors": [
+            {
+                "first": "Etienne",
+                "middle": [],
+                "last": "Simon-Loriere",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Edward",
+                "middle": [
+                    "C."
+                ],
+                "last": "Holmes",
+                "suffix": "",
+                "email": "ech15@psu.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Differing genome organizations and replication strategies of RNA viruses\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | Co-infection of a cell by genetically distinct viral strains can lead to the generation of recombinant viruses. This process can occur in both non-segmented viruses (as shown here) or within a segment of a segmented virus. b | Co-infection of a cell by genetically distinct strains of a retrovirus can lead to the generation of 'heterozygous' virus particles, after which a template-switching event can lead to a recombinant provirus. c | Co-infection of a cell by genetically distinct strains of a segmented virus can generate different combinations of reassortant progeny.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Following disassociation of the viral polymerase and the nascent nucleic acid from the template, the polymerase has to find a template or the transcription process will abort. This re-association event can take place on the same template (red), at the same genomic position or at a different position. Alternatively, the polymerase can associate with a homologous template (orange), again either at the same genomic position or at a different position. Finally, re-association can take place on a non-homologous template, such as a cellular RNA (blue). Of all these possible RNA recombination events, those occurring at the same position on a homologous template are the most likely to generate functional progeny.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Depending on the acceptor and donor genotypes, and the position of the template switch, recombination can have several positive effects on the genome. Yellow circles indicate wild-type loci. a | Recombination can create advantageous combinations of mutations (blue circles) that increase the rate of adaptive evolution compared with mutation alone, or it can disassociate advantageous and deleterious mutations, allowing the former to spread. b | Recombination can remove deleterious mutations (red circles) and restore the wild-type (fit) genotype, which can lead to a selective advantage for recombination if deleterious mutations occur frequently enough and interact synergistically. c | Recombination can also generate a functional genome from damaged parental molecules. Genetic damage, such as strand breaks or oxidative base modifications, are represented by red lightning symbols.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "The Evolution and Emergence of RNA Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "On the processivity of polymerases",
+            "authors": [
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Von Hippel",
+                    "suffix": ""
+                },
+                {
+                    "first": "FR",
+                    "middle": [],
+                    "last": "Fairfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Dolejsi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Ann. NY Acad. Sci.",
+            "volume": "726",
+            "issn": "",
+            "pages": "118-131",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1749-6632.1994.tb52803.x"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "High-frequency deletion between homologous sequences during retrotransposition of Ty elements in Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Boeke",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "84",
+            "issn": "",
+            "pages": "8553-8557",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.84.23.8553"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Effect of gamma radiation on retroviral recombination",
+            "authors": [
+                {
+                    "first": "WS",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Temin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Virol.",
+            "volume": "66",
+            "issn": "",
+            "pages": "4457-4463",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Fitness analyses of vesicular stomatitis strains with rearranged genomes reveal replicative disadvantages",
+            "authors": [
+                {
+                    "first": "IS",
+                    "middle": [],
+                    "last": "Novella",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Ball",
+                    "suffix": ""
+                },
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Wertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "9837-9841",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.18.9837-9841.2004"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Genetic recombination during coinfection of two mutants of human respiratory syncytial virus",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Spann",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                },
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Teng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "11201-11211",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.20.11201-11211.2003"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "High genetic divergence and recombination in Arenaviruses from the Americas",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Archer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rico-Hesse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virology",
+            "volume": "304",
+            "issn": "",
+            "pages": "274-281",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2002.1695"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Phylogeny of New World arenaviruses based on the complete coding sequences of the small genomic segment identified an evolutionary lineage produced by intrasegmental recombination",
+            "authors": [
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Charrel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "296",
+            "issn": "",
+            "pages": "1118-1124",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(02)02053-3"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Isolates of Zaire ebolavirus from wild apes reveal genetic lineage and recombinants",
+            "authors": [
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Wittmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "17123-17127",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0704076104"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "A contemporary view of coronavirus transcription",
+            "authors": [
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "20-29",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01358-06"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The remarkable frequency of human immunodeficiency virus type 1 genetic recombination",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Onafuwa-Nuga",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Telesnitsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Microbiol. Mol. Biol. Rev.",
+            "volume": "73",
+            "issn": "",
+            "pages": "451-480",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MMBR.00012-09"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Haploidy or diploidy: which is better?",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Kondrashov",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Crow",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Nature",
+            "volume": "351",
+            "issn": "",
+            "pages": "314-315",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/351314a0"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Sequence determinants of breakpoint location during HIV-1 intersubtype recombination",
+            "authors": [
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Baird",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res.",
+            "volume": "34",
+            "issn": "",
+            "pages": "5203-5216",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkl669"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Recombination and the evolution of diploidy",
+            "authors": [
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Otto",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Goldstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Genetics",
+            "volume": "131",
+            "issn": "",
+            "pages": "745-751",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Transition from haploidy to diploidy",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Perrot",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Richerd",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Valero",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Nature",
+            "volume": "351",
+            "issn": "",
+            "pages": "315-317",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/351315a0"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Recombination every day: abundant recombination in a virus during a single multi-cellular host infection",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Froissart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pbio.0030089"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Estimating the recombination parameter of a finite population model without selection",
+            "authors": [
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Hudson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Genet. Res.",
+            "volume": "50",
+            "issn": "",
+            "pages": "245-250",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0016672300023776"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Two-locus sampling distributions and their application",
+            "authors": [
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Hudson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Genetics",
+            "volume": "159",
+            "issn": "",
+            "pages": "1805-1817",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "A coalescent-based method for detecting and estimating recombination from gene sequences",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "McVean",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Awadalla",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Fearnhead",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genetics",
+            "volume": "160",
+            "issn": "",
+            "pages": "1231-1241",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Molecular mechanisms of recombination restriction in the envelope gene of the human immunodeficiency virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Simon-Loriere",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000418"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Multiple barriers to recombination between divergent HIV-1 variants revealed by a dual-marker recombination assay",
+            "authors": [
+                {
+                    "first": "OA",
+                    "middle": [],
+                    "last": "Nikolaitchik",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Galli",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "VK",
+                    "middle": [],
+                    "last": "Pathak",
+                    "suffix": ""
+                },
+                {
+                    "first": "WS",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Mol. Biol.",
+            "volume": "407",
+            "issn": "",
+            "pages": "521-531",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2011.01.052"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Genetic recombination between human immunodeficiency virus type 1 (HIV-1) and HIV-2, two distinct human lentiviruses",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Motomura",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "WS",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "1923-1933",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01937-07"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Highly conserved regions of influenza a virus polymerase gene segments are critical for efficient viral RNA packaging",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Marsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rabadan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "2295-2304",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02267-07"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Dissection of a circumscribed recombination hot spot in HIV-1 after a single infectious cycle",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Galetto",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Giacomoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "V\u00e9ron",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Negroni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "2711-2720",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M505457200"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "RNA structures facilitate recombination-mediated gene swapping in HIV-1",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Simon-Loriere",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Weeks",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Negroni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "12675-12682",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01302-10"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Evolutionary influences in arboviral disease",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Weaver",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "299",
+            "issn": "",
+            "pages": "285-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Emergence of a group 3 coronavirus through recombination",
+            "authors": [
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Jackwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Virology",
+            "volume": "398",
+            "issn": "",
+            "pages": "98-108",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2009.11.044"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The road to Src",
+            "authors": [
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Oncogene",
+            "volume": "23",
+            "issn": "",
+            "pages": "7910-7917",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.onc.1208077"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Retrovirus recombination depends on the length of sequence identity and is not error prone",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Temin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "2409-2414",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Evolutionary aspects of recombination in RNA viruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Worobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Gen. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "2535-2543",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-80-10-2535"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Defective viral particles and viral disease processes",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baltimore",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Nature",
+            "volume": "226",
+            "issn": "",
+            "pages": "325-327",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/226325a0"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Effects of defective interfering viruses on virus replication and pathogenesis in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Roux.",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Holland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Adv. Virus Res.",
+            "volume": "40",
+            "issn": "",
+            "pages": "181-211",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(08)60279-1"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "The origins of defective interfering particles of the negative-strand RNA viruses",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lazzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Keene",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schubert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Cell",
+            "volume": "26",
+            "issn": "",
+            "pages": "145-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(81)90298-1"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Nonhomologous RNA recombination in a cell-free system: evidence for a transesterification mechanism guided by secondary structure",
+            "authors": [
+                {
+                    "first": "AB",
+                    "middle": [],
+                    "last": "Chetverin",
+                    "suffix": ""
+                },
+                {
+                    "first": "HV",
+                    "middle": [],
+                    "last": "Chetverina",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Demidenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "VI",
+                    "middle": [],
+                    "last": "Ugarov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Cell",
+            "volume": "88",
+            "issn": "",
+            "pages": "503-513",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)81890-5"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "RNA recombination in vivo in the absence of viral replication",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gallei",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pankraz",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Becher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "6271-6281",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.12.6271-6281.2004"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Threat to humans from virus infections of non-human primates",
+            "authors": [
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Rev. Med. Virol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "239-246",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1099-1654(199712)7:4<239::AID-RMV210>3.0.CO;2-Q"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Nonreplicative RNA recombination in poliovirus",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Gmyl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "8958-8965",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Assortment and packaging of the segmented rotavirus genome",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "McDonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Patton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Trends Microbiol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "136-144",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2010.12.002"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Nonrandom segregation of parental alleles in reovirus reassortants",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Nibert",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Margraf",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Coombs",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "7295-7300",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Tomato spotted wilt Tospovirus genome reassortment and genome segment-specific adaptation",
+            "authors": [
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Geske",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Hickey",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Moyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "244",
+            "issn": "",
+            "pages": "186-194",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9131"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Non-random reassortment between the tripartite RNA genomes of La Crosse and snowshoe hare viruses",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Urquidi",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Bishop",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Gen. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "2255-2265",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-73-9-2255"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Symbiosis versus competition in plant virus evolution",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Roossinck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "917-924",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1285"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "The multiplicity of infection of a plant virus varies during colonization of its eukaryotic host",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Jara",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fraile",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Canto",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Garc\u00eda-Arenal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "7487-7494",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00636-09"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Estimation of the size of genetic bottlenecks in cell-to-cell movement of Soil-borne wheat mosaic virus and the possible role of the bottlenecks in speeding up selection of variations in trans-acting genes or elements",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Miyashita",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kishino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "1828-1837",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01890-09"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Evolutionary transition toward defective RNAs that are infectious by complementation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Garc\u00eda-Arriaza",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Manrubia",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Toja",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Escarm\u00eds",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "11678-11685",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.21.11678-11685.2004"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "On the conservative nature of intragenic recombination",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Silberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "CO",
+                    "middle": [],
+                    "last": "Wilke",
+                    "suffix": ""
+                },
+                {
+                    "first": "FH",
+                    "middle": [],
+                    "last": "Arnold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "5380-5385",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0500729102"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Evidence that a plant virus switched hosts to infect a vertebrate and then recombined with a vertebrate-infecting virus",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Gibbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "GF",
+                    "middle": [],
+                    "last": "Weiller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "8022-8027",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.14.8022"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Protein building blocks preserved by recombination",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Voigt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Martinez",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZG",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Mayo",
+                    "suffix": ""
+                },
+                {
+                    "first": "FH",
+                    "middle": [],
+                    "last": "Arnold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Struct. Biol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "553-558",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Constraints to genetic exchange support gene coadaptation in a tripartite RNA virus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Escriu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fraile",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Garc\u00eda-Arenal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Pathog.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0030008"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Genome subunit reassortment among Bunyaviruses analysed by dot hybridization using molecularly cloned complementary DNA probes",
+            "authors": [
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Pringle",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Lees",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Elliott",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Virology",
+            "volume": "135",
+            "issn": "",
+            "pages": "244-256",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(84)90134-X"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Retrovirus mutation rates and their role in genetic variation",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Mansky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Gen. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "1337-1345",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-79-6-1337"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Recombination rate and selection strength in HIV intra-patient evolution",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Neher",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Leitner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Comput. Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.1000660"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Pervasive genomic recombination of HIV-1 in vivo",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shriner",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Nickle",
+                    "suffix": ""
+                },
+                {
+                    "first": "JI",
+                    "middle": [],
+                    "last": "Mullins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genetics",
+            "volume": "167",
+            "issn": "",
+            "pages": "1573-1583",
+            "other_ids": {
+                "DOI": [
+                    "10.1534/genetics.103.023382"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Mechanisms of genetic variation in polioviruses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Savolainen-Kopra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Blomqvist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Rev. Med. Virol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "358-371",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/rmv.663"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pearlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "1305-1335",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Homologous crossovers among molecules of brome mosaic bromovirus RNA1 or RNA2 segments in vivo",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Urbanowicz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5732-5742",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.9.5732-5742.2005"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Potyviruses and the digital revolution",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gibbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ohshima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Annu. Rev. Phytopathol.",
+            "volume": "48",
+            "issn": "",
+            "pages": "205-223",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev-phyto-073009-114404"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Increased viral pathogenicity after insertion of a 28S ribosomal RNA sequence into the haemagglutinin gene of an influenza virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Khatchikian",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Orlich",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rott",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Nature",
+            "volume": "340",
+            "issn": "",
+            "pages": "156-157",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/340156a0"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Comparisons of the genetic structure of populations of Turnip mosaic virus in West and East Eurasia",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tomimura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "330",
+            "issn": "",
+            "pages": "408-423",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.09.040"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Phylogenetic evidence for recombination in dengue virus",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Worobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "405-409",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/oxfordjournals.molbev.a026121"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "A trans-complementing recombination trap demonstrates a low propensity of flaviviruses for intermolecular recombination",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Taucher",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Mandl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "599-611",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01063-09"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Evidence for recombination in natural populations of dengue virus type 1 based on the analysis of complete genome sequences",
+            "authors": [
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Tolou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Gen. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "1283-1290",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-82-6-1283"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Molecular epidemiology of dengue type 2 virus in Venezuela: evidence for in situ virus evolution and recombination",
+            "authors": [
+                {
+                    "first": "NY",
+                    "middle": [],
+                    "last": "Uzcategui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Gen. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "2945-2953",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-82-12-2945"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Hepatitis C virus RNA recombination in cell culture",
+            "authors": [
+                {
+                    "first": "Jochen",
+                    "middle": [],
+                    "last": "Reiter",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gemma",
+                    "middle": [],
+                    "last": "P\u00e9rez-Vilar\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nicoletta",
+                    "middle": [],
+                    "last": "Scheller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Leonardo",
+                    "middle": [
+                        "Bruno"
+                    ],
+                    "last": "Mina",
+                    "suffix": ""
+                },
+                {
+                    "first": "Juana",
+                    "middle": [],
+                    "last": "D\u00edez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Andreas",
+                    "middle": [],
+                    "last": "Meyerhans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Hepatology",
+            "volume": "55",
+            "issn": "4",
+            "pages": "777-783",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhep.2010.12.038"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Phylogenetic analysis reveals a low rate of homologous recombination in negative-sense RNA viruses",
+            "authors": [
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Chare",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Gen. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "2691-2703",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19277-0"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Pathogen evolution and disease emergence in carnivores",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "McCarthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Goodman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Biol. Sci.",
+            "volume": "274",
+            "issn": "",
+            "pages": "3165-3174",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2007.0884"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Guidelines for identifying homologous recombination events in influenza A virus",
+            "authors": [
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Boni",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "de Jong",
+                    "suffix": ""
+                },
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "van Doorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS ONE",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0010434"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Influenza A viruses in feral Canadian ducks: extensive reassortment in nature",
+            "authors": [
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Hatchette",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Gen. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "2327-2337",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.79878-0"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "HIV-1 sequence variation: drift, shift, and attenuation",
+            "authors": [
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Malim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Emerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Cell",
+            "volume": "104",
+            "issn": "",
+            "pages": "469-472",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(01)00234-3"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Genetic analysis of human H2N2 and early H3N2 influenza viruses, 1957\u20131972: evidence for genetic divergence and multiple reassortment events",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Lindstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klimov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "328",
+            "issn": "",
+            "pages": "101-119",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.06.009"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Reassortment and evolution of current human influenza A and B viruses",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virus Res.",
+            "volume": "103",
+            "issn": "",
+            "pages": "55-60",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2004.02.013"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "High rate of recombination throughout the human immunodeficiency virus type 1 genome",
+            "authors": [
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Jetzt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "1234-1240",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.3.1234-1240.2000"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Recombination: multiply infected spleen cells in HIV patients",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "418",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/418144a"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Isolation and characterization of Dobrava hantavirus carried by the striped field mouse (Apodemus agrarius) in Estonia",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nemirov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Gen. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "371-379",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-80-2-371"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Sequence analysis of L RNA of Lassa virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vieth",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Torda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Asper",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Schmitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "318",
+            "issn": "",
+            "pages": "153-168",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2003.09.009"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "Comparison of nucleotide sequences between northern and southern philippine isolates of rice grassy stunt virus indicates occurrence of natural genetic reassortment",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Miranda",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Azzam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shirako",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "266",
+            "issn": "",
+            "pages": "26-32",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1999.0068"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "Non-random reassortment in human influenza A viruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rabadan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Krasnitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Influenza Other Respi. Viruses",
+            "volume": "2",
+            "issn": "",
+            "pages": "9-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1750-2659.2007.00030.x"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Reassortment in vivo: driving force for diversity of human rotavirus strains isolated in the United Kingdom between 1995 and 1999",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Iturriza-G\u00f3mara",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Isherwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Desselberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "3696-3705",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.8.3696-3705.2001"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "Direct evidence for genome segment reassortment between concurrently-circulating human rotavirus strains",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakagomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Koshimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Nakagomi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Arch. Virol.",
+            "volume": "146",
+            "issn": "",
+            "pages": "557-570",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s007050170162"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "Contribution of recombination to the evolution of human immunodeficiency viruses expressing resistance to antiretroviral treatment",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nora",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "7620-7628",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00083-07"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "Influenza: lessons from past pandemics, warnings from current incidents",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Horimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "591-600",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1208"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Evolutionary dynamics of human rotaviruses: balancing reassortment with preferred genome constellations",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "McDonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000634"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Widespread genetic exchange among terrestrial bacteriophages",
+            "authors": [
+                {
+                    "first": "OK",
+                    "middle": [],
+                    "last": "Silander",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "19009-19014",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0503074102"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "Experimental tests of the adaptive significance of sexual recombination",
+            "authors": [
+                {
+                    "first": "WR",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Genet.",
+            "volume": "3",
+            "issn": "",
+            "pages": "241-251",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrg760"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Perspective: sex, recombination, and the efficacy of selection \u2013 was Weismann right?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Burt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Evolution",
+            "volume": "54",
+            "issn": "",
+            "pages": "337-351",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Possible involvement of cell fusion and viral recombination in generation of human immunodeficiency virus variants that display dual resistance to AZT and 3TC",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Faust",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Wainberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Gen. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "2601-2605",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-76-10-2601"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "Retroviral recombination can lead to linkage of reverse transcriptase mutations that confer increased zidovudine resistance",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kellam",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Larder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Virol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "669-674",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Recombination leads to the rapid emergence of HIV-1 dually resistant mutants under selective drug pressure",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Moutouh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Corbeil",
+                    "suffix": ""
+                },
+                {
+                    "first": "DD",
+                    "middle": [],
+                    "last": "Richman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "6106-6111",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.12.6106"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "HIV-1 acquires resistance to two classes of antiviral drugs through homologous recombination",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yusa",
+                    "suffix": ""
+                },
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Kavlick",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kosalaraksa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mitsuya",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Antiviral Res.",
+            "volume": "36",
+            "issn": "",
+            "pages": "179-189",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0166-3542(97)00053-3"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "A natural intergenotypic recombinant of hepatitis C virus identified in St. Petersburg",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Kalinina",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Norder",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mukomolov",
+                    "suffix": ""
+                },
+                {
+                    "first": "LO",
+                    "middle": [],
+                    "last": "Magnius",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "4034-4043",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.8.4034-4043.2002"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "RNA recombination in animal and plant viruses",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Microbiol. Rev.",
+            "volume": "56",
+            "issn": "",
+            "pages": "61-79",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Identification of a naturally occurring recombinant genotype 2/6 hepatitis C virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Noppornpanth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "7569-7577",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00312-06"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Evidence of recombination in intrapatient populations of hepatitis C virus",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sentandreu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS ONE",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0003239"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "Viral mutation rates",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanjuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Nebot",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chirico",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Mansky",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Belshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "9733-9748",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00694-10"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Clonal interference and the evolution of RNA viruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Miralles",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Gerrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "285",
+            "issn": "",
+            "pages": "1745-1747",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.285.5434.1745"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Experimental evolution and genome sequencing reveal variation in levels of clonal interference in large populations of bacteriophage phiX174",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Pepin",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Wichman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "BMC Evol. Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2148-8-85"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Drift increases the advantage of sex in RNA bacteriophage phi6",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genetics",
+            "volume": "166",
+            "issn": "",
+            "pages": "19-24",
+            "other_ids": {
+                "DOI": [
+                    "10.1534/genetics.166.1.19"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "The relation of recombination to mutational advance",
+            "authors": [
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1964,
+            "venue": "Mutat. Res.",
+            "volume": "106",
+            "issn": "",
+            "pages": "2-9",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0027-5107(64)90047-8"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Fitness of RNA virus decreased by Muller's ratchet",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Nature",
+            "volume": "348",
+            "issn": "",
+            "pages": "454-455",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/348454a0"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "The Evolutionary Biology of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "233-250",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "Muller's ratchet and the advantage of sex in the RNA virus phi-6",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Evolution",
+            "volume": "46",
+            "issn": "",
+            "pages": "289-299",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Recombination in RNA viruses and in virus-resistant transgenic plants",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aaziz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tepfer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Gen. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "1339-1346",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-80-6-1339"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "The advantage of sex in the RNA virus phi6",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Genetics",
+            "volume": "147",
+            "issn": "",
+            "pages": "953-959",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Resistance of virus to extinction on bottleneck passages: study of a decaying and fluctuating pattern of fitness loss",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "L\u00e1zaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Escarm\u00eds",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "P\u00e9rez-Mercader",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Manrubia",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "10830-10835",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1332668100"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "Deleterious mutations and the evolution of sex",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Keightley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eyre-Walker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "290",
+            "issn": "",
+            "pages": "331-333",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.290.5490.331"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "Deleterious mutations and the evolution of sexual reproduction",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Kondrashov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Nature",
+            "volume": "336",
+            "issn": "",
+            "pages": "435-440",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/336435a0"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "Rates of evolutionary change in viruses: patterns and determinants",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Duffy",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Shackelton",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Rev. Genet.",
+            "volume": "9",
+            "issn": "",
+            "pages": "267-276",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrg2323"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Little evidence for synergism among deleterious mutations in a nonsegmented RNA virus",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Mol. Evol.",
+            "volume": "49",
+            "issn": "",
+            "pages": "703-707",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/PL00000082"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "Phylogenetic evidence for deleterious mutation load in RNA viruses and its contribution to viral evolution",
+            "authors": [
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Pybus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "845-852",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msm001"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "Evidence for positive epistasis in HIV-1",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonhoeffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chappey",
+                    "suffix": ""
+                },
+                {
+                    "first": "NT",
+                    "middle": [],
+                    "last": "Parkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Whitcomb",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Petropoulos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "306",
+            "issn": "",
+            "pages": "1547-1550",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1101786"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "Patterns of epistasis in RNA viruses: a review of the evidence from vaccine design",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Burch",
+                    "suffix": ""
+                },
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Hanley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Evol. Biol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "1223-1235",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1420-9101.2003.00632.x"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "The contribution of epistasis to the architecture of fitness in an RNA virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanjuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "15376-15379",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0404125101"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "A structural basis for processivity",
+            "authors": [
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Breyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "BW",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Protein Sci.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1699-1711",
+            "other_ids": {
+                "DOI": [
+                    "10.1110/ps.10301"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "A phylogenetic method for detecting positive epistasis in gene sequences and its application to RNA virus evolution",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shapiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Pybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "23",
+            "issn": "",
+            "pages": "1724-1730",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msl037"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Mechanisms of genetic robustness in RNA viruses",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Daros",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanjuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "EMBO Rep.",
+            "volume": "7",
+            "issn": "",
+            "pages": "168-173",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.embor.7400636"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Sex and the evolution of intrahost competition in RNA virus phi6",
+            "authors": [
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Genetics",
+            "volume": "150",
+            "issn": "",
+            "pages": "523-532",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Practices and precautions in the use of cross protection for plant-virus disease control",
+            "authors": [
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Fulton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Annu. Rev. Phytopathol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "67-81",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.py.24.090186.000435"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Retroviral superinfection resistance",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nethe",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "van der Kuyl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Retrovirology",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1742-4690-2-52"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Dual mechanisms of pestiviral superinfection exclusion at entry and RNA replication",
+            "authors": [
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Tscherne",
+                    "suffix": ""
+                },
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Yun",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Frolov",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "3231-3242",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.6.3231-3242.2005"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "BHK cells expressing Sindbis virus-induced homologous interference allow the translation of nonstructural genes of superinfecting virus",
+            "authors": [
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J. Virol.",
+            "volume": "54",
+            "issn": "",
+            "pages": "351-357",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "Superinfection exclusion of alphaviruses in three mosquito cell lines persistently infected with Sindbis virus",
+            "authors": [
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Karpf",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lenches",
+                    "suffix": ""
+                },
+                {
+                    "first": "EG",
+                    "middle": [],
+                    "last": "Strauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Strauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "7119-7123",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "Adaptive value of sex in microbial pathogens",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Michod",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bernstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Nedelcu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Infect. Genet. Evol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "267-285",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2008.01.002"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "title": "Structure, replication, and recombination of retrovirus genomes: some unifying hypotheses",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Coffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J. Gen. Virol.",
+            "volume": "42",
+            "issn": "",
+            "pages": "1-26",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-42-1-1"
+                ]
+            }
+        }
+    }
+}

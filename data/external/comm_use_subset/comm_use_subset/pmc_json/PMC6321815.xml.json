@@ -1,0 +1,680 @@
+{
+    "paper_id": "PMC6321815",
+    "metadata": {
+        "title": "Simultaneous and systematic analysis of cellular and viral gene expression during Enterovirus 71-induced host shutoff",
+        "authors": [
+            {
+                "first": "Yongquan",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hui",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yuhang",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wentao",
+                "middle": [],
+                "last": "Qiao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Zhi",
+                "middle": [],
+                "last": "Xie",
+                "suffix": "",
+                "email": "xiezhi@gmail.com",
+                "affiliation": {}
+            },
+            {
+                "first": "Juan",
+                "middle": [],
+                "last": "Tan",
+                "suffix": "",
+                "email": "juantan@nankai.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Zhilong",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": "zyang@ksu.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure\u00a01: Reduced translation of cellular mRNAs plays a key role in EV71-induced host shutoff. (A) Principal coordinates analysis (PCoA) of gene expression shows transcriptional and translational levels of cellular gene expression (Set 1). Each point represents the indicated data point. (B) Proportion of reads mapped to EV71 RNA and cellular protein coding regions at different times after EV71 infection (Set 1). (C) Scatter plot of mean logarithmic value under mock- and EV71-infected conditions of mRNA/RPF reads versus logarithmic value of difference of mRNA/RPF (DTE) (Set 1). Genes that changed significantly (fold change >2) are shown in red. Number of up/down regulated genes are also shown",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure\u00a02: EV71 protein is preferentially synthesized through both abundant mRNA production and advantageous mRNA translation. (A) Log10TE vs. log10mRNA RPKM of host cell coding genes and EV71 polypeptide coding gene were plotted. Genes from mock- (cyan) and EV71-infected (purple) cells at each time point are shown in the same picture. The cross (red) shows EV71 mRNA. Only genes with a RPKM >0.3 under all conditions are shown. (B) Genome-wide EV71 RNA, RPF coverage and RPF/RNA ratio (TE). Three time points from Set 1 are shown. Data are displayed using Mochiview. EV71 genomic RNA and its subunit regions are shown on top. (C) RD cells were transfected with 480 ng un-capped EV71-5UTR-firefly-luciferase-Poly (A) mRNA and 20 ng m7G capped EIF3C-5UTR-renilla-luciferase-Poly (A) mRNAs. One hour after transfection, cells were infected with EV71 at an MOI of 40 or mock infected. At the indicated time post infection, luciferase activities were measured. The ratios of firefly luciferase and renilla luciferase activities in EV71- and mock-infected cells are shown, respectively. A Western blot analysis is shown to indicate similar amounts of cell lysates used. (D) The ratios of firefly luciferase activities normalized by renilla luciferase activities in EV71- and mock-infected cells are shown. The results are the averages of three independent experiments. The error bars indicate standard deviations. *P < 0.05, ***P < 0.001, ****P < 0.0001 (unpaired t test)",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Divergent picornavirus IRES elements",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Belsham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virus Res",
+            "volume": "139",
+            "issn": "",
+            "pages": "183-192",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2008.07.001"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Vaccinia virus D10 protein has mRNA decapping activity, providing a mechanism for control of host and viral gene expression",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Parrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Resch",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "104",
+            "issn": "",
+            "pages": "2139-2144",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0611685104"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Virology, epidemiology, pathogenesis, and control of enterovirus 71",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Solomon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lewthwaite",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Cardosa",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "McMinn",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Ooi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Lancet Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "778-790",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(10)70194-8"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Decoding human cytomegalovirus",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stern-Ginossar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Weisburd",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Michalski",
+                    "suffix": ""
+                },
+                {
+                    "first": "VT",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "MY",
+                    "middle": [],
+                    "last": "Hein",
+                    "suffix": ""
+                },
+                {
+                    "first": "SX",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hengel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Science",
+            "volume": "338",
+            "issn": "",
+            "pages": "1088-1093",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1227919"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Viral subversion of the host protein synthesis machinery",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat Rev Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "860-875",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro2655"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Deciphering poxvirus gene expression by RNA sequencing and ribosome profiling",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Martens",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Porcella",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Virol",
+            "volume": "89",
+            "issn": "",
+            "pages": "6874-6886",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00528-15"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "A systematic view on influenza induced host shutoff",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bercovich-Kinori",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Taj",
+                    "suffix": ""
+                },
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "Gelbart",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shitrit",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ben-Moshe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Drori",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Itzkovitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mandelboim",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stern-Ginossar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "eLife",
+            "volume": "139",
+            "issn": "",
+            "pages": "183-192",
+            "other_ids": {
+                "DOI": [
+                    "10.7554/eLife.18311"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Going against the tide: selective cellular protein synthesis during virally induced host shutoff",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dhungel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Virol",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00071-17"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Evidence for a novel gene associated with human influenza A viruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clifford",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Twigg",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Upton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Virol J",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1743-422X-6-198"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Ribosome profiling reveals translational upregulation of cellular oxidative phosphorylation mRNAs during vaccinia virus-induced host shutoff",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dhungel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Luan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Virol",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01858-16"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Lytic KSHV infection inhibits host gene expression by accelerating global mRNA turnover",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Glaunsinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ganem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol Cell",
+            "volume": "13",
+            "issn": "",
+            "pages": "713-723",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1097-2765(04)00091-7"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Depression of host-controlled RNA synthesis in human cells during poliovirus infection",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Holland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1963,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "49",
+            "issn": "",
+            "pages": "23-28",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.49.1.23"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Ribosome profiling of mouse embryonic stem cells reveals the complexity and dynamics of mammalian proteomes",
+            "authors": [
+                {
+                    "first": "NT",
+                    "middle": [],
+                    "last": "Ingolia",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Lareau",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Weissman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Cell",
+            "volume": "147",
+            "issn": "",
+            "pages": "789-802",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2011.10.002"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "High-resolution analysis of coronavirus gene expression by rna sequencing and ribosome profiling",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Irigoyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Firth",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "BY",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Brierley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS Pathog",
+            "volume": "12",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1005473"
+                ]
+            }
+        }
+    }
+}

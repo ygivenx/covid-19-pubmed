@@ -1,0 +1,2524 @@
+{
+    "paper_id": "PMC7089406",
+    "metadata": {
+        "title": "Design, synthesis and activity evaluation of mannose-based DC-SIGN antagonists",
+        "authors": [
+            {
+                "first": "Nata\u0161a",
+                "middle": [],
+                "last": "Obermajer",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Sara",
+                "middle": [],
+                "last": "Sattin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Cinzia",
+                "middle": [],
+                "last": "Colombo",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Michela",
+                "middle": [],
+                "last": "Bruno",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Urban",
+                "middle": [],
+                "last": "\u0160vajger",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Marko",
+                "middle": [],
+                "last": "Anderluh",
+                "suffix": "",
+                "email": "marko.anderluh@ffa.uni-lj.si",
+                "affiliation": {}
+            },
+            {
+                "first": "Anna",
+                "middle": [],
+                "last": "Bernardi",
+                "suffix": "",
+                "email": "anna.bernardi@unimi.it",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Taking dendritic cells into medicine",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Steinman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Banchereau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "449",
+            "issn": "",
+            "pages": "419-426",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature06175"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "DC-SIGN and L-SIGN: the SIGNs for infection",
+            "authors": [
+                {
+                    "first": "US",
+                    "middle": [],
+                    "last": "Khoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "KYK",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "VSF",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "CLS",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Mol Med",
+            "volume": "86",
+            "issn": "",
+            "pages": "861-874",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00109-008-0350-2"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "From carbohydrate leads to glycomimetic drugs",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ernst",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Magnani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Rev Drug Discov",
+            "volume": "8",
+            "issn": "",
+            "pages": "661-677",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd2852"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "1,2-Mannobioside mimic: synthesis, DC-SIGN interaction by NMR and docking, and antiviral activity",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Reina",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sattin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Invernizzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mari",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Martinez-Prats",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tabarani",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fieschi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Delgado",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Nieto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "ChemMedChem",
+            "volume": "2",
+            "issn": "",
+            "pages": "1030-1036",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/cmdc.200700047"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Non-carbohydrate inhibitors of the lectin DC-SIGN",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Borrok",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Kiessling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Am Chem Soc",
+            "volume": "129",
+            "issn": "",
+            "pages": "12780-12785",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja072944v"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Synthesis of 2-C-branched derivatives of d-mannose: 2-C-aminomethyl-d-mannose binds to the human C-type lectin DC-SIGN with affinity greater than an order of magnitude compared to that of d-mannose",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "JMD",
+                    "middle": [],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Jenkinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Wormald",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Dwek",
+                    "suffix": ""
+                },
+                {
+                    "first": "GWJ",
+                    "middle": [],
+                    "last": "Fleet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Tetrahedron",
+            "volume": "18",
+            "issn": "",
+            "pages": "1502-1510",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tetasy.2007.06.003"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Synthesis of novel DC-SIGN ligands with an \u03b1-fucosylamide anchor",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Timpano",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tabarani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Anderluh",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Invernizzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Vasile",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Potenza",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Nieto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fieschi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "ChemBioChem",
+            "volume": "9",
+            "issn": "",
+            "pages": "1921-1930",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/cbic.200800139"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "A general glycomimetic strategy yields non-carbohydrate inhibitors of DC-SIGN",
+            "authors": [
+                {
+                    "first": "KCA",
+                    "middle": [],
+                    "last": "Garber",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wangkanont",
+                    "suffix": ""
+                },
+                {
+                    "first": "EE",
+                    "middle": [],
+                    "last": "Carlson",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Kiessling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Chem Commun",
+            "volume": "46",
+            "issn": "",
+            "pages": "6747-6749",
+            "other_ids": {
+                "DOI": [
+                    "10.1039/c0cc00830c"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Glycodendritic structures: promising new antiviral drugs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Delgado",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Antimicrob Chemother",
+            "volume": "54",
+            "issn": "",
+            "pages": "579-581",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/dkh399"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Mannosyl glycodendritic structures inhibit DC-SIGN-mediated ebola virus infection in cis and in trans",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lasala",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Arce",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Otero",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Rojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Delgado",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Antimicrob Agents Chemother",
+            "volume": "47",
+            "issn": "",
+            "pages": "3970-3972",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.47.12.3970-3972.2003"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Mannose hyperbranched dendritic polymers interact with clustered organization of DC-SIGN and inhibit gp120 binding",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tabarani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Reina",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ebel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vives",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lortat-Jacob",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Rojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fieschi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "FEBS Lett",
+            "volume": "580",
+            "issn": "",
+            "pages": "2402-2408",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2006.03.061"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "C-Type lectin DC-SIGN modulates toll-like receptor signaling via Raf-1 kinase-dependent acetylation of transcription factor NF-\u03baB",
+            "authors": [
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Gringhuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "den Dunnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Litjens",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "van Het Hof",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunity",
+            "volume": "26",
+            "issn": "",
+            "pages": "605-616",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.immuni.2007.03.012"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Targeting the carbohydrates on HIV-1: interaction of oligomannose dendrons with human monoclonal antibody 2G12 and DC-SIGN",
+            "authors": [
+                {
+                    "first": "S-K",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P-H",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Astronomo",
+                    "suffix": ""
+                },
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-L",
+                    "middle": [],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Burton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-H",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "3690-3695",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0712326105"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Inhibition of DC-SIGN-mediated HIV infection by a linear trimannoside mimic in a tetravalent presentation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sattin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Daghetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Th\u00e9paut",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Berzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "S\u00e1nchez-Navarro",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tabarani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fieschi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clerici",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "ACS Chem Biol",
+            "volume": "5",
+            "issn": "",
+            "pages": "301-312",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/cb900216e"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Multivalent manno-glyconanoparticles inhibit DC-SIGN-mediated HIV-1 trans-infection of human T cells",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Mart\u00ecnez-Avila",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Bedoya",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Clavel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Alcam\u00ec",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Penad\u00e9s",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "ChemBioChem",
+            "volume": "10",
+            "issn": "",
+            "pages": "1806-1809",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/cbic.200900294"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Gold manno-glyconanoparticles: multivalent systems to block HIV-1 gp120 binding to the lectin DC-SIGN",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Mart\u00ecnez-Avila",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hijazi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Clavel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Campion",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Penad\u00e9s",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Chem Eur J",
+            "volume": "15",
+            "issn": "",
+            "pages": "9874-9888",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/chem.200900923"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Structural basis for distinct ligand-binding and targeting properties of the receptors DC-SIGN and DC-SIGNR",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Feinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Conroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Blixt",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "WI",
+                    "middle": [],
+                    "last": "Weis",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Drickamer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "11",
+            "issn": "",
+            "pages": "591-598",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb784"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "An assay for functional DC-SIGN inhibitors of human dendritic cell adhesion",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Obermajer",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "\u0160vajger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jeras",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sattin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Anderluh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Anal Biochem",
+            "volume": "406",
+            "issn": "",
+            "pages": "222-229",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ab.2010.07.018"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Pathogen recognition by DC-SIGN shapes adaptive immunity",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "den Dunnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Gringhuis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Futur Microbiol",
+            "volume": "4",
+            "issn": "",
+            "pages": "879-890",
+            "other_ids": {
+                "DOI": [
+                    "10.2217/fmb.09.51"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "A comparative study of different glycosylation methods for the synthesis of d-mannopyranosides of N-_-fluorenylmethoxycarbonyl-trans-4-hydroxy-l-proline allyl ester",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kowalczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "VJ",
+                    "middle": [],
+                    "last": "Muir",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Rendle",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Brimble",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Carbohydr Res",
+            "volume": "342",
+            "issn": "",
+            "pages": "2628-2634",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.carres.2007.08.015"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Stereoselective synthesis of conformationally constrained cyclohexanediols: a set of molecular scaffolds for the synthesis of glycomimetics",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Arosio",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Manzoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Micheli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pasquarello",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Seneci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Org Chem",
+            "volume": "66",
+            "issn": "",
+            "pages": "6209-6216",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jo015570b"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Niflumic acid renders dendritic cells tolerogenic and up-regulates inhibitory molecules ILT3 and ILT4",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "\u0160vajger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vidmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jeras",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Int Immunopharmacol",
+            "volume": "8",
+            "issn": "",
+            "pages": "997-1005",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.intimp.2008.03.006"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "DC-SIGN and L-SIGN can act as attachment receptors for alphaviruses and distinguish between mosquito cell- and mammalian cell-derived viruses",
+            "authors": [
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Klimstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Nangle",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Yurochko",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Ryman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "12022-12032",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.22.12022-12032.2003"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "DC-SIGN and L-SIGN are high affinity binding receptors for hepatitis C virus glycoprotein E2",
+            "authors": [
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Lozach",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lortat-Jacob",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "de Lacroix de Lavalette",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Staropoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Foung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Amara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Biol Chem",
+            "volume": "278",
+            "issn": "",
+            "pages": "20358-20366",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M301284200"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "DC-SIGN (CD209) mediates dengue virus infection of human dendritic cells",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tassaneetrithep",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Burgess",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Granelli-Piperno",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Trumpfheller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Finke",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Exp Med",
+            "volume": "197",
+            "issn": "",
+            "pages": "823-829",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20021840"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Differential N-linked glycosylation of human immunodeficiency virus and Ebola virus envelope glycoproteins modulates interactions with DC-SIGN and DC-SIGNR",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pohlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Baribaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "1337-1346",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.2.1337-1346.2003"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Carbohydrate-specific signaling through the DC-SIGN signalosome tailors immunity to Mycobacterium tuberculosis, HIV-1 and Helicobacter pylori",
+            "authors": [
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Gringhuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "den Dunnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Litjens",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "van der Vlist",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Immunol",
+            "volume": "10",
+            "issn": "",
+            "pages": "1081-1088",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ni.1778"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "DC-SIGN and DC-SIGNR interact with the glycoprotein of Marburg virus and the S protein of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gramberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Moller",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Rennekamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Krumbiegel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "12090-12095",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.21.12090-12095.2004"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "pH-Dependent entry of severe acute respiratory syndrome coronavirus is mediated by the spike glycoprotein and enhanced by dendritic cell transfer through DC-SIGN",
+            "authors": [
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ganesh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "5642-5650",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.11.5642-5650.2004"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Utilization of DC-SIGN for entry of feline coronaviruses into host cells",
+            "authors": [
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Regan",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Whittaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "11992-11996",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01094-08"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "DC-SIGN mediates avian H5N1 influenza virus infection in cis and in trans",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "YP",
+                    "middle": [],
+                    "last": "Chau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "373",
+            "issn": "",
+            "pages": "561-566",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2008.06.078"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Leptospira interrogans is recognized through DC-SIGN and induces maturation and cytokine production by human dendritic cells",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gaudart",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ekpo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pattanapanyasat",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Engering",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "FEMS Immunol Med Microbiol",
+            "volume": "53",
+            "issn": "",
+            "pages": "359-367",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1574-695X.2008.00437.x"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Interfering with the sugar code: design and synthesis of oligosaccharide mimics",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cheshev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Chem Eur J",
+            "volume": "14",
+            "issn": "",
+            "pages": "7434-7441",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/chem.200800597"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Double affinity amplification of galectin\u2013ligand interactions through arginine\u2013arene interactions: synthetic, thermodynamic, and computational studies with aromatic diamido thiodigalactosides",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Cumpstey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Salomonsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sundin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Leffler",
+                    "suffix": ""
+                },
+                {
+                    "first": "UJ",
+                    "middle": [],
+                    "last": "Nilsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Chem Eur J",
+            "volume": "14",
+            "issn": "",
+            "pages": "4233-4245",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/chem.200701932"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Fragment-based development of triazole-substituted O-galactosyl aldoximes with fragment-induced affinity and selectivity for galectin-3",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tejler",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Salameh",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Leffler",
+                    "suffix": ""
+                },
+                {
+                    "first": "UJ",
+                    "middle": [],
+                    "last": "Nilsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Org Biomol Chem",
+            "volume": "7",
+            "issn": "",
+            "pages": "3982-3990",
+            "other_ids": {
+                "DOI": [
+                    "10.1039/b909091f"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Kinetic and thermodynamic properties of MAG antagonists",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mesch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lemme",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Koliwer-Brandl",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Strasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schwardt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kelm",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ernst",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Carbohydr Res",
+            "volume": "345",
+            "issn": "",
+            "pages": "1348-1359",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.carres.2010.03.010"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Low molecular weight antagonists of the myelin-associated glycoprotein: synthesis, docking, and biological evaluation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mesch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Moser",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Strasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kelm",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cutting",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rossato",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vedani",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Koliwer-Brandl",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wittwer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rabbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schwardt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kelm",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ernst",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Med Chem",
+            "volume": "53",
+            "issn": "",
+            "pages": "1597-1615",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm901517k"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "C-type lectin DC-SIGN; an adhesion, signalling and antigen-uptake molecule that guides dendritic cells in immunity",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "\u0160vajger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Anderluh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jeras",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Obermajer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell Signal",
+            "volume": "22",
+            "issn": "",
+            "pages": "1397-1405",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cellsig.2010.03.018"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "1-Hydroxy-7-azabenzotriazole. An efficient peptide coupling additive",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Carpino",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Am Chem Soc",
+            "volume": "115",
+            "issn": "",
+            "pages": "4397-4398",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00063a082"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Peptide-bond modification for metal coordination: peptides containing two hydroxamate groups",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "MLK",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Marshall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Pept Sci",
+            "volume": "71",
+            "issn": "",
+            "pages": "489-515",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Activation of the lectin DC-SIGN induces an immature dendritic cell phenotype triggering Rho-GTPase activity required for HIV-1 replication",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hodges",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sharrocks",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Edelmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baban",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moris",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Drakesmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "McMichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Immun",
+            "volume": "8",
+            "issn": "",
+            "pages": "569-577",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ni1470"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "DC-SIGN is the major Mycobacterium tuberculosis receptor on human dendritic cells",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tailleux",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Pivert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Amara",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Legres",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dreher",
+                    "suffix": ""
+                },
+                {
+                    "first": "LP",
+                    "middle": [],
+                    "last": "Nicod",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Gluckman",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Lagrange",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gicquel",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Neyrolles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Exp Med",
+            "volume": "197",
+            "issn": "",
+            "pages": "121-127",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20021468"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Diversity of receptors binding HIV on dendritic cell subsets",
+            "authors": [
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Turville",
+                    "suffix": ""
+                },
+                {
+                    "first": "PU",
+                    "middle": [],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Handley",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "P\u00f6hlmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Doms",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat Immunol",
+            "volume": "3",
+            "issn": "",
+            "pages": "975-983",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ni841"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Selective suppression of dendritic cell functions by Mycobacterium ulcerans toxin mycolactone",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Coutanceau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Decalf",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Martino",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Babon",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Winter",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Albert",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Demangel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Exp Med",
+            "volume": "204",
+            "issn": "",
+            "pages": "1395-1403",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20070234"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "A fatal attraction: Mycobacterium tuberculosis and HIV-1 target DC-SIGN to escape immune surveillance",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Appelmelk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TBH",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Mol Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "153-159",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1471-4914(03)00027-3"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "DC-SIGN, a dendritic cell-specific HIV-1-binding protein that enhances transinfection of T cells",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Kwon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Torensma",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "van Vliet",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "van Duijnhoven",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Middel",
+                    "suffix": ""
+                },
+                {
+                    "first": "IL",
+                    "middle": [],
+                    "last": "Cornelissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Nottet",
+                    "suffix": ""
+                },
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "Kewal- Ramani",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Littman",
+                    "suffix": ""
+                },
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Figdor",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell",
+            "volume": "100",
+            "issn": "",
+            "pages": "587-597",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80694-7"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "DC-SIGN: escape mechanism for pathogens",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TBH",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nat Rev Immunol",
+            "volume": "3",
+            "issn": "",
+            "pages": "697-709",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1182"
+                ]
+            }
+        }
+    }
+}

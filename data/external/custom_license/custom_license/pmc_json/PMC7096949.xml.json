@@ -1,0 +1,3598 @@
+{
+    "paper_id": "PMC7096949",
+    "metadata": {
+        "title": "The population genetics and evolutionary epidemiology of RNA viruses",
+        "authors": [
+            {
+                "first": "Andr\u00e9s",
+                "middle": [],
+                "last": "Moya",
+                "suffix": "",
+                "email": "andres.moya@uv.es",
+                "affiliation": {}
+            },
+            {
+                "first": "Edward",
+                "middle": [
+                    "C."
+                ],
+                "last": "Holmes",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Fernando",
+                "middle": [],
+                "last": "Gonz\u00e1lez-Candelas",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: The tree in panel a depicts a common and close origin for samples 1\u20133 (node A), which is separate from the control samples 4\u20137 (node B). Node A might correspond to a single outbreak or a suspected transmission among these patients, whereas node B includes samples suspected, but not related to, the outbreak (4\u20137) and unrelated population controls (8,9). Panel b represents the alternative proposal for sample 1, which is now separated from the former cluster and instead groups with the control samples. Similar proposals can be separately formulated for each of the samples 1\u20133.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | Phylogenetic relationship of SARS-CoV to the known coronaviruses. Owing to the highly divergent nature of these viruses, the analysis was conducted using an alignment of 12 amino acid sequences that are 1,270 residues in length. The tree was inferred using the maximum likelihood (ML) method available in TREE-PUZZLE135. Numbers next to some branches represent quartet puzzling support values, which give an indication of the reliability of that branch. SARS-CoV appears as a distinct lineage. b | Magnified phylogeny of representative SARS-CoV strains isolated from humans and the Himalayan palm civet (Paguma larvata), a putative reservoir species. The tree was constructed using the same region as in part a but using nucleotide sequences (16 sequences, 3,765 bp). The tree was inferred using the ML method available in PAUP*136. Maximum-likelihood bootstrap values are shown for the main branches. Both trees are mid-point rooted and all horizontal branches are drawn to a scale of the number of substitutions per site (note the difference in scale between the two trees). All parameter settings used in the phylogenetic analysis are available from the authors on request. The following sequences were analysed (abbreviated viral names and GenBank accession numbers are given in parentheses); Group 1 coronaviruses: feline infectious peritonitis virus (FIPV; CAA29535); Group 2 coronaviruses: bovine coronavirus (BCoV; AF220295), human coronavirus OC43 (HCoV-OC43; S44241), murine hepatitis virus (MHV; AF029248, AF201929, AF208066, CAA28484), rat sialodacryoadenitis coronavirus (SDAV; AAF97738); porcine haemagglutinating encephalomyelitis virus (PHEV; AF481863); Group 3 coronaviruses: infectious bronchitis virus (IBV; AJ311317); SARS coronaviruses: Himalayan palm civet SARS-CoV, strains SZ1 (AY304489), SZ3 (AY304486), SZ13 (AY304487) and SZ16 (AY304488), and human SARS-CoV, strains Sin2677 (AY283795), BJ01 (AY278488), CUHK-AG01 (AY345986), GD01 (AY278489), GZ02 (AY390556), GZ50 (AY304495), HSZ-Bc (AY394994), PUMC02 (AY357075), Taiwan TC1 (AY338174), TW7 (AY502930), Urbani (AY278741) and ZS-C (AY395003).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "RNA virus mutations and fitness for survival",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Holland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Ann. Rev. Microbiol.",
+            "volume": "51",
+            "issn": "",
+            "pages": "151-178",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Recombination in evolutionary genomics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Osada",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Crandall",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Ann. Rev. Genet.",
+            "volume": "36",
+            "issn": "",
+            "pages": "75-97",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Analysis of influenza A virus nucleoproteins for the assessment of molecular genetic mechanisms leading to new phylogenetic virus lineages",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scholtissek",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ludwig",
+                    "suffix": ""
+                },
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Fitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Arch. Virol.",
+            "volume": "131",
+            "issn": "",
+            "pages": "237-250",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Risk to human health from a plethora of simian immunodeficiency viruses in primate bushmeat",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peeters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "8",
+            "issn": "",
+            "pages": "451-457",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Origin of HIV-1 in the chimpanzee Pan troglodytes troglodytes",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature",
+            "volume": "397",
+            "issn": "",
+            "pages": "436-441",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "AIDS as a zoonosis: scientific and public health implications",
+            "authors": [
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Hahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "de Cock",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "287",
+            "issn": "",
+            "pages": "607-614",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Preferential host switching by primate lentiviruses can account for phylogenetic similarity with the primate phylogeny",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Charleston",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Syst. Biol.",
+            "volume": "51",
+            "issn": "",
+            "pages": "528-535",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Phylogeny of the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eickmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "1504-1505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "276-278",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Mosaic evolution of the severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stavrinides",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Guttman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "76-82",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Predicting the evolution of human influenza A",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bender",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                },
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Fitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "286",
+            "issn": "",
+            "pages": "1921-1925",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "High rates of human immunodeficiency virus type 1 recombination: near-random segregation of markers one kilobase apart in one round of viral replication",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Rhodes",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wargo",
+                    "suffix": ""
+                },
+                {
+                    "first": "WS",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "11193-11200",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Infectious Diseases of Humans",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "High diversity of unknown picorna-like viruses in the sea",
+            "authors": [
+                {
+                    "first": "AI",
+                    "middle": [],
+                    "last": "Culley",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Lang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Suttle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "424",
+            "issn": "",
+            "pages": "1054-1057",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Disease transmission dynamics and the evolution of antibiotic resistance in hospitals and communal settings",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Andreasen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "800-801",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Population biology, evolution, and infectious disease: convergence and synthesis",
+            "authors": [
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonhoeffer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "283",
+            "issn": "",
+            "pages": "806-809",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Down or out in blood and lymph?",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wain-Hobson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature",
+            "volume": "387",
+            "issn": "",
+            "pages": "123-124",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Recovery of replication-competent HIV despite prolonged suppression of plasma viremia",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Science",
+            "volume": "278",
+            "issn": "",
+            "pages": "1291-1295",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Recombination: multiply infected spleen cells in HIV patients",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "418",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Virus dynamics and drug therapy",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonhoeffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Nowak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "6971-6976",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Reduced replication of 3TC-resistant HIV-1 variants in primary cells due to a processivity defect of the reverse transcriptase enzyme",
+            "authors": [
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Back",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "EMBO J.",
+            "volume": "15",
+            "issn": "",
+            "pages": "4040-4049",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Infectivity and replication capacity of drug-resistant human immunodeficiency virus type 1 variants isolated during primary infection",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "7736-7745",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Viral quasi-species and recombination",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Boerlijst",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bonhoeffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Nowak",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. R. Soc. Lond. B Biol. Sci.",
+            "volume": "263",
+            "issn": "",
+            "pages": "1577-1584",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Safety and immunogenicity of combinations of recombinant subtype E and B human immunodeficiency virus type 1 envelope glycoprotein 120 vaccines in healthy Thai adults",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pitisuttithum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Infect. Dis.",
+            "volume": "188",
+            "issn": "",
+            "pages": "219-227",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Positive Darwinian evolution in human influenza-A viruses",
+            "authors": [
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Fitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "JME",
+                    "middle": [],
+                    "last": "Leiter",
+                    "suffix": ""
+                },
+                {
+                    "first": "XQ",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "88",
+            "issn": "",
+            "pages": "4270-4274",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Clustering patterns of cytotoxic T-lymphocyte epitopes in human immunodeficiency virus type 1 (HIV-1) proteins reveal imprints of immune evasion on HIV-1 global variation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yusim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "8757-8768",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Evidence for HIV-1 adaptation to HLA-restricted immune responses at the population level",
+            "authors": [
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Science",
+            "volume": "296",
+            "issn": "",
+            "pages": "1439-1443",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Antibody neutralization and escape by HIV-1",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "422",
+            "issn": "",
+            "pages": "307-312",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Population dynamics of HIV-1 inferred from gene sequences",
+            "authors": [
+                {
+                    "first": "NC",
+                    "middle": [],
+                    "last": "Grassly",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Harvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Genetics",
+            "volume": "151",
+            "issn": "",
+            "pages": "427-438",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Homogeneous quasispecies in 16 out of 17 individuals during very early HIV-1 primary infection",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Delwart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "AIDS",
+            "volume": "16",
+            "issn": "",
+            "pages": "189-195",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Virulence and transmissibility of pathogens: what is the relationship?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Moxon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Trends Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "31-37",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Challenging the trade-off model for the evolution of virulence: is virulence management feasible?",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ebert",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Microbiol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "15-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Transmission bottlenecks as determinants of virulence in rapidly evolving pathogens",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Bergstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "McElhany",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Real",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "5095-5100",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Phylogenetic analysis reveals a low rate of homologous recombination in negative-sense RNA viruses",
+            "authors": [
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Chare",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Gould",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Gen. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "2691-2703",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Superinfection and the evolution of parasite virulence",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Nowak",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Proc. R. Soc. Lond. B Biol. Sci.",
+            "volume": "255",
+            "issn": "",
+            "pages": "81-89",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Chemokine coreceptor usage by diverse primary isolates of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "9307-9312",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Genotypic and phenotypic characterization of HIV-1 patients with primary infection",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Science",
+            "volume": "261",
+            "issn": "",
+            "pages": "1179-1181",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Molecular evidence of HIV-1 transmission in a criminal case",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Metzker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "14292-14297",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Molecular epidemiology and forensic genetics: application to a hepatitis C virus transmission event at a hemodialysis unit",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez-Candelas",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Bracho",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Infect. Dis.",
+            "volume": "187",
+            "issn": "",
+            "pages": "352-358",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Quartet puzzling: a quartet maximum likelihood method for reconstructing tree topologies",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Strimmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "von Haeseler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "964-969",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Swofford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "PAUP*. Phylogenetic Analysis Using Parsimony (*and other methods). Version 4",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Genetic diversity and tissue compartmentalization of the hepatitis C virus genome in blood mononuclear cells, liver, and serum from chronic hepatitis C patients",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Navas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Quiroga",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Castillo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Carre\u00f1o",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "1640-1646",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Effect of population patchiness and migration rates on the adaptation and divergence of vesicular stomatitis virus quasispecies populations",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Miralles",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Gen. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "2051-2059",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "The hypercycle. A principle of natural self-organization. Part A: emergence of the hypercycle",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eigen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schuster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Naturwissenschaften",
+            "volume": "64",
+            "issn": "",
+            "pages": "541-565",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eigen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Steps Towards Life",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Nucleotide sequence heterogeneity of an RNA phage population",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sabo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Taniguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Weissman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Cell",
+            "volume": "13",
+            "issn": "",
+            "pages": "735-744",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "RNA virus quasispecies populations can suppress vastly superior mutant progeny",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "de la Torre",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Holland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Virol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "6278-6281",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Holland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Origin and Evolution of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Evidence for the nonquasispecies evolution of RNA viruses",
+            "authors": [
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Worobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Woelk",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "987-994",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Is the quasispecies concept relevant to RNA viruses?",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "460-462",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Evolvability of an RNA virus is determined by its mutational neighborhood",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Burch",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "406",
+            "issn": "",
+            "pages": "625-628",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Experimental evolution recapitulates natural evolution",
+            "authors": [
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Wichman",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Yarber",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Philos. Trans R. Soc. Lond. B Biol. Sci.",
+            "volume": "355",
+            "issn": "",
+            "pages": "1677-1684",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Experimental evolution of parasites",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ebert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "282",
+            "issn": "",
+            "pages": "1432-1435",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Restrictions to RNA virus adaptation: an experimental approach",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Antonie van Leeuwenhoek",
+            "volume": "81",
+            "issn": "",
+            "pages": "135-142",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Exceptional convergent evolution in a virus",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Genetics",
+            "volume": "147",
+            "issn": "",
+            "pages": "1497-1507",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "molecular basis of adaptive convergence in experimental populations of RNA viruses",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Cuevas",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genetics",
+            "volume": "162",
+            "issn": "",
+            "pages": "533-542",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Evolutionary dynamics of viral attenuation",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Badgett",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Auer",
+                    "suffix": ""
+                },
+                {
+                    "first": "LE",
+                    "middle": [],
+                    "last": "Carmichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Parrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "10524-10529",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Experimental genomic evolution: extensive compensation for loss of DNA ligase activity in a virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rokyta",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Badgett",
+                    "suffix": ""
+                },
+                {
+                    "first": "IJ",
+                    "middle": [],
+                    "last": "Molineux",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "230-238",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Unifying the epidemiological and evolutionary dynamics of pathogens",
+            "authors": [
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Grenfell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "",
+            "pages": "327-332",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Rate of deleterious mutation and the distribution of its effects on fitness in vesicular stomatitis virus",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Evol. Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1078-1088",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Distribution of spontaneous mutants and inferences about the replication mode of the RNA bacteriophage \u03c66",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Rang",
+                    "suffix": ""
+                },
+                {
+                    "first": "LE",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "3276-3281",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Evaluating the impact of population bottlenecks in experimental evolution",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Wahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Gerrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Saika-Voivod",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genetics",
+            "volume": "162",
+            "issn": "",
+            "pages": "961-971",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Resistance of virus to extinction on bottleneck passages: study of a decaying and fluctuating pattern of fitness loss",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lazaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Escarmis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Perez-Mercader",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Manrubia",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "10830-10835",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Clonal interference and the evolution of RNA viruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Miralles",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Gerrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "285",
+            "issn": "",
+            "pages": "1745-1747",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Contributions of vesicular stomatitis virus to the understanding of RNA virus evolution",
+            "authors": [
+                {
+                    "first": "IS",
+                    "middle": [],
+                    "last": "Novella",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Curr. Opin. Microbiol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "399-405",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Models of experimental evolution: the role of genetic chance and selective necessity",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Wahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Krakauer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Genetics",
+            "volume": "156",
+            "issn": "",
+            "pages": "1437-1448",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Fitness of RNA virus decreased by Muller's ratchet",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Nature",
+            "volume": "348",
+            "issn": "",
+            "pages": "454-455",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Effect of deleterious mutation-accumulation on the fitness of RNA bacteriophage MS2",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "de la Pe\u2013a",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Evolution",
+            "volume": "54",
+            "issn": "",
+            "pages": "686-691",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Genetic exchange by recombination or reassortment is infrequent in natural populations of a tripartite RNA plant virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fraile",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "934-940",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Frequency-dependent selection in a mammalian RNA virus",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Miralles",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Evolution",
+            "volume": "5",
+            "issn": "",
+            "pages": "984-987",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "The advantage of sex in the RNA virus \u03c66",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Genetics",
+            "volume": "147",
+            "issn": "",
+            "pages": "953-959",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Evolutionary dynamics of fitness recovery from the debilitating effects of Muller's ratchet",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Evolution",
+            "volume": "52",
+            "issn": "",
+            "pages": "309-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Evolution of sex and the molecular clock in RNA viruses",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Gene",
+            "volume": "205",
+            "issn": "",
+            "pages": "301-308",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "The red queen reigns in the kingdom of RNA viruses",
+            "authors": [
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Clarke",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "91",
+            "issn": "",
+            "pages": "4821-4824",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Different trajectories of parallel evolution during viral adaptation",
+            "authors": [
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Wichman",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Badgett",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Boulianne",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Bull",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "285",
+            "issn": "",
+            "pages": "422-424",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "The rhythm of microbial adaptation",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Gerrish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "413",
+            "issn": "",
+            "pages": "299-302",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Prisoner's dilemma in an RNA virus",
+            "authors": [
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature",
+            "volume": "398",
+            "issn": "",
+            "pages": "441-443",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Escape from prisoner's dilemma in RNA phage \u03c6",
+            "authors": [
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Am. Nat.",
+            "volume": "161",
+            "issn": "",
+            "pages": "497-505",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "The biology of digital organisms",
+            "authors": [
+                {
+                    "first": "CO",
+                    "middle": [],
+                    "last": "Wilke",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Adami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends Ecol. Evol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "528-532",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Microevolution in an electronic microcosm",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yedid",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Am. Nat.",
+            "volume": "157",
+            "issn": "",
+            "pages": "465-487",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Rates of spontaneous mutation among RNA viruses",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Drake",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "90",
+            "issn": "",
+            "pages": "4171-4175",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Macroevolution simulated with autonomously replicating computer programs",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yedid",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "420",
+            "issn": "",
+            "pages": "810-812",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Genome complexity, robustness and genetic interactions in digital organisms",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lenski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ofria",
+                    "suffix": ""
+                },
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Collier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Adami",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature",
+            "volume": "400",
+            "issn": "",
+            "pages": "661-664",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Evolution of digital organisms at high mutation rates leads to survival of the flattest",
+            "authors": [
+                {
+                    "first": "CO",
+                    "middle": [],
+                    "last": "Wilke",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ofria",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lenski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Adami",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "412",
+            "issn": "",
+            "pages": "331-333",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "The molecular epidemiology of influenza",
+            "authors": [
+                {
+                    "first": "ED",
+                    "middle": [],
+                    "last": "Kilbourne",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "J. Infect. Dis.",
+            "volume": "127",
+            "issn": "",
+            "pages": "478-487",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Convergent and divergent sequence evolution in the surface envelope glycoprotein of human immunodeficiency virus type 1 within a single infected patient",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "LQ",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Simmonds",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Ludlam",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "4835-4839",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Weaver",
+                    "suffix": ""
+                },
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Mallampalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "The Evolutionary Biology of Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": "293-324",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Genealogical trees, coalescent theory and the analysis of genetic polymorphisms",
+            "authors": [
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "Rosenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nordborg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Genet.",
+            "volume": "3",
+            "issn": "",
+            "pages": "380-390",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Measurably evolving populations",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Pybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Forsberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Ecol. Evol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "481-488",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Consistent viral evolutionary changes associated with the progression of human immunodeficiency virus type 1 infection",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shankarappa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "10489-10502",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Estimating mutation parameters, population history and genealogy simultaneously from temporally spaced sequence data",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "GK",
+                    "middle": [],
+                    "last": "Nicholls",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Solomon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genetics",
+            "volume": "161",
+            "issn": "",
+            "pages": "1307-1320",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "The rate and character of spontaneous mutation in an RNA virus",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Malpica",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Genetics",
+            "volume": "162",
+            "issn": "",
+            "pages": "1505-1511",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "The inference of stepwise changes in substitution rates using serial sequence samples",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Drummond",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Forsberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "1365-1371",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "A viral sampling design for testing the molecular clock and for estimating evolutionary rates and divergence times",
+            "authors": [
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Seo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Thorne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hasegawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kishino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Bioinformatics",
+            "volume": "18",
+            "issn": "",
+            "pages": "115-123",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "On the genealogy of large populations",
+            "authors": [
+                {
+                    "first": "JFC",
+                    "middle": [],
+                    "last": "Kingman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J. Appl. Prob.",
+            "volume": "19",
+            "issn": "",
+            "pages": "27-43",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Evolutionary relationship of DNA sequences in finite populations",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tajima",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Genetics",
+            "volume": "105",
+            "issn": "",
+            "pages": "437-460",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Properties of a neutral allele model with intragenic recombination",
+            "authors": [
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Hudson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Theor. Pop. Biol.",
+            "volume": "23",
+            "issn": "",
+            "pages": "183-201",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "US human immunodeficiency virus type 1 epidemic: date of origin, population history, and characterization of early strains",
+            "authors": [
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Robbins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "6359-6366",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "Tracing the origin and history of the HIV-2 epidemic",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lemey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "6588-6592",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Molecular epidemiology of HIV transmission in a dental practice",
+            "authors": [
+                {
+                    "first": "CY",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Science",
+            "volume": "256",
+            "issn": "",
+            "pages": "1165-1171",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "Analysis of a rape case by direct sequencing of the human immunodeficiency virus type 1 pol and gag genes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Albert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wahlberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Leitner",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Escanilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Uhlen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "5918-5924",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Self-organisation of matter and the evolution of biological macromolecules",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eigen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "Naturwissenschaften",
+            "volume": "58",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "Molecular epidemiology of an outbreak of infection with hepatitis C virus in recipients of anti-D immunoglobulin",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Power",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Lancet",
+            "volume": "345",
+            "issn": "",
+            "pages": "1211-1213",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "Transmission of hepatitis C virus by a cardiac surgeon",
+            "authors": [
+                {
+                    "first": "JI",
+                    "middle": [],
+                    "last": "Esteban",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "N. Engl. J. Med.",
+            "volume": "334",
+            "issn": "",
+            "pages": "555-560",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "Immune-mediated positive selection drives human immunodeficiency virus type 1 molecular variation and predicts disease duration",
+            "authors": [
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "11715-11720",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "Likelihood model for detecting positively selected amino acid sites and applications to the HIV-1 envelope gene",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Genetics",
+            "volume": "148",
+            "issn": "",
+            "pages": "929-936",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Patterns of intra- and interhost nonsynonymous variation reveal strong purifying selection in dengue virus",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "11296-11298",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "Evidence of recombination in natural populations of hepatitis A virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Costa-Mattioli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "311",
+            "issn": "",
+            "pages": "51-59",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "A natural intergenotypic recombinant of hepatitis C virus identified in St Petersburg",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Kalinina",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Norder",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mukomolov",
+                    "suffix": ""
+                },
+                {
+                    "first": "LO",
+                    "middle": [],
+                    "last": "Magnius",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "4034-4043",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Timing the ancestor of the HIV-1 pandemic strains",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Korber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "288",
+            "issn": "",
+            "pages": "1789-1796",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Origin and evolution of GBV-C/hepatitis G virus and relationships with ancient human migrations",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pavesi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Mol. Evol.",
+            "volume": "53",
+            "issn": "",
+            "pages": "104-113",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "An integrated framework for the inference of viral population history from reconstructed genealogies",
+            "authors": [
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Pybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Harvey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Genetics",
+            "volume": "155",
+            "issn": "",
+            "pages": "1429-1437",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Maynard Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Szathm\u00e1ry",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "The Major Transitions of Evolution",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "The epidemic behavior of the hepatitis C virus",
+            "authors": [
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Pybus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "2323-2325",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "A comparison of the molecular clock of hepatitis C virus in the United States and Japan predicts that hepatocellular carcinoma incidence in the United States will increase over the next two decades",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "15584-15589",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF117": {
+            "title": "Rates of molecular evolution in RNA viruses: a quantitative phylogenetic analysis",
+            "authors": [
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "OG",
+                    "middle": [],
+                    "last": "Pybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Mol. Evol.",
+            "volume": "54",
+            "issn": "",
+            "pages": "156-165",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF118": {
+            "title": "Different population dynamics of human T-cell lymphotropic virus type II in intravenous drug users compared with endemically infected tribes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Salemi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "13253-13258",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "Evolution of human influenza A viruses over 50 years: rapid, uniform rate of change in NS gene",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Buonagurio",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Science",
+            "volume": "232",
+            "issn": "",
+            "pages": "930-932",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "Episodic evolution of RNA viruses",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Gillespie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "90",
+            "issn": "",
+            "pages": "10411-11041",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "Punctuated equilibrium and positive Darwinian evolution in vesicular stomatitis virus",
+            "authors": [
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Nichol",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Fitch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "90",
+            "issn": "",
+            "pages": "10424-11042",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Rates and dates of divergence between AIDS virus nucleotide sequences",
+            "authors": [
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tanimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "313-330",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "M. Selection forces and constraints on retroviral sequence variation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Overbaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Bangham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "1106-1109",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Molecular clocks and the puzzle of RNA virus origins",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "3893-3897",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "Transition between stochastic evolution and deterministic evolution in the presence of selection: general theory and application to virology",
+            "authors": [
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Rouzine",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rodrigo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Coffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microbiol. Mol. Biol. Rev.",
+            "volume": "65",
+            "issn": "",
+            "pages": "151-185",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "Virus evolution and genetic diversity of hantaviruses and their rodent hosts",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Plyusnin",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Morzunov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "256",
+            "issn": "",
+            "pages": "47-75",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF127": {
+            "title": "Toward a comprehensive phylogeny for mammalian and avian herpesviruses",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "McGeoch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dolan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Ralph",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "10401-10406",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Emerging infectious diseases of wildlife: threats to biodiversity and human health",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daszak",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Hyatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "287",
+            "issn": "",
+            "pages": "443-449",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF129": {
+            "title": "Factors in the emergence of infectious diseases",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Morse",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "1",
+            "issn": "",
+            "pages": "7-15",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF130": {
+            "title": "Diseases of humans and their domestic mammals: pathogen characteristics, host range and the risk of emergence",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cleaveland",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Laurenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Philos. Trans R. Soc. Lond. B Biol. Sci.",
+            "volume": "356",
+            "issn": "",
+            "pages": "991-999",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF131": {
+            "title": "Population biology of multihost pathogens",
+            "authors": [
+                {
+                    "first": "MEJ",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Haydon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "1109-1112",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF132": {
+            "title": "Error thresholds and the constraints to RNA virus evolution",
+            "authors": [
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Microbiol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "543-546",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF133": {
+            "title": "Reduced positive selection in vector-borne RNA viruses",
+            "authors": [
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Woelk",
+                    "suffix": ""
+                },
+                {
+                    "first": "EC",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "2333-2336",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF134": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "VR",
+                    "middle": [],
+                    "last": "Defilippis",
+                    "suffix": ""
+                },
+                {
+                    "first": "LP",
+                    "middle": [],
+                    "last": "Villarreal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Viral Ecology",
+            "volume": "",
+            "issn": "",
+            "pages": "126-208",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF135": {
+            "title": "Evolution of cell recognition by viruses",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Baranowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Ruiz-Jarabo",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Domingo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "1102-1105",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

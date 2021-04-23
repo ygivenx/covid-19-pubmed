@@ -1,0 +1,2509 @@
+{
+    "paper_id": "PMC7097190",
+    "metadata": {
+        "title": "Unveiling the roles of autophagy in innate and adaptive immunity",
+        "authors": [
+            {
+                "first": "Beth",
+                "middle": [],
+                "last": "Levine",
+                "suffix": "",
+                "email": "beth.levine@utsouthwestern.edu",
+                "affiliation": {}
+            },
+            {
+                "first": "Vojo",
+                "middle": [],
+                "last": "Deretic",
+                "suffix": "",
+                "email": "vderetic@salud.unm.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: The cellular events during digestion of self constituents or intracellular pathogens follow three distinct stages: initiation (formation of the phagophore), elongation (growth and closure) and maturation of a double membrane autophagosome into an autolysosome. a | Autophagy sequesters and removes cellular constituents from the cytosol, including surplus or damaged organelles from the cytosol. b | Autophagy can eliminate bacteria (free in the cytosol or inside a phagosome), viruses and protozoan parasites in a manner similar to the elimination of self constituents.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Autophagy is regulated by a set of autophagy-related proteins (ATG proteins). In the absence of amino acids or in response to other stimuli, ATG1 and a complex of the class III PI3K (phosphoinositide 3-kinase) VPS34 and beclin 1 lead to the activation of downstream ATG factors that are involved in the initiation (a), elongation (b) and maturation (c) of autophagy. a | In amino-acid-rich conditions, VPS34 contributes to mTOR (mammalian target of rapamycin) activation and inhibition of ATG1 and autophagy. The sources of membrane for autophagosome initiation and elongation may include those containing the only known membrane integral ATG protein ATG9, redistributing between a resting location to autophagosomes in an ATG1- and PI3K-dependent manner. ATG9 redistribution may depend on ATG18, which binds phosphatidylinositol-3-phosphate (PtdIns3P). b | The elongation and shape of the autophagosome are controlled by two protein (and lipid) conjugation systems, similar to the ubiquitylation systems: the ATG12 and LC3 (also known as ATG8)\u2013phosphatidylethanolamine (PE) conjugation pathways, which include E1-activating and E2-conjugating enzymes. ATG12 is initially conjugated to ATG7 (an E1-activating enzyme) and then is transferred to the E2-like conjugating enzyme ATG10. This intermediate presents ATG12 for conjugation to an ATG5 lysine residue. The ATG5\u2013ATG12 conjugate, stabilized non-covalently by ATG16, triggers oligomerization on the outside membrane of the growing autophagosome, and enhances LC3 carboxy-terminal lipidation through the LC3 conjugation system. Upon autophagosome closure, ATG5\u2013ATG12\u2013ATG16 and LC3 (delipidated by ATG4) are recycled. c | LC3 associated with the lumenal membrane remains trapped in the autophagosome and is degraded during maturation into the autolysosome, which involves fusion of autophagosomes with late endosomes, including endosomal multivesicular bodies and lysosomal organelles, and dissolution of the internal membrane. VPS34 has a role in the formation of late endosomal multivesicular bodies and lysosomal organelles contributing to the maturation stages of autophagy.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: a | Group A Streptococci captured within an autophagosome. Image kindly provided by Tamotsu Yoshimori, Osaka University, Japan. b | Mycobacterium bovis bacillus Calmette\u2013Gu\u00e9rin (BCG) present in a mycobacterial autophagosome (MAP) that is fusing with a multivesicular body (MVB). Image reproduced with permission from Ref. 42 \u00a9 (2004) Cell Press. c | Herpes simplex virus type I (HSV-1) virion(s) in the process of being surrounded by an isolation membrane (left panel), engulfed inside an autophagosome (middle panel) or degraded inside an autolysosome (right panel). Image reproduced with permission from Ref. 77 \u00a9 (2006) Landes Bioscience.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: a | Intracellular pathogens (bacteria, parasites and viruses) that are either free inside the cytosol, inside phagosomes or inside pathogen-containing vacuoles are surrounded by isolation membranes, engulfed into autophagosomes, which fuse with lysosomes, and then degraded inside autolysosomes. b | Viral nucleic acids are transferred by autophagy from the cytoplasm to intracellular compartments containing Toll-like receptor 7 (TLR7), which signals the induction of type I interferon (IFN) production. c | Viral antigens (and potentially other endogenously synthesized microbial antigens and self antigens) are engulfed into autophagosomes that fuse with MHC-class-II-containing late endosomes (MIICs), and then loaded onto MHC class II molecules for presentation to CD4+ T cells. Cytosolic antigens that contain a KFERQ recognition motif may also be directly imported into MIICs by chaperone-mediated autophagy. CLIP, class II-associated invariant chain peptide.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Autophagy as a regulated pathway of cellular degradation",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Klionsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Emr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "290",
+            "issn": "",
+            "pages": "1717-1721",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Autophagy in innate immunity against intracellular bacteria",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Amano",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biochem.",
+            "volume": "140",
+            "issn": "",
+            "pages": "161-166",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Autophagy in MHC class II presentation: sampling from within",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Men\u00e9ndez-Benito",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Neefjes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunity",
+            "volume": "26",
+            "issn": "",
+            "pages": "1-3",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Autophagy-dependent viral recognition by plasmacytoid dendritic cell",
+            "authors": [
+                {
+                    "first": "HK",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ramanathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mizushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Iwasaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Science",
+            "volume": "315",
+            "issn": "",
+            "pages": "1398-1401",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "A critical role for the autophagy gene Atg5 in T cell survival and proliferation",
+            "authors": [
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Pua",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dzhagalov",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chuck",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mizushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "YW",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Exp. Med.",
+            "volume": "204",
+            "issn": "",
+            "pages": "25-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Autophagy is induced in CD4+ T cells and important for the growth factor-withdrawal cell death",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Immunol.",
+            "volume": "177",
+            "issn": "",
+            "pages": "5163-5168",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Autophagy gene-dependent clearance of apoptotic cells during embryonic development",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell",
+            "volume": "128",
+            "issn": "",
+            "pages": "931-946",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "A genome-wide association scan of nonsynonymous SNPs identifies a susceptibility variant for Crohn disease in ATG16L1",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hampe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Genet.",
+            "volume": "39",
+            "issn": "",
+            "pages": "207-211",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ng1954"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Genome-wide association study identifies new susceptibility loci for Crohn disease and implicates autophagy in disease pathogenesis",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Rioux",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Genet.",
+            "volume": "39",
+            "issn": "",
+            "pages": "596-604",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "A nonsynonymous SNP in ATG16L predisposes to ileal Crohn's disease and is independent of CARD15 and IBD5",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Prescott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Gastroenterology",
+            "volume": "132",
+            "issn": "",
+            "pages": "1665-1671",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Trust Case Control Consortium. Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls",
+            "authors": [
+                {
+                    "first": "Wellcome",
+                    "middle": [],
+                    "last": "The",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "447",
+            "issn": "",
+            "pages": "661-678",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Autophagy in metazoans: cell survival in the land of plenty",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Lum",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "DeBerardinis",
+                    "suffix": ""
+                },
+                {
+                    "first": "CB",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Mol. Cell. Biol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "439-448",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Sequence variants in the autophagy gene IRGM and multiple other replicating loci contribute to Crohn's disease susceptibility",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Parkes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Genet.",
+            "volume": "39",
+            "issn": "",
+            "pages": "830-832",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ng2061"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Regulation and role of autophagy in mammalian cells",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Codogno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Int. J. Biochem. Cell. Biol.",
+            "volume": "36",
+            "issn": "",
+            "pages": "2445-2462",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Signalling and autophagy regulation in health and disease",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Codogno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Aspects. Med.",
+            "volume": "27",
+            "issn": "",
+            "pages": "411-425",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "hVps34 is a nutrient-regulated lipid kinase required for activation of p70 S6 kinase",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Byfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Backer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "33076-33082",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Amino acids mediate mTOR/raptor signaling through activation of class 3 phosphatidylinositol 3OH-kinase",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nobukuni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "14238-14243",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Beclin\u2013phosphatidylinositol 3-kinase complex functions at the trans-Golgi network",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kihara",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kabeya",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ohsumi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "EMBO Rep.",
+            "volume": "2",
+            "issn": "",
+            "pages": "330-335",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Autophagic and tumour suppressor activity of a novel Beclin 1-binding protein UVRAG",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Cell Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "688-699",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Ambra1 regulates autophagy and development of the nervous system",
+            "authors": [
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Fimia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "447",
+            "issn": "",
+            "pages": "1121-1125",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Bcl-2 antiapoptotic proteins inhibit Beclin 1-dependent autophagy",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pattingre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "122",
+            "issn": "",
+            "pages": "927-939",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "TOR signaling in growth and metabolism",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wullschleger",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Loewith",
+                    "suffix": ""
+                },
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell",
+            "volume": "124",
+            "issn": "",
+            "pages": "471-484",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Development by self-digestion: molecular mechanisms and biological functions of autophagy",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Klionsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Dev. Cell",
+            "volume": "6",
+            "issn": "",
+            "pages": "463-477",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "3-Methyladenine: specific inhibitor of autophagic/lysosomal protein degradation in isolated rat hepatocytes",
+            "authors": [
+                {
+                    "first": "PO",
+                    "middle": [],
+                    "last": "Seglen",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "79",
+            "issn": "",
+            "pages": "1889-1892",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "A unified nomenclature for yeast autophagy-related genes",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Klionsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Dev. Cell",
+            "volume": "5",
+            "issn": "",
+            "pages": "539-545",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Molecular dissection of autophagy: two ubiquitin-like systems",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ohsumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "211-216",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Autophagy: molecular machinery for self-eating",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yorimitsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Klionsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell Death Differ.",
+            "volume": "12",
+            "issn": "Suppl. 2",
+            "pages": "1542-1552",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Molecular machinery of autophagosome formation in yeast, Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ohsumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "FEBS Lett.",
+            "volume": "581",
+            "issn": "",
+            "pages": "2156-61",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "p62/SQSTM1 forms protein aggregates degraded by autophagy and has a protective effect on huntingtin-induced cell death",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bjorkoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lamark",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Johansen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell. Biol.",
+            "volume": "171",
+            "issn": "",
+            "pages": "603-614",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Glycogen autophagosomes in polymorphonuclear leukocytes induced by rickettsiae",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Rikihisa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Anat. Rec.",
+            "volume": "208",
+            "issn": "",
+            "pages": "319-327",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Cellular autophagy: surrender, avoidance and subversion by microorganisms",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "301-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Eating oneself and uninvited guests; autophagy-related pathways in cellular defense",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "120",
+            "issn": "",
+            "pages": "159-162",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Role of phosphatidylinositol 3-kinase and Rab5 effectors in phagosomal biogenesis and mycobacterial phagosome maturation arrest",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Fratti",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Backer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gruenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Corvera",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Deretic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Cell. Biol.",
+            "volume": "154",
+            "issn": "",
+            "pages": "631-644",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Autophagy in health and disease: a double-edged sword",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shintani",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Klionsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "306",
+            "issn": "",
+            "pages": "990-995",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Mycobacterium tuberculosis phagosome maturation arrest: selective targeting of PI3P-dependent membrane trafficking",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Vergne",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Deretic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Traffic",
+            "volume": "4",
+            "issn": "",
+            "pages": "600-606",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Mycobacterium tuberculosis phagosome maturation arrest: mycobacterial phosphatidylinositol analog phosphatidylinositol mannoside stimulates early endosomal fusion",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Vergne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Biol. Cell",
+            "volume": "15",
+            "issn": "",
+            "pages": "751-760",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Autophagy is a defense mechanism inhibiting BCG and Mycobacterium tuberculosis survival in infected macrophages",
+            "authors": [
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cell",
+            "volume": "119",
+            "issn": "",
+            "pages": "753-766",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Escape of intracellular Shigella from autophagy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ogawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "307",
+            "issn": "",
+            "pages": "727-731",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Autophagy defends cells against invading group A Streptococcus",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "306",
+            "issn": "",
+            "pages": "1037-1040",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Human IRGM induces autophagy to eliminate intracellular mycobacteria",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Deretic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "313",
+            "issn": "",
+            "pages": "1438-1441",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Cytoplasmic bacteria can be targets for autophagy",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Rich",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Burkett",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell. Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "455-468",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Autophagy limits Listeria monocytogenes intracellular growth in the early phase of primary infection",
+            "authors": [
+                {
+                    "first": "BF",
+                    "middle": [],
+                    "last": "Py",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lipinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Autophagy",
+            "volume": "3",
+            "issn": "",
+            "pages": "117-125",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Autophagy controls Salmonella infection in response to damage to the Salmonella-containing vacuole",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Birmingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Bakowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Brumell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "11374-11383",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Autophagy-mediated reentry of Francisella tularensis into the endocytic compartment after cytoplasmic replication",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Checroun",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Wehrly",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Hayes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Celli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "14578-14583",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Autophagy in innate and adaptive immunity",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Deretic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Trends. Immunol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "523-528",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Autophagy-mediated clearance of huntingtin aggregates triggered by the insulin-signaling pathway",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yamamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Cremona",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Rothman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Cell Biol.",
+            "volume": "172",
+            "issn": "",
+            "pages": "719-731",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Intracellular survival of Shigella",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ogawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sasakawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell. Microbiol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "177-184",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "The ubiquitin ligase Cbl-b limits Pseudomonas aeruginosa exotoxin T-mediated virulence",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Balachandran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Clin. Invest.",
+            "volume": "117",
+            "issn": "",
+            "pages": "419-427",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "NF-\u03baB activation represses tumor necrosis factor-\u03b1-induced autophagy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Djavaheri-Mergny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "30373-30382",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Reactive oxygen species are essential for autophagy and specifically regulate the activity of Atg4",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Scherz-Shouvai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "EMBO J.",
+            "volume": "26",
+            "issn": "",
+            "pages": "1749-1760",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "PKR-dependent autophagic degradation of herpes simplex virus type 1",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Talloczy",
+                    "suffix": ""
+                },
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Virgin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Autophagy",
+            "volume": "2",
+            "issn": "",
+            "pages": "24-29",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Subversion of cellular autophagosomal machinery by RNA viruses",
+            "authors": [
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Coronavirus replication complex formation utilizes components of cellular autophagy",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Prentice",
+                    "suffix": ""
+                },
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Jerome",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mizushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "10136-10141",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "COPI activity coupled with fatty acid biosynthesis is required for viral replication",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cherry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Pathog.",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Cellular autophagy machinery is not required for vaccinia virus replication and maturation",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Autophagy",
+            "volume": "2",
+            "issn": "",
+            "pages": "91-95",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Autophagy in innate and adaptive immunity against intracellular pathogens",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schmid",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dengjel",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stevanovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Munz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Mol. Med.",
+            "volume": "84",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Autophagy regulates programmed cell death during the plant innate immune response",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "121",
+            "issn": "",
+            "pages": "567-577",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Protection against fatal Sindbis virus encephalitis by Beclin, a novel Bcl-2-interacting protein",
+            "authors": [
+                {
+                    "first": "XH",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "8586-8596",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "HSV-1 ICP34.5 confers neurovirulence by targeting the Beclin 1 autophagy protein",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Orvedahl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell Host Microbe",
+            "volume": "1",
+            "issn": "",
+            "pages": "23-35",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Autophagy in Immunity and Infection: a novel immune effector",
+            "volume": "",
+            "issn": "",
+            "pages": "227-241",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "Innate immune recognition of viral infection",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kawai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Immunol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "131-137",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Toll-like receptor 9-mediated recognition of herpes simplex virus-2 by plasmacytoid dendritic cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lund",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Medzhitov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Iwasaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "198",
+            "issn": "",
+            "pages": "513-520",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Excessive degradation of intracellular protein in macrophages prevents presentation in the context of major histocompatibility complex class II molecules",
+            "authors": [
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Brazil",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Stockinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Eur. J. Immunol.",
+            "volume": "27",
+            "issn": "",
+            "pages": "1506-1514",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Major histocompatibility complex class II-restricted presentation of a cytosolic antigen by autophagy",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Nimmerjahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Eur. J. Immunol.",
+            "volume": "33",
+            "issn": "",
+            "pages": "1250-1259",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Processing and presentation of HLA class I and II epitopes by dendritic cells after transfection with in vitro-transcribed MUC1 RNA",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dorfel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Blood",
+            "volume": "105",
+            "issn": "",
+            "pages": "3199-3205",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Autophagy promotes MHC class II presentation of peptides from intracellular source proteins",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dengjel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "7922-7927",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Autophagy as an immune defense mechanism",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Deretic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. Opin. Immunol",
+            "volume": "18",
+            "issn": "",
+            "pages": "375-382",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Endogenous MHC class II processing of a viral nuclear antigen after autophagy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Paludan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "307",
+            "issn": "",
+            "pages": "593-596",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "In vivo analysis of autophagy in response to nutrient starvation using transgenic mice expressing a fluorescent autophagosome marker",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mizushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yamamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Matsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ohsumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Biol. Cell",
+            "volume": "15",
+            "issn": "",
+            "pages": "1101-1111",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "A role for intercellular antigen transfer in the recognition of EBV-transformed B cell lines by EBV nuclear antigen-specific CD4+ T cells",
+            "authors": [
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Immunol.",
+            "volume": "177",
+            "issn": "",
+            "pages": "3746-3756",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Antigen-loading compartments for major histocompatibility complex class II molecules continuously receive input from autophagosomes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schmid",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pypaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Munz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunity",
+            "volume": "26",
+            "issn": "",
+            "pages": "79-92",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Chaperone-mediated autophagy in aging and disease",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Massey",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Cuervo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. Top. Dev. Biol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "205-235",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Autophagy: many paths to the same end",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Cuervo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Cell. Biochem.",
+            "volume": "263",
+            "issn": "",
+            "pages": "55-72",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Lamp-2a facilitates MHC class II presentation of cytoplasmic antigens",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunity",
+            "volume": "22",
+            "issn": "",
+            "pages": "571-581",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Regulation of starvation- and virus-induced autophagy by the eIF2\u03b1 kinase signaling pathway",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Talloczy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "190-195",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "DAP kinase and DRP-1 mediate membrane blebbing and the formation of autophagic vesicles during programmed cell death",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Inbal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bialik",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Sabanay",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Shani",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kimchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Cell. Biol.",
+            "volume": "157",
+            "issn": "",
+            "pages": "455-468",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Essential roles of Atg5 and FADD in autophagic cell death: dissection of autophagic cell death into vacuole formation and cell death",
+            "authors": [
+                {
+                    "first": "JO",
+                    "middle": [],
+                    "last": "Pyo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "20722-20729",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "CD40 induces macrophage anti-Toxoplasma gondii activity by triggering autophagy-dependent fusion of pathogen-containing vacuoles and lysosomes",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Andrade",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wessendarp",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Gubbels",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Striepen",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Subauste",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Clin. Invest.",
+            "volume": "116",
+            "issn": "",
+            "pages": "2366-2377",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Insulin-like growth factor-1 and TNF-\u03b1 regulate autophagy through c-jun N-terminal kinase and Akt pathways in human atherosclerotic vascular smooth cells",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Gangahar",
+                    "suffix": ""
+                },
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Agrawal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Immunol. Cell Biol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "448-454",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "CD40\u2013TRAF6 and autophagy-dependent anti-microbial activity in macrophages",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Subauste",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Andrade",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wessendarp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Autophagy",
+            "volume": "3",
+            "issn": "",
+            "pages": "245-248",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Activation of phosphatidylinositol 3-kinase by interleukin-13. An inhibitory signal for inducible nitric-oxide synthase expression in epithelial cell line HT-29",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kolios",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Westwick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Biol. Chem.",
+            "volume": "272",
+            "issn": "",
+            "pages": "12626-12633",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "The tumor suppressor PTEN positively regulates macroautophagy by inhibiting the phosphatidylinositol 3-kinase/protein kinase B pathway",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Arico",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Biol. Chem.",
+            "volume": "276",
+            "issn": "",
+            "pages": "35243-35246",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Distinct classes of phosphatidylinositol 3\u2032-kinases are involved in signaling pathways that control macroautophagy in HT-29 cells",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Petiot",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ogier-Denis",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Blommaart",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Codogno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "992-998",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Molecular mechanisms of interferon resistance mediated by viral-directed inhibition of PKR, the interferon-induced protein kinase",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Katze",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Pharmacol. Ther.",
+            "volume": "78",
+            "issn": "",
+            "pages": "29-46",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "p47 GTPases: regulators of immunity to intracellular pathogens",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "100-109",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Autophagy in cell death: an innocent convict?",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Clin. Invest.",
+            "volume": "115",
+            "issn": "",
+            "pages": "2679-2688",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Autophagy: paying Charon's toll",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell",
+            "volume": "128",
+            "issn": "",
+            "pages": "833-836",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Vacuolar and plasma membrane stripping and autophagic elimination of Toxoplasma gondii in primed effector macrophages",
+            "authors": [
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Exp. Med.",
+            "volume": "203",
+            "issn": "",
+            "pages": "2063-2071",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Autophagy is involved in T cell death after binding of HIV-1 envelope proteins to CXCR4",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Espert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Clin. Invest.",
+            "volume": "116",
+            "issn": "",
+            "pages": "2161-2172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Phagocytosis of apoptotic cells and the resolution of inflammation",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Maderna",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Godson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1639",
+            "issn": "",
+            "pages": "141-151",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Removal of dying cells and systemic lupus erythematosus",
+            "authors": [
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Grossmayer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mod. Rheumatol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "383-390",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Inefficient clearance of dying cells and autoreactivity",
+            "authors": [
+                {
+                    "first": "US",
+                    "middle": [],
+                    "last": "Gaipl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "305",
+            "issn": "",
+            "pages": "161-176",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Mechanisms of disease pathogenesis: pathogenesis of Crohn's disease and ulcerative colitis",
+            "authors": [
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Sartor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Clin. Pract. Gastroenterol. Hepatol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "390-407",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Inflammatory bowel disease: cause and immunobiology",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Baumgart",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Carding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Lancet",
+            "volume": "369",
+            "issn": "",
+            "pages": "1627-1640",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Toll-like receptor 4 is a sensor for autophagy associated with innate immunity",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunity",
+            "volume": "27",
+            "issn": "",
+            "pages": "135-144",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

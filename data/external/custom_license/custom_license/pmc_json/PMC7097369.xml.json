@@ -1,0 +1,1796 @@
+{
+    "paper_id": "PMC7097369",
+    "metadata": {
+        "title": "Pathogen profiling for disease management and surveillance",
+        "authors": [
+            {
+                "first": "Vitali",
+                "middle": [],
+                "last": "Sintchenko",
+                "suffix": "",
+                "email": "vitalis@icpmr.wsahs.nsw.gov.au",
+                "affiliation": {}
+            },
+            {
+                "first": "Jonathan",
+                "middle": [
+                    "R."
+                ],
+                "last": "Iredell",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Gwendolyn",
+                "middle": [
+                    "L."
+                ],
+                "last": "Gilbert",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Classes of determinants for pathogen profiling\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: Each 'ome' is a complex function of the other 'omes', and the amount of integration increases from the bottom to the top.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: This data model defines major classes of attributes for an MRSA profile (for example, genotyping methods, virulence factors and clinical outcomes) and relationships between them. blaZ, \u03b2-lactamase gene; drfA, trimethoprim resistance gene; Ent, enterotoxin; erm, macrolide resistance gene; Et, exfoliative toxin; femA, gene encoding a cytoplasmic protein necessary for the expression of meticillin resistance; Luk-PV, Panton-Valentine leukocidin; mecA, gene encoding PBP2a, the low-binding-affinity penicillin-binding protein that mediates meticillin-resistance; MRSA, meticillin-resistant Staphylococcus aureus; SCCmec, Staphylococcus cassette chromosome; spa, staphylococcal protein A gene type; ST, sequence type; tetK, tetracycline resistance gene; tst, staphylococcal toxic shock toxin gene; vanA, vanB, vanC, vancomycin resistance genes.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Laboratory medicine in the 21st century",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Burke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Am. J. Clin. Pathol.",
+            "volume": "114",
+            "issn": "",
+            "pages": "841-846",
+            "other_ids": {
+                "DOI": [
+                    "10.1309/TH8P-1CAL-9K3G-VFTM"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Genomic insights that advance the species definition for prokaryotes",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Konstantinidis",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Tiedje",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "2567-2572",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0409727102"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Parkhill",
+                    "suffix": ""
+                },
+                {
+                    "first": "NR",
+                    "middle": [],
+                    "last": "Thomson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Microbial genomes",
+            "volume": "",
+            "issn": "",
+            "pages": "269-290",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Molecular characterization of Campylobacter jejuni clones: a rational basis for epidemiological investigations",
+            "authors": [
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Dingle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "8",
+            "issn": "",
+            "pages": "949-955",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0809.02-0122"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Advances in detecting and responding to treats from bioterrorism and emerging infectious disease",
+            "authors": [
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Rotz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Med.",
+            "volume": "10",
+            "issn": "",
+            "pages": "S130-S136",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1152"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Clinically validated genotype analysis: guiding principles and statistical concerns",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Brun-Vezinet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Antivir. Therapy",
+            "volume": "9",
+            "issn": "",
+            "pages": "465-478",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Web resources for HIV type I genotypic-resistance test interpretation",
+            "authors": [
+                {
+                    "first": "TF",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Shafer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "42",
+            "issn": "",
+            "pages": "1608-1618",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/503914"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Development of real-time PCR assay for rapid identification of methicillin-resistant Staphylococcus aureus from clinical samples",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Hagen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Intern. J. Med. Microbiol.",
+            "volume": "295",
+            "issn": "",
+            "pages": "77-86",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijmm.2004.12.008"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Multilocus sequence typing",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Enright",
+                    "suffix": ""
+                },
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Spratt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Trends Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "482-487",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(99)01609-1"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Multi-locus sequence typing: a tool for global epidemiology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Urwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "MCJ",
+                    "middle": [],
+                    "last": "Maiden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Trends Microbiol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "479-487",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2003.08.006"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "The use of molecular typing for epidemiological surveillance and investigation of endemic nosocomial infections",
+            "authors": [
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Blanc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect. Genet. Evol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "193-197",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2004.01.010"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Molecular epidemiology in the public health and hospital environment",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Fey",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Rupp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin. Lab. Med.",
+            "volume": "23",
+            "issn": "",
+            "pages": "885-901",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0272-2712(03)00100-8"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "How to select and interpret molecular strain typing methods for epidemiological studies of bacterial infections",
+            "authors": [
+                {
+                    "first": "FC",
+                    "middle": [],
+                    "last": "Tenover",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Infect. Control Hosp. Epidemiol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "426-439",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/30141252"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Application of molecular techniques to the study of hospital infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Clin. Microbiol. Rev.",
+            "volume": "19",
+            "issn": "",
+            "pages": "512-530",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00025-05"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Members of the european study group on epidemiological markers. Consensus guidelines for appropriate use and evaluation of microbial epidemiologic typing systems",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Struelens",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Clin. Microbiol. Infect.",
+            "volume": "2",
+            "issn": "",
+            "pages": "2-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1469-0691.1996.tb00193.x"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Investigating disease clusters: why, when and how?",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wartenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. R. Statist. Soc. A.",
+            "volume": "164",
+            "issn": "",
+            "pages": "13-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/1467-985X.00181"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Molecular typing of Mycobacterium tuberculosis by mycobacterial interspersed repetitive unit-variable number tandem repeat analysis, a more accurate method for identifying epidemiological links between patients with tuberculosis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van Deutekom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "43",
+            "issn": "",
+            "pages": "4473-4479",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.43.9.4473-4479.2005"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Evidence-based medicine, medical decision analysis, and pathology",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Marchevsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Wick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Hum. Pathol.",
+            "volume": "35",
+            "issn": "",
+            "pages": "1179-1188",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.humpath.2004.06.004"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Improving response to critical laboratory results with automation",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Kuperman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Am. Med. Inform. Assoc.",
+            "volume": "6",
+            "issn": "",
+            "pages": "512-522",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/jamia.1999.0060512"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Bioinformatics-assisted anti-HIV therapy",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lengauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sing",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "790-797",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1477"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Computer-assisted surveillance for detecting clonal outbreaks of nosocomial infection",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Hacek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "42",
+            "issn": "",
+            "pages": "1170-1175",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.42.3.1170-1175.2004"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Medical and economic benefit of a comprehensive infection control program that includes routine determination of microbial clonality",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Hacek",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am. J. Clin. Pathol.",
+            "volume": "111",
+            "issn": "",
+            "pages": "647-654",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ajcp/111.5.647"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "New approaches to quantifying the spread of infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Matthews",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Woolhouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "529-536",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1178"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Infectomics: Genomics and proteomics of microbial infections",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Triche",
+                    "suffix": ""
+                },
+                {
+                    "first": "AY",
+                    "middle": [],
+                    "last": "Jong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Funct. Integr. Genomic.",
+            "volume": "1",
+            "issn": "",
+            "pages": "331-344",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10142-002-0048-4"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "PIML: the pathogen information markup language",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "116-121",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bth462"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "LOINC, a universal standard for identifying laboratory observations: a 5-year update",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "McDonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin. Chem.",
+            "volume": "49",
+            "issn": "",
+            "pages": "624-633",
+            "other_ids": {
+                "DOI": [
+                    "10.1373/49.4.624"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Electronic laboratory reporting for the infectious diseases physician and clinical microbiologist",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wurtz",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Cameron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "40",
+            "issn": "",
+            "pages": "1638-1643",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/429904"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Minimum information requested in the annotation of biochemical models (MIRIAM)",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Le Novere",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotech.",
+            "volume": "23",
+            "issn": "",
+            "pages": "1509-1515",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt1156"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Common interchange standards for proteomics data: public availability of tools and schema",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Orchard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proteomics.",
+            "volume": "4",
+            "issn": "",
+            "pages": "490-491",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pmic.200300694"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Data integration and genomic medicine",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Louie",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mork",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Halevy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tarczy-Hornoch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biomed. Inform.",
+            "volume": "40",
+            "issn": "",
+            "pages": "5-16",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jbi.2006.02.007"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Determining confidence intervals when measuring genetic diversity and the discriminatory abilities of typing methods for microorganisms",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Grundmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hori",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "39",
+            "issn": "",
+            "pages": "4190-4192",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.39.11.4190-4192.2001"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Numerical index of the discriminatory ability of typing systems: an application of Simpson's index of diversity",
+            "authors": [
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Gaston",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "2465-2466",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Analyses of clonality and the evolution of bacterial pathogens",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Feil",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Enright",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Opin. Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "308-313",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mib.2004.04.002"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Genomic profiling: Interplay between clinical epidemiology, bioinformatics and biostatistics",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Mansmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Methods Inf. Med.",
+            "volume": "44",
+            "issn": "",
+            "pages": "454-460",
+            "other_ids": {
+                "DOI": [
+                    "10.1055/s-0038-1633982"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Computational cluster validation in post-genomic data analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Handl",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Knowles",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Kell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "3201-3212",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bti517"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Perspective: human contact patterns and the spread of airborne infectious diseases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wallinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Edminds",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kretzschmar",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Trends Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "372-377",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0966-842X(99)01546-2"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Joining high-throughput technology with in silico modelling advances genome-wide screening towards targeted discovery",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Werner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Brief Funct. Genom. Proteom.",
+            "volume": "5",
+            "issn": "",
+            "pages": "32-36",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bfgp/ell010"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Detecting protein function and protein\u2013protein interactions from genome sequences",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Marcotte",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "285",
+            "issn": "",
+            "pages": "751-753",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.285.5428.751"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Mycobacterium tuberculosis gene expression profiling within the context of protein networks",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rachman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Microb. Infect.",
+            "volume": "8",
+            "issn": "",
+            "pages": "747-757",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2005.09.011"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Multilocus sequence typing of bacteria",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Maiden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Annu. Rev. Microbiol.",
+            "volume": "60",
+            "issn": "",
+            "pages": "561-588",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.micro.59.030804.121325"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Proteome bioinformatics II. Bioinformatics for comparative proteomics",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lisacek",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cohen-Boulakia",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Appel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proteomics",
+            "volume": "6",
+            "issn": "",
+            "pages": "5445-5466",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pmic.200600275"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "XML, bioinformatics and data integration",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Achard",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vaysseix",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Barillot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "",
+            "pages": "115-125",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/17.2.115"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Assigning protein functions by comparative genome analysis: protein phylogenetic profiles",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pelegrini",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "4285-4288",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.8.4285"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Microbial ecology in the age of genomics and metagenomics: concepts, tools, and recent advances",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Ecol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "1713-1731",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-294X.2006.02882.x"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Culture independent PCR in diagnostic bacteriology: expectations and reality (is it time to replace the Petri dish with PCR?)",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sintchenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Iredell",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Gilbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Pathology.",
+            "volume": "31",
+            "issn": "",
+            "pages": "436-439",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/003130299104909"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "PulseNet: The molecular subtyping network for foodborne bacterial disease surveillance, United States",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Saminathan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "7",
+            "issn": "",
+            "pages": "382-389",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0703.017303"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "PACLIMS: a component LIM system for high throughput functional genomic analysis",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Donofrio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "BMC Bioinformatics",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2105-6-94"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "SNPP: automating large scale SNP genotype data management",
+            "authors": [
+                {
+                    "first": "L-J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M-X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-F",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F-H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-W",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "266-268",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bth486"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Integration and mining of malaria molecular, functional and pharmacological data: how far are we from a chemogenomic knowledge space?",
+            "authors": [
+                {
+                    "first": "L-M",
+                    "middle": [],
+                    "last": "Birkholtz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Malaria J.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1475-2875-5-110"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Reverse vaccinology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rappuoli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Curr. Opin. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "445-450",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1369-5274(00)00119-3"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Biomedical informatics for proteomics",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Boguski",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "McIntosh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "422",
+            "issn": "",
+            "pages": "233-237",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature01515"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "The relation between baseline HIV drug resistance and response to antiretroviral therapy: re-analysis of retrospective and prospective studies using a standardized data analysis plan",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "DeGruttola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Antivir. Ther.",
+            "volume": "5",
+            "issn": "",
+            "pages": "41-48",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Variable prediction of antiretroviral treatment outcome by different systems for interpreting genotypic human immunodeficiency virus type 1 drug resistance",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "De Luca",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Infect. Dis.",
+            "volume": "187",
+            "issn": "",
+            "pages": "1934-1943",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/375355"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Superspreading and the effect of individual variation on disease emergence",
+            "authors": [
+                {
+                    "first": "JO",
+                    "middle": [],
+                    "last": "Lloyd-Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "355-359",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04153"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "Effects of genetic variability of Mycobacterium tuberculosis strains on the presentation of disease",
+            "authors": [
+                {
+                    "first": "ANJ",
+                    "middle": [],
+                    "last": "Malik",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Godfrey-Faussett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Lancet Infect. Dis.",
+            "volume": "5",
+            "issn": "",
+            "pages": "174-183",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Clustering of diverse genomic data using information fusion",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kasturi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Acharya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "423-429",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bti186"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Utility of genotyping of Mycobacterium tuberculosis in the contact investigation: a decision analysis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sintchenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Gilbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Tuberculosis",
+            "volume": "87",
+            "issn": "",
+            "pages": "176-184",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tube.2006.10.003"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Ontologies and semantic data integration",
+            "authors": [
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Drug Disc. Today:Biosilico",
+            "volume": "10",
+            "issn": "",
+            "pages": "1001-1007",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1359-6446(05)03504-X"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Rapid identification and strain-typing of respiratory pathogens for epidemic surveillance",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Ecker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "8012-8017",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0409920102"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Automated DNA sequence-based early warning system for the detection of methicillin-resistant Staphylococcus aureus outbreaks",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mellmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PloS Medicine.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.0030033"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Geomedical warning system against epidemic",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gierl",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Int. J. Hyg. Environ. Health",
+            "volume": "208",
+            "issn": "",
+            "pages": "287-297",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijheh.2005.03.002"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Gene expression profile analysis by DNA microarrays: promise and pitfalls",
+            "authors": [
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Am. Med. Assoc.",
+            "volume": "286",
+            "issn": "",
+            "pages": "2280-2288",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.286.18.2280"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "HIV-1 subtypes: epidemiology and significance for HIV management",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Geretti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Curr. Opin. Infect. Dis.",
+            "volume": "19",
+            "issn": "",
+            "pages": "1-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/01.qco.0000200293.45532.68"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Pathology data integration with eXtensible Markup Language",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Berman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Hum. Pathol.",
+            "volume": "36",
+            "issn": "",
+            "pages": "139-145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.humpath.2004.10.013"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Therapy of hepatitis C: from empiricism to eradication",
+            "authors": [
+                {
+                    "first": "J-M",
+                    "middle": [],
+                    "last": "Pawlotsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Hepatol.",
+            "volume": "43",
+            "issn": "",
+            "pages": "S207-S220",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/hep.21064"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Molecular diagnostics of hepatitis C virus infection: a systematic review",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Gretch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Am. Med. Assoc.",
+            "volume": "297",
+            "issn": "",
+            "pages": "724-732",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.297.7.724"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Genetic analysis and attribution of microbial forensic evidence",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Budowle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Crit. Rev. Microbiol.",
+            "volume": "31",
+            "issn": "",
+            "pages": "233-254",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10408410500304082"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Viral determinants of resistance to treatment in patients with hepatitis C",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wohnsland",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sarrazin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin. Microbiol. Rev.",
+            "volume": "20",
+            "issn": "",
+            "pages": "23-38",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00010-06"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Molecular signatures for diagnosis of infection: application of microarray technology",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ghazal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Appl. Microbiol.",
+            "volume": "96",
+            "issn": "",
+            "pages": "18-23",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2672.2003.02112.x"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Sequence-specific identification of 18 pathogenic microorganisms using microarray technology",
+            "authors": [
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res.",
+            "volume": "32",
+            "issn": "",
+            "pages": "1848-1856",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh329"
+                ]
+            }
+        }
+    }
+}

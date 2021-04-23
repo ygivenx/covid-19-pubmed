@@ -1,0 +1,5814 @@
+{
+    "paper_id": "PMC7096857",
+    "metadata": {
+        "title": "The evolving field of biodefence: therapeutic developments and diagnostics",
+        "authors": [
+            {
+                "first": "James",
+                "middle": [
+                    "C."
+                ],
+                "last": "Burnett",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Erik",
+                "middle": [
+                    "A."
+                ],
+                "last": "Henchal",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Alan",
+                "middle": [
+                    "L."
+                ],
+                "last": "Schmaljohn",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Sina",
+                "middle": [],
+                "last": "Bavari",
+                "suffix": "",
+                "email": "sina.bavari@amedd.army.mil",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Antibodies that target biological toxins\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 10: Requirements for rapid diagnosis\n",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table 2: Comparative biological potency of biodefence toxins\n",
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Table 3: Lethal factor (LF) inhibitors\n",
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Table 4: Oedema factor (EF) inhibitors\n",
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Table 5: Botulinum serotype A light chain (BoNT/A LC) inhibitors\n",
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Table 6: Botulinum serotype B light chain (BoNT/B LC) inhibitors\n",
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "Table 7: Ricin toxin chain A (RTA) inhibitors\n",
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "Table 8: Quenching viral replication: opportunities and challenges\n",
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": "Table 9: Characteristics of selected BSAT\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | ATX is secreted by Bacillus anthracis. b | The inactive form of protective antigen (PA83) binds to a host-cell receptor, where it is cleaved by a furin-related protease, to give active PA63. c | PA63 heptamerizes and can bind to either lethal factor (LF) or oedema factor (EF) (in this depiction the heptamer binds LF). d | The complex is endocytosed, and LF (as shown) or EF (not shown) translocates from the endosome into the host-cell cytosol. e | Therapeutics, in this example NSC 12155 (Ref. 19), are being designed to enter intoxicated cells and inhibit the protease activity of LF. f | A surface depiction of NSC 12155 bound within the LF substrate-binding cleft is shown. The inhibitor carbons are green, nitrogens are blue and oxygens are red. The surface of LF is red for acidic surface, blue for basic surface, and white for neutral surface.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | The co-crystal structure of NSC 12155 bound in the lethal factor (LF) substrate-binding cleft (PDB Ref Code = 1PWP). LF is shown in green ribbon. Residues of the LF catalytic engine are shown in stick. Carbon atoms are green; oxygen atoms are red; and nitrogen atoms are blue. NSC 12155 carbons are magenta. The inhibitor sits in close proximity to the enzyme's catalytic zinc (gold). b | Inhibitor Q2-15 docked in the botulinum neurotoxin serotype A (BoNT/A) light-chain (LC) substrate-binding cleft. The BoNT/A LC model is a dynamics conformation205 generated from the X-ray crystal structure of PDB ref code = 1E1H. Colours are as described for a. Additionally, enzyme residues are rendered in stick. Q2-15 carbons are magenta; and Q2-15 chloro substituents are light green. One of the 7-chloro-quinoline components interacts with the catalytic zinc of the enzyme, whereas the other binds in a pocket located behind the catalytic engine of the enzyme. c | The co-crystal structure of pteroic acid bound in the substrate-binding pocket of the ricin A chain (PDB Ref Code = 1BR6). Colours are as described for a and b. Red spheres are water molecules. d | The co-crystal structure of the SEB\u2013HLA-DR1 interaction (PDB Ref Code = 1SEB). SEB is depicted as cyan ribbons and HLA-DR1 is depicted as green ribbons. The side chains of residues spanning the contact interface are shown in stick, with carbon colours corresponding to protein ribbon colour. Residue oxygens are red and nitrogens are blue.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: a | Initial responders collect evidence, which is then sent to surveillance laboratories or to confirmatory laboratories directly (b,c). Cooperation between these laboratories facilitates first line response procedures. d | Further confirmation of agent type and area of distribution, is then conducted at national laboratories.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Proteolytic inactivation of MAP-kinase-kinase by anthrax lethal factor",
+            "authors": [
+                {
+                    "first": "NS",
+                    "middle": [],
+                    "last": "Duesbery",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "280",
+            "issn": "",
+            "pages": "734-737",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.280.5364.734"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Inhibition of furin by polyarginine-containing peptides: nanomolar inhibition by nona-d-arginine",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Kacprzak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "36788-36794",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M400484200"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "DNA vaccines expressing either the GP or NP genes of Ebola virus protect mice from lethal challenge",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vanderzanden",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "246",
+            "issn": "",
+            "pages": "134-144",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9176"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Protection from Ebola virus mediated by cytotoxic T lymphocytes specific for the viral nucleoprotein",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Hart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "2660-2664",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.6.2660-2664.2001"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Immunization for Ebola virus infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature Med.",
+            "volume": "4",
+            "issn": "",
+            "pages": "37-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0198-037"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "GAaRS",
+                    "middle": [],
+                    "last": "Martini",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "Marburg Virus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Treatment of Ebola hemorrhagic fever with blood transfusions from convalescent patients. International Scientific and Technical Committee",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mupapa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Infect. Dis.",
+            "volume": "179",
+            "issn": "Suppl. 1",
+            "pages": "S18-S23",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/514298"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Differences between extracellular and intracellular forms of poxvirus and their implications",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Boulter",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Appleyard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Prog. Med. Virol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "86-108",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "DNA vaccination with vaccinia virus L1R and A33R genes protects mice against a lethal poxvirus challenge",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Custer",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "266",
+            "issn": "",
+            "pages": "329-339",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1999.0096"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Smallpox DNA vaccine protects nonhuman primates against lethal monkeypox",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Hooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "4433-4443",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.9.4433-4443.2004"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Neutralizing and protective antibodies directed against vaccinia virus envelope antigens",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Galmiche",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goenaga",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wittek",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rindisbacher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Virology",
+            "volume": "254",
+            "issn": "",
+            "pages": "71-80",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9516"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Protective monoclonal antibodies define maturational and pH-dependent antigenic changes in Sindbis virus E1 glycoprotein",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Kokubun",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Virology",
+            "volume": "130",
+            "issn": "",
+            "pages": "144-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(83)90124-1"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Dominant-negative mutants of a toxin subunit: an approach to therapy of anthrax",
+            "authors": [
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Sellman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mourez",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Collier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "695-697",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.109563"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Antibodies against the extracellular enveloped virus B5R protein are mainly responsible for the EEV neutralizing capacity of vaccinia immune globulin",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "325",
+            "issn": "",
+            "pages": "425-431",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.05.004"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Dendritic cells: in the forefront of immunopathogenesis and vaccine development \u2014 a review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mohamadzadeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Luftig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Immune Based Ther. Vaccines",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1476-8518-2-1"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Learning from our foes: a novel vaccine concept for influenza virus",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Muster",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "O'Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garcia-Sastre",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Arch. Virol. Suppl.",
+            "volume": "15",
+            "issn": "",
+            "pages": "131-138",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "The E3L gene of vaccinia virus encodes an inhibitor of the interferon-induced, double-stranded RNA-dependent protein kinase",
+            "authors": [
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "4825-4829",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.89.11.4825"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "The Ebola virus VP35 protein functions as a type I IFN antagonist",
+            "authors": [
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Basler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "12289-12294",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.220398297"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Ebola and Marburg viruses replicate in monocyte-derived dendritic cells without inducing the production of cytokines and full maturation",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Bosio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Infect. Dis.",
+            "volume": "188",
+            "issn": "",
+            "pages": "1630-1638",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/379199"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Poxviruses and immune evasion",
+            "authors": [
+                {
+                    "first": "BT",
+                    "middle": [],
+                    "last": "Seet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "377-423",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.immunol.21.120601.141049"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Ebola virus-like particles protect from lethal Ebola virus infection",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Warfield",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "15889-15894",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.2237038100"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Mechanisms of enveloped RNA virus budding",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Pornillos",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Garrus",
+                    "suffix": ""
+                },
+                {
+                    "first": "WI",
+                    "middle": [],
+                    "last": "Sundquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends Cell Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "569-579",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0962-8924(02)02402-9"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "High-speed mass transit for poxviruses on microtubules",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Cell Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "E245-E246",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ncb1101-e245"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "A dominant negative mutant of Bacillus anthracis protective antigen inhibits anthrax toxin action in vivo",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Khanna",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Chopra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mehra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Biol. Chem.",
+            "volume": "276",
+            "issn": "",
+            "pages": "22090-22094",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M010222200"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Intrinsic immunity: a front-line defense against viral attack",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bieniasz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Immunol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "1109-1115",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ni1125"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "The interferon antiviral response: from viral invasion to evasion",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Grandvaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "tenOever",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Servant",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hiscott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Curr. Opin. Infect. Dis.",
+            "volume": "15",
+            "issn": "",
+            "pages": "259-267",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/00001432-200206000-00008"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Anthrax as a biological weapon, 2002: updated recommendations for management",
+            "authors": [
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Inglesby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "JAMA",
+            "volume": "287",
+            "issn": "",
+            "pages": "2236-2252",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.287.17.2236"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Management of anthrax",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Bartlett",
+                    "suffix": ""
+                },
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Inglesby",
+                    "suffix": "Jr."
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Borio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "35",
+            "issn": "",
+            "pages": "851-858",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/341902"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "[Comparison of therapeutic effects of antibiotics of the tetracycline group in the treatment of anthrax caused by a strain inheriting tet-gene of plasmid pBC16]",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Pomerantsev",
+                    "suffix": ""
+                },
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "Shishkova",
+                    "suffix": ""
+                },
+                {
+                    "first": "LI",
+                    "middle": [],
+                    "last": "Marinin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Antibiot. Khimioter.",
+            "volume": "37",
+            "issn": "",
+            "pages": "31-34",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Development of novel vaccines against anthrax in man",
+            "authors": [
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Stepanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "LI",
+                    "middle": [],
+                    "last": "Marinin",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Pomerantsev",
+                    "suffix": ""
+                },
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "Staritsin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Biotechnol.",
+            "volume": "44",
+            "issn": "",
+            "pages": "155-160",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0168-1656(95)00092-5"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "[Sensitivity spectrum of Francisella tularensis to antibiotics and synthetic antibacterial drugs]",
+            "authors": [
+                {
+                    "first": "NT",
+                    "middle": [],
+                    "last": "Vasi'lev",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Antibiot. Khimioter.",
+            "volume": "34",
+            "issn": "",
+            "pages": "662-665",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Susceptibility pattern of Scandinavian Francisella tularensis isolates with regard to oral and parenteral antimicrobial agents",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Scheel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hoel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sandvik",
+                    "suffix": ""
+                },
+                {
+                    "first": "BP",
+                    "middle": [],
+                    "last": "Berdal",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "APMIS",
+            "volume": "101",
+            "issn": "",
+            "pages": "33-36",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1699-0463.1993.tb00077.x"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Designing a polyvalent inhibitor of anthrax toxin",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mourez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Biotechnol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "958-961",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt1001-958"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Bactericidal activities of antibiotics against intracellular Francisella tularensis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Maurin",
+                    "suffix": ""
+                },
+                {
+                    "first": "NF",
+                    "middle": [],
+                    "last": "Mersali",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Raoult",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "44",
+            "issn": "",
+            "pages": "3428-3431",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.44.12.3428-3431.2000"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Sensitivity to macrolide antibiotics and lincomycin in Francisella tularensis holarctica",
+            "authors": [
+                {
+                    "first": "RI",
+                    "middle": [],
+                    "last": "Kudelina",
+                    "suffix": ""
+                },
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Olsufiev",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "J. Hyg. Epidemiol. Microbiol. Immunol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "84-91",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "In vitro antibiotic susceptibility of Francisella tularensis isolated from humans and animals",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ikaheimo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Syrjala",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Karhukorpi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Schildt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koskela",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Antimicrob. Chemother.",
+            "volume": "46",
+            "issn": "",
+            "pages": "287-290",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jac/46.2.287"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Antimicrobial susceptibility testing of Francisella tularensis with a modified Mueller\u2013Hinton broth",
+            "authors": [
+                {
+                    "first": "CN",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Hollis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Thornsberry",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J. Clin. Microbiol.",
+            "volume": "22",
+            "issn": "",
+            "pages": "212-215",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Tularemia as a biological weapon: medical and public health management",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Dennis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "JAMA",
+            "volume": "285",
+            "issn": "",
+            "pages": "2763-73",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.285.21.2763"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Tularemia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Oyston",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Titball",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Clin. Microbiol. Rev.",
+            "volume": "15",
+            "issn": "",
+            "pages": "631-646",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.15.4.631-646.2002"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Tularemia epidemic in northwestern Spain: clinical description and therapeutic response",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Perez-Castrillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bachiller-Luque",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Martin-Luquero",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Mena-Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Herreros",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "33",
+            "issn": "",
+            "pages": "573-576",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/322601"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Current laboratory methods for biological threat agent identification",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Henchal",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Teska",
+                    "suffix": ""
+                },
+                {
+                    "first": "GV",
+                    "middle": [],
+                    "last": "Ludwig",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Shoemaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Ezzell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin. Lab. Med.",
+            "volume": "21",
+            "issn": "",
+            "pages": "661-678",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0272-2712(18)30027-1"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "A national laboratory network for bioterrorism: evolution from a prototype network of laboratories performing routine surveillance",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Gilchrist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mil. Med.",
+            "volume": "165",
+            "issn": "",
+            "pages": "28-31",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/milmed/165.suppl_2.28"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MJR",
+                    "middle": [],
+                    "last": "Gilchrist",
+                    "suffix": ""
+                },
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "McKinney",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Weissfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Laboratory safety, management and diagnosis of biological agents associated with bioterrorism",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Three-dimensional model of the pore form of anthrax protective antigen. Structure and biological implications",
+            "authors": [
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biomol. Struct. Dyn.",
+            "volume": "22",
+            "issn": "",
+            "pages": "253-265",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07391102.2004.10531226"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Investigation of bioterrorism-related anthrax, United States, 2001: epidemiologic findings",
+            "authors": [
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Jernigan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1019-1028",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0810.020353"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Bioterrorism-related inhalational anthrax: the first 10 cases reported in the United States",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Jernigan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "7",
+            "issn": "",
+            "pages": "933-944",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0706.010604"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Serological studies of patients with cutaneous and oral-oropharyngeal anthrax from northern Thailand",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sirisanthana",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Ezzell",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Abshire",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Am. J. Trop. Med. Hyg.",
+            "volume": "39",
+            "issn": "",
+            "pages": "575-581",
+            "other_ids": {
+                "DOI": [
+                    "10.4269/ajtmh.1988.39.575"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "TIGER: the universal biosensor",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Hofstadler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Intl J. Mass Spectrometry",
+            "volume": "12844",
+            "issn": "",
+            "pages": "1-18",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Protonation dynamics of the alpha-toxin ion channel from spectral analysis of pH-dependent current fluctuations",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Kasianowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Bezrukov",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Biophys. J.",
+            "volume": "69",
+            "issn": "",
+            "pages": "94-105",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-3495(95)79879-4"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Characterization of individual polynucleotide molecules using a membrane channel",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Kasianowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Brandin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Branton",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Deamer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "13770-13773",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.24.13770"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Lethal factor active-site mutations affect catalytic activity in vitro",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Hammond",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Hanna",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Infect. Immun.",
+            "volume": "66",
+            "issn": "",
+            "pages": "2374-2378",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Simultaneous multianalyte detection with a nanometer-scale pore",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Kasianowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Henrickson",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Weetall",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Anal. Chem.",
+            "volume": "73",
+            "issn": "",
+            "pages": "2268-2272",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ac000958c"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Genome-wide responses of a pathogenic bacterium to its host",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Relman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Clin. Invest.",
+            "volume": "110",
+            "issn": "",
+            "pages": "1071-1073",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI0216944"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Shedding light on microbial detection",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Relman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med.",
+            "volume": "349",
+            "issn": "",
+            "pages": "2162-2163",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMcibr035737"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Profiling the humoral immune response to infection by using proteome microarrays: High-throughput vaccine and diagnostic antigen discovery",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "547-552",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0408782102"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Global analysis of host cell gene expression late during cytomegalovirus infection reveals extensive dysregulation of cell cycle gene expression and induction of Pseudomitosis independent of US28 function",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hertel",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Mocarski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "11988-12011",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.21.11988-12011.2004"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Bacterial pathogens modulate an apoptosis differentiation program in human neutrophils",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "10948-10953",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1833375100"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "The host response to smallpox: analysis of the gene expression program in peripheral blood cells in a nonhuman primate model",
+            "authors": [
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Rubins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "15190-15195",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0405759101"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Toxicogenomics and systems toxicology: aims and prospects",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Waters",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Fostel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Genet.",
+            "volume": "5",
+            "issn": "",
+            "pages": "936-948",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrg1493"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Taking the measure of countermeasures: leaders' views on the nation's capacity to develop biodefense countermeasures",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gilfillan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biosecur. Bioterror.",
+            "volume": "2",
+            "issn": "",
+            "pages": "320-327",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/bsp.2004.2.320"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Pathogenesis of filoviral haemorrhagic fevers",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mahanty",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet Infect. Dis.",
+            "volume": "4",
+            "issn": "",
+            "pages": "487-498",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(04)01103-X"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Screening inhibitors of anthrax lethal factor",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tonello",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Seveso",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Marin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mock",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Montecucco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "418",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1038/418386a"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Hemorrhagic fever viruses as biological weapons: medical and public health management",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Borio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "JAMA",
+            "volume": "287",
+            "issn": "",
+            "pages": "2391-2405",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.287.18.2391"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Risk factors for Marburg hemorrhagic fever, Democratic Republic of the Congo",
+            "authors": [
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Bausch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1531-1537",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0912.030355"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Multiple Ebola virus transmission events and rapid decline of central African wildlife",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Leroy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "303",
+            "issn": "",
+            "pages": "387-390",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1092528"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "Ebola virus: from discovery to vaccine",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Schnittler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "677-685",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1154"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Towards a vaccine against Ebola virus",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Geisbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Jahrling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Expert Rev. Vaccines",
+            "volume": "2",
+            "issn": "",
+            "pages": "777-789",
+            "other_ids": {
+                "DOI": [
+                    "10.1586/14760584.2.6.777"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "New Generation Vaccines",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Smallpox as a biological weapon: medical and public health management. Working Group on Civilian Biodefense",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "JAMA",
+            "volume": "281",
+            "issn": "",
+            "pages": "2127-2137",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.281.22.2127"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "Properties of replication-competent vesicular stomatitis virus vectors expressing glycoproteins of filoviruses and arenaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Garbutt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "5458-5465",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.10.5458-5465.2004"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "Myocarditis: the unexpected return of smallpox vaccine adverse events",
+            "authors": [
+                {
+                    "first": "RT",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "",
+            "pages": "1345-1346",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)14674-0"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Immunogenicity of a highly attenuated MVA smallpox vaccine and protection against monkeypox",
+            "authors": [
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Earl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "428",
+            "issn": "",
+            "pages": "182-185",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02331"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "The structural basis for substrate and inhibitor selectivity of the anthrax lethal factor",
+            "authors": [
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "60-66",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb708"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "Opening a Bacillus anthracis-containing envelope, Capitol Hill, Washington, D. C. : the public health response",
+            "authors": [
+                {
+                    "first": "VP",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "8",
+            "issn": "",
+            "pages": "1039-1043",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0810.020332"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Friedlander",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Textbook of Military Medecine",
+            "volume": "",
+            "issn": "",
+            "pages": "467-478",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Inhalation anthrax",
+            "authors": [
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Brachman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Ann. NY Acad. Sci.",
+            "volume": "353",
+            "issn": "",
+            "pages": "83-93",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1749-6632.1980.tb18910.x"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Comparison of noninvasive sampling sites for early detection of Bacillus anthracis spores from rhesus monkeys after aerosol exposure",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Hail",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mil. Med.",
+            "volume": "164",
+            "issn": "",
+            "pages": "833-837",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/milmed/164.12.833"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "Modeling potential responses to smallpox as a bioterrorist weapon",
+            "authors": [
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Meltzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Damon",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "LeDuc",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Millar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "7",
+            "issn": "",
+            "pages": "959-969",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0706.010607"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Transport of protein toxins into cells: pathways used by ricin, cholera toxin and Shiga toxin",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sandvig",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "van Deurs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "FEBS Lett.",
+            "volume": "529",
+            "issn": "",
+            "pages": "49-53",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(02)03182-4"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "Ricin",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Olsnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "JV",
+                    "middle": [],
+                    "last": "Kozlov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Toxicon",
+            "volume": "39",
+            "issn": "",
+            "pages": "1723-1728",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0041-0101(01)00158-1"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "The RNA N-glycosidase activity of ricin A-chain. The characteristics of the enzymatic activity of ricin A-chain with ribosomes and with rRNA",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Endo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tsurugi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Biol. Chem.",
+            "volume": "263",
+            "issn": "",
+            "pages": "8735-8739",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Ricin. Mechanisms of cytotoxicity",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Lord",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Toxicol. Rev.",
+            "volume": "22",
+            "issn": "",
+            "pages": "53-64",
+            "other_ids": {
+                "DOI": [
+                    "10.2165/00139709-200322010-00006"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "RNA N-glycosidase activity of ricin A-chain. Mechanism of action of the toxic lectin ricin on eukaryotic ribosomes",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Endo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tsurugi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J. Biol. Chem.",
+            "volume": "262",
+            "issn": "",
+            "pages": "8128-8130",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "A peptide-based fluorescence resonance energy transfer assay for Bacillus anthracis lethal factor protease",
+            "authors": [
+                {
+                    "first": "RT",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "6603-6606",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.062171599"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "Prevention and treatment of bacterial diseases caused by bacterial bioterrorism threat agents",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Greenfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Bronze",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Drug Discov. Today",
+            "volume": "8",
+            "issn": "",
+            "pages": "881-888",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1359-6446(03)02847-2"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "mAbs to Bacillus anthracis capsular antigen for immunoprotection in anthrax and detection of antigenemia",
+            "authors": [
+                {
+                    "first": "TR",
+                    "middle": [],
+                    "last": "Kozel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "5042-5047",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0401351101"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Passive protection by polyclonal antibodies against Bacillus anthracis infection in guinea pigs",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                },
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Ivins",
+                    "suffix": ""
+                },
+                {
+                    "first": "PF",
+                    "middle": [],
+                    "last": "Fellows",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Friedlander",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Infect. Immun.",
+            "volume": "65",
+            "issn": "",
+            "pages": "5171-5175",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Production and characterization of monoclonal antibodies to the protective antigen component of Bacillus anthracis toxin",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Leppla",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cora",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Infect. Immun.",
+            "volume": "56",
+            "issn": "",
+            "pages": "1807-1813",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Protection against anthrax toxin by recombinant antibody fragments correlates with antigen affinity",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Maynard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Biotechnol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "597-601",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt0602-597"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Human anti-anthrax protective antigen neutralizing monoclonal antibodies derived from donors vaccinated with anthrax vaccine adsorbed",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sawada-Hirai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Immune Based Ther. Vaccines",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1476-8518-2-5"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Identification and characterization of a neutralizing monoclonal antibody against botulinum neurotoxin serotype F, following vaccination with active toxin",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Hybridoma",
+            "volume": "16",
+            "issn": "",
+            "pages": "447-456",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hyb.1997.16.447"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "Passive antibody administration (immediate immunity) as a specific defense against biological weapons",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Casadevall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Emerg. Infect. Dis.",
+            "volume": "8",
+            "issn": "",
+            "pages": "833-841",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid0808.010516"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Antibody mapping to domains of botulinum neurotoxin serotype A in the complexed and uncomplexed forms",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Infect. Immun.",
+            "volume": "65",
+            "issn": "",
+            "pages": "1626-1630",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Monoclonal antibody to type F Clostridium botulinum toxin",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Hamdy",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "McCay",
+                    "suffix": ""
+                },
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Zapatka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Appl. Environ. Microbiol.",
+            "volume": "56",
+            "issn": "",
+            "pages": "808-811",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "Identification of small molecule inhibitors of anthrax lethal factor",
+            "authors": [
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Panchal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "67-72",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb711"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "Epitope regions in the heavy chain of Clostridium botulinum type E neurotoxin recognized by monoclonal antibodies",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kubota",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Appl. Environ. Microbiol.",
+            "volume": "63",
+            "issn": "",
+            "pages": "1214-1218",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "Deciphering antibody properties that lead to potent botulinum neurotoxin neutralization",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Marks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mov Disord",
+            "volume": "19",
+            "issn": "Suppl. 8",
+            "pages": "S101-S108",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/mds.20023"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Epitope mapping of neutralizing botulinum neurotoxin A antibodies by phage display",
+            "authors": [
+                {
+                    "first": "BP",
+                    "middle": [],
+                    "last": "Mullaney",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Pallavicini",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Marks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infect. Immun.",
+            "volume": "69",
+            "issn": "",
+            "pages": "6511-654",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.69.10.6511-6514.2001"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "Potent neutralization of botulinum neurotoxin by recombinant oligoclonal antibody",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nowakowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "11346-11350",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.172229899"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "High-affinity, protective antibodies to the binding domain of botulinum neurotoxin type A",
+            "authors": [
+                {
+                    "first": "DD",
+                    "middle": [],
+                    "last": "Pless",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Torres",
+                    "suffix": ""
+                },
+                {
+                    "first": "EK",
+                    "middle": [],
+                    "last": "Reinke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bavari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infect. Immun.",
+            "volume": "69",
+            "issn": "",
+            "pages": "570-574",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.69.1.570-574.2001"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "Protection against ricin intoxication in vivo by anti-idiotype vaccination",
+            "authors": [
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Chanh",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Hewetson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Vaccine",
+            "volume": "13",
+            "issn": "",
+            "pages": "479-485",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0264-410X(94)00020-N"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Monoclonal antibody prophylaxis against the in vivo toxicity of ricin in mice",
+            "authors": [
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Chanh",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Romanowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Hewetson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Immunol. Invest.",
+            "volume": "22",
+            "issn": "",
+            "pages": "63-72",
+            "other_ids": {
+                "DOI": [
+                    "10.3109/08820139309066194"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "Identification and characterization of a monoclonal antibody that neutralizes ricin toxicity in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "PV",
+                    "middle": [],
+                    "last": "Lemley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Amanatides",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Hybridoma",
+            "volume": "13",
+            "issn": "",
+            "pages": "417-421",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/hyb.1994.13.417"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "Prophylactic and therapeutic efficacy of an avian antitoxin in ricin intoxication",
+            "authors": [
+                {
+                    "first": "PV",
+                    "middle": [],
+                    "last": "Lemley",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Thalley",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Stafford",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Ther. Immunol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "59-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "Immunological characteristics associated with the protective efficacy of antibodies to ricin",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Maddaloni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Immunol.",
+            "volume": "172",
+            "issn": "",
+            "pages": "6221-6228",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.172.10.6221"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "Anthrax lethal factor cleaves the N-terminus of MAPKKs and induces tyrosine/threonine phosphorylation of MAPKs in cultured macrophages",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vitale",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "248",
+            "issn": "",
+            "pages": "706-711",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1998.9040"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "Chemical screening by mass spectrometry to identify inhibitors of anthrax lethal factor",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Min",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mrksich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Biotechnol.",
+            "volume": "22",
+            "issn": "",
+            "pages": "717-723",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt973"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "Finding a new vaccine in the ricin protein fold",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Olson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Protein Eng. Des. Sel.",
+            "volume": "17",
+            "issn": "",
+            "pages": "391-397",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/protein/gzh043"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Aerosolized specific antibody protects mice from lung injury associated with aerosolized ricin exposure",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Poli",
+                    "suffix": ""
+                },
+                {
+                    "first": "VR",
+                    "middle": [],
+                    "last": "Rivera",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Pitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Toxicon",
+            "volume": "34",
+            "issn": "",
+            "pages": "1037-44",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0041-0101(96)00047-5"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "A novel recombinant vaccine which protects mice against ricin intoxication",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Smallshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Vaccine",
+            "volume": "20",
+            "issn": "",
+            "pages": "3422-3427",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0264-410X(02)00312-2"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Human antibodies to bacterial superantigens and their ability to inhibit T-cell activation and lethality",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "LeClaire",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bavari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "45",
+            "issn": "",
+            "pages": "460-463",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.45.2.460-463.2001"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Protection against bacterial superantigen staphylococcal enterotoxin B by passive vaccination",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "LeClaire",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Hunt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bavari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Infect. Immun.",
+            "volume": "70",
+            "issn": "",
+            "pages": "2278-2281",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.70.5.2278-2281.2002"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Conformational sampling of the botulinum neurotoxin serotype a light chain: implications for inhibitor binding",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Burnett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioorg. Med. Chem.",
+            "volume": "13",
+            "issn": "",
+            "pages": "333-341",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bmc.2004.10.026"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Franz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Textbook of Military Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "603-619",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "Potent inhibitors of anthrax lethal factor from green tea",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dell'Aica",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "EMBO Rep.",
+            "volume": "5",
+            "issn": "",
+            "pages": "418-422",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.embor.7400118"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "Inhibition of the proteolytic activity of anthrax lethal factor by aminoglycosides",
+            "authors": [
+                {
+                    "first": "LV",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "126",
+            "issn": "",
+            "pages": "4774-4775",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja0495359"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "title": "Structure-based inhibitor discovery against adenylyl cyclase toxins from pathogenic bacteria that cause anthrax and whooping cough",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Soelaiman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "25990-25997",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M301232200"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "Selective inhibition of anthrax edema factor by adefovir, a drug for chronic hepatitis B virus infection",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "3242-3247",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0306552101"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "title": "Therapy and prophylaxis of inhaled biological toxins",
+            "authors": [
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Paddle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Appl. Toxicol.",
+            "volume": "23",
+            "issn": "",
+            "pages": "139-170",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jat.903"
+                ]
+            }
+        },
+        "BIBREF125": {
+            "title": "Antitoxins: novel strategies to target agents of bioterrorism",
+            "authors": [
+                {
+                    "first": "GJA",
+                    "middle": [],
+                    "last": "Rainey",
+                    "suffix": ""
+                },
+                {
+                    "first": "JAT",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "721-726",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro977"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "Synaptotagmins I and II mediate entry of botulinum neurotoxin B into cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Cell. Biol.",
+            "volume": "162",
+            "issn": "",
+            "pages": "1293-1303",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.200305098"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "Botulinum neurotoxin A activity is dependent upon the presence of specific gangliosides in neuroblastoma cells expressing synaptotagmin I",
+            "authors": [
+                {
+                    "first": "BC",
+                    "middle": [],
+                    "last": "Yowler",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Kensinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Schengrund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "32815-32819",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M205258200"
+                ]
+            }
+        },
+        "BIBREF128": {
+            "title": "Botulinum toxin as a biological weapon: medical and public health management",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Arnon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "JAMA",
+            "volume": "285",
+            "issn": "",
+            "pages": "1059-1070",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.285.8.1059"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "title": "Structural basis for the activation of anthrax adenylyl cyclase exotoxin by calmodulin",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Drum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "415",
+            "issn": "",
+            "pages": "396-402",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/415396a"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "title": "Intimate details of the most poisonous poison",
+            "authors": [
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Struct. Biol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "617-619",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/77900"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "title": "Botulinum and tetanus neurotoxins: structure, function and therapeutic utility",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Turton",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Chaddock",
+                    "suffix": ""
+                },
+                {
+                    "first": "KR",
+                    "middle": [],
+                    "last": "Acharya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends Biochem. Sci.",
+            "volume": "27",
+            "issn": "",
+            "pages": "552-558",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0968-0004(02)02177-1"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "title": "Efficacy of certain quinolines as pharmacological antagonists in botulinum neurotoxin poisoning",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Deshpande",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Sheridan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Adler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Toxicon",
+            "volume": "35",
+            "issn": "",
+            "pages": "433-445",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0041-0101(96)00147-X"
+                ]
+            }
+        },
+        "BIBREF133": {
+            "title": "Structural features of aminoquinolines necessary for antagonist activity against botulinum neurotoxin",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Sheridan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Deshpande",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Nicholson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Adler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Toxicon",
+            "volume": "35",
+            "issn": "",
+            "pages": "1439-1451",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0041-0101(96)00208-5"
+                ]
+            }
+        },
+        "BIBREF134": {
+            "title": "Crystallographic evidence for doxorubicin binding to the receptor-binding site in Clostridium botulinum neurotoxin B",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eswaramoorthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kumaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Swaminathan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Acta Crystallogr. D Biol. Crystallogr.",
+            "volume": "57",
+            "issn": "",
+            "pages": "1743-1746",
+            "other_ids": {
+                "DOI": [
+                    "10.1107/S0907444901013531"
+                ]
+            }
+        },
+        "BIBREF135": {
+            "title": "Discovery and design of novel inhibitors of botulinus neurotoxin A: targeted 'hinge' peptide libraries",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pires",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hamilton",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Appl. Toxicol.",
+            "volume": "23",
+            "issn": "",
+            "pages": "1-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jat.870"
+                ]
+            }
+        },
+        "BIBREF136": {
+            "title": "A high-affinity competitive inhibitor of type A botulinum neurotoxin protease activity",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Stafford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "FEBS Lett.",
+            "volume": "532",
+            "issn": "",
+            "pages": "423-426",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(02)03738-9"
+                ]
+            }
+        },
+        "BIBREF137": {
+            "title": "Proteolysis of synthetic peptides by type A botulinum neurotoxin",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Bostian",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Protein Chem.",
+            "volume": "14",
+            "issn": "",
+            "pages": "703-708",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01886909"
+                ]
+            }
+        },
+        "BIBREF138": {
+            "title": "Endoproteinase activity of type A botulinum neurotoxin: substrate requirements and activation by serum albumin",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Bostian",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Protein Chem.",
+            "volume": "16",
+            "issn": "",
+            "pages": "19-26",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1026386710428"
+                ]
+            }
+        },
+        "BIBREF139": {
+            "title": "Type A botulinum neurotoxin proteolytic activity: development of competitive inhibitors and implications for substrate specificity at the S1' binding subsite",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Stafford",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Bostian",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "FEBS Lett.",
+            "volume": "435",
+            "issn": "",
+            "pages": "61-64",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(98)01041-2"
+                ]
+            }
+        },
+        "BIBREF140": {
+            "title": "Human capillary morphogenesis protein 2 functions as an anthrax toxin receptor",
+            "authors": [
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Scobie",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Rainey",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "5170-5174",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0431098100"
+                ]
+            }
+        },
+        "BIBREF141": {
+            "title": "Synthesis of substrates and inhibitors of botulinum neurotoxin type A metalloprotease",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sukonpan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Pept. Res.",
+            "volume": "63",
+            "issn": "",
+            "pages": "181-193",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1399-3011.2004.00124.x"
+                ]
+            }
+        },
+        "BIBREF142": {
+            "title": "Novel small molecule inhibitors of botulinum neurotoxin A metalloprotease activity",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Burnett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "310",
+            "issn": "",
+            "pages": "84-93",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2003.08.112"
+                ]
+            }
+        },
+        "BIBREF143": {
+            "title": "Crystal structure of Clostridium botulinum neurotoxin protease in a product-bound state: Evidence for noncanonical zinc protease activity",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Segelke",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Knapp",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kadkhodayan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Balhorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rupp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "6888-6893",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0400584101"
+                ]
+            }
+        },
+        "BIBREF144": {
+            "title": "Crystal structure of botulinum neurotoxin type A and implications for toxicity",
+            "authors": [
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Lacy",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Tepp",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "DasGupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Stevens",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature Struct. Biol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "898-902",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/2338"
+                ]
+            }
+        },
+        "BIBREF145": {
+            "title": "Substrate recognition strategy for botulinum neurotoxin serotype A",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Breidenbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "AT",
+                    "middle": [],
+                    "last": "Brunger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "432",
+            "issn": "",
+            "pages": "925-929",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature03123"
+                ]
+            }
+        },
+        "BIBREF146": {
+            "title": "Antagonism of botulinum toxin type A-induced cleavage of SNAP-25 in rat cerebral synaptosome by toosendanin",
+            "authors": [
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZF",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "XM",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "MZ",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YL",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett.",
+            "volume": "555",
+            "issn": "",
+            "pages": "375-379",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(03)01291-2"
+                ]
+            }
+        },
+        "BIBREF147": {
+            "title": "Efficacy of a novel metalloprotease inhibitor on botulinum neurotoxin B activity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Adler",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Nicholson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cornille",
+                    "suffix": ""
+                },
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Hackley",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 1998,
+            "venue": "FEBS Lett.",
+            "volume": "429",
+            "issn": "",
+            "pages": "234-238",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(98)00492-X"
+                ]
+            }
+        },
+        "BIBREF148": {
+            "title": "A novel mechanism for Clostridium botulinum neurotoxin inhibition",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Eswaramoorthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kumaran",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Swaminathan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochemistry",
+            "volume": "41",
+            "issn": "",
+            "pages": "9795-9802",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi020060c"
+                ]
+            }
+        },
+        "BIBREF149": {
+            "title": "Evaluation of phosphoramidon and three synthetic phosphonates for inhibition of botulinum neurotoxin B catalytic activity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Adler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Appl. Toxicol.",
+            "volume": "19",
+            "issn": "Suppl. 1",
+            "pages": "S5-S11",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1099-1263(199912)19:1+<S5::AID-JAT606>3.0.CO;2-M"
+                ]
+            }
+        },
+        "BIBREF150": {
+            "title": "Buforin I, a natural peptide, inhibits botulinum neurotoxin B activity in vitro",
+            "authors": [
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Moorad",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Appl. Toxicol.",
+            "volume": "19",
+            "issn": "Suppl. 1",
+            "pages": "S19-S22",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1099-1263(199912)19:1+<S19::AID-JAT608>3.0.CO;2-J"
+                ]
+            }
+        },
+        "BIBREF151": {
+            "title": "Identification of the cellular receptor for anthrax toxin",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mogridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mourez",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Collier",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "414",
+            "issn": "",
+            "pages": "225-229",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/n35101999"
+                ]
+            }
+        },
+        "BIBREF152": {
+            "title": "Fluorigenic substrates for the protease activities of botulinum neurotoxins, serotypes A, B, and F",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Stafford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Appl. Environ. Microbiol.",
+            "volume": "69",
+            "issn": "",
+            "pages": "297-303",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AEM.69.1.297-303.2003"
+                ]
+            }
+        },
+        "BIBREF153": {
+            "title": "Mechanism of action of clostridial neurotoxins and rational inhibitor design",
+            "authors": [
+                {
+                    "first": "BP",
+                    "middle": [],
+                    "last": "Roques",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Anne",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Turcaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Fournie-Zaluski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biol. Cell.",
+            "volume": "92",
+            "issn": "",
+            "pages": "445-447",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0248-4900(00)01098-4"
+                ]
+            }
+        },
+        "BIBREF154": {
+            "title": "Development of potent inhibitors of botulinum neurotoxin type B",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Anne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Med. Chem.",
+            "volume": "46",
+            "issn": "",
+            "pages": "4648-4656",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm0300680"
+                ]
+            }
+        },
+        "BIBREF155": {
+            "title": "Thio-derived disulfides as potent inhibitors of botulinum neurotoxin type B: implications for zinc interaction",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Anne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioorg. Med. Chem.",
+            "volume": "11",
+            "issn": "",
+            "pages": "4655-4660",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0968-0896(03)00450-4"
+                ]
+            }
+        },
+        "BIBREF156": {
+            "title": "Small tripeptide surrogates with low nanomolar affinity as potent inhibitors of the botulinum neurotoxin B metallo-proteolytic activity",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Blommaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Turcaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Anne",
+                    "suffix": ""
+                },
+                {
+                    "first": "BP",
+                    "middle": [],
+                    "last": "Roques",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Bioorg. Med. Chem.",
+            "volume": "12",
+            "issn": "",
+            "pages": "3055-3062",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bmc.2004.03.006"
+                ]
+            }
+        },
+        "BIBREF157": {
+            "title": "X-ray analysis of substrate analogs in the ricin A-chain active site",
+            "authors": [
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Monzingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Robertus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Mol. Biol.",
+            "volume": "227",
+            "issn": "",
+            "pages": "1136-1145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-2836(92)90526-P"
+                ]
+            }
+        },
+        "BIBREF158": {
+            "title": "Structure-based identification of a ricin inhibitor",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Mol. Biol.",
+            "volume": "266",
+            "issn": "",
+            "pages": "1043-1049",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1996.0865"
+                ]
+            }
+        },
+        "BIBREF159": {
+            "title": "Structure-based design and characterization of novel platforms for ricin and shiga toxin inhibition",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ravikumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Suh",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Kerwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Robertus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Med. Chem.",
+            "volume": "45",
+            "issn": "",
+            "pages": "90-98",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm010186s"
+                ]
+            }
+        },
+        "BIBREF160": {
+            "title": "APTAMERS: an emerging class of therapeutics",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Nimjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Rusconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Sullenger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Annu. Rev. Med.",
+            "volume": "56",
+            "issn": "",
+            "pages": "555-583",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.med.56.062904.144915"
+                ]
+            }
+        },
+        "BIBREF161": {
+            "title": "In vitro selection of RNA molecules that inhibit the activity of ricin A-chain",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Hesselberth",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Robertus",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Ellington",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "4937-4942",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.275.7.4937"
+                ]
+            }
+        },
+        "BIBREF162": {
+            "title": "Crystal structure of a complex between anthrax toxin and its host cell receptor",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Santelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Bankston",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Leppla",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Liddington",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "430",
+            "issn": "",
+            "pages": "905-908",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02763"
+                ]
+            }
+        },
+        "BIBREF163": {
+            "title": "Ricin A-chain inhibitors resembling the oxacarbenium ion transition state",
+            "authors": [
+                {
+                    "first": "KS",
+                    "middle": [],
+                    "last": "Tanaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biochemistry",
+            "volume": "40",
+            "issn": "",
+            "pages": "6845-6851",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi010499p"
+                ]
+            }
+        },
+        "BIBREF164": {
+            "title": "Ricin A-chain: kinetics, mechanism, and RNA stem-loop inhibitors",
+            "authors": [
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Link",
+                    "suffix": ""
+                },
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Schramm",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochemistry",
+            "volume": "37",
+            "issn": "",
+            "pages": "11605-11613",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi980990p"
+                ]
+            }
+        },
+        "BIBREF165": {
+            "title": "Use of intravenous immunoglobulin in the treatment of staphylococcal and streptococcal toxic shock syndromes and related illnesses",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Schlievert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Allergy Clin. Immunol.",
+            "volume": "108",
+            "issn": "",
+            "pages": "S107-S110",
+            "other_ids": {
+                "DOI": [
+                    "10.1067/mai.2001.117820"
+                ]
+            }
+        },
+        "BIBREF166": {
+            "title": "Protective effects of niacinamide in staphylococcal enterotoxin-B-induced toxicity",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "LeClaire",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Kell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bavari",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Hunt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Toxicology",
+            "volume": "107",
+            "issn": "",
+            "pages": "69-81",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0300-483X(95)03202-Q"
+                ]
+            }
+        },
+        "BIBREF167": {
+            "title": "Microbial superantigens as virulence factors and ways to counteract their actions",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tarkowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Scand. J. Infect. Dis.",
+            "volume": "35",
+            "issn": "",
+            "pages": "642-646",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/00365540310016330"
+                ]
+            }
+        },
+        "BIBREF168": {
+            "title": "High affinity T cell receptors from yeast display libraries block T cell activation by superantigens",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Kieke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Mol. Biol.",
+            "volume": "307",
+            "issn": "",
+            "pages": "1305-1315",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.2001.4560"
+                ]
+            }
+        },
+        "BIBREF169": {
+            "title": "Therapeutic approaches to superantigen-based diseases: a review",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hong-Geller",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Recognit.",
+            "volume": "16",
+            "issn": "",
+            "pages": "91-101",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmr.612"
+                ]
+            }
+        },
+        "BIBREF170": {
+            "title": "Bioterrorism: a new frontier for drug discovery and development",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shailubhai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "IDrugs",
+            "volume": "6",
+            "issn": "",
+            "pages": "773-780",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF171": {
+            "title": "Peptide antagonists of superantigen toxins",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaempfer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Divers.",
+            "volume": "8",
+            "issn": "",
+            "pages": "113-120",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/B:MODI.0000025654.04427.44"
+                ]
+            }
+        },
+        "BIBREF172": {
+            "title": "In vitro and in vivo evaluation of staphylococcal superantigen peptide antagonists",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rajagopalan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "David",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect. Immun.",
+            "volume": "72",
+            "issn": "",
+            "pages": "6733-6737",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.72.11.6733-6737.2004"
+                ]
+            }
+        },
+        "BIBREF173": {
+            "title": "Anthrax toxin protective antigen is activated by a cell surface protease with the sequence specificity and catalytic properties of furin",
+            "authors": [
+                {
+                    "first": "KR",
+                    "middle": [],
+                    "last": "Klimpel",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Molloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Leppla",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "10277-10281",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.89.21.10277"
+                ]
+            }
+        },
+        "BIBREF174": {
+            "title": "Superantigen antagonist protects against lethal shock and defines a new domain for T-cell activation",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Arad",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Levy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hillman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaempfer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Med.",
+            "volume": "6",
+            "issn": "",
+            "pages": "414-421",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/74672"
+                ]
+            }
+        },
+        "BIBREF175": {
+            "title": "Antiviral drugs in current clinical use",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Clercq",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Clin. Virol.",
+            "volume": "30",
+            "issn": "",
+            "pages": "115-133",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2004.02.009"
+                ]
+            }
+        },
+        "BIBREF176": {
+            "title": "Folate receptor-\u03b1 is a cofactor for cellular entry by Marburg and Ebola viruses",
+            "authors": [
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Cell",
+            "volume": "106",
+            "issn": "",
+            "pages": "117-126",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(01)00418-4"
+                ]
+            }
+        },
+        "BIBREF177": {
+            "title": "The asialoglycoprotein receptor is a potential liver-specific receptor for Marburg virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Spiess",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Gen. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "393-399",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-76-2-393"
+                ]
+            }
+        },
+        "BIBREF178": {
+            "title": "Human macrophage C-type lectin specific for galactose and N-acetylgalactosamine promotes filovirus entry",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Takada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "2943-2947",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.6.2943-2947.2004"
+                ]
+            }
+        },
+        "BIBREF179": {
+            "title": "DC-SIGN and DC-SIGNR bind ebola glycoproteins and enhance infection of macrophages and endothelial cells",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "305",
+            "issn": "",
+            "pages": "115-123",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2002.1730"
+                ]
+            }
+        },
+        "BIBREF180": {
+            "title": "The highly specific carbohydrate-binding protein cyanovirin-n: structure, anti-HIV/ebola activity and possibilities for therapy",
+            "authors": [
+                {
+                    "first": "LG",
+                    "middle": [],
+                    "last": "Barrientos",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Gronenborn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mini. Rev. Med. Chem.",
+            "volume": "5",
+            "issn": "",
+            "pages": "21-31",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1389557053402783"
+                ]
+            }
+        },
+        "BIBREF181": {
+            "title": "Discovery of antivirals against smallpox",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "11178-11192",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0403600101"
+                ]
+            }
+        },
+        "BIBREF182": {
+            "title": "Functional importance of the coiled-coil of the Ebola virus glycoprotein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "10194-10201",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.21.10194-10201.2000"
+                ]
+            }
+        },
+        "BIBREF183": {
+            "title": "The central structural feature of the membrane fusion protein subunit from the Ebola virus glycoprotein is a long triple-stranded coiled coil",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Weissenhorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Calder",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Wharton",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wiley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "6032-6036",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.95.11.6032"
+                ]
+            }
+        },
+        "BIBREF184": {
+            "title": "Polyarginines are potent furin inhibitors",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Appel",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Houghten",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Lindberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Biol. Chem.",
+            "volume": "275",
+            "issn": "",
+            "pages": "36741-36749",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M003848200"
+                ]
+            }
+        },
+        "BIBREF185": {
+            "title": "Crystal structure of the Ebola virus membrane fusion subunit, GP2, from the envelope glycoprotein ectodomain",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Weissenhorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carfi",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Wiley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Mol. Cell",
+            "volume": "2",
+            "issn": "",
+            "pages": "605-616",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1097-2765(00)80159-8"
+                ]
+            }
+        },
+        "BIBREF186": {
+            "title": "Molecular mechanisms of filovirus cellular trafficking",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Aman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Microbes Infect.",
+            "volume": "5",
+            "issn": "",
+            "pages": "639-649",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1286-4579(03)00095-9"
+                ]
+            }
+        },
+        "BIBREF187": {
+            "title": "Oligonucleotide, antibody and peptide therapeutics \u2014 from design to the clinic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goodchild",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Opin. Mol. Ther.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF188": {
+            "title": "Comparison of the transcription and replication strategies of marburg virus and Ebola virus by using artificial replication systems",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Muhlberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Weik",
+                    "suffix": ""
+                },
+                {
+                    "first": "VE",
+                    "middle": [],
+                    "last": "Volchkov",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "2333-2342",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF189": {
+            "title": "Generation of eGFP expressing recombinant Zaire ebolavirus for analysis of early pathogenesis events and high-throughput antiviral drug screening",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Towner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "332",
+            "issn": "",
+            "pages": "20-27",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.10.048"
+                ]
+            }
+        },
+        "BIBREF190": {
+            "title": "Isolation and identification of the 'Marbury virus'",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Siegert",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Slenczka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "Ger. Med. Mon.",
+            "volume": "13",
+            "issn": "",
+            "pages": "514-518",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF191": {
+            "title": "Differentiation of filoviruses by electron microscopy",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Geisbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Jahrling",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virus Res.",
+            "volume": "39",
+            "issn": "",
+            "pages": "129-150",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0168-1702(95)00080-1"
+                ]
+            }
+        },
+        "BIBREF192": {
+            "title": "Lipid raft microdomains: a gateway for compartmentalized trafficking of Ebola and Marburg viruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bavari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Exp. Med.",
+            "volume": "195",
+            "issn": "",
+            "pages": "593-602",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20011500"
+                ]
+            }
+        },
+        "BIBREF193": {
+            "title": "Reverse genetics demonstrates that proteolytic processing of the Ebola virus glycoprotein is not essential for replication in cell culture",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Neumann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Lukashevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "406-410",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.1.406-410.2002"
+                ]
+            }
+        },
+        "BIBREF194": {
+            "title": "Smallpox vaccination and adverse reactions. Guidance for clinicians",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cono",
+                    "suffix": ""
+                },
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Casey",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Bell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "MMWR Recomm. Rep.",
+            "volume": "52",
+            "issn": "",
+            "pages": "1-28",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF195": {
+            "title": "Protection against anthrax toxemia by hexa-d-arginine in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Sarac",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Peinado",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Leppla",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Lindberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect. Immun.",
+            "volume": "72",
+            "issn": "",
+            "pages": "602-605",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.72.1.602-605.2004"
+                ]
+            }
+        },
+        "BIBREF196": {
+            "title": "Mechanisms underlying coagulation abnormalities in ebola hemorrhagic fever: overexpression of tissue factor in primate monocytes/macrophages is a key event",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Geisbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Infect. Dis.",
+            "volume": "188",
+            "issn": "",
+            "pages": "1618-1629",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/379724"
+                ]
+            }
+        },
+        "BIBREF197": {
+            "title": "Treatment of Ebola virus infection with a recombinant inhibitor of factor VIIa/tissue factor: a study in rhesus monkeys",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Geisbert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "",
+            "pages": "1953-1958",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)15012-X"
+                ]
+            }
+        },
+        "BIBREF198": {
+            "title": "Non-neutralizing monoclonal antibodies can prevent lethal alphavirus encephalitis",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "ED",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Dalrymple",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Nature",
+            "volume": "297",
+            "issn": "",
+            "pages": "70-72",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/297070a0"
+                ]
+            }
+        },
+        "BIBREF199": {
+            "title": "Vaccine research efforts for filoviruses",
+            "authors": [
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Hart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Int J Parasitol",
+            "volume": "33",
+            "issn": "",
+            "pages": "583-595",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0020-7519(03)00064-X"
+                ]
+            }
+        },
+        "BIBREF200": {
+            "title": "Antigenicity and vaccine potential of Marburg virus glycoprotein expressed by baculovirus recombinants",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hevey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Negley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Geisbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jahrling",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "239",
+            "issn": "",
+            "pages": "206-216",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1997.8883"
+                ]
+            }
+        },
+        "BIBREF201": {
+            "title": "Characterization of monoclonal antibodies to Marburg virus (strain Musoke) glycoprotein and identification of two protective epitopes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hevey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Negley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Virology",
+            "volume": "314",
+            "issn": "",
+            "pages": "350-357",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0042-6822(03)00416-1"
+                ]
+            }
+        },
+        "BIBREF202": {
+            "title": "Epitopes involved in antibody-mediated protection from Ebola virus",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "287",
+            "issn": "",
+            "pages": "1664-1666",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.287.5458.1664"
+                ]
+            }
+        },
+        "BIBREF203": {
+            "title": "Passive immunization of Ebola virus-infected cynomolgus monkeys with immunoglobulin from hyperimmune horses",
+            "authors": [
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Jahrling",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Arch. Virol. Suppl.",
+            "volume": "11",
+            "issn": "",
+            "pages": "135-140",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF204": {
+            "title": "Marburg virus vaccines based upon alphavirus replicons protect guinea pigs and nonhuman primates",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hevey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Negley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pushko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schmaljohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Virology",
+            "volume": "251",
+            "issn": "",
+            "pages": "28-37",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1998.9367"
+                ]
+            }
+        },
+        "BIBREF205": {
+            "title": "Immune response to filovirus infections",
+            "authors": [
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Ignatyev",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "235",
+            "issn": "",
+            "pages": "205-217",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

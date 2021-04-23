@@ -1,0 +1,1804 @@
+{
+    "paper_id": "PMC7089260",
+    "metadata": {
+        "title": "Molecular simulation study of the binding mechanism of [\u03b1-PTi2W10O40]7\u2212 for its promising broad-spectrum inhibitory activity to FluV-A neuraminidase",
+        "authors": [
+            {
+                "first": "JianPing",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "DongHua",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "ZhongMin",
+                "middle": [],
+                "last": "Su",
+                "suffix": "",
+                "email": "zmsu@nenu.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Facing the next pandemic: Ready or not",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Wingard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biol Blood Marrow Transplant",
+            "volume": "13",
+            "issn": "",
+            "pages": "107-109",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbmt.2006.10.001"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Avian influenza A (H5N1) infection: Targets and strategies for chemotherapeutic intervention",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "De Clereq",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Neyts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Trends Pharmacol Sci",
+            "volume": "28",
+            "issn": "",
+            "pages": "280-285",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tips.2007.04.005"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Resistance to anti-influenza drugs: Adamantanes and neuraminidase inhibitors",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Hurt",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Barr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Expert Rev Anti Infect Ther",
+            "volume": "4",
+            "issn": "",
+            "pages": "795-805",
+            "other_ids": {
+                "DOI": [
+                    "10.1586/14787210.4.5.795"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Resistant influenza A viruses in children treated with oseltamivir: Descriptive study",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kiso",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Mitamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Sakai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "364",
+            "issn": "",
+            "pages": "759-765",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(04)16934-1"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Emergence of drug-resistant influenza virus: Population dynamic considerations",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Regoes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Bonhoeffer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "312",
+            "issn": "",
+            "pages": "389-391",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1122947"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Anti-influenza virus activity of peramivir in mice with single intramuscular injection",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Bantia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Arnold",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Parker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Antivir Res",
+            "volume": "69",
+            "issn": "",
+            "pages": "39-45",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2005.10.002"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "A point mutation in influenza B neuraminidase confers resistance to peramivir and loss of slow binding",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Baum",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Wagaman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Ly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Antivir Res",
+            "volume": "59",
+            "issn": "",
+            "pages": "13-22",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0166-3542(03)00011-1"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Injectable peramivir mitigates disease and promotes survival in ferrets and mice infected with the highly virulent influenza virus, A/Vietnam/1203/04 (H5N1)",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [
+                        "E."
+                    ],
+                    "last": "Yun",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Linde",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Zacks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virology",
+            "volume": "374",
+            "issn": "",
+            "pages": "198-209",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2007.12.029"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Potent inhibition of respiratory syncytial virus by polyoxometalates of several structural classes",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Barnard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Gage",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Antivir Res",
+            "volume": "34",
+            "issn": "",
+            "pages": "27-37",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0166-3542(96)01019-4"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Anti-influenzavirus-activities of polyoxometalates",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shigeta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Antivir Res",
+            "volume": "26",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0166-3542(95)94834-O"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Polyoxometalates in medicine",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Rhule",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Judd",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Chem Rev",
+            "volume": "98",
+            "issn": "",
+            "pages": "327-357",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/cr960396q"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Avian influenza: A new pandemic threat?",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Trampuz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Prabhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mayo Clin Proc",
+            "volume": "79",
+            "issn": "",
+            "pages": "523-530",
+            "other_ids": {
+                "DOI": [
+                    "10.4065/79.4.523"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Polyoxomolybdates and polyoxomolybdovanadates-from structure to functions: Recent Results",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Cindric",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Veksli",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Kamenar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Croat Chem Acta",
+            "volume": "82",
+            "issn": "",
+            "pages": "345-362",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Anti-tumor, -viral, and -bacterial activities of polyoxometalates for realizing an inorganic drug",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Yamase",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Mater Chem",
+            "volume": "15",
+            "issn": "",
+            "pages": "4773-4782",
+            "other_ids": {
+                "DOI": [
+                    "10.1039/b504585a"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Anti-HIV-1 activity, toxicity, and stability studies of representative structural families of polyoxometalates",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Weeks",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Schinazi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Med Chem",
+            "volume": "33",
+            "issn": "",
+            "pages": "2767-2772",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm00172a014"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Potent anti-HIV (type 1 and type 2) activity of polyoxometalates: structure-activity relationship and mechanism of action",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Witvrouw",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Weigold",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Pannecouque",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Med Chem",
+            "volume": "43",
+            "issn": "",
+            "pages": "778-783",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jm980263s"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Synthesis, characterization and antiviral activity against influenza virus of a series of novel manganese-substituted rare earth borotungstates heteropolyoxometalates",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Antivir Res",
+            "volume": "62",
+            "issn": "",
+            "pages": "65-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2003.12.004"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Anti-RNA virus activity of polyoxometalates",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shigeta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Yamase",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biomed Pharmacother",
+            "volume": "60",
+            "issn": "",
+            "pages": "211-219",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.biopha.2006.03.009"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Antimoniotungstate (HPA 23) treatment of three patients with aids and one with prodrome",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Rozenbaum",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Dormont",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Spire",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Lancet",
+            "volume": "325",
+            "issn": "",
+            "pages": "450-451",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(85)91162-6"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Clinical trial of tolerance of HPA-23 in patients with acquired immune deficiency syndrome",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Moskovitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Antimicrob Agents Ch",
+            "volume": "32",
+            "issn": "",
+            "pages": "1300-1303",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Inhibition of proliferation of human immunodeficiency virus type 1 by novel heteropolyoxotungstates in vitro",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Take",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Tokutake",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Inouye",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Antivir Res",
+            "volume": "15",
+            "issn": "",
+            "pages": "113-124",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0166-3542(91)90029-Q"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "In vitro antiviral activity of polyoxotungstate (PM-19) and other polyoxometalates against herpes-simplex virus",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Fukuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Seto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Yamase",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Antivir Res",
+            "volume": "16",
+            "issn": "",
+            "pages": "327-339",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0166-3542(91)90047-U"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Influenza: Old and new threats",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nat Med",
+            "volume": "10",
+            "issn": "",
+            "pages": "S82-S87",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1141"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Activity of the Keggin polyoxotungstate PM-19 against herpes-simplex virus type-2 infection in immunosuppressed mice-role of peritoneal macrophage activation",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Ikeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Nishiya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Yamamoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Med Virol",
+            "volume": "41",
+            "issn": "",
+            "pages": "191-195",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.1890410304"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Synergistic anti-influenza virus A (H1N1) activities of PM-523 (polyoxometalate) and ribavirin in vitro and in vivo",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shigeta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Antimicrob Agents Ch",
+            "volume": "41",
+            "issn": "",
+            "pages": "1423-1427",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Molecular interactions between Wells-Dawson type polyoxometalates and human serum albumin",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Keita",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Craescu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biomacromolecules",
+            "volume": "9",
+            "issn": "",
+            "pages": "812-817",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bm701120j"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Polyoxometalate binding to human serum albumin: A thermodynamic and spectroscopic approach",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Keita",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Craescu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Phys Chem B",
+            "volume": "111",
+            "issn": "",
+            "pages": "11253-11259",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jp072947u"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "A multitechnique study of europium decatungstate and human serum albumin molecular interaction",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Phys Chem Chem Phys",
+            "volume": "12",
+            "issn": "",
+            "pages": "1299-1304",
+            "other_ids": {
+                "DOI": [
+                    "10.1039/b919952g"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Molecular Interaction between a Gadolinium-Polyoxometalate and Human Serum Albumin",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Eur J Inorg Chem",
+            "volume": "34",
+            "issn": "",
+            "pages": "5189-5193",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ejic.200900610"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Mechanism of polyoxometalate-mediated inactivation of DNA polymerases: an analysis with HIV-1 reverse transcriptase indicates specificity for the DNA-binding cleft",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Sarafianos",
+                    "suffix": ""
+                },
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Kortz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Pope",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Biochem J",
+            "volume": "319",
+            "issn": "",
+            "pages": "619-626",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Polyoxometalate HIV-1 protease inhibitors. A new mode of protease inhibition",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Judd",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Nettles",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Nevins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Am Chem Soc",
+            "volume": "123",
+            "issn": "",
+            "pages": "886-897",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja001809e"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "The structure of H5N1 avian influenza neuraminidase suggests new opportunities for drug design",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Haire",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Stevens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature",
+            "volume": "443",
+            "issn": "",
+            "pages": "45-49",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature05114"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Three-dimensional structure of the complex of 4-guanidino-Neu5Ac2en and influenza virus neuraminidase",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Varghese",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Epa",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Colman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Protein Sci",
+            "volume": "4",
+            "issn": "",
+            "pages": "1081-1087",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pro.5560040606"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Avian flu: Isolation of drugresistant H5N1 virus",
+            "authors": [
+                {
+                    "first": "Q.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kiso",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Someya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "437",
+            "issn": "",
+            "pages": "1108-1108",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/4371108a"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "The structure of the complex between influenza virus neuraminidase and sialic acid, the viral receptor",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Varghese",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "McKimm-Breschkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Caldwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proteins",
+            "volume": "14",
+            "issn": "",
+            "pages": "327-332",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.340140302"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "The relation between ligand structures, coordination stereochemistry, and electronic and thermodynamic properties",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Comba",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Coordin Chem Rev",
+            "volume": "123",
+            "issn": "",
+            "pages": "1-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0010-8545(93)85051-5"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Computer-aided design of metallopharmaceuticals: A molecular mechanics force field for gadolinium complexes",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Cundari",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Moody",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "O."
+                    ],
+                    "last": "Sommerer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Inorg Chem",
+            "volume": "34",
+            "issn": "",
+            "pages": "5989-5999",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ic00128a009"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Molecular modeling of vanadium peroxides",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Cundari",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sisterhen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Stylianopoulos",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Inorg Chem",
+            "volume": "36",
+            "issn": "",
+            "pages": "4029-4034",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ic970266f"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "SHAPES empirical force field: New treatment of angular potentials and its application to square-planar transition-metal complexes",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Viloya",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Christine",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J Am Chem Soc",
+            "volume": "113",
+            "issn": "",
+            "pages": "1-12",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00001a001"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Polyoxovanadate clusters and cages: Force-field parameterization",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Menke",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Diemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Mol Struct",
+            "volume": "436\u2013437",
+            "issn": "",
+            "pages": "35-47",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2860(97)00203-2"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Electronic properties and stability of dititaniumIV substituted \u03b1-Keggin polyoxotungstate with heteroatom phosphorus by DFT",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Inorg Chem",
+            "volume": "44",
+            "issn": "",
+            "pages": "100-107",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ic049830u"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Ligand docking and design in a flexible receptor site",
+            "authors": [
+                {
+                    "first": "I.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Alberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Todorov",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "K\u00e4llbku",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "QSAR Combin Sci",
+            "volume": "24",
+            "issn": "",
+            "pages": "503-507",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/qsar.200430924"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Studies on the interactions of Ti-containing polyoxometalates (POMs) with SARS-CoV 3CLpro by molecular modeling",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Inorg Biochem",
+            "volume": "101",
+            "issn": "",
+            "pages": "89-94",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jinorgbio.2006.08.013"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Thermodynamic and structural studies on the human serum albumin in the presence of a polyoxometalate",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Ajloo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Behnam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Saboury",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Bull Korean Chem Soc",
+            "volume": "28",
+            "issn": "",
+            "pages": "730-736",
+            "other_ids": {
+                "DOI": [
+                    "10.5012/bkcs.2007.28.5.730"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Probable personto-person transmission of avian influenza A (H5N1)",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Ungchusak",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Auewarakul",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Dowell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "New Engl J Med",
+            "volume": "352",
+            "issn": "",
+            "pages": "333-340",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa044021"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Molecular interaction and energy transfer between human serum albumin and polyoxometalates",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Keita",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Brochon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Phys Chem B",
+            "volume": "111",
+            "issn": "",
+            "pages": "1809-1814",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/jp063758z"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Flexibility of the NSAID binding site in the structure of human cyclooxygenase-2",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Luong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Barnett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "3",
+            "issn": "",
+            "pages": "927-933",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsb1196-927"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Protein conformer selection by ligand binding observed with crystallography",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Musah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Wilcox",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Protein Sci",
+            "volume": "7",
+            "issn": "",
+            "pages": "72-78",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pro.5560070107"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "H5N1 influenza: A protean pandemic threat",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "L.",
+                        "M."
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "101",
+            "issn": "",
+            "pages": "8156-8161",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0402443101"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Origin and future distribution of the new A (H1N1) influenza virus emerging in North America in 2009",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Chinese Sci Bull",
+            "volume": "54",
+            "issn": "",
+            "pages": "2174-2178",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11434-009-0430-x"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Cyclopentane neuraminidase inhibitors with potent in vitro anti-influenza virus activities",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Smee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Huffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Morrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Antimicrob Agents Ch",
+            "volume": "45",
+            "issn": "",
+            "pages": "743-748",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.45.3.743-748.2001"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Neuraminidase inhibitors and their role in avian and pandemic influenza",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Crusat",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "de Jong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Antivir Ther",
+            "volume": "12",
+            "issn": "",
+            "pages": "593-602",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

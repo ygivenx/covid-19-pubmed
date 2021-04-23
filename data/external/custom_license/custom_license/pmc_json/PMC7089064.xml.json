@@ -1,0 +1,1403 @@
+{
+    "paper_id": "PMC7089064",
+    "metadata": {
+        "title": "Bioinformatics Analysis of Genes and Pathways of CD11b+/Ly6Cintermediate Macrophages after Renal Ischemia-Reperfusion Injury",
+        "authors": [
+            {
+                "first": "Dong",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": "sundong@njmu.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Xin",
+                "middle": [],
+                "last": "Wan",
+                "suffix": "",
+                "email": "wanxin@njmu.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "Bin-bin",
+                "middle": [],
+                "last": "Pan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xiao-bing",
+                "middle": [],
+                "last": "Ji",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Feng",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hao",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Chang-chun",
+                "middle": [],
+                "last": "Cao",
+                "suffix": "",
+                "email": "caochangchun@njmu.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [],
+            "year": 2016,
+            "venue": "Medicine (Baltimore)",
+            "volume": "95",
+            "issn": "19",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "GM-CSF promotes macrophage alternative activation after renal ischemia/reperfusion injury",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Huen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huynh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marlier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Am Soc Nephrol",
+            "volume": "26",
+            "issn": "6",
+            "pages": "1334-1345",
+            "other_ids": {
+                "DOI": [
+                    "10.1681/ASN.2014060612"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Distinct macrophage phenotypes contribute to kidney injury and repair",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Huen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Am Soc Nephrol",
+            "volume": "22",
+            "issn": "2",
+            "pages": "317-326",
+            "other_ids": {
+                "DOI": [
+                    "10.1681/ASN.2009060615"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Macrophage-mediated injury and repair after ischemic kidney injury",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Huen",
+                    "suffix": ""
+                },
+                {
+                    "first": "LG",
+                    "middle": [],
+                    "last": "Cantley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Pediatr Nephrol",
+            "volume": "30",
+            "issn": "2",
+            "pages": "199-209",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00467-013-2726-y"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Renal F4/80+ CDllc+ mononuclear phagocytes display phenotypic and functional characteristics of macrophages in health and in adriamycin nephropathy",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "XM",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Am Soc Nephrol",
+            "volume": "26",
+            "issn": "2",
+            "pages": "349-363",
+            "other_ids": {
+                "DOI": [
+                    "10.1681/ASN.2013121336"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Differential Ly6C expression after renal ischemia-reperfusion identifies unique macrophage populations",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clements",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gershenovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chaber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Am Soc Nephrol",
+            "volume": "27",
+            "issn": "1",
+            "pages": "159-170",
+            "other_ids": {
+                "DOI": [
+                    "10.1681/ASN.2014111138"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Role of galectin-3 in classical and alternative macrophage activation in the liver following acetaminophen intoxication",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Dragomir",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Immunol",
+            "volume": "189",
+            "issn": "12",
+            "pages": "5934-5941",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.1201851"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Improved normalization of systematic biases affecting ion current measurements in label-free proteomics data",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rudnick",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Mol Cell Proteomics",
+            "volume": "13",
+            "issn": "5",
+            "pages": "1341-1351",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/mcp.M113.030593"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Time-series analysis in imatinib-resistant chronic myeloid leukemia K562-cells under different drug treatments",
+            "authors": [
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "XF",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YQ",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Huazhong Univ Sci Technolog Med Sci",
+            "volume": "37",
+            "issn": "4",
+            "pages": "621-627",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11596-017-1781-1"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "",
+            "authors": [],
+            "year": 2014,
+            "venue": "Sci Total Environ",
+            "volume": "472",
+            "issn": "872-879",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "FunRich: An open access standalone functional enrichment and interaction network analysis tool",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Keerthikumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Ang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proteomics",
+            "volume": "15",
+            "issn": "15",
+            "pages": "2597-2601",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pmic.201400515"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Identifying acute kidney injury in the community\u2014a novel informatics approach",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Player",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shepherd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Nephrol",
+            "volume": "29",
+            "issn": "1",
+            "pages": "93-98",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s40620-015-0190-4"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Proteomic Differences between Developmental Stages of Toxoplasma gondii Revealed by iTRAQ-Based Quantitative Proteomics",
+            "authors": [
+                {
+                    "first": "ZX",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CX",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Elsheikha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front Microbiol",
+            "volume": "8",
+            "issn": "985",
+            "pages": "1-15",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Transcriptome analysis of chicken kidney tissues following Coronavirus avian infectious bronchitis virus infection",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMC genomics",
+            "volume": "14",
+            "issn": "743",
+            "pages": "1-13",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "cytoHubba: identifying hub objects and sub-networks from complex interactome",
+            "authors": [
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMC Syst Biol",
+            "volume": "8",
+            "issn": "",
+            "pages": "l-7",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1752-0509-8-S4-S11"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Effects of beta-catenin on differentially expressed genes in multiple myeloma",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Huazhong Univ Sei Technolog Med Sei",
+            "volume": "35",
+            "issn": "4",
+            "pages": "546-552",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11596-015-1468-4"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "MIF inhibits monocytic movement through a non-canonical receptor and disruption of temporal Rho GTPase activities in U-937 cells",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "DiCosmo-Ponticello",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hoover",
+                    "suffix": ""
+                },
+                {
+                    "first": "FD",
+                    "middle": [],
+                    "last": "Coffinan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cytokine",
+            "volume": "69",
+            "issn": "1",
+            "pages": "47-55",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cyto.2014.05.005"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [],
+            "year": 2014,
+            "venue": "PLoS One",
+            "volume": "9",
+            "issn": "4",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "SV40 small T antigen and PP2A phosphatase in cell transformation",
+            "authors": [
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Sablina",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Hahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cancer Metastasis Rev",
+            "volume": "27",
+            "issn": "2",
+            "pages": "137-146",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10555-008-9116-0"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Ppp2ca knockout in mice spermatogenesis",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Reproduction",
+            "volume": "149",
+            "issn": "4",
+            "pages": "385-391",
+            "other_ids": {
+                "DOI": [
+                    "10.1530/REP-14-0231"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Protein phosphatase 2A is a negative regulator of IL-2 production in patients with systemic lupus erythematosus",
+            "authors": [
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Katsiari",
+                    "suffix": ""
+                },
+                {
+                    "first": "VC",
+                    "middle": [],
+                    "last": "Kyttaris",
+                    "suffix": ""
+                },
+                {
+                    "first": "YT",
+                    "middle": [],
+                    "last": "Juang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Clin Invest",
+            "volume": "115",
+            "issn": "ll",
+            "pages": "3193-3204",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI24895"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Cutting edge: mechanisms of IL-2-dependent maintenance of functional regulatory T cells",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Barron",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dooms",
+                    "suffix": ""
+                },
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Hoyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Immunol",
+            "volume": "185",
+            "issn": "ll",
+            "pages": "6426-6430",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.0903940"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Netrin-1 regulates the inflammatory response of neutrophils and macrophages, and suppresses ischemic acute kidney injury by inhibiting COX-2-mediated PGE2 production",
+            "authors": [
+                {
+                    "first": "PV",
+                    "middle": [],
+                    "last": "Ranganathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jayakumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mohamed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Kidney Int",
+            "volume": "83",
+            "issn": "6",
+            "pages": "1087-1098",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ki.2012.423"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Protein phosphatase 2A Calpha is involved in osteoclastogenesis by regulating RANKL and OPG expression in osteoblasts",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Okamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "FEBS Lett",
+            "volume": "587",
+            "issn": "1",
+            "pages": "48-53",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2012.10.041"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Restoration of PPP2CA expression reverses epithelial-to-mesenchymal transition and suppresses prostate tumour growth and metastasis in an orthotopic mouse model",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bhardwaj",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Srivastava",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Br J Cancer",
+            "volume": "110",
+            "issn": "8",
+            "pages": "2000-2010",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/bjc.2014.141"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Loss of tumor suppressor RPL5/RPL11 does not induce cell cycle arrest but impedes proliferation due to reduced ribosome content and translation capacity",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Teng",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Mercer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hexley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Mol Cell Biol",
+            "volume": "33",
+            "issn": "23",
+            "pages": "4660-4671",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.01174-13"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Ribosomal proteins Lll and L5 activate TAp73 by overcoming MDM2 inhibition",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cell Death Differ",
+            "volume": "22",
+            "issn": "5",
+            "pages": "755-766",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/cdd.2014.167"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The ribosomal protein gene RPL5 is a haploinsufficient tumor suppressor in multiple cancer types",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fancello",
+                    "suffix": ""
+                },
+                {
+                    "first": "KR",
+                    "middle": [],
+                    "last": "Kampen",
+                    "suffix": ""
+                },
+                {
+                    "first": "IJ",
+                    "middle": [],
+                    "last": "Hofman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Oncotarget",
+            "volume": "8",
+            "issn": "9",
+            "pages": "14462-14478",
+            "other_ids": {
+                "DOI": [
+                    "10.18632/oncotarget.14895"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "H7ACA small nucleolar RNA pseudouridylation pockets bind substrate RNA to form three-way junctions that position the target U for modification",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Feigon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "104",
+            "issn": "16",
+            "pages": "6655-6660",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0701534104"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Cbf5p, a potential pseudouridine synthase, and Nhp2p, a putative RNA-binding protein, are present together with Garlp in all H BOX/ACA-motif snoRNPs and constitute a common bipartite structure",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Watkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gottschalk",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Neubauer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "RNA",
+            "volume": "4",
+            "issn": "12",
+            "pages": "1549-1568",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S1355838298980761"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Nhp2p and Nop1 Op are essential for the function of H/ACA snoRNPs",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Henras",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bousquet-Antonelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "EMBO J",
+            "volume": "17",
+            "issn": "23",
+            "pages": "7078-7090",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/17.23.7078"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Expression of the human homologue of the small nucleolar RNA-binding protein NHP2 gene during monocytic differentiation of U937 cells",
+            "authors": [
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "DY",
+                    "middle": [],
+                    "last": "Jun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1575",
+            "issn": "1-3",
+            "pages": "31-39",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0167-4781(02)00240-3"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Structure of the Shql-Cbf5-NoplO-Garl complex and implications for H/ACA RNP biogenesis and dyskeratosis congenita",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "EMBO J",
+            "volume": "30",
+            "issn": "24",
+            "pages": "5010-5020",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2011.427"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Long-term outcome of severe acute kidney injury survivors followed by nephrologists in a developing country",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ponce",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Dias",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Nascimento",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nephrology (Carlton)",
+            "volume": "21",
+            "issn": "4",
+            "pages": "327-334",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/nep.12593"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Telomere maintenance mechanisms and cellular immortalization",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Colgin",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Reddel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Curr Opin Genet Dev",
+            "volume": "9",
+            "issn": "1",
+            "pages": "97-103",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0959-437X(99)80014-8"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Identification of optimal reference genes for RT-qPCR in the rat hypothalamus and intestine for the study of obesity",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "EK",
+                    "middle": [],
+                    "last": "Matter",
+                    "suffix": ""
+                },
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "Hoppert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Int J Obes (Lond)",
+            "volume": "38",
+            "issn": "2",
+            "pages": "192-197",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ijo.2013.86"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Appropriateness of reference genes for normalizing messenger RNA in mouse 2,4-dinitrobenzene sulfonic acid (DNBS)-induced colitis using quantitative real time PCR",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Eissa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kermarrec",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hussein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Rep",
+            "volume": "7",
+            "issn": "42427",
+            "pages": "1-13",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Identification of optimal reference genes for normalization of RT-qPCR data in cancerous and non-cancerous tissues of human uterine cervix",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Ismail",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Duski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Cancer Invest",
+            "volume": "35",
+            "issn": "3",
+            "pages": "163-173",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/07357907.2017.1278767"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Recognition and management of acute kidney injury in the International Society of Nephrology 0by25 Global Snapshot: a multinational cross-sectional study",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Burdmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cerda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "387",
+            "issn": "10032",
+            "pages": "2017-2025",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(16)30240-9"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Small interfering RNA targeting TNF-alpha gene significantly attenuates renal ischemia-reperfusion injury in mice",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Huazhong Univ Sci Technolog Med Sci",
+            "volume": "36",
+            "issn": "5",
+            "pages": "634-638",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11596-016-1638-z"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Double-negative alphabeta T cells are early responders to AKI and are found in human kidney",
+            "authors": [
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Martina",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Noel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saxena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Am Soc Nephrol",
+            "volume": "27",
+            "issn": "4",
+            "pages": "1113-1123",
+            "other_ids": {
+                "DOI": [
+                    "10.1681/ASN.2014121214"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Vascular-resident CD169-positive monocytes and macrophages control neutrophil accumulation in the kidney with ischemia-reperfusion injury",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Karasawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Asano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moriyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Am Soc Nephrol",
+            "volume": "26",
+            "issn": "4",
+            "pages": "896-906",
+            "other_ids": {
+                "DOI": [
+                    "10.1681/ASN.2014020195"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "MicroRNA 26a modulates regulatory T cells expansion and attenuates renal ischemia-reperfusion injury",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Mol Immunol",
+            "volume": "65",
+            "issn": "2",
+            "pages": "321-327",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molimm.2015.02.003"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1471 @@
+{
+    "paper_id": "PMC7080176",
+    "metadata": {
+        "title": "A LAD-based method for selecting short oligo probes for genotyping applications",
+        "authors": [
+            {
+                "first": "Kwangsoo",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Hong",
+                "middle": [
+                    "Seo"
+                ],
+                "last": "Ryoo",
+                "suffix": "",
+                "email": "hsryoo@korea.ac.kr",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Basic local alignment search tool",
+            "authors": [
+                {
+                    "first": "SF",
+                    "middle": [],
+                    "last": "Altschul",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Gish",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Lipman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J Mol Biol",
+            "volume": "215",
+            "issn": "",
+            "pages": "403-410",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Discovery and analysis of inflammatory disease-related genes using cdna microarrays",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Heller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schena",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shalon",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bedilion",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gilmore",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Woolley",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc Nat Acad Sci",
+            "volume": "94",
+            "issn": "",
+            "pages": "2150-2155",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.6.2150"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Information theoretical probe selection for hybridisation experiments",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Herwig",
+                    "suffix": ""
+                },
+                {
+                    "first": "AO",
+                    "middle": [],
+                    "last": "Schmitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Steinfath",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "O\u2019Brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Seidel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Meier-Ewert",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lehrach",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Radelof",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Bioinformatics",
+            "volume": "16",
+            "issn": "10",
+            "pages": "890-898",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/16.10.890"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Optimal robust non-unique probe selection using integer linear programming",
+            "authors": [
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Klau",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rahmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schliep",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vingron",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Reinert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Bioinformatics",
+            "volume": "20",
+            "issn": "Suppl 1",
+            "pages": "i186-i193",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bth936"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Transmission of h7n7 avian influenza a virus to human beings during a large outbreak in commercial poultry farms in the netherlands",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wilbrink",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Conyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Natrop",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van der Nat",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Vennema",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "van Steenbergen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bosman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "363",
+            "issn": "",
+            "pages": "587-593",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(04)15589-X"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Multi-objective evolutionary probe design based on thermodynamic criteria for hpv detection",
+            "authors": [
+                {
+                    "first": "I-H",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "B-T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lecture notes in artificial intelligence, vol 3157",
+            "volume": "",
+            "issn": "",
+            "pages": "742-750",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Classification of multiple cancer types by multicategory support vector machines using gene expression data",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-K",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics,",
+            "volume": "19",
+            "issn": "9",
+            "pages": "1132-1139",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btg102"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Selection of optimal dna oligos for gene expression arrays",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Stormo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "11",
+            "pages": "1067-1076",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/17.11.1067"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Possibility of using dna chip technology for diagnosis of human papillomavirus",
+            "authors": [
+                {
+                    "first": "C-H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-L",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-Q",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-L",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Biochemistry Mol Biol",
+            "volume": "36",
+            "issn": "4",
+            "pages": "349-353",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "The role of human papillomavirus in screening for cervical cancer",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "McFadden",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Schumann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Am Acad Nurse Pract",
+            "volume": "13",
+            "issn": "",
+            "pages": "116-125",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1745-7599.2001.tb00231.x"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "On the complexity of polyhedral separability",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Megiddo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Discrete Comput Geom",
+            "volume": "3",
+            "issn": "",
+            "pages": "325-337",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF02187916"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Probe selection algorithms with applications in the analysis of microbial communities",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Borneman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chrobak",
+                    "suffix": ""
+                },
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Vedova",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Figueroa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Bioinformatics",
+            "volume": "17",
+            "issn": "Suppl 1",
+            "pages": "S39-S48",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "For the International Agency for Research on Cancer Multicenter Cervical Cancer Study Group Epidemiologic classification of human papillomavirus types associated with cervical cancer",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "de Sanjos\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Herrero",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Castellsagu\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJF",
+                    "middle": [],
+                    "last": "Snijders",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJLM",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "New Engl J Med",
+            "volume": "348",
+            "issn": "6",
+            "pages": "518-527",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa021641"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "GL",
+                    "middle": [],
+                    "last": "Nemhauser",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Wolsey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Integer and combinatorial optimization. Wiley-Interscience Series I: discrete mathematics and optimization",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Fast large scale oligonucleotide selection using the longest common factor approach",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rahmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Bioinform Comput Biol",
+            "volume": "1",
+            "issn": "2",
+            "pages": "343-361",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0219720003000125"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schena",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "DNA microarray: a practical approach",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Molecular detection and identification of influenza viruses by oligonucleotide microarray hybridization",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sengupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Onodera",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Melcher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Clin Microbiol",
+            "volume": "41",
+            "issn": "10",
+            "pages": "4542-4550",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.41.10.4542-4550.2003"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Unique and conserved features of genome and proteome of sars-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Bredenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "LLM",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rozanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJM",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Mol Biol",
+            "volume": "331",
+            "issn": "",
+            "pages": "991-1004",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(03)00865-9"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Trends in microarray analysis",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Stears",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Martinsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nat Med",
+            "volume": "9",
+            "issn": "1",
+            "pages": "140-145",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0103-140"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ullman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Pattern recognition techniques",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "An implementation of logical analysis of data",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Boros",
+                    "suffix": ""
+                },
+                {
+                    "first": "PL",
+                    "middle": [],
+                    "last": "Hammer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ibaraki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kogan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mayoraz",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Muchnik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "IEEE Trans Knowl Data Eng",
+            "volume": "12",
+            "issn": "",
+            "pages": "292-306",
+            "other_ids": {
+                "DOI": [
+                    "10.1109/69.842268"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "Vapnik",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Statistical learning theory",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Dna-chip technology and infectious diseases",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vernet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Virus Res",
+            "volume": "82",
+            "issn": "",
+            "pages": "65-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-1702(01)00435-X"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Selection of oligonucleotide probes for protein coding sequences",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Seed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics",
+            "volume": "19",
+            "issn": "7",
+            "pages": "796-802",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btg086"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Microarray-based detection and genotyping of viral pathogens",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Coscoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zylberberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Avila",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Boushey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ganem",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "DeRisi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "PNAS",
+            "volume": "99",
+            "issn": "24",
+            "pages": "15687-15692",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.242579699"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Are we ready for pandemic influenza",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Webby",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "1519-1522",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1090350"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "The design and application of dna chips for early detection of sars-cov from clinical samples",
+            "authors": [
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "RQ",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZW",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "PX",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "YB",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CZ",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YH",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HW",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "XD",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "QZ",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZX",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Clin Virol",
+            "volume": "33",
+            "issn": "2",
+            "pages": "123-131",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2004.10.019"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "The causal relation between human papillomavirus and cervical cancer",
+            "authors": [
+                {
+                    "first": "FX",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lorincz",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mu\u00f1oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJLM",
+                    "middle": [],
+                    "last": "Meijer",
+                    "suffix": ""
+                },
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Clin Pathol",
+            "volume": "55",
+            "issn": "",
+            "pages": "244-265",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "A heuristic method for the set covering problem",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Caprara",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fischetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Toth",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Oper Res",
+            "volume": "47",
+            "issn": "5",
+            "pages": "730-743",
+            "other_ids": {
+                "DOI": [
+                    "10.1287/opre.47.5.730"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Support vector networks",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                },
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "Vapnik",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Mach Learn",
+            "volume": "20",
+            "issn": "",
+            "pages": "273-297",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Genetic mining of dna sequence structures for effective classification of the risk types of human papillomavirus (hpv)",
+            "authors": [
+                {
+                    "first": "J-H",
+                    "middle": [],
+                    "last": "Eom",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-B",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "B-T",
+                    "middle": [],
+                    "last": " Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lecture notes in computer science, vol 3316",
+            "volume": "",
+            "issn": "",
+            "pages": "1334-1343",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Garey",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "Computers and intractability: a guide to the theory of \\documentclass[12pt]{minimal}\n\t\t\t\t\\usepackage{amsmath}\n\t\t\t\t\\usepackage{wasysym} \n\t\t\t\t\\usepackage{amsfonts} \n\t\t\t\t\\usepackage{amssymb} \n\t\t\t\t\\usepackage{amsbsy}\n\t\t\t\t\\usepackage{mathrsfs}\n\t\t\t\t\\usepackage{upgreek}\n\t\t\t\t\\setlength{\\oddsidemargin}{-69pt}\n\t\t\t\t\\begin{document}$${\\mathcal{NP}}$$\\end{document} \u2013completeness",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

@@ -1,0 +1,3804 @@
+{
+    "paper_id": "PMC7097193",
+    "metadata": {
+        "title": "Fluorescent probes for proteolysis: Tools for drug discovery",
+        "authors": [
+            {
+                "first": "Jacques",
+                "middle": [],
+                "last": "Neefjes",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Nico",
+                "middle": [
+                    "P."
+                ],
+                "last": "Dantuma",
+                "suffix": "",
+                "email": "nico.dantuma@mtc.ki.se",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: A few inhibitors and (potential) applications\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: Proteins present in the cytosol and nucleus are degraded by the proteasome into peptide fragments that are further degraded by TPP-II, TOP, LAP and other peptidases into single amino acids. Internalized proteins are transported to the lysosomes, where cathepsins, TPP-I, DPP-II and other proteases digest the proteins to single amino acids. Not shown in this scheme are the more dedicated proteases, as discussed in the text. DPP, dipeptidyl peptidase; LAP, leucine aminopeptidase; TOP, thimet oligopeptidase; TPP, tripeptidyl peptidase.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Structure of proteasome inhibitors. a | Peptide aldehyde. b | Peptide boronic acid. c | Peptide vinyl sulphone. d | Epoxomicin. e | \u03b2-lactone. Note that a\u2013c are carboxy-modified peptides.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: a | Destruction. Coupling of a degradation signal (DEG) to GFP will result in targeting of the GFP for ubiquitylation followed by proteasomal degradation. Degradation of the GFP substrate results in loss of fluorescence. b | Fluorescence resonance energy transfer (FRET) fluorophore peptide substrate. A FRET peptide substrate contains a donor and acceptor fluorophore with spectral overlap. When the FRET probe is intact and excited with the optimal wavelength for the donor, acceptor fluorescence will be emitted at the expense of donor fluorescence. Cleavage of the FRET probe results in separation of donor and acceptor fluorophores and increased emission from the donor with a concomitant loss of acceptor fluorescence. c | Quenching with fluorophore/quencher pair in peptide substrate. Small peptide fragments containing a fluorophore and a corresponding quencher will be essentially non-fluorescent. After cleavage, when the quencher is spatially separated from the fluorophore, the fluorophore will emit fluorescence. d | Quenching with identical fluorophores in peptide substrate. Two identical fluorophores will quench each other. Principle as in b. e | FRET fluorescent proteins. With CFP and YFP as donor and acceptor fluorophore, respectively. Principle as in b. CFP, cyan fluorescent protein; GFP, green fluorescent protein; YFP, yellow fluorescent protein.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: a | N-end rule GFP. A fusion of ubiquitin and GFP is expressed. The endogenous de-ubiquitylation enzymes (DUB) rapidly remove the N-terminal ubiquitin, which generates a GFP with an N-terminal arginine residue. This N-terminal Arg residue is recognized by ubiquitylation enzymes resulting in ubiquitylation close to the N terminus followed by proteasomal degradation. b | If the last amino acid of the ubiquitin moiety in the ubiquitin\u2013GFP fusion is changed, the DUBs fail to remove the N-terminal ubiquitin. This results in ubiquitylation of the ubiquitin moiety and proteasomal degradation. c | Insertion of the small amino acid stretch CL1 directly targets GFP for ubiquitylation and proteasomal degradation. The degradation signals in a\u2013c are marked in red. d | Co-expression of the viral US11 and GFP\u2013MHC class I fusion results in rapid dislocation of GFP\u2013MHC class I from the endoplasmic reticulum (ER) to the cytosol followed by proteasomal degradation. GFP, green fluorescent protein; MHC, major histocompatibility complex.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: a | Caspase-3 fluorescence resonance energy transfer (FRET) probe. The DEVD caspase cleavage site is positioned between GFP and BFP. b | Caspase-3 FRET probe. The DEVD caspase cleavage site is positioned between YFP and CFP. c | Caspase-8 FRET probe. The caspase-8 target BID is positioned between YFP and CFP. d | Caspase-3 fluorescence lifetime imaging microscopy (FLIM) probe. The DEVD caspase cleavage site is positioned between the spectrally similar YFP and GFP. BFP, blue fluorescent protein; BID, BH3-interacting domain death agonist; GFP, green fluorescent protein; YFP, yellow fluorescent protein.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Multiple proteolytic systems, including the proteasome, contribute to CFTR processing",
+            "authors": [
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Jensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Cell",
+            "volume": "83",
+            "issn": "",
+            "pages": "129-135",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(95)90241-4"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Interferon-\u03b3 can stimulate post-proteasomal trimming of the N terminus of an antigenic peptide by inducing leucine aminopeptidase",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Beninga",
+                    "suffix": ""
+                },
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Rock",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Biol. Chem.",
+            "volume": "273",
+            "issn": "",
+            "pages": "18734-18742",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.273.30.18734"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Novel bacteriological assay for detection of potential antiviral agents",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Block",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Grafstrom",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "34",
+            "issn": "",
+            "pages": "2337-2341",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.34.12.2337"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "The green fluorescent protein",
+            "authors": [
+                {
+                    "first": "RY",
+                    "middle": [],
+                    "last": "Tsien",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Annu Rev. Biochem.",
+            "volume": "67",
+            "issn": "",
+            "pages": "509-544",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.biochem.67.1.509"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Apoptosis in the nervous system",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Yankner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "407",
+            "issn": "",
+            "pages": "802-809",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35037739"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Apoptosis: a link between cancer genetics and chemotherapy",
+            "authors": [
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Johnstone",
+                    "suffix": ""
+                },
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Ruefli",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell",
+            "volume": "108",
+            "issn": "",
+            "pages": "153-164",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(02)00625-6"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Apoptosis-regulating proteins as targets for drug discovery",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Trends Mol. Med.",
+            "volume": "7",
+            "issn": "",
+            "pages": "314-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1471-4914(01)02026-3"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Detection of programmed cell death using fluorescence energy transfer",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nucleic Acids Res.",
+            "volume": "26",
+            "issn": "",
+            "pages": "2034-2035",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/26.8.2034"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Imaging into the future: visualizing gene expression and protein interactions with fluorescent proteins",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "van Roessel",
+                    "suffix": ""
+                },
+                {
+                    "first": "AH",
+                    "middle": [],
+                    "last": "Brand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Cell Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "E15-20",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ncb0102-e15"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Single-cell fluorescence resonance energy transfer analysis demonstrates that caspase activation during apoptosis is a rapid process. Role of caspase-3",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rehm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "24506-24514",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M110789200"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Confirmation by FRET in individual living cells of the absence of significant amyloid \u03b2-mediated caspase 8 activation",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Onuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "14716-14721",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.232177599"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Imaging FRET between spectrally similar GFP molecules in single cells",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Harpur",
+                    "suffix": ""
+                },
+                {
+                    "first": "FS",
+                    "middle": [],
+                    "last": "Wouters",
+                    "suffix": ""
+                },
+                {
+                    "first": "PI",
+                    "middle": [],
+                    "last": "Bastiaens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Biotechnol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "167-169",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/84443"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The cytosolic endopeptidase, thimet oligopeptidase, destroys antigenic peptides and limits the extent of MHC class I antigen presentation",
+            "authors": [
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "York",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Immunity",
+            "volume": "18",
+            "issn": "",
+            "pages": "429-440",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1074-7613(03)00058-X"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Marker for real-time analysis of caspase activity in intact cells",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Beem",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Segal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biotechniques",
+            "volume": "33",
+            "issn": "",
+            "pages": "1284-1287",
+            "other_ids": {
+                "DOI": [
+                    "10.2144/02336rr02"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Assay methods for retroviral proteases",
+            "authors": [
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Methods Enzymol.",
+            "volume": "241",
+            "issn": "",
+            "pages": "46-58",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0076-6879(94)41058-5"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Proteolytic processing and particle maturation",
+            "authors": [
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Vogt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "214",
+            "issn": "",
+            "pages": "95-131",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Toxicity of antiretroviral therapy and implications for drug development",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Carr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Drug Discov.",
+            "volume": "2",
+            "issn": "",
+            "pages": "624-634",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd1151"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Ordered accumulation of mutations in HIV protease confers resistance to ritonavir",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Molla",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature Med.",
+            "volume": "2",
+            "issn": "",
+            "pages": "760-766",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0796-760"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Apoptosis mediated by HIV protease is preceded by cleavage of Bcl-2",
+            "authors": [
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Strack",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "9571-9576",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.18.9571"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Human immunodeficiency virus type 1 protease cleaves the intermediate filament proteins vimentin, desmin, and glial fibrillary acidic protein",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Shoeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "87",
+            "issn": "",
+            "pages": "6336-6340",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.87.16.6336"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Cell-based fluorescence assay for human immunodeficiency virus type 1 protease activity",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Uhlikova",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Konvalinka",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "45",
+            "issn": "",
+            "pages": "2616-2622",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.45.9.2616-2622.2001"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "An NS3 protease inhibitor with antiviral effects in humans infected with hepatitis C virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lamarre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "26",
+            "issn": "",
+            "pages": "186-189",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature02099"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Coronavirus main proteinase (3CLpro) structure: basis for design of anti-SARS drugs",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wadhwani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Mesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1763-1767",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085658"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Proteases in blood clotting",
+            "authors": [
+                {
+                    "first": "PN",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Ahmad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Essays Biochem.",
+            "volume": "38",
+            "issn": "",
+            "pages": "95-111",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/bse0380095"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "How does TAP pump peptides? Insights from DNA repair and traffic ATPases",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Reits",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Griekspoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Neefjes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Immunol. Today",
+            "volume": "21",
+            "issn": "",
+            "pages": "598-600",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0167-5699(00)01720-5"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "From fixed to FRAP: measuring protein mobility and activity in living cells",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Reits",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Neefjes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Cell Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "E145-147",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35078615"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Killing the messenger: short RNAs that silence gene expression",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Dykxhoorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Novina",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "457-467",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm1129"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Pathways accessory to proteasomal proteolysis are less efficient in major histocompatibility complex class I antigen production",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kessler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "10013-10021",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M211221200"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Zwischenmolekulare energiewandering und fluoreszenz",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "F\u00f6rster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1948,
+            "venue": "Annalen Physik.",
+            "volume": "6",
+            "issn": "",
+            "pages": "55-75",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/andp.19484370105"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Pralnacasan, an inhibitor of interleukin-1\u03b2 converting enzyme, reduces joint damage in two murine models of osteoarthritis",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rudolphi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gerwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Verzijl",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "van der Kraan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "van den Berg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Osteoarthritis Cartilage",
+            "volume": "11",
+            "issn": "",
+            "pages": "738-746",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1063-4584(03)00153-5"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Caspase inhibitors for liver disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Whelan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Drug Discov. Today",
+            "volume": "7",
+            "issn": "",
+            "pages": "444-445",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1359-6446(02)02256-0"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Targeting HIV: antiretroviral therapy and development of drug resistance",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Menendez\u2013Arias",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends Pharmacol. Sci.",
+            "volume": "23",
+            "issn": "",
+            "pages": "381-388",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0165-6147(02)02054-0"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Fluorescent proteins from nonbioluminescent Anthozoa species",
+            "authors": [
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Matz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature Biotechnol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "969-973",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/13657"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Biochemical pathways of caspase activation during apoptosis",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Budihardjo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Oliver",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Annu. Rev. Cell Dev. Biol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "269-290",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.cellbio.15.1.269"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Matrix metalloproteinases: a tail of a frog that became a prince",
+            "authors": [
+                {
+                    "first": "CE",
+                    "middle": [],
+                    "last": "Brinckerhoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Matrisian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "207-214",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm763"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Intramembrane proteolysis by presenilin and presenilin-like proteases",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Wolfe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Cell Sci.",
+            "volume": "116",
+            "issn": "",
+            "pages": "2839-2844",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/jcs.00651"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Curbing activation: proprotein convertases in homeostasis and pathology",
+            "authors": [
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Van De Ven",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Creemers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FASEB J.",
+            "volume": "17",
+            "issn": "",
+            "pages": "1215-1227",
+            "other_ids": {
+                "DOI": [
+                    "10.1096/fj.02-0831rev"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "The ubiquitin proteasome system in neurodegenerative diseases: sometimes the chicken, sometimes the egg",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Brundin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Neuron",
+            "volume": "40",
+            "issn": "",
+            "pages": "427-446",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0896-6273(03)00606-8"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "The ubiquitin\u2013proteasome pathway and pathogenesis of human diseases",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Annu. Rev. Med.",
+            "volume": "50",
+            "issn": "",
+            "pages": "57-74",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.med.50.1.57"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Mdm2 promotes the rapid degradation of p53",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Haupt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kazaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oren",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature",
+            "volume": "387",
+            "issn": "",
+            "pages": "296-299",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/387296a0"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "The major substrates for TAP in vivo are derived from newly synthesized proteins",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Reits",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Vos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gromme",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Neefjes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "404",
+            "issn": "",
+            "pages": "774-778",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35008103"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "The E6 oncoprotein encoded by human papillomavirus types 16 and 18 promotes the degradation of p53",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Scheffner",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Werness",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Huibregtse",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Howley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Cell",
+            "volume": "63",
+            "issn": "",
+            "pages": "1129-1136",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(90)90409-8"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "When protein destruction runs amok, malignancy is on the loose",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pagano",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Benmaamar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cancer Cell",
+            "volume": "4",
+            "issn": "",
+            "pages": "251-256",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1535-6108(03)00243-5"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Degradation of cell proteins and the generation of MHC class I-presented peptides",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Rock",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "739-779",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.immunol.17.1.739"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Making sense of mass destruction: quantitating MHC class I antigen presentation",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Yewdell",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Reits",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Neefjes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "952-961",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1250"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Phosphorylation meets ubiquitination: the control of NF-\u03baB activity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ben-Neriah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "621-663",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.immunol.18.1.621"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Proteasome inhibitor PS-341 inhibits human myeloma cell growth in vivo and prolongs survival in a murine model",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "LeBlanc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cancer Res.",
+            "volume": "62",
+            "issn": "",
+            "pages": "4996-5000",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Epoxomicin, a potent and selective proteasome inhibitor, exhibits in vivo antiinflammatory activity",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "10403-10408",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.18.10403"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Novel proteasome inhibitor PS-341 inhibits activation of nuclear factor-\u03baB, cell survival, tumor growth, and angiogenesis in squamous cell carcinoma",
+            "authors": [
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Sunwoo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin. Cancer Res.",
+            "volume": "7",
+            "issn": "",
+            "pages": "1419-1428",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "The selective proteasome inhibitors lactacystin and epoxomicin can be used to either up- or down-regulate antigen presentation at nontoxic doses",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schwarz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Immunol.",
+            "volume": "164",
+            "issn": "",
+            "pages": "6147-6157",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.164.12.6147"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Bortezomib",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Paramore",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Frantz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Drug Discov.",
+            "volume": "2",
+            "issn": "",
+            "pages": "611-612",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd1159"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Rapid degradation of a large fraction of newly synthesized proteins by proteasomes",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Schubert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "404",
+            "issn": "",
+            "pages": "770-774",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/35008096"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "A phase I trial of the novel proteasome inhibitor PS341 in advanced solid tumor malignancies",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Aghajanian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Clin. Cancer Res.",
+            "volume": "8",
+            "issn": "",
+            "pages": "2505-2511",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "An inhibitor of HIV-1 protease modulates proteasome activity, antigen presentation, and T cell responses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Andre",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "13120-13124",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.95.22.13120"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "title": "HIV protease inhibitors protect apolipoprotein B from degradation by the proteasome: a potential mechanism for protease inhibitor-induced hyperlipidemia",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Med.",
+            "volume": "7",
+            "issn": "",
+            "pages": "1327-1331",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1201-1327"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Antitumorigenic effects of HIV protease inhibitor ritonavir: inhibition of Kaposi sarcoma",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pati",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Blood",
+            "volume": "99",
+            "issn": "",
+            "pages": "3771-3779",
+            "other_ids": {
+                "DOI": [
+                    "10.1182/blood.V99.10.3771"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "The human immunodeficiency virus (HIV)-1 protease inhibitor saquinavir inhibits proteasome function and causes apoptosis and radiosensitization in non-HIV-associated human cancer cells",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Pajonk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Himmelsbach",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Riess",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sommer",
+                    "suffix": ""
+                },
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "McBride",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cancer Res.",
+            "volume": "62",
+            "issn": "",
+            "pages": "5230-5235",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Covalent modification of the active site threonine of proteasomal \u03b2 subunits and the Escherichia coli homolog HslV by a new class of inhibitors",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bogyo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "6629-6634",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.13.6629"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Inhibition of proteasome activities and subunit-specific amino-terminal threonine modification by lactacystin",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fenteany",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Science",
+            "volume": "268",
+            "issn": "",
+            "pages": "726-731",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.7732382"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Proteasome inhibitors: from research tools to drug candidates",
+            "authors": [
+                {
+                    "first": "AF",
+                    "middle": [],
+                    "last": "Kisselev",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Chem. Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "739-758",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1074-5521(01)00056-4"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Recognition of the polyubiquitin proteolytic signal",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Thrower",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rechsteiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Pickart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "EMBO J.",
+            "volume": "19",
+            "issn": "",
+            "pages": "94-102",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/19.1.94"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "A novel site for ubiquitination: the N-terminal residue, and not internal lysines of MyoD, is essential for conjugation and degradation of the protein",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Breitschopf",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bengal",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ziv",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Admon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "EMBO J.",
+            "volume": "17",
+            "issn": "",
+            "pages": "5964-5973",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/17.20.5964"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Defective ribosomal products (DRiPs): a major source of antigenic peptides for MHC class I molecules?",
+            "authors": [
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Yewdell",
+                    "suffix": ""
+                },
+                {
+                    "first": "LC",
+                    "middle": [],
+                    "last": "Anton",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Bennink",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Immunol.",
+            "volume": "157",
+            "issn": "",
+            "pages": "1823-1826",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "Proteasome-mediated degradation of p21 via N-terminal ubiquitinylation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bloom",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Amador",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bartolini",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "DeMartino",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pagano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "115",
+            "issn": "",
+            "pages": "71-82",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(03)00755-4"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Mechanisms underlying ubiquitination",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Pickart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Annu Rev. Biochem.",
+            "volume": "70",
+            "issn": "",
+            "pages": "503-533",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.biochem.70.1.503"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Substrate targeting in the ubiquitin system",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Laney",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hochstrasser",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Cell",
+            "volume": "97",
+            "issn": "",
+            "pages": "427-430",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80752-7"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Green fluorescent protein as a marker for gene expression",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chalfie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Euskirchen",
+                    "suffix": ""
+                },
+                {
+                    "first": "WW",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Prasher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Science",
+            "volume": "263",
+            "issn": "",
+            "pages": "802-805",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.8303295"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Short-lived green fluorescent proteins for quantification of ubiquitin/proteasome-dependent proteolysis in living cells",
+            "authors": [
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Glas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jellne",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Biotechnol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "538-543",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/75406"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "In vivo half-life of a protein is a function of its amino-terminal residue",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bachmair",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Finley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Varshavsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Science",
+            "volume": "234",
+            "issn": "",
+            "pages": "179-186",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.3018930"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "A proteolytic pathway that recognizes ubiquitin as a degradation signal",
+            "authors": [
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Ota",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Varshavsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Biol. Chem.",
+            "volume": "270",
+            "issn": "",
+            "pages": "17442-17456",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.270.29.17442"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "The N-end rule: functions, mysteries, uses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Varshavsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "12142-12149",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.22.12142"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "A ubiquitin-based tagging system for controlled modulation of protein stability",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Stack",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Whitney",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Rodems",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Pollok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Biotechnol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "1298-1302",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/82422"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Degradation signals for ubiquitin system proteolysis in Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gilon",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Chomsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Kulka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "EMBO J.",
+            "volume": "17",
+            "issn": "",
+            "pages": "2759-2766",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/17.10.2759"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Cellular defenses against unfolded proteins: a cell biologist thinks about neurodegenerative diseases",
+            "authors": [
+                {
+                    "first": "MY",
+                    "middle": [],
+                    "last": "Sherman",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Neuron",
+            "volume": "29",
+            "issn": "",
+            "pages": "15-32",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0896-6273(01)00177-5"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Impairment of the ubiquitin\u2013proteasome system by protein aggregation",
+            "authors": [
+                {
+                    "first": "NF",
+                    "middle": [],
+                    "last": "Bence",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Sampat",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Kopito",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "292",
+            "issn": "",
+            "pages": "1552-1555",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.292.5521.1552"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "Degradation signals recognized by the Ubc6p\u2013Ubc7p ubiquitin-conjugating enzyme pair",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gilon",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Chomsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Kulka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "20",
+            "issn": "",
+            "pages": "7214-7219",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.20.19.7214-7219.2000"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "Retrograde protein translocation: ERADication of secretory proteins in health and disease",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Plemper",
+                    "suffix": ""
+                },
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Trends Biochem. Sci.",
+            "volume": "24",
+            "issn": "",
+            "pages": "266-270",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0968-0004(99)01420-6"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Viral strategies of immune evasion",
+            "authors": [
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Ploegh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "280",
+            "issn": "",
+            "pages": "248-253",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.280.5361.248"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "Sec61-mediated transfer of a membrane protein from the endoplasmic reticulum to the proteasome for destruction",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Wiertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature",
+            "volume": "384",
+            "issn": "",
+            "pages": "432-438",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/384432a0"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "The human cytomegalovirus US11 gene product dislocates MHC class I heavy chains from the endoplasmic reticulum to the cytosol",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Wiertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Cell",
+            "volume": "84",
+            "issn": "",
+            "pages": "769-779",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)81054-5"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "Extended peptide-based inhibitors efficiently target the proteasome and reveal overlapping specificities of the catalytic \u03b2-subunits",
+            "authors": [
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Kessler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Chem. Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "913-929",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1074-5521(01)00069-2"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Lack of proteasome active site allostery as revealed by subunit-specific inhibitors",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Myung",
+                    "suffix": ""
+                },
+                {
+                    "first": "KB",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Crews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Cell",
+            "volume": "7",
+            "issn": "",
+            "pages": "411-420",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1097-2765(01)00188-5"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Proteasome inhibitors: valuable new tools for cell biologists",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Trends Cell Biol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "397-403",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0962-8924(98)01346-4"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "Increased ubiquitin-dependent degradation can replace the essential requirement for heat shock protein induction",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Friant",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Meier",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Riezman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "EMBO J.",
+            "volume": "22",
+            "issn": "",
+            "pages": "3783-3791",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/cdg375"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Unfolding the role of protein misfolding in neurodegenerative diseases",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Soto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Neurosci.",
+            "volume": "4",
+            "issn": "",
+            "pages": "49-60",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrn1007"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "Inhibition of proteasomal degradation by the Gly\u2013Ala repeat of Epstein\u2013Barr virus is influenced by the length of the repeat and the strength of the degradation signal",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Heessen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jellne",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "8381-8385",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.140217397"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "Aggregate formation inhibits proteasomal degradation of polyglutamine proteins",
+            "authors": [
+                {
+                    "first": "LG",
+                    "middle": [],
+                    "last": "Verhoef",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Hum. Mol. Genet.",
+            "volume": "11",
+            "issn": "",
+            "pages": "2689-2700",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/hmg/11.22.2689"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Glutamine repeats and neurodegeneration",
+            "authors": [
+                {
+                    "first": "HY",
+                    "middle": [],
+                    "last": "Zoghbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "HT",
+                    "middle": [],
+                    "last": "Orr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Annu. Rev. Neurosci.",
+            "volume": "23",
+            "issn": "",
+            "pages": "217-247",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.neuro.23.1.217"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "Inhibition of ubiquitin/proteasome-dependent protein degradation by the Gly\u2013Ala repeat domain of the Epstein\u2013Barr virus nuclear antigen 1",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Levitskaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sharipo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Leonchiks",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "12616-12621",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.23.12616"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "A minimal glycine\u2013alanine repeat prevents the interaction of ubiquitinated I\u03baB\u03b1 with the proteasome: a new mechanism for selective inhibition of proteolysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sharipo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Imreh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Leonchiks",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Imreh",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature Med.",
+            "volume": "4",
+            "issn": "",
+            "pages": "939-944",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0898-939"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "Mutation of the E6-AP ubiquitin ligase reduces nuclear inclusion frequency while accelerating polyglutamine-induced pathology in SCA1 mice",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Neuron",
+            "volume": "24",
+            "issn": "",
+            "pages": "879-892",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0896-6273(00)81035-1"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Stabilization signals: a novel regulatory mechanism in the ubiquitin/proteasome system",
+            "authors": [
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "FEBS Lett.",
+            "volume": "529",
+            "issn": "",
+            "pages": "22-26",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(02)03252-0"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "'Green mice' as a source of ubiquitous green cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Okabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kominami",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakanishi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nishimune",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "FEBS Lett.",
+            "volume": "407",
+            "issn": "",
+            "pages": "313-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(97)00313-X"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "The color of mice: in the light of GFP-variant reporters",
+            "authors": [
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Hadjantonakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nagy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Histochem. Cell Biol.",
+            "volume": "115",
+            "issn": "",
+            "pages": "49-58",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s004180000233"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Transgenic expression of green fluorescence protein can cause dilated cardiomyopathy",
+            "authors": [
+                {
+                    "first": "WY",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Aramburu",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Douglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Izumo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Med.",
+            "volume": "6",
+            "issn": "",
+            "pages": "482-483",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/74914"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "The ubiquitin system",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hershko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciechanover",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "67",
+            "issn": "",
+            "pages": "425-479",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.biochem.67.1.425"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "A transgenic mouse model of the ubiquitin/proteasome system",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Menendez-Benito",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Masucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Biotechnol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "897-902",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt851"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "Imaging 26S proteasome activity and inhibition in living mice",
+            "authors": [
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Luker",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Pica",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Luker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Piwnica-Worms",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Med.",
+            "volume": "9",
+            "issn": "",
+            "pages": "969-973",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm894"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Parkin protects against the toxicity associated with mutant \u03b1-synuclein: proteasome dysfunction selectively affects catecholaminergic neurons",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Petrucelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Neuron",
+            "volume": "36",
+            "issn": "",
+            "pages": "1007-1019",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0896-6273(02)01125-X"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "Mutant ubiquitin found in neurodegenerative disorders is a ubiquitin fusion degradation substrate that blocks proteasomal degradation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Cell Biol.",
+            "volume": "157",
+            "issn": "",
+            "pages": "417-427",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.200111034"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "Monitoring the ubiquitin/proteasome system in conformational diseases",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lindsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Dantuma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Ageing Res. Rev.",
+            "volume": "2",
+            "issn": "",
+            "pages": "433-449",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1568-1637(03)00031-X"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "Lessons from animal models of Huntington's disease",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Rubinsztein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Trends Genet.",
+            "volume": "18",
+            "issn": "",
+            "pages": "202-209",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0168-9525(01)02625-7"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Genetically engineered mouse models of neurodegenerative diseases",
+            "authors": [
+                {
+                    "first": "PC",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Borchelt",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Neurosci.",
+            "volume": "5",
+            "issn": "",
+            "pages": "633-639",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nn0702-633"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "Pathogenesis of polyglutamine disorders: aggregation revisited",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Michalik",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Van Broeckhoven",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Hum. Mol. Genet.",
+            "volume": "12",
+            "issn": "",
+            "pages": "R173-186",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/hmg/ddg295"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "FRET imaging",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Jares-Erijman",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Jovin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Biotechnol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "1387-1395",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt896"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "The proteasome: paradigm of a self-compartmentalizing protease",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Baumeister",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Walz",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zuhl",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Seemuller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Cell",
+            "volume": "92",
+            "issn": "",
+            "pages": "367-380",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80929-0"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Peptide diffusion, protection, and degradation in nuclear and cytoplasmic compartments before antigen presentation by MHC class I",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Reits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Immunity",
+            "volume": "18",
+            "issn": "",
+            "pages": "97-108",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1074-7613(02)00511-3"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "Lysosomal cysteine proteases regulate antigen presentation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Honey",
+                    "suffix": ""
+                },
+                {
+                    "first": "AY",
+                    "middle": [],
+                    "last": "Rudensky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "472-482",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1110"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "Enzyme replacement and enhancement therapies: lessons from lysosomal disorders",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Desnick",
+                    "suffix": ""
+                },
+                {
+                    "first": "EH",
+                    "middle": [],
+                    "last": "Schuchman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Genet.",
+            "volume": "3",
+            "issn": "",
+            "pages": "954-966",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrg963"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "Cancer. Proteases \u2014 invasion and more",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature",
+            "volume": "394",
+            "issn": "",
+            "pages": "527-528",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/28961"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Cathepsin S inhibitor prevents autoantigen presentation and autoimmunity",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Saegusa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Clin. Invest.",
+            "volume": "110",
+            "issn": "",
+            "pages": "361-369",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI0214682"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "Matrix metalloproteinase inhibitors and cancer: trials and tribulations",
+            "authors": [
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Coussens",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Fingleton",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Matrisian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Science",
+            "volume": "295",
+            "issn": "",
+            "pages": "2387-2392",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1067100"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Strategies for MMP inhibition in cancer: innovations for the post-trial era",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Overall",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lopez-Otin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Cancer",
+            "volume": "2",
+            "issn": "",
+            "pages": "657-672",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrc884"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "In vivo imaging of tumors with protease-activated near-infrared fluorescent probes",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Tung",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Mahmood",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bogdanov",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 1999,
+            "venue": "Nature Biotechnol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "375-378",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/7933"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Preclinical evaluation and phase I clinical trial of a 99mTc-labeled synthetic polymer used in blood pool imaging",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Callahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bogdanov",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Fischman",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Brady",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Am. J. Roentgenol.",
+            "volume": "171",
+            "issn": "",
+            "pages": "137-143",
+            "other_ids": {
+                "DOI": [
+                    "10.2214/ajr.171.1.9648777"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Tripeptidyl peptidases: enzymes that count",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tomkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Trends Biochem. Sci.",
+            "volume": "24",
+            "issn": "",
+            "pages": "355-359",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0968-0004(99)01435-8"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Near-infrared optical imaging of protease activity for tumor detection",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Mahmood",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Tung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bogdanov",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Radiology",
+            "volume": "213",
+            "issn": "",
+            "pages": "866-870",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiology.213.3.r99dc14866"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "Imaging of differential protease expression in breast cancers for detection of aggressive tumor phenotypes",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bremer",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Tung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bogdanov",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Radiology",
+            "volume": "222",
+            "issn": "",
+            "pages": "814-818",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2223010812"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "In vivo imaging of proteolytic activity in atherosclerosis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Circulation",
+            "volume": "105",
+            "issn": "",
+            "pages": "2766-2771",
+            "other_ids": {
+                "DOI": [
+                    "10.1161/01.CIR.0000017860.20619.23"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "In vivo imaging of proteolytic enzyme activity using a novel molecular reporter",
+            "authors": [
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Tung",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Mahmood",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bredow",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cancer Res.",
+            "volume": "60",
+            "issn": "",
+            "pages": "4953-4958",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "In vivo molecular target assessment of matrix metalloproteinase inhibition",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bremer",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Tung",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Med.",
+            "volume": "7",
+            "issn": "",
+            "pages": "743-748",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/89126"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "Imaging metalloproteinase activity in vivo",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zucker",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature Med.",
+            "volume": "7",
+            "issn": "",
+            "pages": "655-656",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/89016"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "title": "Pan and sentinel lymph node visualization using a near-infrared fluorescent probe",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Josephson",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Mahmood",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wunderbaldinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weissleder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol. Imaging",
+            "volume": "2",
+            "issn": "",
+            "pages": "18-23",
+            "other_ids": {
+                "DOI": [
+                    "10.1162/153535003765276255"
+                ]
+            }
+        },
+        "BIBREF125": {
+            "title": "Near-infrared fluorescence imaging of lymph nodes using a new enzyme sensing activatable macromolecular optical probe",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wunderbaldinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Turetschek",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bremer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Eur. Radiol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "2206-2211",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00330-003-1932-6"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "Imaging proteolysis by living human breast cancer cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sameni",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Moin",
+                    "suffix": ""
+                },
+                {
+                    "first": "BF",
+                    "middle": [],
+                    "last": "Sloane",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Neoplasia",
+            "volume": "2",
+            "issn": "",
+            "pages": "496-504",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.neo.7900116"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "\u03b2-Galactosidase containing a human immunodeficiency virus protease cleavage site is cleaved and inactivated by human immunodeficiency virus protease",
+            "authors": [
+                {
+                    "first": "EZ",
+                    "middle": [],
+                    "last": "Baum",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Bebernitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gluzman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "87",
+            "issn": "",
+            "pages": "10023-10027",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.87.24.10023"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2641 @@
+{
+    "paper_id": "PMC7089389",
+    "metadata": {
+        "title": "Solution structure of the X4 protein coded by the SARS related coronavirus reveals an immunoglobulin like fold and suggests a binding activity to integrin I domains",
+        "authors": [
+            {
+                "first": "Karen",
+                "middle": [],
+                "last": "H\u00e4nel",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Thomas",
+                "middle": [],
+                "last": "Stangler",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Matthias",
+                "middle": [],
+                "last": "Stoldt",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Dieter",
+                "middle": [],
+                "last": "Willbold",
+                "suffix": "",
+                "email": "dieter.willbold@uni-duesseldorf.de",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "P.A.",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.S.",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.S.",
+                    "middle": [],
+                    "last": "Monroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.A.",
+                    "middle": [],
+                    "last": "Nix",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Campagnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.P.",
+                    "middle": [],
+                    "last": "Icenogle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Penaranda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Bankamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.H.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Tamin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Frace",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.L.",
+                    "middle": [],
+                    "last": "DeRisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.D.",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Burns",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.G.",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.E.",
+                    "middle": [],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Liffick",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Holloway",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Limor",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "McCaustland",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Olsen-Rasmussen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.D.",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Pallansch",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.J.",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Bellini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "A novel severe acute respiratory syndrome coronavirus protein, U274, is transported to the cell surface and undergoes endocytosis",
+            "authors": [
+                {
+                    "first": "Y.J.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Teng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.H.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.Y.",
+                    "middle": [],
+                    "last": "Goh",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.C.",
+                    "middle": [],
+                    "last": "Fielding",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.E.",
+                    "middle": [],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.C.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "6723-6734",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.13.6723-6734.2004"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Identification of a novel protein 3a from severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "C.J.",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.C.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.H.",
+                    "middle": [],
+                    "last": "Hsiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.C.",
+                    "middle": [],
+                    "last": "Kuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.C.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.Y.",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.C.",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.H.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.M.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.F.",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.N.",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.J.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "FEBS Lett.",
+            "volume": "565",
+            "issn": "",
+            "pages": "111-116",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2004.03.086"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Overexpression of 7a, a protein specifically encoded by the severe acute respiratory syndrome coronavirus, induces apoptosis via a caspase-dependent pathway",
+            "authors": [
+                {
+                    "first": "Y.J.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.C.",
+                    "middle": [],
+                    "last": "Fielding",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.Y.",
+                    "middle": [],
+                    "last": "Goh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.H.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "14043-14047",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.24.14043-14047.2004"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Maniatis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.F.",
+                    "middle": [],
+                    "last": "Fritsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Sambrook",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Molecular Cloning: a Laboratory Manual",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Backbone dynamics of a free and phosphopeptide-complexed Src homology 2 domain studied by 15N NMR relaxation",
+            "authors": [
+                {
+                    "first": "N.A.",
+                    "middle": [],
+                    "last": "Farrow",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Muhandiran",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.U.",
+                    "middle": [],
+                    "last": "Singer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Pascal",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.M.",
+                    "middle": [],
+                    "last": "Kay",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Gish",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.E.",
+                    "middle": [],
+                    "last": "Shoelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Pawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.D.",
+                    "middle": [],
+                    "last": "Forman-Kay",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.E.",
+                    "middle": [],
+                    "last": "Kay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Biochemistry",
+            "volume": "33",
+            "issn": "",
+            "pages": "5984-6003",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi00185a040"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Keller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Computer Aided Resonance Assignment Tutorial",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Ambiguous NOEs and automated NOE assignment",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nilges",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.I.",
+                    "middle": [],
+                    "last": "O\u2019Donoghue",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Progr. Nucl. Magn. Res. Spectr.",
+            "volume": "32",
+            "issn": "",
+            "pages": "107-139",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0079-6565(97)00025-3"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "A calculation strategy for the structure determination of symmetric dimers by 1H NMR",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Nilges",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proteins",
+            "volume": "17",
+            "issn": "",
+            "pages": "297-309",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.340170307"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "MOLMOL: a program for display and analysis of macromolecular structures",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Koradi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Billeter",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Wuthrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Mol. Graph.",
+            "volume": "14",
+            "issn": "",
+            "pages": "51-55",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0263-7855(96)00009-4"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "AQUA and PROCHECK-NMR: programs for checking the quality of protein structures solved by NMR",
+            "authors": [
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Laskowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.A.C.",
+                    "middle": [],
+                    "last": "Rullmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.W.",
+                    "middle": [],
+                    "last": "MacArthur",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Kaptein",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Thornton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Biomol. NMR",
+            "volume": "8",
+            "issn": "",
+            "pages": "477-486",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF00228148"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "The Genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.J.",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.R.",
+                    "middle": [],
+                    "last": "Astell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.A.",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Brooks-Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.S.",
+                    "middle": [],
+                    "last": "Butterfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Khattra",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Asano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.A.",
+                    "middle": [],
+                    "last": "Barber",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.Y.",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Cloutier",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.M.",
+                    "middle": [],
+                    "last": "Coughlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Freeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Girn",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.L.",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.R.",
+                    "middle": [],
+                    "last": "Leach",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Mayo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "McDonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.B.",
+                    "middle": [],
+                    "last": "Montgomery",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.K.",
+                    "middle": [],
+                    "last": "Pandoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.S.",
+                    "middle": [],
+                    "last": "Petrescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.G.",
+                    "middle": [],
+                    "last": "Robertson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.E.",
+                    "middle": [],
+                    "last": "Schein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Siddiqui",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.E.",
+                    "middle": [],
+                    "last": "Smailus",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Stott",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.S.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Plummer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Andonov",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Artsob",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Bastien",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Bernard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.F.",
+                    "middle": [],
+                    "last": "Booth",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Bowness",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Czub",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Drebot",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Fernando",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Flick",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Garbutt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Gray",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Grolla",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Meyers",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Kabani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Normand",
+                    "suffix": ""
+                },
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Stroher",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.A.",
+                    "middle": [],
+                    "last": "Tipples",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Tyler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Vogrig",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.C.",
+                    "middle": [],
+                    "last": "Brunham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Krajden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Petric",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.M.",
+                    "middle": [],
+                    "last": "Skowronski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Upton",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.L.",
+                    "middle": [],
+                    "last": "Roper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "What If \u2013 a molecular modeling and drug design program",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Vriend",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Mol. Graph.",
+            "volume": "8",
+            "issn": "",
+            "pages": "52-56",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0263-7855(90)80070-V"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Kabsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Sander",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Biopolymers",
+            "volume": "22",
+            "issn": "",
+            "pages": "2577-2637",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/bip.360221211"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Structural specializations of immunoglobulin superfamily members for adhesion to integrins and viruses",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Immunol. Rev.",
+            "volume": "163",
+            "issn": "",
+            "pages": "197-215",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-065X.1998.tb01198.x"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The immunoglobulin fold. Structural classification, sequence patterns and common core",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Bork",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Holm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Sander",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Mol. Biol.",
+            "volume": "242",
+            "issn": "",
+            "pages": "309-320",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "A dimeric crystal structure for the N-terminal two domains of intercellular adhesion molecule-1",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Casasnovas",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Stehle",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "4134-4139",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.95.8.4134"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Crystal structure of ICAM-2 reveals a distinctive integrin recognition surface",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Casasnovas",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.C.",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature",
+            "volume": "387",
+            "issn": "",
+            "pages": "312-315",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/387312a0"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Crystal structure of the type-I interleukin-1 receptor complexed with interleukin-lbeta",
+            "authors": [
+                {
+                    "first": "G.P.",
+                    "middle": [],
+                    "last": "Vigers",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.J.",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Gaffes",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.J.",
+                    "middle": [],
+                    "last": "Brandhuber",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Nature",
+            "volume": "386",
+            "issn": "",
+            "pages": "190-194",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/386190a0"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Touring protein fold space with Dali/FSSP",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Holm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Sander",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nucl. Acids Res.",
+            "volume": "26",
+            "issn": "",
+            "pages": "216-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/26.1.316"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Cardiac graft intercellular adhesion molecule-1 (ICAM-1) and interleukin-1 expression mediate primary isograft failure and induction of ICAM-1 in organs remote from the site of transplantation",
+            "authors": [
+                {
+                    "first": "C.Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Naka",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.C.",
+                    "middle": [],
+                    "last": "Oz",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Gutierrez-Ramos",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.J.",
+                    "middle": [],
+                    "last": "Pinsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Circ. Res.",
+            "volume": "82",
+            "issn": "",
+            "pages": "762-772",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Leukocyte adhesion \u2013 structure and function of human leukocyte beta2-integrins and their cellular ligands",
+            "authors": [
+                {
+                    "first": "C.G.",
+                    "middle": [],
+                    "last": "Gahmberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Tolvanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Kotovuori",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Eur. J. Biochem.",
+            "volume": "245",
+            "issn": "",
+            "pages": "215-232",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1997.00215.x"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "SARS \u2013 beginning to understand a new virus",
+            "authors": [
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Stadler",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Masignani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Eickmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Abrignani",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.D.",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Rappuoli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nat. Rev. Microbiol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "209-218",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro775"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Structures of the alpha L I domain and its complex with ICAM-1 reveal a shape-shifting pathway for integrin regulation",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Shimaoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.D.",
+                    "middle": [],
+                    "last": "Jun",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "McCormack",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Joachimiak",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Takagi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "112",
+            "issn": "",
+            "pages": "99-111",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(02)01257-6"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "UCSF Chimera \u2013 a visualization system for exploratory research and analysis",
+            "authors": [
+                {
+                    "first": "E.F.",
+                    "middle": [],
+                    "last": "Pettersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.D.",
+                    "middle": [],
+                    "last": "Goddard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.C.",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.S.",
+                    "middle": [],
+                    "last": "Couch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.M.",
+                    "middle": [],
+                    "last": "Greenblatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.C.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.E.",
+                    "middle": [],
+                    "last": "Ferrin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Comput. Chem.",
+            "volume": "25",
+            "issn": "",
+            "pages": "1605-1612",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcc.20084"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Alscript \u2013 a tool to format multiple sequence alignments",
+            "authors": [
+                {
+                    "first": "G.J.",
+                    "middle": [],
+                    "last": "Barton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Protein Engineering",
+            "volume": "6",
+            "issn": "",
+            "pages": "37-40",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/protein/6.1.37"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Binding of the integrin Mac-1 (CD11b/CD18) to the third immunoglobulin-like domain of ICAM-1 (CD54) and its regulation by glycosylation",
+            "authors": [
+                {
+                    "first": "M.S.",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.E.",
+                    "middle": [],
+                    "last": "Staunton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.D.",
+                    "middle": [],
+                    "last": "Marlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Cell",
+            "volume": "65",
+            "issn": "",
+            "pages": "961-971",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(91)90548-D"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The I domain is a major recognition site on the leukocyte integrin Mac-1 (CD11b/CD18) for four distinct adhesion ligands",
+            "authors": [
+                {
+                    "first": "M.S.",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Garcia-Aguilar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.K.",
+                    "middle": [],
+                    "last": "Bickford",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.L.",
+                    "middle": [],
+                    "last": "Corbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Cell. Biol.",
+            "volume": "120",
+            "issn": "",
+            "pages": "1031-1043",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.120.4.1031"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Structure and allosteric regulation of the alpha X beta 2 integrin I domain",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Vorup-Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Ostermeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Shimaoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Hommel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.A.",
+                    "middle": [],
+                    "last": "Springer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "1873-1878",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0237387100"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "A novel leukointegrin, alpha d beta 2, binds preferentially to ICAM-3",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Van der Vieren",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Le Trong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.L.",
+                    "middle": [],
+                    "last": "Wood",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.F.",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "St John",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.E.",
+                    "middle": [],
+                    "last": "Staunton",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.M.",
+                    "middle": [],
+                    "last": "Gallatin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Immunity",
+            "volume": "3",
+            "issn": "",
+            "pages": "683-690",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/1074-7613(95)90058-6"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Host-derived ICAM-1 glycoproteins incorporated on human immunodeficiency virus type 1 are biologically active and enhance viral infectivity",
+            "authors": [
+                {
+                    "first": "J.F.",
+                    "middle": [],
+                    "last": "Fortin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Cantin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Lamontagne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Tremblay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "3588-3596",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Differential activities of the human immunodeficiency virus type 1-encoded Vpu protein are regulated by phosphorylation and occur in different cellular compartments",
+            "authors": [
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Schubert",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Strebel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Virol.",
+            "volume": "68",
+            "issn": "",
+            "pages": "2260-2271",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "CD4 glycoprotein degradation induced by human immunodeficiency virus type 1 Vpu protein requires the function of proteasomes and the ubiquitin-conjugating pathway",
+            "authors": [
+                {
+                    "first": "U.",
+                    "middle": [],
+                    "last": "Schubert",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.C.",
+                    "middle": [],
+                    "last": "Ant\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Bac\u00f3k",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.H.",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Bour",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.R.",
+                    "middle": [],
+                    "last": "Bennink",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Orlowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Strebel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.W.",
+                    "middle": [],
+                    "last": "Yewdell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "2280-2288",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Recent advances in the understanding of HIV accessory protein function",
+            "authors": [
+                {
+                    "first": "C.M.",
+                    "middle": [],
+                    "last": "Steffens",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.J.",
+                    "middle": [],
+                    "last": "Hope",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Aids",
+            "volume": "15",
+            "issn": "Suppl 5",
+            "pages": "S21-S26",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/00002030-200100005-00004"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "DC-SIGN and LFA-1: a battle for ligand",
+            "authors": [
+                {
+                    "first": "D.A.",
+                    "middle": [],
+                    "last": "Bleijs",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.B.",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.G.",
+                    "middle": [],
+                    "last": "Figdor",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Trends Immunol.",
+            "volume": "22",
+            "issn": "",
+            "pages": "457-463",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1471-4906(01)01974-3"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Leukocyte adhesion molecules deficiency: its structural basis, pathophysiology and implications for modulating the inflammatory response",
+            "authors": [
+                {
+                    "first": "M.A.",
+                    "middle": [],
+                    "last": "Arnaout",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Immunol. Rev.",
+            "volume": "114",
+            "issn": "",
+            "pages": "145-180",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-065X.1990.tb00564.x"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Tumor necrosis factor alpha enhances Actinobacillus actinomycetemcomitans leukotoxin-induced HL-60 cell apoptosis by stimulating lymphocyte function-associated antigen 1 expression",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Yamaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Kubo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Masuhiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.T.",
+                    "middle": [],
+                    "last": "Lally",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Koga",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hanazawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect. Immun.",
+            "volume": "72",
+            "issn": "",
+            "pages": "269-276",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/IAI.72.1.269-276.2004"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Expression of lymphocytes and lymphocyte subsets in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.Y.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.P.",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin. Infect. Dis.",
+            "volume": "37",
+            "issn": "",
+            "pages": "857-859",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/378587"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "How does HIV cause AIDS? The homing theory",
+            "authors": [
+                {
+                    "first": "M.W.",
+                    "middle": [],
+                    "last": "Cloyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.J.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Med. Today",
+            "volume": "6",
+            "issn": "",
+            "pages": "108-111",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1357-4310(99)01663-9"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Is EIAV Tat protein a homeodomain?",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "R\u00f6sch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Willbold",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Science",
+            "volume": "272",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.272.5268.1672"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Equine infectious anemia virus transactivator is a homeodomain type protein",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Willbold",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Metzger",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Sticht",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Voit",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.C.",
+                    "middle": [],
+                    "last": "Gallert",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Dank",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Bayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Krauss",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.S.",
+                    "middle": [],
+                    "last": "Goody",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "R\u00f6sch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Mol. Biol.",
+            "volume": "277",
+            "issn": "",
+            "pages": "749-755",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1998.1636"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Secondary structure and tertiary fold of the human immunodeficiency virus protein U(Vpu) cytoplasmic domain in solution",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Willbold",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Hoffmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "R\u00f6sch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Eur. J. Biochem.",
+            "volume": "245",
+            "issn": "",
+            "pages": "581-588",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1997.t01-1-00581.x"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "The human immunodeficiency virus type 1 Vpu protein enhances membrane permeability",
+            "authors": [
+                {
+                    "first": "M.E.",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": " Biochemistry",
+            "volume": "37",
+            "issn": "",
+            "pages": "13710-13719",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi981527f"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "The HIV-1 Vpu protein: a multifunctional enhancer of viral particle release",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Bour",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Strebel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Microbes Infect.",
+            "volume": "5",
+            "issn": "",
+            "pages": "1029-1039",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1286-4579(03)00191-6"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Human major group rhino viruses downmodulate the accessory function of monocytes by inducing IL-10",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Stockl",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Vetr",
+                    "suffix": ""
+                },
+                {
+                    "first": "O.",
+                    "middle": [],
+                    "last": "Majdic",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Zlabinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Kuechler",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Knapp",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Clin. Invest.",
+            "volume": "104",
+            "issn": "",
+            "pages": "957-965",
+            "other_ids": {
+                "DOI": [
+                    "10.1172/JCI7255"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Structure and intracellular targeting of the SARS-coronavirus Orf7a accessory protein",
+            "authors": [
+                {
+                    "first": "C.A.",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Pekosz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.A.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.S.",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.H.",
+                    "middle": [],
+                    "last": "Fremont",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Structure",
+            "volume": "13",
+            "issn": "",
+            "pages": "75-85",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.str.2004.10.010"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "E.J.",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.J.",
+                    "middle": [],
+                    "last": "Bredenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.C.",
+                    "middle": [],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "V.",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.L.",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Rozanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.J.",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.E.",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol.",
+            "volume": "331",
+            "issn": "",
+            "pages": "991-1004",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(03)00865-9"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Characterization of a unique group-specific protein (U122) of the severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "B.C.",
+                    "middle": [],
+                    "last": "Fielding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.J.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Shuo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.H.",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E.E.",
+                    "middle": [],
+                    "last": "Ooi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.G.",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.Y.",
+                    "middle": [],
+                    "last": "Goh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "7311-7318",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.14.7311-7318.2004"
+                ]
+            }
+        }
+    }
+}

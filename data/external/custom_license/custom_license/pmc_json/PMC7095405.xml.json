@@ -1,0 +1,945 @@
+{
+    "paper_id": "PMC7095405",
+    "metadata": {
+        "title": "T cell-mediated restriction of intracerebral murine cytomegalovirus infection displays dependence upon perforin but not interferon-\u03b3",
+        "authors": [
+            {
+                "first": "Maxim",
+                "middle": [
+                    "C.",
+                    "-J."
+                ],
+                "last": "Cheeran",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Genya",
+                "middle": [],
+                "last": "Gekker",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Shuxian",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Joseph",
+                "middle": [
+                    "M."
+                ],
+                "last": "Palmquist",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "James",
+                "middle": [
+                    "R."
+                ],
+                "last": "Lokensgard",
+                "suffix": "",
+                "email": "jlokensgard@mmrf.org",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "CCR5(+) and CXCR3(+) T cells are increased in multiple sclerosis and their ligands MIP-1alpha and IP-10 are expressed in demyelinating brain lesions",
+            "authors": [
+                {
+                    "first": "KE",
+                    "middle": [],
+                    "last": "Balashov",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Rottman",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Weiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "WW",
+                    "middle": [],
+                    "last": "Hancock",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "96",
+            "issn": "",
+            "pages": "6873-6878",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.96.12.6873"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "T cell-dependent IFN-gamma exerts an antiviral effect in the central nervous system but not in peripheral solid organs",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Kundig",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hengartner",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Zinkernagel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Immunol",
+            "volume": "150",
+            "issn": "",
+            "pages": "2316-2321",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) method",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Livak",
+                    "suffix": ""
+                },
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Schmittgen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Methods",
+            "volume": "25",
+            "issn": "",
+            "pages": "402-408",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/meth.2001.1262"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Chemokine receptor specific for IP10 and mig: structure, function, and expression in activated T-lymphocytes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Loetscher",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Loetscher",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Piali",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Clark-Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baggiolini",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moser",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Exp Med",
+            "volume": "184",
+            "issn": "",
+            "pages": "963-969",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.184.3.963"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "MHC class I-restricted killing of neurons by virus-specific CD8+ T lymphocytes is effected through the Fas/FasL, but not the perforin pathway",
+            "authors": [
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Medana",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gallimore",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Oxenius",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Martinic",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wekerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Neumann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Eur J Immunol",
+            "volume": "30",
+            "issn": "",
+            "pages": "3623-3633",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/1521-4141(200012)30:12<3623::AID-IMMU3623>3.0.CO;2-F"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Immune-mediated protection from measles virus-induced central nervous system disease is noncytolytic and gamma interferon dependent",
+            "authors": [
+                {
+                    "first": "CE",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Lawrence",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Echols",
+                    "suffix": ""
+                },
+                {
+                    "first": "GF",
+                    "middle": [],
+                    "last": "Rall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "4497-4506",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.9.4497-4506.2002"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Interstitial murine cytomegalovirus pneumonia after irradiation: characterization of cells that limit viral replication during established infection of the lungs",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Reddehase",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Weiland",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Munch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jonjic",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Luske",
+                    "suffix": ""
+                },
+                {
+                    "first": "UH",
+                    "middle": [],
+                    "last": "Koszinowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J Virol",
+            "volume": "55",
+            "issn": "",
+            "pages": "264-273",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "The antiviral activity of immune CD8+ T cells is dependent on interferon-gamma",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ruby",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ramshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Lymphokine Cytokine Res",
+            "volume": "10",
+            "issn": "",
+            "pages": "353-358",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Expression of the interferon-gamma-inducible chemokines IP-10 and Mig and their receptor, CXCR3, in multiple sclerosis lesions",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Newcombe",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Cuzner",
+                    "suffix": ""
+                },
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Woodroofe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Neuropathol Appl Neurobiol",
+            "volume": "26",
+            "issn": "",
+            "pages": "133-142",
+            "other_ids": {
+                "DOI": [
+                    "10.1046/j.1365-2990.2000.026002133.x"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Multiple sclerosis: a study of CXCL10 and CXCR3 co-localization in the inflamed central nervous system",
+            "authors": [
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Sorensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Trebst",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kivisakk",
+                    "suffix": ""
+                },
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Klaege",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Majmudar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ravid",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lassmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Strieter",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Ransohoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sellebjerg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Neuroimmunol",
+            "volume": "127",
+            "issn": "",
+            "pages": "59-68",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0165-5728(02)00097-8"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Peripheral blood mononuclear phagocytes mediate dissemination of murine cytomegalovirus",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Stoddart",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Cardin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Boname",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Manning",
+                    "suffix": ""
+                },
+                {
+                    "first": "GB",
+                    "middle": [],
+                    "last": "Abenes",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Mocarski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Virol",
+            "volume": "68",
+            "issn": "",
+            "pages": "6243-6253",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Perforin and gamma interferon-mediated control of coronavirus central nervous system infection by CD8 T cells in the absence of CD4 T cells",
+            "authors": [
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Bergmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Parra",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Hinton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ramakrishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Dowdell",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Stohlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "1739-1350",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.4.1739-1750.2004"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The art of survival during viral persistence",
+            "authors": [
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Stohlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ramakrishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "SI",
+                    "middle": [],
+                    "last": "Tschen",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Hinton",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Bergmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J NeuroVirol",
+            "volume": "8",
+            "issn": "Suppl 2",
+            "pages": "53-58",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13550280290167884"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "An essential role for type 1 interferon-gamma in terminating persistent viral infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tishon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lewicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rall",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Von Herrath",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Oldstone",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Virology",
+            "volume": "212",
+            "issn": "",
+            "pages": "244-250",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1995.1477"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Interferon-gamma-mediated site-specific clearance of alphavirus from CNS neurons",
+            "authors": [
+                {
+                    "first": "GK",
+                    "middle": [],
+                    "last": "Binder",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "293",
+            "issn": "",
+            "pages": "303-306",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1059742"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Intracerebral infection with murine cytomegalovirus induces CXCL10 and is restricted by adoptive transfer of splenocytes",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Cheeran",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gekker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Min",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Lokensgard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J NeuroVirol",
+            "volume": "10",
+            "issn": "",
+            "pages": "152-162",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13550280490441130"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Loss of the perforin cytotoxic pathway predisposes mice to experimental cytomegalovirus retinitis",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Dix",
+                    "suffix": ""
+                },
+                {
+                    "first": "ER",
+                    "middle": [],
+                    "last": "Podack",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Cousins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "3402-3408",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.6.3402-3408.2003"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Gamma interferon is a major mediator of antiviral defense in experimental measles virus-induced encephalitis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Finke",
+                    "suffix": ""
+                },
+                {
+                    "first": "UG",
+                    "middle": [],
+                    "last": "Brinckmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "ter Meulen",
+                    "suffix": ""
+                },
+                {
+                    "first": "UG",
+                    "middle": [],
+                    "last": "Liebert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Virol",
+            "volume": "69",
+            "issn": "",
+            "pages": "5469-5474",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Cytokine-mediated control of viral infections",
+            "authors": [
+                {
+                    "first": "LG",
+                    "middle": [],
+                    "last": "Guidotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "FV",
+                    "middle": [],
+                    "last": "Chisari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Virology",
+            "volume": "273",
+            "issn": "",
+            "pages": "221-227",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2000.0442"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Site-restricted persistent cytomegalovirus infection after selective long-term depletion of CD4+ T lymphocytes",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jonjic",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Weiland",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Reddehase",
+                    "suffix": ""
+                },
+                {
+                    "first": "UH",
+                    "middle": [],
+                    "last": "Koszinowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J Exp Med",
+            "volume": "169",
+            "issn": "",
+            "pages": "1199-1212",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.169.4.1199"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Cellular and molecular basis of the protective immune response to cytomegalovirus infection",
+            "authors": [
+                {
+                    "first": "UH",
+                    "middle": [],
+                    "last": "Koszinowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Del Val",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Reddehase",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Curr Top Microbiol Immunol",
+            "volume": "154",
+            "issn": "",
+            "pages": "189-220",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

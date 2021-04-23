@@ -1,0 +1,780 @@
+{
+    "paper_id": "PMC3808852",
+    "metadata": {
+        "title": "MicroRNA-based strategy to mitigate the risk of gain-of-function influenza studies",
+        "authors": [
+            {
+                "first": "Ryan",
+                "middle": [
+                    "A."
+                ],
+                "last": "Langlois",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Randy",
+                "middle": [
+                    "A."
+                ],
+                "last": "Albrecht",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Brian",
+                "middle": [],
+                "last": "Kimble",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Troy",
+                "middle": [],
+                "last": "Sutton",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jillian",
+                "middle": [
+                    "S."
+                ],
+                "last": "Shapiro",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Courtney",
+                "middle": [],
+                "last": "Finch",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Matthew",
+                "middle": [],
+                "last": "Angel",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Mark",
+                "middle": [
+                    "A."
+                ],
+                "last": "Chua",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Ana",
+                "middle": [
+                    "Silvia"
+                ],
+                "last": "Gonzalez-Reiche",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Kemin",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Daniel",
+                "middle": [],
+                "last": "Perez",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Adolfo",
+                "middle": [],
+                "last": "Garc\u00eda-Sastre",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Benjamin",
+                "middle": [
+                    "R."
+                ],
+                "last": "tenOever",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "Purification of total RNA, isolation, cloning of the small RNA fraction, sequencing and analysis on the illumina platform, and Northern blots were performed as previously described13. Northern blot probes: miR-192: 5\u2032-GGCTGTCAATTCATAGGTCAG-3\u2032, miR-193b: 5\u2032-AGCGGGACTTTGTGGGCCAGTT-3\u2032, miR-138: 5\u2032-CGGCCTGATTCACAACACCAGCT-3\u2032 and U6: 5\u2032-GCCATGCTAATCTTCTCTGTATC-3\u2032. Quantitative PCR for the detection of miR-192 was performed on 10 ng of RNA using the TaqMan (Applied Biosystems) reverse transcription kit according to the manufacturer\u2019s instruction. cDNA was then analyzed using TaqMan probes specific for mature miR-192 and miR-20a on a realplex thermocycler (Eppendorf). miR-20a was used for normalization as levels are similar between human A549 and ferret lung samples.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 182,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Deep sequencing, Northern blot and qPCR analysis ::: METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Calu3 (human bronchial epithelia) cells were purchased from ATCC (HT-B55) and were confirmed to be mycoplasma free. A549 (human small airway) cells were purchased from ATCC (CCL-185). Human nasal epithelial cells suspended in RNAlater were purchased from Promocell (C-14062). F56 (ferret fibroblasts) cells were derived directly from na\u00efve ferret lung parenchyma. MDCK (canine kidney) cells were kindly provided by Dr. Peter Palese (MSSM). MDCK cells expressing full-length primary miR-192 (MDCK192) were generated similar to MDCK cells expressing miR-142 13. These A549, MDCK and MDCK192 cells have not been tested for mycoplasma contamination.",
+            "cite_spans": [
+                {
+                    "start": 556,
+                    "end": 558,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "section": "Cell lines ::: METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "181 or 154 nucleotides of the 3\u2032 end of H3/Wyoming and H5/Vietnam HAlo mRNA were duplicated respectively, and inserted immediately upstream of their cognate stop codons by site directed mutagenesis. This recreated the endogenous open reading frame for HA with a non-overlapping packing sequence separated by a unique Cla1 site. The Cla1 site, located immediately 3\u2032 to the HA mRNA stop codon, was used for insertion of miR-192 (5\u2032-GGCTGTCAATTCATAGGTCAG-3\u2032) or scrambled (5\u2032-ATCGATAGGAATTTACCAAAT-3\u2032) targeting sequences. Viruses were rescued by standard reverse genetics, plaque purified, sequence confirmed, and quantified by plaque assay. Multicycle growth curves were performed in MDCK, MDCK192 and A549 cells in the presence of TPCK trypsin. Supernatant was harvested at the indicated time-points and titers assessed by plaque assay. The limit of detection for all virus titration experiments is 20 pfu.",
+            "cite_spans": [],
+            "section": "Virus design, rescue and growth assays ::: METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Single cycle infections were performed at a multiplicity of infection of one and whole protein was extracted and separated on a 7.5%-10% SDS/PAGE gel and transferred to nitrocellulose (Bio-Rad). Membrane was blocked for 1 h with 5% skim milk at 25 \u00b0C, and then incubated with the indicated primary antibody overnight at 4 \u00b0C. Antibodies specific for actin (PA5-17568 Thermoscientific), H5 HAlo (DPJY02 (3B2) NR-19870 bei Resources, works in HI, WB, IFA, ELISA), and NP (NR-4544 bei Resources) were added at a concentration of 1 \u03bcg/mL in 5% skim milk. Serum from H5 HAlo infected mice was used at a 1:5000 dilution. Secondary mouse antibodies (NA931V GE Healthcare) were used at a 1:5000 dilution for 1 h at 25 \u00b0C. Protein was detected using Immobilon Western Chemiluminescent HRP Substrate (Millipore) as directed by the manufacturer.",
+            "cite_spans": [],
+            "section": "Western blot analysis ::: METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "All animal experiments were performed in accordance with Mount Sinai School of Medicine Institution of Animal Care and Use Committee. C57BL/6 8-week old female mice were purchased from Taconic. For these experiments mice were not randomized and investigators were not blinded. Mice were anesthetized with a ketamine, xylazine, H2O mixture then infected intranasally with 100 pfu of WT, ctrl or 192t H5 HAlo virus. Where indicated mice were infected with 1,000 pfu of 192t H5 Halo virus. Lungs were harvested at three and five days post infection and homogenized in PBS either for direct titering or protein analysis.",
+            "cite_spans": [],
+            "section": "Mouse infections ::: METHODS",
+            "ref_spans": []
+        },
+        {
+            "text": "Animal studies were performed as described previously with minor modifications1. Briefly, transmission studies were performed in an ABSL2+ facility at the Department of Veterinary Medicine, University of Maryland. Animal studies described were carried out according to the guidelines of the Animal Care and Use Committee of the University of Maryland (protocol RO-09-93). For these studies ferrets were not randomized and investigators were not blinded. Prior to inoculation, 23-week-old female ferrets (Sayre, PA) were housed in holding BSL2 for 1.5 weeks to establish a baseline for temperature, weight, and general health. Serum from each ferret was assayed by NP-specific ELISA to rule out prior IAV exposure. Transponders were implanted subcutaneously to provide a means of identification and temperature determination. Ferrets were inoculated with 105 tissue culture infectious dose 50 (TCID50), the amount of virus required to infect 50% of infected cell cultures, diluted in PBS (0.5ml total volume, 0.25ml/nostril was administered intranasally). Directly infected ferrets were inoculated one day prior to the introduction of the na\u00efve direct contact and respiratory contact ferrets. Ferrets were nasal washed (0.25ml PBS/nostril) every day following the administration of anesthesia and assayed by FluDetect (Synbiotics Corp.). Nasal washes continued until animals tested negative for two consecutive days. To prevent cross contamination, ferrets were handled in the following order: RC, DC, DI. Gloves were changed between every virus group. Once an RC ferret tested positive, they became the last to be nasal washed. All viruses, including nasal wash samples and virus stocks, were titrated in MDCK cells by TCID50. Titers were read using 0.5% Turkey RBC three days post-infection.",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 79,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "section": "Transmission studies ::: METHODS",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: Species-specific miRNA expression. Small RNAs were isolated from the human lung epithelial cell line A549, from ferret lung, and from madin-darby canine kidney (MDCK) cells. Small RNAs were cloned and deep sequenced. Graph depicts percent of each miRNA among total miRNA, and displays the ten miRNAs most highly expressed in A549 cells.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Species-specific miRNAs can be exploited to control influenza A virus tropism. a, Schematic illustrating WT (unmanipulated) and engineered (ctrl and 192t) HA viral segments. For the engineered segments the complete packaging signal (black) was duplicated allowing for insertion of the ctrl or miR-192 target sequences. Grey area represents HA open reading frame. b, MDCK and MDCK192 cells (right panel) or A549 cells (left panel) were infected with WT, ctrl or 192t H5 HAlo virus. After a single cycle of infection, abundance of viral HA and NP was determined by Western blot. Actin, loading control. c, Replication kinetics of viruses depicted in a in MDCK and MDCK192 cells. Data points indicate plaque quantifications performed in triplicate at indicated hours post-infection (hpi); error bars represent the standard error of the mean. Data are representative of two independent experiments.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Species-specific miR-192 targeting attenuates influenza A virus infection in mice. Mice were infected with 100 plaque forming units (pfu) of WT, ctrl or 192t H5 HAlo virus (or with 1000pfu of 192t virus, indicated as 10x) intranasally and weight loss a, and mortality b, were assessed daily (n= 9 wt, 9 ctrl, 10 192t and 5 10x192t mice per group). c, mice were infected as in a and virus titered from whole lung at 3 and 5 days post infection (dpi) (n= 3 mice per group; each dot represents an individual mouse). d, Mice were infected as in a and viral HA and NP protein expression were determined by Western blot three days after infection. Actin, loading control. Data are representative of two independent experiments. Morbidity and mortality data were pooled from two experiments with 4-5 mice per group in each experiment. Error bars represent the standard error of the mean.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Species-specific miRNA-targeting of influenza A virus does not impact virus capacity to infect, replicate or transmit between ferrets. Ferrets were directly infected with WT (a), ctrl (b) or 192t (c) H3N2 viruses and monitored by nasal wash on indicated days post infection (dpi). Infections induced by direct contact (left panels) or respiratory contact (right panels) were determined by nasal wash of na\u00efve animals co-housed with directly infected animal. Open and closed bars represent individual ferrets.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Airborne transmission of influenza A/H5N1 virus between ferrets",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Herfst",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Science",
+            "volume": "336",
+            "issn": "",
+            "pages": "1534-1541",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Structural Determinants for Naturally Evolving H5N1 Hemagglutinin to Switch Its Receptor Specificity",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tharakaraman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Cell",
+            "volume": "153",
+            "issn": "",
+            "pages": "1475-1485",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "H5N1 Hybrid Viruses Bearing 2009/H1N1 Virus Genes Transmit in Guinea Pigs by Respiratory Droplet",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Pause on avian flu transmission research",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Science",
+            "volume": "335",
+            "issn": "",
+            "pages": "400-401",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Hematopoietic-specific targeting of influenza A virus reveals replication requirements for induction of antiviral immune responses",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Langlois",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Varble",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garcia-Sastre",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "tenOever",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "109",
+            "issn": "",
+            "pages": "12117-12122",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "MicroRNA-mediated species-specific attenuation of influenza A virus",
+            "authors": [
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Biotechnol",
+            "volume": "27",
+            "issn": "",
+            "pages": "572-576",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Influenza A virus utilizes suboptimal splicing to coordinate the timing of infection",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schmid",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Langlois",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Tenoever",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Cell Rep",
+            "volume": "3",
+            "issn": "",
+            "pages": "23-29",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Control of vertebrate multiciliogenesis by miR-449 through direct repression of the Delta/Notch pathway",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Marcet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat Cell Biol",
+            "volume": "13",
+            "issn": "",
+            "pages": "693-699",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "The multibasic cleavage site in H5N1 virus is critical for systemic spread along the olfactory and hematogenous routes in ferrets",
+            "authors": [
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Schrauwen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "3975-3984",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "The multibasic cleavage site of the hemagglutinin of highly pathogenic A/Vietnam/1203/2004 (H5N1) avian influenza virus acts as a virulence factor in a host-specific manner in mammals",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Suguitan",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "2706-2714",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Influenza A viruses: new research developments",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Medina",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Garcia-Sastre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat Rev Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "590-603",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "The potential for respiratory droplet-transmissible A/H5N1 influenza virus to evolve in a mammalian host",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Science",
+            "volume": "336",
+            "issn": "",
+            "pages": "1541-1547",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Live attenuated influenza viruses containing NS1 truncations as vaccine candidates against H5N1 highly pathogenic avian influenza",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Steel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "1742-1753",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Replication and transmission of H9N2 influenza viruses in ferrets: evaluation of pandemic potential",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS One",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Harnessing endogenous miRNAs to control virus tissue tropism as a strategy for developing attenuated virus vaccines",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Barnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kunitomi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vignuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Saksela",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Andino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell Host Microbe",
+            "volume": "4",
+            "issn": "",
+            "pages": "239-248",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "MicroRNA targeting of neurotropic flavivirus: effective control of virus escape and reversion to neurovirulent phenotype",
+            "authors": [
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Heiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "OA",
+                    "middle": [],
+                    "last": "Maximova",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Thach",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Speicher",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Pletnev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "5647-5659",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Replication in cells of hematopoietic origin is necessary for Dengue virus dissemination",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Pham",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Langlois",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "TenOever",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Pathog",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Orthomyxoviruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Palese",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Fields Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "1648-1698",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Characterization of the reconstructed 1918 Spanish influenza pandemic virus",
+            "authors": [
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Tumpey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "77-80",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Human Infection with a Novel Avian-Origin Influenza A (H7N9) Virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl JMed",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Highly pathogenic H5N1 influenza virus infection in migratory birds",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "309",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Lack of transmission of H5N1 avian-human reassortant influenza viruses in a ferret model",
+            "authors": [
+                {
+                    "first": "TR",
+                    "middle": [],
+                    "last": "Maines",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "103",
+            "issn": "",
+            "pages": "12121-12126",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Infectivity, Transmission, and Pathology of Human H7N9 Influenza in Ferrets and Pigs",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Receptor binding by a ferret-transmissible H5 avian influenza virus",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "497",
+            "issn": "",
+            "pages": "392-396",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

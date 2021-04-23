@@ -1,0 +1,937 @@
+{
+    "paper_id": "PMC7088594",
+    "metadata": {
+        "title": "Drosophila melanogaster as a model for studying the function of animal viral proteins",
+        "authors": [
+            {
+                "first": "L.",
+                "middle": [
+                    "V."
+                ],
+                "last": "Omel\u2019yanchuk",
+                "suffix": "",
+                "email": "ome@mcb.nsc.ru",
+                "affiliation": {}
+            },
+            {
+                "first": "O.",
+                "middle": [
+                    "S."
+                ],
+                "last": "Yudina",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Around the Genomes: The Drosophila Genome Project",
+            "authors": [
+                {
+                    "first": "G.M.",
+                    "middle": [],
+                    "last": "Rubin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Genome Res.",
+            "volume": "6",
+            "issn": "2",
+            "pages": "71-79",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gr.6.2.71"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "An Apoptosis-Inhibiting Baculovirus Gene with a Zinc Finger-Like Motif",
+            "authors": [
+                {
+                    "first": "N.E.",
+                    "middle": [],
+                    "last": "Crook",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.J.",
+                    "middle": [],
+                    "last": "Clem",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.K.",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Virol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "2168-2174",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Induction of bcl-2 Expression by Epstein-Barr Virus Latent Membrane Protein 1 Protects Infected B Cells from Programmed Cell Death",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Cell",
+            "volume": "65",
+            "issn": "",
+            "pages": "1107-1115",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(91)90007-L"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Epstein-Barr Virus-Coded BHRF1 Protein, a Viral Homologue of Bcl-2, Protects Human B Cells from Programmed Cell Death",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Huen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Rowe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "90",
+            "issn": "",
+            "pages": "8479-8483",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.90.18.8479"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The 19-Kilodalton Adenovirus E1B Transforming Protein Inhibits Programmed Cell Death and Prevents Cytolysis by Tumor Necrosis Factor Alpha",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Sabbatini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Debbas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "2570-2580",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "A 14.700 MW Protein from the E3 Region of Adenovirus Inhibits Cytolysis by Tumor Necrosis Factor",
+            "authors": [
+                {
+                    "first": "L.R.",
+                    "middle": [],
+                    "last": "Gooding",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.W.",
+                    "middle": [],
+                    "last": "Elmore",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.E.",
+                    "middle": [],
+                    "last": "Tollefson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Cell",
+            "volume": "53",
+            "issn": "",
+            "pages": "341-346",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(88)90154-7"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "The 10.400- and 14.500-Dalton Proteins Encoded by Region E3 of Adenovirus Function Together to Protect Many but not All Mouse Cell Lines Against Lysis by Tumor Necrosis Factor",
+            "authors": [
+                {
+                    "first": "L.R.",
+                    "middle": [],
+                    "last": "Gooding",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.S.",
+                    "middle": [],
+                    "last": "Ranheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.E.",
+                    "middle": [],
+                    "last": "Tollefson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Virol.",
+            "volume": "65",
+            "issn": "",
+            "pages": "4114-4123",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "The E1B-19K Protein of Group C Adenoviruses Prevents Cytolysis by Tumor Necrosis Factor of Human Cells but not Mouse Cells",
+            "authors": [
+                {
+                    "first": "L.R.",
+                    "middle": [],
+                    "last": "Gooding",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Aquino",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.J.",
+                    "middle": [],
+                    "last": "Duerlsen-Hughes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Virol.",
+            "volume": "65",
+            "issn": "",
+            "pages": "3083-3094",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Expression of Baculovirus P35 Prevents Cell Death in Drosophila",
+            "authors": [
+                {
+                    "first": "B.A.",
+                    "middle": [],
+                    "last": "Hay",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Wolff",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.M.",
+                    "middle": [],
+                    "last": "Rubin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Development",
+            "volume": "120",
+            "issn": "",
+            "pages": "2121-2129",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Programmed Cell Death during Drosophila Embryogenesis",
+            "authors": [
+                {
+                    "first": "J.M.",
+                    "middle": [],
+                    "last": "Abrams",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.I.",
+                    "middle": [],
+                    "last": "Fessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Steller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Development",
+            "volume": "117",
+            "issn": "1",
+            "pages": "29-43",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "A Drosophila Model of HIV-Tat-Related Pathogenicity",
+            "authors": [
+                {
+                    "first": "P.A.",
+                    "middle": [],
+                    "last": "Battaglia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Zito",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Macchini",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Gigliani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Cell Sci.",
+            "volume": "114",
+            "issn": "part15",
+            "pages": "2787-2794",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Mechanism of HIV-1 Tat RNA Translation and Its Activation by the Tat Protein",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Charnay",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Ivanyi-Nagy",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Soto-Rifo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Retrovirology",
+            "volume": "6",
+            "issn": "",
+            "pages": "74-74",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1742-4690-6-74"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Nef Induces Apoptosis by Activating JNK Signaling Pathway and Inhibits NF-B-Dependent Immune Responses in Drosophila",
+            "authors": [
+                {
+                    "first": "S.B.",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.U.",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Cell Sci.",
+            "volume": "118",
+            "issn": "",
+            "pages": "1851-1859",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/jcs.02312"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Directed Expression of the HIV-1 Accessory Protein Vpu in Drosophila Fat-Body Cells Inhibits Toll-Dependent Immune Responses",
+            "authors": [
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Leulier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Marchal",
+                    "suffix": ""
+                },
+                {
+                    "first": "I.",
+                    "middle": [],
+                    "last": "Miletich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "EMBO Rep.",
+            "volume": "4",
+            "issn": "",
+            "pages": "976-981",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.embor.embor936"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Two Distinct Pathways Can Control Expression of the Drosophila Antimicrobial Peptide Metchnikowin",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Levashina",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Ohresser",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Lemaitre",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Imler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Mol. Biol.",
+            "volume": "278",
+            "issn": "",
+            "pages": "515-527",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1998.1705"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Drosophila melanogaster as a Complementary System for Studying HIV-1-Related Genes and Proteins",
+            "authors": [
+                {
+                    "first": "C.R.",
+                    "middle": [],
+                    "last": "Spresser",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.A.",
+                    "middle": [],
+                    "last": "Carlson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Neurosci. Res.",
+            "volume": "80",
+            "issn": "4",
+            "pages": "451-455",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jnr.20460"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "In vivo Functional Characterization of the SARS-Coronavirus 3a Protein in Drosophila",
+            "authors": [
+                {
+                    "first": "S.L.",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.M.",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "337",
+            "issn": "2",
+            "pages": "720-729",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2005.09.098"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Modeling Early Epstein-Barr Virus Infection in Drosophila melanogaster: The BZLF1 Protein",
+            "authors": [
+                {
+                    "first": "A.L.",
+                    "middle": [],
+                    "last": "Adamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.R.",
+                    "middle": [],
+                    "last": "LaJeunesse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Genetics",
+            "volume": "171",
+            "issn": "",
+            "pages": "1125-1135",
+            "other_ids": {
+                "DOI": [
+                    "10.1534/genetics.105.042572"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Outcome of Symptomatic Congenital Cytomegalovirus Infection, Results of Long-Term Longitudinal Follow-Up",
+            "authors": [
+                {
+                    "first": "R.F.",
+                    "middle": [],
+                    "last": "Pass",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Stagno",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.J.",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.A.",
+                    "middle": [],
+                    "last": "Alford",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Pediatrics",
+            "volume": "66",
+            "issn": "",
+            "pages": "758-762",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Human Cytomegalovirus Immediate-Early-Gene Expression Disrupts Embryogenesis in Transgenic Drosophila",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Steinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Shemer-Avni",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Adler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Neuman-Silberberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Transgenic Res.",
+            "volume": "17",
+            "issn": "",
+            "pages": "105-119",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11248-007-9136-5"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Shors",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Understanding Viruses",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "A Systematic Analysis of Human Disease-Associated Gene Sequences in Drosophila melanogaster",
+            "authors": [
+                {
+                    "first": "L.T.",
+                    "middle": [],
+                    "last": "Reiter",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Potocki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Chien",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Genome Res.",
+            "volume": "11",
+            "issn": "6",
+            "pages": "1114-1125",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gr.169101"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Transposable Elements as Tools for Genomics and Genetics in Drosophila",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Ryder",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Brief Funct. Genomic Proteomic",
+            "volume": "2",
+            "issn": "1",
+            "pages": "57-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bfgp/2.1.57"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Targeted Gene Expression as a Means of Altering Cell Fates and Generating Dominant Phenotypes",
+            "authors": [
+                {
+                    "first": "A.H.",
+                    "middle": [],
+                    "last": "Brand",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Perrimon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Development",
+            "volume": "118",
+            "issn": "",
+            "pages": "401-415",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "The 1.2-Megabase Genome Sequence of Mimivirus",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Raoult",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Audic",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Robert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "306",
+            "issn": "5700",
+            "pages": "1344-1350",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1101485"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Large-Scale Sequencing of Human Influenza Reveals the Dynamic Nature of Viral Genome Evolution",
+            "authors": [
+                {
+                    "first": "E.",
+                    "middle": [],
+                    "last": "Ghedin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Sengamalay",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Shumway",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "437",
+            "issn": "",
+            "pages": "1162-1166",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04239"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The y134. 5 Gene of Herpes Simplex Virus 1 Precludes Neuroblastoma Cells from Triggering Total Shutoff of Protein Synthesis Characteristic of Programmed Cell Death in Neuronal Cells",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Roizman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "3266-3270",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.89.8.3266"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Prevention of Apoptosis by a Baculovirus Gene during Infection of Insect Cells",
+            "authors": [
+                {
+                    "first": "R.J.",
+                    "middle": [],
+                    "last": "Clem",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Fechheimer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.K.",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Science",
+            "volume": "254",
+            "issn": "",
+            "pages": "1388-1390",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1962198"
+                ]
+            }
+        }
+    }
+}

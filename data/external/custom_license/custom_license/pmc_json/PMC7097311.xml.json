@@ -1,0 +1,4789 @@
+{
+    "paper_id": "PMC7097311",
+    "metadata": {
+        "title": "Viral subversion of the host protein synthesis machinery",
+        "authors": [
+            {
+                "first": "Derek",
+                "middle": [],
+                "last": "Walsh",
+                "suffix": "",
+                "email": "derek.walsh@nyumc.org",
+                "affiliation": {}
+            },
+            {
+                "first": "Ian",
+                "middle": [],
+                "last": "Mohr",
+                "suffix": "",
+                "email": "ian.mohr@med.nyu.edu",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Viral functions and their impact on host translation factor targets\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: The process of translation has three phases: initiation, elongation and termination. Each stage requires specific translation factors. a | Initiation. The 40S ribosome bound to eukaryotic translation initiation factor 1 (eIF1), eIF1A, the eIF3 complex and eIF5 is loaded with initiator-methionine tRNA (Met-tRNAi) in the P site by eIF2\u00b7GTP, forming a 43S pre-initiation complex. Subsequently, the 43S complex is positioned onto the 5\u2032 end of a capped (red circle), polyadenylated mRNA by eIF4F, a multisubunit complex composed of the cap-binding protein eIF4E, eIF4G and eIF4A (abbreviated here as 4E, 4G and 4A). The polyadenylated 3\u2032 mRNA end is recognized by a poly(A)-binding protein (PABP), which also associates with eIF4G bound to the 5\u2032 end. This results in a 'closed-loop' topology, linking 5\u2032 and 3\u2032 mRNA ends. One of the eIF4E kinases MNK1 and MNK2 binds eIF4G and phosphorylates eIF4E. The assembled 48S complex then scans the mRNA to locate the AUG start codon. After AUG recognition, facilitated by eIF3, eIF1 and 1A, 60S subunit joining triggers initiation factor release. b | Elongation. Each charged tRNA is delivered to the 80S ribosome A site by eEF1A\u00b7GTP. Following ribosome-catalysed peptide bond formation, eukaryotic elongation factor 2 (eEF2) catalyses 80S translocation, transferring the deacetylated tRNA to the E site, positioning the peptidyl-tRNA in the P site and re-exposing the A site. c | Termination. Eukaryotic release factor 1 (eRF1) recognizes the stop codon in the A site, triggering 80S arrest and polypeptide release. eRF3 releases eRF1 from the ribosome, and several initiation factors, together with ABCE1-directed nucleotide hydrolysis, dismantle the complex, thus recycling ribosome subunits.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: By binding to the cap-binding protein eukaryotic translation initiation factor 4E (eIF4E; abbreviated here to 4E), eIF4E-binding protein 1 (4EBP1) represses translation and prevents assembly of the multisubunit initiation factor eIF4F (composed of eIF4E, eIF4A (labelled 4A) and eIF4G (labelled 4G)). The GTPase-activating protein TSC (composed of subunits hamartin (TSC1) and tuberin (TSC2)) represses mTOR complex 1 (mTORC1) by promoting RHEB\u00b7GDP accumulation. Receptor tyrosine kinase signalling, AMP-activated protein kinase (AMPK) and hypoxia regulate TSC activity. Inhibiting TSC allows RHEB\u00b7GTP accumulation and mTORC1 activation, and results in p70 ribosomal protein S6 kinase (p70 S6K) and 4EBP1 phosphorylation. 4EBP1 hyperphosphorylation relieves translational repression and releases eIF4E, allowing eIF4E to bind eIF4G and assemble eIF4F on 7-methylguanosine (m7G; red circle)-capped mRNA. eIF4F assembly typically results in eIF4E phosphorylation by the eIF4G-associated kinases (the MNK proteins) and recruits the 43S complex (see Fig. 1a) containing the 40S ribosome. A poly(A)-binding protein (PABP) is depicted bound to the 3\u2032 poly(A) tail, and this PABP associates with eIF4G to stimulate translation. In addition to stimulating ribosomal protein S6 (RPS6) phosphorylation, p70 S6K activation by mTORC1 stimulates the eIF4A accessory factor eIF4B and inhibits eukaryotic elongation factor 2 (eEF2) kinase, thereby stimulating elongation. Importantly, by repressing phosphoinositide 3-kinase (PI3K) activation, p70 S6K activation prevents constitutive mTORC1 activation. Viral strategies for activating (green) and inhibiting (yellow) eIF4F are indicated; see main text for details and abbreviations.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Inactive eukaryotic translation initiation factor 2 (eIF2; with \u03b1-, \u03b2- and \u03b3-subunits depicted) bound to GDP (eIF2\u00b7GDP) is recycled to the active GTP-bound form by the five-subunit guanine nucleotide exchange factor eIF2B. Once recycled, eIF2\u00b7GTP forms a ternary complex with initiator-methionine tRNA (Met-tRNAi) and is loaded onto the 40S ribosome (see Fig. 1). A 43S pre-initiation complex assembles after the ternary complex loads Met-tRNAi into the ribosomal P site, and this converts to a 48S complex on recruitment to eIF4F- and poly(A)-binding protein (PABP)-bound mRNA. Following identification of the AUG start codon by scanning, the GTPase-activating protein eIF5 stimulates GTP hydrolysis, and 60S subunit joining triggers the release of eIF2\u00b7GDP and inorganic phosphate (Pi). The resulting 80S ribosome carries out the elongation phase (Fig. 1). Phosphorylation of eIF2 on its \u03b1-subunit by one of four different cellular eIF2\u03b1 kinases (see main text for details), each of which is activated by a discrete stress, prevents eIF2 recycling. Phosphorylated eIF2 binds tightly to and inhibits eIF2B, blocking translation initiation. The host protein phosphatase 1 catalytic (PP1c) subunits can dephosphorylate eIF2 when partnered with either an inducible (growth arrest and DNA damage-inducible protein 34 (GADD34)) or constitutively active (CReP; also known as PPP1R15B) regulatory component. Viral strategies for inhibiting eIF2\u03b1 phosphorylation (yellow), activating eIF2\u03b1 dephosphorylation (green) or bypassing a requirement for eIF2 (green) are indicated. See main text for details and abbreviatons; eIF4A, eIF4E and eIF4G are labelled 4A, 4E and 4G, respectively.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Although most translational control strategies operate at the rate-limiting initiation step, different regulatory mechanisms target elongation and termination. Translation elongation begins after eukaryotic translation initiation factor 5B (eIF5B)-mediated 60S subunit joining triggers eIF release, and the assembled 80S ribosome begins polypeptide chain extension. Each new aminoacylated tRNA is delivered to the A site by eukaryotic elongation factor 1A (eEF1A) bound to GTP. Following GTP hydrolysis, eEF1A\u00b7GDP is released, unable to bind aminoacylated tRNA until it is recycled to the active GTP-bound form by the multisubunit eEF1B guanine nucleotide exchange factor. Both eEF1A and eEF1B can be phosphorylated by cellular kinases, including CK2 and protein kinase C, which stimulate their activity. Ribosome-catalysed peptide bond formation precedes eEF2-mediated translocation of the peptidyl-tRNA into the P site and the de-acylated tRNA into the E site, exposing the unoccupied A site for successive rounds of elongation that form the polypeptide chain. eEF2\u00b7GDP exits the ribosome and is recycled to the active, GTP-bound form without the assistance of a guanine nucleotide exchange factor, owing to the high intrinsic GDP release rate. Phosphorylation by eEF2 kinase inhibits eEF2 activity. eEF2 kinase itself is phosphorylated and inhibited by p70 ribosomal protein S6 kinase (p70 S6K) proteins following mTOR complex 1 activation. By contrast, eEF2 kinase is activated by protein kinase A (PKA), Ca2+\u2013calmodulin and AMP-activated protein kinase (AMPK)2. Viral functions that regulate elongation are indicated; see main text for details and abbreviations. Pi, inorganic phosphate.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: On recognition of a stop codon in the A site, eukaryotic release factor 1 (eRF1) triggers 80S arrest and polypeptide release. eRF3 subsequently releases eRF1 from the ribosome, and the 80S ribosome is dismantled into 40S and 60S subunits (see Fig. 1). Virally encoded functions that regulate termination are indicated. Notably, HIV reverse transcriptase and the termination upstream ribosomal-binding site (TURBS) RNA cis-elements in influenza B virus and feline calicivirus (FCV) allow eukaryotic ribosomes to efficiently re-initiate translation, a property normally associated with prokaryotic ribosomes. eIF, eukaryotic translation initiation factor; HCMV, human cytomegalovirus; uORF2, upstream ORF 2.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The mechanism of eukaryotic translation initiation and principles of its regulation",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                },
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Pestova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Rev. Mol. Cell Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "113-127",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrm2838"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Calicivirus translation initiation requires an interaction between VPg and eIF4E",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Goodfellow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "EMBO Rep.",
+            "volume": "6",
+            "issn": "",
+            "pages": "968-972",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.embor.7400510"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Initiation factor-independent translation mediated by the hepatitis C virus internal ribosome entry site",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lancaster",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "RNA",
+            "volume": "12",
+            "issn": "",
+            "pages": "894-902",
+            "other_ids": {
+                "DOI": [
+                    "10.1261/rna.2342306"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "GTP-independent tRNA delivery to the ribosomal P-site by a novel eukaryotic translation factor",
+            "authors": [
+                {
+                    "first": "SE",
+                    "middle": [],
+                    "last": "Dmitriev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "26779-26787",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M110.119693"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Cleavage of eukaryotic initiation factor eIF5B by enterovirus 3C proteases",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "de Breyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Bonderoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Chumakov",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virology",
+            "volume": "378",
+            "issn": "",
+            "pages": "118-122",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2008.05.019"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "The nucleocapsid protein of severe acute respiratory syndrome coronavirus inhibits cell cytokinesis and proliferation by interacting with translation elongation factor 1\u03b1",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "6962-6971",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00133-08"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Avian reovirus influences phosphorylation of several factors involved in host protein translation including eukaryotic translation elongation factor 2 (eEF2) in Vero cells",
+            "authors": [
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "WR",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "384",
+            "issn": "",
+            "pages": "301-305",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2009.04.116"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Translation elongation factor 1-alpha interacts specifically with the human immunodeficiency virus type 1 Gag polyprotein",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cimarelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Luban",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "5388-5401",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Cellular elongation factor 1\u03b4 is modified in cells infected with representative alpha-, beta-, or gammaherpesviruses",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Matsumura",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Roizman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hirai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "4456-4460",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Regulation of translation initiation in eukaryotes: mechanisms and biological targets",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Hinnebusch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "136",
+            "issn": "",
+            "pages": "731-745",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2009.01.042"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Expression of the VP2 protein of murine norovirus by a translation termination-reinitiation strategy",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Napthine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS ONE",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0008390"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "The importance of inter- and intramolecular base pairing for translation reinitiation on a eukaryotic bicistronic mRNA",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Luttermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Meyers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Genes Dev.",
+            "volume": "23",
+            "issn": "",
+            "pages": "331-344",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.507609"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "The genome-linked protein VPg of the Norwalk virus binds eIF3, suggesting its role in translation initiation complex recruitment",
+            "authors": [
+                {
+                    "first": "KF",
+                    "middle": [],
+                    "last": "Daughenbaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Hershey",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Hardy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "EMBO J.",
+            "volume": "22",
+            "issn": "",
+            "pages": "2852-2859",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/cdg251"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Further characterisation of the translational termination-reinitiation signal of the influenza B virus segment 7 RNA",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Powell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS ONE",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0016822"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Reverse transcriptase of Moloney murine leukemia virus binds to eukaryotic release factor 1 to modulate suppression of translational termination",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Orlova",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yueh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Goff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell",
+            "volume": "115",
+            "issn": "",
+            "pages": "319-331",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(03)00805-5"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Upf1 senses 3\u2032UTR length to potentiate mRNA decay",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Hogg",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Goff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "143",
+            "issn": "",
+            "pages": "379-389",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2010.10.005"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Inhibition of translation termination mediated by an interaction of eukaryotic release factor 1 with a nascent peptidyl-tRNA",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Janzen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Frolova",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Geballe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "22",
+            "issn": "",
+            "pages": "8562-8570",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.22.24.8562-8570.2002"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Human cytomegalovirus UL69 protein facilitates translation by associating with the mRNA cap-binding complex and excluding 4EBP1",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aoyagi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gaspar",
+                    "suffix": ""
+                },
+                {
+                    "first": "TE",
+                    "middle": [],
+                    "last": "Shenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "2640-2645",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0914856107"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Kaposi's sarcoma-associated herpesvirus ORF57 protein interacts with PYM to enhance translation of viral intronless mRNAs",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Boyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Macnab",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Whitehouse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "EMBO J.",
+            "volume": "29",
+            "issn": "",
+            "pages": "1851-1864",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2010.77"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Influenza virus targets the mRNA export machinery and the nuclear pore complex",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Satterly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "1853-1858",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0610977104"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Export of adenoviral late mRNA from the nucleus requires the Nxf1/Tap export receptor",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yatherajam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Flint",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "1429-1438",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02108-10"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Genome-wide RNAi screen identifies human host factors crucial for influenza virus replication",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Karlas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "463",
+            "issn": "",
+            "pages": "818-822",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature08760"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "VSV disrupts the Rae1/mrnp41 mRNA nuclear export pathway",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Faria",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Cell",
+            "volume": "17",
+            "issn": "",
+            "pages": "93-102",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molcel.2004.11.023"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Potyvirus genome-linked protein, VPg, directly affects wheat germ in vitro translation: interactions with translation initiation factors eIF4F and eIFiso4F",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Miyoshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Gallie",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Goss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Biol. Chem.",
+            "volume": "283",
+            "issn": "",
+            "pages": "1340-1349",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M703356200"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "mRNA decay during herpes simplex virus (HSV) infections: protein-protein interactions involving the HSV virion host shutoff protein and translation factors eIF4H and eIF4A",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Everly",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "GS",
+                    "middle": [],
+                    "last": "Read",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "9651-9664",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.15.9651-9664.2005"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Inhibition of cytoplasmic mRNA stress granule formation by a viral proteinase",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Cardenas",
+                    "suffix": ""
+                },
+                {
+                    "first": "WE",
+                    "middle": [],
+                    "last": "Marissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell Host Microbe",
+            "volume": "2",
+            "issn": "",
+            "pages": "295-305",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2007.08.006"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Poliovirus-mediated disruption of cytoplasmic processing bodies",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Dougherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "64-75",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01657-10"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Stable formation of compositionally unique stress granules in virus-infected cells",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Piotrowska",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "3654-3665",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01320-09"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Modulation of stress granules and P bodies during dicistrovirus infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khong",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "1439-1451",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02220-10"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Mammalian orthoreovirus particles induce and are recruited into stress granules at early times postinfection",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hastings",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "11090-11101",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01239-09"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Respiratory syncytial virus induces host RNA stress granules to facilitate viral replication",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "AW",
+                    "middle": [],
+                    "last": "Lifland",
+                    "suffix": ""
+                },
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Utley",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Santangelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Crowe",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "12274-12284",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00260-10"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Cellular microRNA and P bodies modulate host-HIV-1 interactions",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Nathans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell",
+            "volume": "34",
+            "issn": "",
+            "pages": "696-709",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molcel.2009.06.003"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Formation of antiviral cytoplasmic granules during orthopoxvirus infection",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Simpson-Holley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "1581-1593",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02247-10"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Viruses, microRNAs, and host interactions",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Skalsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Cullen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Annu. Rev. Microbiol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "123-141",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.micro.112408.134243"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Cap-independent translation conferred by the 5\u2032 leader of tobacco etch virus is eukaryotic initiation factor 4G dependent",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Gallie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "12141-12152",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.24.12141-12152.2001"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Enterovirus-induced miR-141 contributes to shutoff of host protein translation by targeting the translation initiation factor eIF4E",
+            "authors": [
+                {
+                    "first": "BC",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell Host Microbe",
+            "volume": "9",
+            "issn": "",
+            "pages": "58-69",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2010.12.001"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Modulation of hepatitis C virus RNA abundance by a liver-specific microRNA",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Jopling",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Lancaster",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Lemon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "309",
+            "issn": "",
+            "pages": "1577-1581",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1113329"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Regulation of hepatitis C virus translation and infectious virus production by the microRNA miR-122",
+            "authors": [
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Jangra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Lemon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "6615-6625",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00417-10"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "microRNA-122 stimulates translation of hepatitis C virus RNA",
+            "authors": [
+                {
+                    "first": "JI",
+                    "middle": [],
+                    "last": "Henke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "EMBO J.",
+            "volume": "27",
+            "issn": "",
+            "pages": "3300-3310",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2008.244"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Position-dependent function for a tandem microRNA miR-122-binding site located in the hepatitis C virus RNA genome",
+            "authors": [
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Jopling",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schutz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell Host Microbe",
+            "volume": "4",
+            "issn": "",
+            "pages": "77-85",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2008.05.013"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Recessive resistance to plant viruses",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Truniger",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Aranda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Adv. Virus Res.",
+            "volume": "75",
+            "issn": "",
+            "pages": "119-159",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(09)07504-6"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "A novel interaction of pokeweed antiviral protein with translation initiation factors 4G and iso4G: a potential indirect mechanism to access viral RNAs",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Hudak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res.",
+            "volume": "34",
+            "issn": "",
+            "pages": "1174-1181",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkj520"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Genome-wide RNAi screen reveals a specific sensitivity of IRES-containing RNA viruses to host translation inhibition",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cherry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Genes Dev.",
+            "volume": "19",
+            "issn": "",
+            "pages": "445-452",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1267905"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Translation of mRNAs from vesicular stomatitis virus and vaccinia virus is differentially blocked in cells with depletion of eIF4GI and/or eIF4GII",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Welnowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Castell\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Moral",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Mol. Biol.",
+            "volume": "394",
+            "issn": "",
+            "pages": "506-521",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2009.09.036"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "A selective inhibitor of eIF2\u03b1 dephosphorylation protects cells from ER stress",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boyce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "307",
+            "issn": "",
+            "pages": "935-939",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1101902"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "The amazing diversity of cap-independent translation elements in the 3\u2032-untranslated regions of plant viral RNAs",
+            "authors": [
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Treder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biochem. Soc. Trans.",
+            "volume": "35",
+            "issn": "",
+            "pages": "1629-1633",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BST0351629"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Sirolimus: its discovery, biological properties, and mechanism of action",
+            "authors": [
+                {
+                    "first": "SN",
+                    "middle": [],
+                    "last": "Sehgal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Transplant Proc.",
+            "volume": "35",
+            "issn": "",
+            "pages": "S7-S14",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0041-1345(03)00211-2"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Functional characterization of IRESes by an inhibitor of the RNA helicase eIF4A",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Bordeleau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Chem. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "213-220",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nchembio776"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Inhibitor-induced structural change in the HCV IRES domain IIa RNA",
+            "authors": [
+                {
+                    "first": "RB",
+                    "middle": [],
+                    "last": "Paulsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "7263-7268",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0911896107"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Inhibitors of protein synthesis identified by a high throughput multiplexed translation screen",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Novac",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Guenier",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pelletier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nucleic Acids Res.",
+            "volume": "32",
+            "issn": "",
+            "pages": "902-915",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkh235"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "To replicate or not to replicate: achieving selective oncolytic virus replication in cancer cells through translational control",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Oncogene",
+            "volume": "24",
+            "issn": "",
+            "pages": "7697-7709",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.onc.1209053"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Translational control of prokaryotic gene expression",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "McCarthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gualerzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Trends Genet.",
+            "volume": "6",
+            "issn": "",
+            "pages": "78-85",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0168-9525(90)90098-Q"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "RNA processing and decay in bacteriophage T4",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Uzan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Prog. Mol. Biol. Transl. Sci.",
+            "volume": "85",
+            "issn": "",
+            "pages": "43-89",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0079-6603(08)00802-7"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Assembly-controlled autogenous modulation of bacteriophage P22 scaffolding protein gene expression",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Casjens",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "J. Virol.",
+            "volume": "53",
+            "issn": "",
+            "pages": "174-179",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Com, the phage Mu mom translational activator, is a zinc-binding protein that binds specifically to its cognate mRNA",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hattman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Murthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Nagaraja",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "88",
+            "issn": "",
+            "pages": "10027-10031",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.88.22.10027"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Processing of mRNA by ribonuclease III regulates expression of gene 1.2 of bacteriophage T7",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Richardson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Cell",
+            "volume": "27",
+            "issn": "",
+            "pages": "533-542",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(81)90395-0"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Solution structure of the cap-independent translational enhancer and ribosome-binding element in the 3\u2032 UTR of turnip crinkle virus",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "1385-1390",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0908140107"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Translation of phage f1 gene VII occurs from an inherently defective initiation site made functional by coupling",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ivey-Hoyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Steege",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Mol. Biol.",
+            "volume": "208",
+            "issn": "",
+            "pages": "233-244",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-2836(89)90385-9"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Role of ribosome recycling factor (RRF) in translational coupling",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Inokuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hirashima",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sekine",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Janosi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "EMBO J.",
+            "volume": "19",
+            "issn": "",
+            "pages": "3788-3798",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/19.14.3788"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Conserved translational frameshift in dsDNA bacteriophage tail assembly genes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Hendrix",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Duda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Cell",
+            "volume": "16",
+            "issn": "",
+            "pages": "11-21",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molcel.2004.09.006"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Translational bypassing without peptidyl-tRNA anticodon scanning of coding gap mRNA",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Wills",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "EMBO J.",
+            "volume": "27",
+            "issn": "",
+            "pages": "2533-2544",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2008.170"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "Posttranscriptional control of the lysogenic pathway in bacteriophage lambda",
+            "authors": [
+                {
+                    "first": "AB",
+                    "middle": [],
+                    "last": "Oppenheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kornitzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Altuvia",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Court",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Prog. Nucleic Acid Res. Mol. Biol.",
+            "volume": "46",
+            "issn": "",
+            "pages": "37-49",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0079-6603(08)61017-X"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "The global regulator RNase III modulates translation repression by the transcription elongation factor N",
+            "authors": [
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HK",
+                    "middle": [],
+                    "last": "Peters",
+                    "suffix": "3rd"
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Court",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J.",
+            "volume": "21",
+            "issn": "",
+            "pages": "4154-4161",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/cdf395"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Transcriptional control via translational repression by c4 antisense RNA of bacteriophages P1 and P7",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Biere",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Citron",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Schuster",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Genes Dev.",
+            "volume": "6",
+            "issn": "",
+            "pages": "2409-2416",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.6.12a.2409"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Activation of mRNA translation by phage protein and low temperature: the case of Lactococcus lactis abortive infection system AbiD1",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bidnenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chopin",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Ehrlich",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Chopin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "BMC Mol. Biol.",
+            "volume": "10",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2199-10-4"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "A protein that replaces the entire cellular eIF4F complex",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Mir",
+                    "suffix": ""
+                },
+                {
+                    "first": "AT",
+                    "middle": [],
+                    "last": "Panganiban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "EMBO J.",
+            "volume": "27",
+            "issn": "",
+            "pages": "3129-3139",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2008.228"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Translational control by viral proteinases",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Lloyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res.",
+            "volume": "119",
+            "issn": "",
+            "pages": "76-88",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2005.10.016"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "IRES-induced conformational changes in the ribosome and the mechanism of translation initiation by internal ribosomal entry",
+            "authors": [
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1789",
+            "issn": "",
+            "pages": "558-570",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbagrm.2009.06.001"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Stress-inducible alternative translation initiation of human cytomegalovirus latency protein pUL138",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Grainger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "9472-9486",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00855-10"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "TP",
+                    "middle": [],
+                    "last": "Herbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Proud",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Translational Control in Biology and Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "601-624",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "An unusual internal ribosome entry site in the herpes simplex virus thymidine kinase gene",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Griffiths",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Coen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "9667-9672",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0504132102"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "19S late mRNAs of simian virus 40 have an internal ribosome entry site upstream of the virion structural protein 3 coding sequence",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Alwine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "6553-6558",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00517-06"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Activation of the translational suppressor 4E-BP1 following infection with encephalomyocarditis virus and poliovirus",
+            "authors": [
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Gingras",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Svitkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Belsham",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pause",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "5578-5583",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.11.5578"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Vesicular stomatitis virus infection alters the eIF4F translation initiation complex and causes dephosphorylation of the eIF4E binding protein 4E-BP1",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Connor",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Lyles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "10177-10187",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.20.10177-10187.2002"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "Dominant inhibition of Akt/protein kinase B signaling by the matrix protein of a negative-strand RNA virus",
+            "authors": [
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Dunn",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Connor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "422-431",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01671-10"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "The TORrid affairs of viruses: effects of mammalian DNA viruses on the PI3K-Akt-mTOR signalling pathway",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Buchkovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Zampieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Alwine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "266-275",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1855"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "Translational control of the innate immune response through IRF-7",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Colina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "452",
+            "issn": "",
+            "pages": "323-328",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature06730"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Tethering of eIF4G to adenoviral mRNAs by viral 100k protein drives ribosome shunting",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Xi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cuesta",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genes Dev.",
+            "volume": "18",
+            "issn": "",
+            "pages": "1997-2009",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1212504"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "Modification of eukaryotic initiation factor 4F during infection by influenza virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Feigenblum",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Virol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "3027-3035",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Selective translation initiation by ribosome jumping in adenovirus-infected and heat-shocked cells",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yueh",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Genes Dev.",
+            "volume": "10",
+            "issn": "",
+            "pages": "1557-1567",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.10.12.1557"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Dinman",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Berry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Translational Control in Biology and Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "625-654",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Translation by ribosome shunting on adenovirus and hsp70 mRNAs facilitated by complementarity to 18S rRNA",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yueh",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Genes Dev.",
+            "volume": "14",
+            "issn": "",
+            "pages": "414-421",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Ribosome shunting in the cauliflower mosaic virus 35S RNA leader is a special case of reinitiation of translation functioning in plant and animal systems",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Ryabova",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hohn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Genes Dev.",
+            "volume": "14",
+            "issn": "",
+            "pages": "817-829",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Poly(A)-binding protein (PABP): a common viral target",
+            "authors": [
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Gray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Biochem. J.",
+            "volume": "426",
+            "issn": "",
+            "pages": "1-12",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BJ20091571"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Rotavirus Nonstructural Protein NSP3 is not required for viral protein synthesis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Montero",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "9031-9038",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00437-06"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "ISG15 modification of the eIF4E cognate 4EHP enhances cap structure-binding activity of 4EHP",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Okumura",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Genes Dev.",
+            "volume": "21",
+            "issn": "",
+            "pages": "255-260",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1521607"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "Phosphorylation of eIF4E by Mnk-1 enhances HSV-1 translation and replication in quiescent cells",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genes Dev.",
+            "volume": "18",
+            "issn": "",
+            "pages": "660-672",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1185304"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Human cytomegalovirus infection induces rapamycin-insensitive phosphorylation of downstream effectors of mTOR kinase",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Kudchodkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Maguire",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Alwine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "11030-11039",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.20.11030-11039.2004"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "Regulation of the translation initiation factor eIF4F by multiple mechanisms in human cytomegalovirus-infected cells",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Notary",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "8057-8064",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.13.8057-8064.2005"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Eukaryotic translation initiation factor 4F architectural alterations accompany translation initiation factor redistribution in poxvirus-infected cells",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "28",
+            "issn": "",
+            "pages": "2648-2658",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.01631-07"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "PI3K signaling regulates rapamycin-insensitive translation initiation complex formation in vaccinia virus-infected cells",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Zaborowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "3988-3992",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02284-08"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Characterization of a second vaccinia virus mRNA-decapping enzyme conserved in poxviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Parrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "12973-12978",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01668-07"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Activation of host translational control pathways by a viral developmental switch",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000334"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "Regulation of host translational machinery by african Swine Fever virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Castell\u00f3",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000562"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Noncytotoxic inhibition of viral infection through eIF4F-independent suppression of translation by 4EGi-1",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "McMahon",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Zaborowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "853-864",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01873-10"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Rapamycin-resistant mTORC1 activity is required for herpesvirus replication",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Moorman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "5260-5269",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02733-09"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Constitutive mTORC1 activation by a herpesvirus Akt surrogate stimulates mRNA translation and viral replication",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Chuluunbaatar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Genes Dev.",
+            "volume": "24",
+            "issn": "",
+            "pages": "2627-2639",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1978310"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "Translational control of the abundance of cytoplasmic poly(A) binding protein in human cytomegalovirus-infected cells",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "McKinney",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Chulunbaatar",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "156-164",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01778-10"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "title": "Human cytomegalovirus protein UL38 inhibits host cell stress responses by antagonizing the tuberous sclerosis protein complex",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Moorman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell Host Microbe",
+            "volume": "3",
+            "issn": "",
+            "pages": "253-262",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2008.03.002"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "title": "The changing role of mammalian target of rapamycin (mTOR) kinase in the maintenance of protein synthesis during human cytomegalovirus infection",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Clippinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Maguire",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Alwine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "3930-3939",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01913-10"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "Adenoviral proteins mimic nutrient/growth signals to activate the mTOR pathway for viral replication",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "O'Shea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "EMBO J.",
+            "volume": "24",
+            "issn": "",
+            "pages": "1211-1221",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.emboj.7600597"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "The human papillomavirus type 16 E6 oncoprotein activates mTORC1 signaling and increases protein synthesis",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Spangle",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Munger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "9398-9407",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00974-10"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "Vaccinia virus D10 protein has mRNA decapping activity, providing a mechanism for control of host and viral gene expression",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Parrish",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Resch",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "2139-2144",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0611685104"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "M-T5, the ankyrin repeat, host range protein of myxoma virus, activates Akt and can be functionally replaced by cellular PIKE-A",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Werden",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Barrett",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Stanford",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "McFadden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "2340-2348",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01310-06"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "Regulation of protein synthesis by ionizing radiation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Braunstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Badura",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Xi",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Formenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "29",
+            "issn": "",
+            "pages": "5645-5656",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/MCB.00711-09"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "Effects of protein phosphorylation on ubiquitination and stability of the translational inhibitor protein 4E-BP1",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Elia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Constantinou",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Clemens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Oncogene",
+            "volume": "27",
+            "issn": "",
+            "pages": "811-822",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.onc.1210678"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "Assembly of an active translation initiation factor complex by a viral protein",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Walsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Genes Dev.",
+            "volume": "20",
+            "issn": "",
+            "pages": "461-472",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1375006"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Chaperone hsp27 inhibits translation during heat shock by binding eIF4G and facilitating dissociation of cap-initiation complexes",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cuesta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Laroia",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Genes Dev.",
+            "volume": "14",
+            "issn": "",
+            "pages": "1460-1470",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Herpes simplex virus proteins ICP27 and UL47 associate with polyadenylate-binding protein and control its subcellular distribution",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dobrikova",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shveygert",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Walters",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gromeier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "270-279",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01740-09"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Sandri-Goldin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Alphaherpesviruses: Molecular Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "39-50",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "The 1.2-megabase genome sequence of Mimivirus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Raoult",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "306",
+            "issn": "",
+            "pages": "1344-1350",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1101485"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "Colocalization of transcription and translation within cytoplasmic poxvirus factories coordinates viral expression and subjugates host functions",
+            "authors": [
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Katsafanas",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell Host Microbe",
+            "volume": "2",
+            "issn": "",
+            "pages": "221-228",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2007.08.005"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "Eukaryotic elongation factor 1A interacts with Turnip mosaic virus RNA-dependent RNA polymerase and VPg-Pro in virus-induced vesicles",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Thivierge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virology",
+            "volume": "377",
+            "issn": "",
+            "pages": "216-225",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2008.04.015"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "A unique cap(m7GpppXm)-dependent influenza virion endonuclease cleaves capped RNAs to generate the primers that initiate viral RNA transcription",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Plotch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ulmanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Krug",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Cell",
+            "volume": "23",
+            "issn": "",
+            "pages": "847-858",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(81)90449-9"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Dual mechanism for the translation of subgenomic mRNA from Sindbis virus in infected and uninfected cells",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Sanz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Castello",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ventoso",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Berlanga",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS ONE",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0004772"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Nuclear assortment of eIF4E coincides with shut-off of host protein synthesis upon poliovirus infection",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sukarieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pelletier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Gen. Virol.",
+            "volume": "91",
+            "issn": "",
+            "pages": "1224-1228",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.018069-0"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Nuclear localization of cytoplasmic poly(A)-binding protein upon rotavirus infection involves the interaction of NSP3 with eIF4G and RoXaN",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "11283-11293",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00872-08"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Poly(A)-binding protein 1 (PABP1) partially relocalises to the nucleus during HSV-1 infection in an ICP27-independent manner and does not inhibit virus replication",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Salaun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "8539-8548",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00668-10"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Getting the message direct manipulation of host mRNA accumulation during gammaherpesvirus lytic infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Clyde",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Glaunsinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Adv. Virus Res.",
+            "volume": "78",
+            "issn": "",
+            "pages": "1-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-12-385032-4.00001-X"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "Bunyamwera orthobunyavirus S-segment untranslated regions mediate poly(A) tail-independent translation",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Blakqori",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "van Knippenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Elliott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "3637-3646",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02201-08"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "Murine coronavirus replication-induced p38 mitogen-activated protein kinase activation promotes interleukin-6 production and virus replication in cultured cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Narayanan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "5937-5948",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.12.5937-5948.2002"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "Initiation of protein synthesis from the A site of the ribosome",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Pestova",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell",
+            "volume": "102",
+            "issn": "",
+            "pages": "511-520",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)00055-6"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "title": "Factorless ribosome assembly on the internal ribosome entry site of cricket paralysis virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sarnow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Mol. Biol.",
+            "volume": "324",
+            "issn": "",
+            "pages": "889-902",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0022-2836(02)01099-9"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "Structural and mechanistic insights into hepatitis C viral translation initiation",
+            "authors": [
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Doudna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "29-38",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1558"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "title": "Storage of cellular 5\u2032 mRNA caps in P bodies for viral cap-snatching",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Mir",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Duran",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Hjelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "AT",
+                    "middle": [],
+                    "last": "Panganiban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "105",
+            "issn": "",
+            "pages": "19294-19299",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0807211105"
+                ]
+            }
+        },
+        "BIBREF125": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaminski",
+                    "suffix": ""
+                },
+                {
+                    "first": "TA",
+                    "middle": [],
+                    "last": "Poyry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Translational Control in Biology and Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "197-224",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "A prokaryotic-like mode of cytoplasmic eukaryotic ribosome binding to the initiation codon during internal translation initiation of hepatitis C and classical swine fever virus RNAs",
+            "authors": [
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Pestova",
+                    "suffix": ""
+                },
+                {
+                    "first": "IN",
+                    "middle": [],
+                    "last": "Shatsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Fletcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Genes Dev.",
+            "volume": "12",
+            "issn": "",
+            "pages": "67-83",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.12.1.67"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "A conserved structure within the HIV gag open reading frame that controls translation initiation directly recruits the 40S subunit and eIF3",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Locker",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sargueil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nucleic Acids Res.",
+            "volume": "39",
+            "issn": "",
+            "pages": "2367-2377",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkq1118"
+                ]
+            }
+        },
+        "BIBREF128": {
+            "title": "Activities of Ligatin and MCT-1/DENR in eukaryotic translation initiation and ribosomal recycling",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Skabkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Genes Dev.",
+            "volume": "24",
+            "issn": "",
+            "pages": "1787-1801",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1957510"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "title": "Cryo-EM visualization of a viral internal ribosome entry site bound to human ribosomes: the IRES functions as an RNA-based translation factor",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Spahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cell",
+            "volume": "118",
+            "issn": "",
+            "pages": "465-475",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2004.08.001"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "title": "RPS25 is essential for translation initiation by the Dicistroviridae and hepatitis C viral IRESs",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Landry",
+                    "suffix": ""
+                },
+                {
+                    "first": "MI",
+                    "middle": [],
+                    "last": "Hertz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Genes Dev.",
+            "volume": "23",
+            "issn": "",
+            "pages": "2753-2764",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.1832209"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "title": "Viral factor TAV recruits TOR/S6K1 signalling to activate reinitiation after long ORF translation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schepetilnikov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "EMBO J.",
+            "volume": "30",
+            "issn": "",
+            "pages": "1343-1356",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2011.39"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "title": "Measles virus N protein inhibits host translation by binding to eIF3-p40",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "11569-11576",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00570-07"
+                ]
+            }
+        },
+        "BIBREF133": {
+            "title": "Rabies virus matrix protein interplay with eIF3, new insights into rabies virus pathogenesis",
+            "authors": [
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Komarova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nucleic Acids Res.",
+            "volume": "35",
+            "issn": "",
+            "pages": "1522-1532",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nar/gkl1127"
+                ]
+            }
+        },
+        "BIBREF134": {
+            "title": "Foot-and-mouth disease virus infection induces proteolytic cleavage of PTB, eIF3a, b, and PABP RNA-binding proteins",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rodriguez Pulido",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Serrano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Martinez-Salas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "364",
+            "issn": "",
+            "pages": "466-474",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2007.03.013"
+                ]
+            }
+        },
+        "BIBREF135": {
+            "title": "The cap-snatching endonuclease of influenza virus polymerase resides in the PA subunit",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dias",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "458",
+            "issn": "",
+            "pages": "914-918",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature07745"
+                ]
+            }
+        },
+        "BIBREF136": {
+            "title": "Distinct induction patterns and functions of two closely related interferon-inducible human genes, ISG54 and ISG56",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Terenzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "WC",
+                    "middle": [],
+                    "last": "Merrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "GC",
+                    "middle": [],
+                    "last": "Sen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "34064-34071",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M605771200"
+                ]
+            }
+        },
+        "BIBREF137": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "IJ",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pe'ery",
+                    "suffix": ""
+                },
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Mathews",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Translational Control in Biology and Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "545-595",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF138": {
+            "title": "Regulation of starvation- and virus-induced autophagy by the eIF2\u03b1 kinase signaling pathway",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Talloczy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "190-195",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.012485299"
+                ]
+            }
+        },
+        "BIBREF139": {
+            "title": "The African swine fever virus DP71L protein recruits the protein phosphatase 1 catalytic subunit to dephosphorylate eIF2\u03b1 and inhibits CHOP induction but is dispensable for these activities during virus infection",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Childs",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodbourn",
+                    "suffix": ""
+                },
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Dixon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "10681-10689",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01027-10"
+                ]
+            }
+        },
+        "BIBREF140": {
+            "title": "The gamma(1)34.5 protein of herpes simplex virus 1 complexes with protein phosphatase 1\u03b1 to dephosphorylate the \u03b1 subunit of the eukaryotic translation initiation factor 2 and preclude the shutoff of protein synthesis by double-stranded RNA-activated protein kinase",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Roizman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "843-848",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.3.843"
+                ]
+            }
+        },
+        "BIBREF141": {
+            "title": "Regulation of eIF2\u03b1 phosphorylation by different functions that act during discrete phases in the herpes simplex virus type 1 life cycle",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mulvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Poppers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sternberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "10917-10928",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.20.10917-10928.2003"
+                ]
+            }
+        },
+        "BIBREF142": {
+            "title": "Maintenance of endoplasmic reticulum (ER) homeostasis in herpes simplex virus type 1-infected cells through the association of a viral glycoprotein with PERK, a cellular ER stress sensor",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mulvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "3377-3390",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02191-06"
+                ]
+            }
+        },
+        "BIBREF143": {
+            "title": "Pancreatic eukaryotic initiation factor-2\u03b1 kinase (PEK) homologues in humans, Drosophila melanogaster and Caenorhabditis elegans that mediate translational control in response to endoplasmic reticulum stress",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sood",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Quilliam",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Wek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biochem. J.",
+            "volume": "346",
+            "issn": "",
+            "pages": "281-293",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/bj3460281"
+                ]
+            }
+        },
+        "BIBREF144": {
+            "title": "Antiviral effect of the mammalian translation initiation factor 2\u03b1 kinase GCN2 against RNA viruses",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Berlanga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "EMBO J.",
+            "volume": "25",
+            "issn": "",
+            "pages": "1730-1740",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.emboj.7601073"
+                ]
+            }
+        },
+        "BIBREF145": {
+            "title": "P58IPK, a plant ortholog of double-stranded RNA-dependent protein kinase PKR inhibitor, functions in viral pathogenesis",
+            "authors": [
+                {
+                    "first": "DD",
+                    "middle": [],
+                    "last": "Bilgin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schiff",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Dinesh-Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Dev. Cell",
+            "volume": "4",
+            "issn": "",
+            "pages": "651-661",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1534-5807(03)00125-4"
+                ]
+            }
+        },
+        "BIBREF146": {
+            "title": "Influenza virus mRNA translation revisited: is the eIF4E cap-binding factor required for viral mRNA translation?",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Burgui",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Yanguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sonenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nieto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "12427-12438",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01105-07"
+                ]
+            }
+        },
+        "BIBREF147": {
+            "title": "P58IPK: a novel \u201cCIHD\u201d member of the host innate defense response against pathogenic virus infection",
+            "authors": [
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Goodman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Pathog.",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000438"
+                ]
+            }
+        },
+        "BIBREF148": {
+            "title": "Hepatitis C virus blocks interferon effector function by inducing protein kinase R phosphorylation",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Garaigorta",
+                    "suffix": ""
+                },
+                {
+                    "first": "FV",
+                    "middle": [],
+                    "last": "Chisari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell Host Microbe",
+            "volume": "6",
+            "issn": "",
+            "pages": "513-522",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2009.11.004"
+                ]
+            }
+        },
+        "BIBREF149": {
+            "title": "Translational resistance of late alphavirus mRNA to eIF2\u03b1 phosphorylation: a strategy to overcome the antiviral effect of protein kinase PKR",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ventoso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Genes Dev.",
+            "volume": "20",
+            "issn": "",
+            "pages": "87-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/gad.357006"
+                ]
+            }
+        },
+        "BIBREF150": {
+            "title": "Replication of a cytopathic strain of bovine viral diarrhea virus activates PERK and induces endoplasmic reticulum stress-mediated apoptosis of MDBK cells",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Graczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Block",
+                    "suffix": ""
+                },
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Romano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "9588-9599",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.19.9588-9599.2002"
+                ]
+            }
+        },
+        "BIBREF151": {
+            "title": "Reovirus induces and benefits from an integrated cellular stress response",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "2019-2033",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.4.2019-2033.2006"
+                ]
+            }
+        },
+        "BIBREF152": {
+            "title": "Rotavirus infection induces the phosphorylation of eIF2\u03b1 but prevents the formation of stress granules",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Montero",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rojas",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "1496-1504",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01779-07"
+                ]
+            }
+        },
+        "BIBREF153": {
+            "title": "P bodies, stress granules, and viral life cycles",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Beckham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Parker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell Host Microbe",
+            "volume": "3",
+            "issn": "",
+            "pages": "206-212",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2008.03.004"
+                ]
+            }
+        },
+        "BIBREF154": {
+            "title": "Inhibition of translation in cells infected with a poliovirus 2Apro mutant correlates with phosphorylation of the alpha subunit of eucaryotic initiation factor 2",
+            "authors": [
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "O'Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "VR",
+                    "middle": [],
+                    "last": "Racaniello",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Virol.",
+            "volume": "63",
+            "issn": "",
+            "pages": "5069-5075",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF155": {
+            "title": "Host and viral translational mechanisms during cricket paralysis virus infection",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Garrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "YY",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Au",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bushell",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "1124-1138",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02006-09"
+                ]
+            }
+        },
+        "BIBREF156": {
+            "title": "eIF2-dependent and eIF2-independent modes of initiation on the CSFV IRES: a common role of domain II",
+            "authors": [
+                {
+                    "first": "TV",
+                    "middle": [],
+                    "last": "Pestova",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "de Breyne",
+                    "suffix": ""
+                },
+                {
+                    "first": "AV",
+                    "middle": [],
+                    "last": "Pisarev",
+                    "suffix": ""
+                },
+                {
+                    "first": "IS",
+                    "middle": [],
+                    "last": "Abaeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "CU",
+                    "middle": [],
+                    "last": "Hellen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "EMBO J.",
+            "volume": "27",
+            "issn": "",
+            "pages": "1060-1072",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emboj.2008.49"
+                ]
+            }
+        }
+    }
+}

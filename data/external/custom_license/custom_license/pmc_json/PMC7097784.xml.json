@@ -1,0 +1,2371 @@
+{
+    "paper_id": "PMC7097784",
+    "metadata": {
+        "title": "Why must T cells be cross-reactive?",
+        "authors": [
+            {
+                "first": "Andrew",
+                "middle": [
+                    "K."
+                ],
+                "last": "Sewell",
+                "suffix": "",
+                "email": "sewellak@cardiff.ac.uk",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: a | Depicted is a ribbon model of an \u03b1\u03b2 T cell receptor (TCR) showing the positions of the six variable complementarity-determining region (CDR) loops. b,c | MHC class I and class II molecules can accommodate antigenic peptides of different lengths. The closed ends of the MHC class I binding groove cause long peptides to 'bulge' out of the binding groove, and this bulging increases with each additional amino acid in the peptide. By contrast, the ends of the MHC class II binding cleft are open, which allows the accommodation of much longer peptides without the need for peptide kinking. d,e | The images show HLA-A*0201 (in grey) presenting the immunodominant GLCTLVAML peptide (stick model) from Epstein\u2013Barr virus and HLA-DR4 (in grey) presenting a peptide from myelin basic protein (MBP). TCRs dock on a peptide\u2013MHC complex in a diagonal mode that is conserved for binding to MHC class I and class II molecules. The colours indicate the docking footprints of the AS01 TCR96 and MSC-2C8 TCR97 on their cognate peptide\u2013MHC complexes and show the 'footprints' on the MHC complex of the six CDR loops. In general, the germline-encoded CDR1 and CDR2 loops interact mainly with the MHC molecule itself, whereas the hypervariable CDR3 loops sit over the peptide. However, the small structural database that has been compiled to date already contains examples in which CDR1 and CDR2 make substantial interactions with the peptide and in which CDR3 has an important role in contacting the MHC molecule98,99.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | Macro-level changes enable the T cell receptor (TCR) to bind to peptide\u2013MHC complexes with an altered peptide binding angle (red dotted line) and/or peptide binding register (black dotted line) within a roughly diagonal binding mode38. The cartoon shows 'footprints' of the TCR complementarity-determining region (CDR) loops projected down onto the peptide\u2013MHC platform. b | Micro-level CDR loop flexibility enables the accommodation of different peptide\u2013MHC 'landscapes'. The cartoon shows a side view of a TCR engaging a peptide\u2013MHC complex. c | Structural studies show that most TCRs focus on two to four upward-facing peptide residues. In this example, the TCR is focused on the two peptide residues shown in red. Such residue-focused interaction allows the TCR to tolerate multiple amino acid substitutions at other positions in the peptide (indicated by different colours). The above examples are not mutually exclusive and represent only some of the possibilities. MHC-binding motifs often allow for different residues at primary MHC anchors49. It should also be noted that TCRs can change the conformation of the peptide\u2013MHC complex following engagement34,35,36.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: T cells expressing autoreactive T cell receptors (TCRs) are able to bypass system 'safety checks' and populate the periphery. Such T cells generally remain harmless. However, if such T cells become activated in response to a pathogen-derived peptide and become effector T cells, they may then cross-recognize a self-derived peptide to cause autoimmune disease. APC, antigen-presenting cell.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: a | The MHC class I presentation pathway presents peptides at the cell surface from intracellular proteins. This potentially allows soluble high-affinity 'monoclonal' T cell receptors (TCRs) to target any cell based on its expression of any protein. 'Monoclonal' TCRs are able to use the MHC class I presentation pathway to 'see inside' cells and scan them for internal anomalies. This 'X-ray vision' opens up access to a far greater range of disease-relevant antigens than are available for monoclonal antibodies. TCRs can be engineered to deliver a variety of molecules that stimulate or suppress the immune system. Potential 'payloads' include antibody Fab fragments that then deliver a signal to immune cells. As MHC-bound peptides are often present at low copy numbers (<50 copies per cell), the payloads delivered by TCRs must act at very low concentrations. b | High-affinity tumour-specific TCRs that are manufactured as bispecific T cell-engaging molecules by linking them to CD3-specific Fab fragments can direct the lysis of tumour cells by CD8+ T cells and thereby induce the regression of established tumours92. These molecules do not activate T cells as monomers at the concentrations used. T cell-engaging TCRs bind to the cognate antigen on the tumour cell surface with long half-lives and 'present' the linked CD3-specific Fab fragments. These Fab fragments then crosslink TCRs on the surface of antigen-experienced CD8+ T cells, resulting in cellular activation and elimination of the target cell92. The delivery of toxins with soluble TCRs is not recommended, as the soluble TCR constructs are taken up by scavenging cells such as macrophages. Thus, molecules that deliver a particular signal to a specific effector cell are preferable. For example high-affinity TCRs could be used to downregulate immune responses by signalling through inhibitory receptors such as cytotoxic T lymphocyte antigen 4 (CTLA4) (not shown).",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: Clonotypic T cell receptors (TCRs) that recognize the same antigen are not all equal, and one TCR may provide the most effective immunity. In the case of HIV for example, one TCR may be more difficult for the virus to escape from than other TCRs. If the required TCR is public (that is, it occurs in all individuals with the restricting HLA molecule) or has a public-type motif, then a TCR-optimized peptide for this clonotype could be used to skew the response towards the most effective clonotype(s). There are no known rules that enable the prediction of which TCRs a particular ligand will stimulate. Thus, this process requires pre-testing using in vitro priming assays to ensure that it induces the required clonotype(s) while minimizing the induction of suboptimal clonotypes.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Ligand recognition by \u03b1\u03b2 T cell receptors",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "523-544",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "A very high level of crossreactivity is an essential feature of the T-cell receptor",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mason",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Immunol. Today",
+            "volume": "19",
+            "issn": "",
+            "pages": "395-404",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Specificity and degeneracy of T cells",
+            "authors": [
+                {
+                    "first": "DB",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Immunol.",
+            "volume": "40",
+            "issn": "",
+            "pages": "1047-1055",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Polyspecificity of T cell and B cell receptor recognition",
+            "authors": [
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Wucherpfennig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Semin. Immunol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "216-224",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Structural basis for T cell recognition of altered peptide ligands: a single T cell receptor can productively recognize a large continuum of related ligands",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Kersh",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Exp. Med.",
+            "volume": "184",
+            "issn": "",
+            "pages": "1259-1268",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "A direct estimate of the human \u03b1\u03b2 T cell receptor diversity",
+            "authors": [
+                {
+                    "first": "TP",
+                    "middle": [],
+                    "last": "Arstila",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "286",
+            "issn": "",
+            "pages": "958-961",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "IMGT/HLA and IMGT/MHC: sequence databases for the study of the major histocompatibility complex",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Robinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res.",
+            "volume": "31",
+            "issn": "",
+            "pages": "311-314",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "A uniquely high level of recombination at the HLA-B locus",
+            "authors": [
+                {
+                    "first": "SN",
+                    "middle": [],
+                    "last": "McAdam",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "91",
+            "issn": "",
+            "pages": "5893-5897",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "HLA and HIV-1: heterozygote advantage and B*35-Cw*04 disadvantage",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Carrington",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "283",
+            "issn": "",
+            "pages": "1748-1752",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Impact of MHC class I diversity on immune control of immunodeficiency virus replication",
+            "authors": [
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Goulder",
+                    "suffix": ""
+                },
+                {
+                    "first": "DI",
+                    "middle": [],
+                    "last": "Watkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "619-630",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "In search of the 'missing self': MHC molecules and NK cell recognition",
+            "authors": [
+                {
+                    "first": "HG",
+                    "middle": [],
+                    "last": "Ljunggren",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Karre",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Immunol. Today",
+            "volume": "11",
+            "issn": "",
+            "pages": "237-244",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "T cell receptor gene diversity and selection",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Annu. Rev. Biochem.",
+            "volume": "59",
+            "issn": "",
+            "pages": "475-496",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Discrimination of MHC-derived odors by untrained mice is consistent with divergence in peptide-binding region residues",
+            "authors": [
+                {
+                    "first": "LS",
+                    "middle": [],
+                    "last": "Carroll",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Penn",
+                    "suffix": ""
+                },
+                {
+                    "first": "WK",
+                    "middle": [],
+                    "last": "Potts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "99",
+            "issn": "",
+            "pages": "2187-2192",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Control of mating preferences in mice by genes in the major histocompatibility complex",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yamazaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "J. Exp. Med.",
+            "volume": "144",
+            "issn": "",
+            "pages": "1324-1335",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Transmission of a fatal clonal tumor by biting occurs due to depleted MHC diversity in a threatened carnivorous marsupial",
+            "authors": [
+                {
+                    "first": "HV",
+                    "middle": [],
+                    "last": "Siddle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "104",
+            "issn": "",
+            "pages": "16221-16226",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Positive Darwinian selection promotes charge profile diversity in the antigen-binding cleft of class I major-histocompatibility-complex molecules",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Mol. Biol. Evol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "515-524",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Population biology of antigen presentation by MHC class I molecules",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Parham",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ohta",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Science",
+            "volume": "272",
+            "issn": "",
+            "pages": "67-74",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "HLA supertypes and supermotifs: a functional perspective on HLA polymorphism",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sette",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sidney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Curr. Opin. Immunol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "478-482",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Mammalian N-glycan branching protects against innate immune self-recognition and inflammation in autoimmune disease pathogenesis",
+            "authors": [
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Immunity",
+            "volume": "27",
+            "issn": "",
+            "pages": "308-320",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Arthritis induced by posttranslationally modified (citrullinated) fibrinogen in DR4-IE transgenic mice",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Hill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Exp. Med.",
+            "volume": "205",
+            "issn": "",
+            "pages": "967-979",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Phosphorylation-dependent interaction between antigenic peptides and MHC class I: a molecular basis for the presentation of transformed self",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mohammed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Immunol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "1236-1243",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Phosphorylated self-peptides alter human leukocyte antigen class I-restricted antigen presentation and generate tumor-specific epitopes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "2776-2781",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "T-cell antigen receptor genes and T-cell recognition",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Bjorkman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Nature",
+            "volume": "334",
+            "issn": "",
+            "pages": "395-402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Modification of cysteine residues in vitro and in vivo affects the immunogenicity and antigenicity of major histocompatibility complex class I-restricted viral determinants",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Yewdell",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Bennink",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Exp. Med.",
+            "volume": "189",
+            "issn": "",
+            "pages": "1757-1764",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "The HLA-A*0201-restricted H-Y antigen contains a posttranslationally modified cysteine that significantly affects T cell recognition",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Meadows",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Immunity",
+            "volume": "6",
+            "issn": "",
+            "pages": "273-281",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Structural evidence for a germline-encoded T cell receptor\u2013major histocompatibility complex interaction 'codon'",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Bond",
+                    "suffix": ""
+                },
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Ely",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Maynard",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Immunol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "975-983",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Hard wiring of T cell receptor specificity for the major histocompatibility complex is underpinned by TCR adaptability",
+            "authors": [
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Burrows",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "10608-10613",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "T cell receptor cross-reactivity directed by antigen-dependent tuning of peptide\u2013MHC molecular flexibility",
+            "authors": [
+                {
+                    "first": "OY",
+                    "middle": [],
+                    "last": "Borbulevych",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Immunity",
+            "volume": "31",
+            "issn": "",
+            "pages": "885-896",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Structure of the complex between human T-cell receptor, viral peptide and HLA-A2",
+            "authors": [
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Garboczi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Nature",
+            "volume": "384",
+            "issn": "",
+            "pages": "134-141",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "A T cell receptor flattens a bulged antigenic peptide presented by a major histocompatibility complex class I molecule",
+            "authors": [
+                {
+                    "first": "FE",
+                    "middle": [],
+                    "last": "Tynan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Immunol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "268-276",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "TCRs used in cancer gene therapy cross-react with MART-1/Melan-A tumor antigens via distinct mechanisms",
+            "authors": [
+                {
+                    "first": "OY",
+                    "middle": [],
+                    "last": "Borbulevych",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Santhanagopolan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hossain",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Immunol.",
+            "volume": "187",
+            "issn": "",
+            "pages": "2453-2463",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Conformational changes and flexibility in T-cell receptor recognition of peptide\u2013MHC complexes",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Armstrong",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Piepenbrink",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochem. J.",
+            "volume": "415",
+            "issn": "",
+            "pages": "183-196",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "Disparate degrees of hypervariable loop flexibility control T-cell receptor cross-reactivity, specificity, and binding mechanism",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "OY",
+                    "middle": [],
+                    "last": "Borbulevych",
+                    "suffix": ""
+                },
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Piepenbrink",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Corcelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "BM",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Mol. Biol.",
+            "volume": "414",
+            "issn": "",
+            "pages": "385-400",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "IMGT, the international ImMunoGeneTics information system",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Lefranc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nucleic Acids Res.",
+            "volume": "37",
+            "issn": "",
+            "pages": "D1006-D1012",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Structural basis of plasticity in T cell receptor recognition of a self peptide\u2013MHC antigen",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "279",
+            "issn": "",
+            "pages": "1166-1172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Structural comparison of allogeneic and syngeneic T cell receptor\u2013peptide\u2013major histocompatibility complex complexes: a buried alloreactive mutation subtly alters peptide presentation substantially increasing V\u03b2 interactions",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Luz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Exp. Med.",
+            "volume": "195",
+            "issn": "",
+            "pages": "1175-1186",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "A functional hot spot for antigen recognition in a superagonist TCR/MHC complex",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Degano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Immunity",
+            "volume": "12",
+            "issn": "",
+            "pages": "251-261",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "How a single T cell receptor recognizes both self and foreign MHC",
+            "authors": [
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Colf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell",
+            "volume": "129",
+            "issn": "",
+            "pages": "135-146",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "A single T cell receptor bound to major histocompatibility complex class I and class II glycoproteins reveals switchable TCR conformers",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Immunity",
+            "volume": "35",
+            "issn": "",
+            "pages": "23-33",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "CTLs are targeted to kill \u03b2 cells in patients with type 1 diabetes through recognition of a glucose-regulated preproinsulin epitope",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Skowera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Clin. Invest.",
+            "volume": "118",
+            "issn": "",
+            "pages": "3390-3402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Structural basis for the killing of human \u03b2 cells by CD8+ T cells in type 1 diabetes",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Bulek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nature Immunol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "283-289",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "A single autoimmune T cell receptor recognizes more than a million different peptides",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wooldridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Biol. Chem.",
+            "volume": "287",
+            "issn": "",
+            "pages": "1168-1177",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "A single amino acid interchange yields reciprocal CTL specificities for HIV-1 gp160",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Science",
+            "volume": "246",
+            "issn": "",
+            "pages": "118-121",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Allele-specific motifs revealed by sequencing of self-peptides eluted from MHC molecules",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Falk",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Rotzschke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stevanovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "HG",
+                    "middle": [],
+                    "last": "Rammensee",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Nature",
+            "volume": "351",
+            "issn": "",
+            "pages": "290-296",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "How TCRs bind MHCs, peptides, and coreceptors",
+            "authors": [
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Rudolph",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Stanfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "24",
+            "issn": "",
+            "pages": "419-466",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Positive and negative selection of T cells",
+            "authors": [
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Starr",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Jameson",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Hogquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "139-176",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "The repertoire of T cells shaped by a single MHC/peptide ligand",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ignatowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kappler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Marrack",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Cell",
+            "volume": "84",
+            "issn": "",
+            "pages": "521-529",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)81028-4"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "T cells can be activated by peptides that are unrelated in sequence to their selecting peptide",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ignatowicz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Immunity",
+            "volume": "7",
+            "issn": "",
+            "pages": "179-186",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "CD8 controls T cell cross-reactivity",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wooldridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Immunol.",
+            "volume": "185",
+            "issn": "",
+            "pages": "4625-4632",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Antigen arrays in T cell immunology",
+            "authors": [
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Hiemstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "JW",
+                    "middle": [],
+                    "last": "Drijfhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "BO",
+                    "middle": [],
+                    "last": "Roep",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Curr. Opin. Immunol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "80-84",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Exploring immunological specificity using synthetic peptide combinatorial libraries",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pinilla",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Curr. Opin. Immunol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "193-202",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Structure of an autoimmune T cell receptor complexed with class II peptide\u2013MHC: insights into MHC bias and antigen specificity",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Maynard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunity",
+            "volume": "22",
+            "issn": "",
+            "pages": "81-92",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Quantitative determination of TCR cross-reactivity using peptide libraries and protein databases",
+            "authors": [
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Hiemstra",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Eur. J. Immunol.",
+            "volume": "29",
+            "issn": "",
+            "pages": "2385-2391",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "CD8+ memory T cells (CD44high, Ly-6C+) are more sensitive than naive cells (CD44low, Ly-6C\u2212) to TCR/CD8 signaling in response to antigen",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Curtsinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Lins",
+                    "suffix": ""
+                },
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Mescher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Immunol.",
+            "volume": "160",
+            "issn": "",
+            "pages": "3236-3243",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Response of naive and memory CD8+ T cells to antigen stimulation in vivo",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Veiga-Fernandes",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Walter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bourgeois",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "McLean",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rocha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature Immunol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "47-53",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "Conformational restraints and flexibility of 14-meric peptides in complex with HLA-B*3501",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Probst-Kepper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Immunol.",
+            "volume": "173",
+            "issn": "",
+            "pages": "5610-5616",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Cutting edge: CD8+ T cell clones possess the potential to differentiate into both high- and low-avidity effector cells",
+            "authors": [
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Kroger",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Alexander-Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Immunol.",
+            "volume": "179",
+            "issn": "",
+            "pages": "748-751",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Tricks with tetramers: how to get the most from multimeric peptide-MHC",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wooldridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Immunology",
+            "volume": "126",
+            "issn": "",
+            "pages": "147-164",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "The T cell receptor as a multicomponent signalling machine: CD4/CD8 coreceptors and CD45 in T cell activation",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Janeway",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 1992,
+            "venue": "Annu. Rev. Immunol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "645-674",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Coreceptor CD8-driven modulation of T cell antigen receptor specificity",
+            "authors": [
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "van den Berg",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wooldridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Laugel",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Sewell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Theor. Biol.",
+            "volume": "249",
+            "issn": "",
+            "pages": "395-408",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "CD8 kinetically promotes ligand binding to the T-cell antigen receptor",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Gakamsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Biophys. J.",
+            "volume": "89",
+            "issn": "",
+            "pages": "2121-2133",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Different T cell receptor affinity thresholds and CD8 coreceptor dependence govern cytotoxic T lymphocyte activation and tetramer binding properties",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Laugel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Biol. Chem.",
+            "volume": "282",
+            "issn": "",
+            "pages": "23799-23810",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Interaction between the CD8 coreceptor and major histocompatibility complex class I stabilizes T cell receptor\u2013antigen complexes at the cell surface",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wooldridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "27491-27501",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "CD8 modulation of T-cell antigen receptor\u2013ligand interactions on living cytotoxic T lymphocytes",
+            "authors": [
+                {
+                    "first": "IF",
+                    "middle": [],
+                    "last": "Luescher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Nature",
+            "volume": "373",
+            "issn": "",
+            "pages": "353-356",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "No one is naive: the significance of heterologous T-cell immunity",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Welsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "LK",
+                    "middle": [],
+                    "last": "Selin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "417-426",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "The history of the smallpox vaccine",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Devlin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Infect.",
+            "volume": "52",
+            "issn": "",
+            "pages": "329-334",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "T cell receptor recognition of a 'super-bulged' major histocompatibility complex class I-bound peptide",
+            "authors": [
+                {
+                    "first": "FE",
+                    "middle": [],
+                    "last": "Tynan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Immunol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "1114-1122",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "The role of BCG in prevention of leprosy: a meta-analysis",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Setia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Steinmaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Rutherford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Lancet Infect. Dis.",
+            "volume": "6",
+            "issn": "",
+            "pages": "162-170",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "CD4 T-cell-mediated heterologous immunity between mycobacteria and poxviruses",
+            "authors": [
+                {
+                    "first": "KS",
+                    "middle": [],
+                    "last": "Mathurin",
+                    "suffix": ""
+                },
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Martens",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kornfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Welsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "3528-3539",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "Human papillomavirus type 16 E7 peptide-directed CD8+ T cells from patients with cervical cancer are cross-reactive with the coronavirus NS2 protein",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nilges",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "5464-5474",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Broad cross-reactive TCR repertoires recognizing dissimilar Epstein\u2013Barr and influenza A virus epitopes",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Clute",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Immunol.",
+            "volume": "185",
+            "issn": "",
+            "pages": "6753-6764",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Cross-reactivity between HLA-A2-restricted FLU-M1:58-66 and HIV p17 GAG:77-85 epitopes in HIV-infected and uninfected individuals",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Acierno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Transl. Med.",
+            "volume": "1",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "Cross-reactive influenza virus-specific CD8+ T cells contribute to lymphoproliferation in Epstein\u2013Barr virus-associated infectious mononucleosis",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Clute",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Clin. Invest.",
+            "volume": "115",
+            "issn": "",
+            "pages": "3602-3612",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "Cross-reactivity between hepatitis C virus and influenza A virus determinant-specific cytotoxic T cells",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wedemeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mizukoshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "AR",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Bennink",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rehermann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "11392-11400",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Heterologous T cell immunity in severe hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Exp. Med.",
+            "volume": "201",
+            "issn": "",
+            "pages": "675-680",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Molecular mimicry in T cell-mediated autoimmunity: viral peptides activate human T cell clones specific for myelin basic protein",
+            "authors": [
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Wucherpfennig",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Strominger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Cell",
+            "volume": "80",
+            "issn": "",
+            "pages": "695-705",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Molecular mimicry and immune-mediated diseases",
+            "authors": [
+                {
+                    "first": "MB",
+                    "middle": [],
+                    "last": "Oldstone",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "FASEB J.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1255-1265",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "The natural-selection theory of antibody formation",
+            "authors": [
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Jerne",
+                    "suffix": ""
+                }
+            ],
+            "year": 1955,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "41",
+            "issn": "",
+            "pages": "849-857",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Molecular mimicry by herpes simplex virus-type 1: autoimmune disease after viral infection",
+            "authors": [
+                {
+                    "first": "ZS",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Granucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Schaffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cantor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "279",
+            "issn": "",
+            "pages": "1344-1347",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Molecular mimicry and autoimmunity",
+            "authors": [
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Albert",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Inman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "N. Engl. J. Med.",
+            "volume": "341",
+            "issn": "",
+            "pages": "2068-2074",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Infection, mimics, and autoimmune disease",
+            "authors": [
+                {
+                    "first": "NR",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Clin. Invest.",
+            "volume": "107",
+            "issn": "",
+            "pages": "943-944",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Selection of functional T cell receptor mutants from a yeast surface-display library",
+            "authors": [
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Kieke",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "96",
+            "issn": "",
+            "pages": "5651-5656",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Directed evolution of human T-cell receptors with picomolar affinities by phage display",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Biotech.",
+            "volume": "23",
+            "issn": "",
+            "pages": "349-354",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Cutting edge: evidence for a dynamically driven T cell signaling mechanism",
+            "authors": [
+                {
+                    "first": "WF",
+                    "middle": [],
+                    "last": "Hawse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Immunol.",
+            "volume": "188",
+            "issn": "",
+            "pages": "5819-5823",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Interplay between T cell receptor binding kinetics and the level of cognate peptide presented by major histocompatibility complexes governs CD8+ T cell responsiveness",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Irving",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Biol. Chem.",
+            "volume": "287",
+            "issn": "",
+            "pages": "23068-23078",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "Human TCR-binding affinity is governed by MHC class restriction",
+            "authors": [
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Immunol.",
+            "volume": "178",
+            "issn": "",
+            "pages": "5727-5734",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Control of HIV-1 immune escape by CD8 T cells expressing enhanced T-cell receptor",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Varela-Rohena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature Med.",
+            "volume": "14",
+            "issn": "",
+            "pages": "1390-1395",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Kinetic proofreading in T-cell receptor signal transduction",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "McKeithan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "92",
+            "issn": "",
+            "pages": "5042-5046",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "The somatic generation of immune recognition",
+            "authors": [
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Jerne",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "Eur. J. Immunol.",
+            "volume": "1",
+            "issn": "",
+            "pages": "1-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Adoptive immunotherapy for cancer: harnessing the T cell response",
+            "authors": [
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Restifo",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Dudley",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Rosenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "269-281",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Cancer regression in patients after transfer of genetically engineered lymphocytes",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Morgan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Science",
+            "volume": "314",
+            "issn": "",
+            "pages": "126-129",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Monoclonal TCR-redirected tumor cell killing",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Liddy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Nature Med.",
+            "volume": "18",
+            "issn": "",
+            "pages": "980-987",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Modification of MHC anchor residues generates heteroclitic peptides that alter TCR binding and T cell recognition",
+            "authors": [
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Immunol.",
+            "volume": "185",
+            "issn": "",
+            "pages": "2600-2610",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Bias in the \u03b1\u03b2 T-cell repertoire: implications for disease pathogenesis and vaccination",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Miles",
+                    "suffix": ""
+                },
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Douek",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Immunol. Cell Biol.",
+            "volume": "89",
+            "issn": "",
+            "pages": "375-387",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "Quantitating T cell cross-reactivity for unrelated peptide antigens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ishizuka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Immunol.",
+            "volume": "183",
+            "issn": "",
+            "pages": "4337-4345",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Genetic and structural basis for selection of a ubiquitous T cell receptor deployed in Epstein\u2013Barr virus infection",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Miles",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "Structure of a TCR with high affinity for self-antigen reveals basis for escape from negative selection",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Kerzic",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Mariuzza",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "EMBO J.",
+            "volume": "30",
+            "issn": "",
+            "pages": "1137-1148",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Germ line-governed recognition of a cancer epitope by an immunodominant human T-cell receptor",
+            "authors": [
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Biol. Chem.",
+            "volume": "284",
+            "issn": "",
+            "pages": "27281-27289",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "The shaping of T cell receptor recognition by self-tolerance",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gras",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Immunity",
+            "volume": "30",
+            "issn": "",
+            "pages": "193-203",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

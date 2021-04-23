@@ -1,0 +1,3546 @@
+{
+    "paper_id": "PMC7098186",
+    "metadata": {
+        "title": "Targeting the glycans of glycoproteins: a novel paradigm for antiviral therapy",
+        "authors": [
+            {
+                "first": "Jan",
+                "middle": [],
+                "last": "Balzarini",
+                "suffix": "",
+                "email": "jan.balzarini@rega.kuleuven.be",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Carbohydrate-binding proteins of a non-mammalian origin\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2: Pathogens that interact with DC- or L-SIGN for transmission or immune suppression\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: CBAs have been shown to efficiently inhibit the infection of T cells and macrophages by cell-free HIV particles (a), syncytia formation between HIV-infected cells and uninfected T cells (b), the capture of HIV particles by dendritic cell (DC)-specific intercellular adhesion molecule 3 (ICAM-3)-grabbing non-integrin (DC-SIGN)-expressing cells such as DCs (c), and DC-SIGN-captured HIV transmission to T cells (d). Exposure of CBAs to the virus in cell culture has also been shown to force the virus to delete part of the protective glycan shield that is present on its envelope glycoprotein gp120. It is assumed that such glycan deletions trigger an enhanced neutralizing antibody response to the previously hidden immunogenic epitopes of gp120 and possibly also a cellular immune response. Parts c and d reproduced with permission from Ref. 122 \u00a9 (2006) University of Amsterdam. CCR5, chemokine receptor 5; LFA-1, lymphocyte function-associated antigen 1.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: Examples of the structural composition of high-mannose-type N-glycans. a | Tri-antennary complex-type N-glycans. b | Hybrid-type N-glycans. c | High-mannose-type N-glycans that are abundantly present on the envelope glycoprotein gp120 of HIV, but are rare on mammalian glycoproteins. Besides high-mannose-type N-glycans, the complex-type and hybrid-type N-glycans are also present on gp120. Asn, asparagine; Fuc, fucose; Gal, Galactose; GlcNAc, N-acetylglucosamine; Man, mannose; SA, sialic acid; Ser, serine; Thr, threonine; X, any amino acid except proline.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Structural formulae of the calcium-dependent mannose-binding pradimicin A (a) and benanomicin A (b) antibiotic CBAs that are produced by Actinomadura hibiscus and Actinomadura spadix, respectively. Red represents the D-alanine moiety; black represents the dihydrobenzonaphtacenequinone core; green represents the carbohydrate part of the molecule.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: a | The terminal mannose (Man) of Man\u03b11\u20133Man is complexed to liver MBP\u2013C64 (Protein Data Bank (PDB) ID 1kza). Calcium is depicted as a purple sphere, with coordinating residues in stick representation. The amino-acid residue Val194 (in orange) participates in van der Waals interactions. The calcium coordination and hydrogen bonds between protein and carbohydrate (blue) are shown as green spheres. b | Ribbon diagram of dendritic cell (DC)-specific intercellular adhesion molecule 3 (ICAM-3)-grabbing non-integrin (DC-SIGN) complexed with Man3 \u2212(N-acetylglucosamine)2 (Man3GlcNAc2)65 (PDB ID 1k9i). Calcium is shown as a green sphere, whereas the carbohydrate is shown in a yellow stick representation. The calcium coordination is shown in detail, with the hydrogen bonds to important coordinating residues shown as dotted spheres. The gray sphere represents a calcium site of another carbohydrate-recognition domain. c | Hydrogen bonding, van der Waals interactions and aromatic ring stacking of GlcNAc3, with the GlcNAc-specific lectin from Urtica dioica (UDA)37 (PDB ID 1ehh). Two isolectin VI molecules are shown in blue and green. Dotted lines are hydrogen-bonding contacts between UDA and GlcNAc3. Sugar residues are labelled with A, B, and C from the non-reducing end. d | Hydrogen-bonding pattern and van der Waals contacts of the Narcissus psuedonarcissus lectin 7 (NPL7) carbohydrate-binding domain complexed to Man\u03b1(1\u2013 3)Man66 (PDB ID 1npl). The mannose residue in the main binding pocket is shown in bold lines, with the hydrogen bonds depicted as dotted lines and van der Waals contacts as purple lines. MBP-C, mannose-binding protein C. Panel a reproduced with permission from Ref. 64 \u00a9 (2005) Elsevier Science. Panel b reproduced with permission from Ref. 65 \u00a9 (2001) American Association for the Advancement of Science. Panel c reproduced with permission from Ref. 37 \u00a9 (2000) Elsevier Science. Panel d reproduced with permission from Ref. 66 \u00a9 (1999) Elsevier Science.",
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Figure 5: Ribbon diagrams showing the 24 putative N-glycosylation sites (coloured circles) in the HIV-1(IIIB) envelope glycoprotein gp120 according to Kwong et al.123 and Leonard et al.87\na | High-mannose-type (green) and complex or hybrid-type (yellow) glycans. b | The red circles indicate the deleted N-glycosylation sites that appear under pressure from carbohydrate-binding agents (CBAs) (for example, Galanthus nivalis agglutinin (GNA), Hyppeastrum hybrid agglutinin (HHA), Urtica dioica agglutinin (UDA), cyanovirin-N (CV-N), pradimicin A (PRM-A) and the monoclonal antibody 2G12) in more than 30 different mutant virus isolates. The green circles represent glycosylation sites that have not yet been found to be deleted under CBA pressure123. Images courtesy of Ir. K. Fran\u00e7ois and M. Froeyen, Rega Institute, Leuven, Belgium.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Immunology of hepatitis B virus and hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rehermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nascimbeni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "215-229",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1573"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Role of N-oligosaccharide endoplasmic reticulum processing reactions in glycoprotein folding and degradation",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Parodi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Biochem. J.",
+            "volume": "348",
+            "issn": "",
+            "pages": "1-13",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/bj3480001"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Human cytomegalovirus binding to DC-SIGN is required for dendritic cell infection and target cell trans-infection",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Halary",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Immunity",
+            "volume": "17",
+            "issn": "",
+            "pages": "653-654",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1074-7613(02)00447-8"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "C-type lectins L-SIGN and DC-SIGN capture and transmit infectious hepatitis C virus pseudotype particles",
+            "authors": [
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Lozach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "32035-32045",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M402296200"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "C-type lectins DC-SIGN and L-SIGN mediate cellular entry by Ebola virus in cis and in trans",
+            "authors": [
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "6841-6844",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.13.6841-6844.2002"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "DC-SIGN and DC-SIGNR interact with the glycoprotein of Marburg virus and the S protein of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "12090-12095",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.21.12090-12095.2004"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Mycobacteria target DC-SIGN to suppress dendritic cell function",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "197",
+            "issn": "",
+            "pages": "7-17",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20021229"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "DC-SIGN is the major Mycobacterium tuberculosis receptor on human dendritic cells",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tailleux",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "197",
+            "issn": "",
+            "pages": "121-127",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20021468"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Selective probiotic bacteria induce IL-10-producing regulatory T cells in vitro by modulating dendritic cell function through dendritic cell-specific intercellular adhesion molecule 3-grabbing nonintegrin",
+            "authors": [
+                {
+                    "first": "HH",
+                    "middle": [],
+                    "last": "Smits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Allergy Clin. Immunol.",
+            "volume": "115",
+            "issn": "",
+            "pages": "1260-1267",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jaci.2005.03.036"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "DC-SIGN specifically recognizes Streptococcus pneumoniae serotypes 3 and 14",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Koppel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Saeland",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "de Cooker",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunobiology",
+            "volume": "210",
+            "issn": "",
+            "pages": "203-210",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.imbio.2005.05.014"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Cutting edge: carbohydrate profiling identifies new pathogens that interact with dendritic cell-specific ICAM-3-grabbing nonintegrin on dendritic cells",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Appelmelk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Immunol.",
+            "volume": "170",
+            "issn": "",
+            "pages": "1635-1639",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.170.4.1635"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "The dendritic cell-specific C-type lectin DC-SIGN is a receptor for Schistosoma mansoni egg antigens and recognizes the glycan antigen Lewis x",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "van Die",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Glycobiology",
+            "volume": "13",
+            "issn": "",
+            "pages": "471-478",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/glycob/cwg052"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Hydration of a glycoprotein: relative water affinity of peptide and glycan moieties",
+            "authors": [
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Bagger",
+                    "suffix": ""
+                },
+                {
+                    "first": "CC",
+                    "middle": [],
+                    "last": "Fuglsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Westh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Eur. Biophys. J.",
+            "volume": "35",
+            "issn": "",
+            "pages": "367-371",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00249-005-0035-5"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Helicobacter pylori modulates the T helper cell 1/T helper cell 2 balance through phase-variable interaction between lipopolysaccharide and DC-SIGN",
+            "authors": [
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Bergman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Exp. Med.",
+            "volume": "200",
+            "issn": "",
+            "pages": "979-990",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20041061"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "DC-SIGN mediates binding of dendritic cells to authentic pseudo-LewisY glycolipids of Schistosoma mansoni cercariae, the first parasite-specific ligand of DC-SIGN",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "37349-37359",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M507100200"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Antibody neutralization and escape by HIV-1",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "422",
+            "issn": "",
+            "pages": "307-312",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature01470"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Cyanovirin-N inhibits hepatitis C virus entry by binding to envelope protein glycans",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Helle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "25177-25183",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M602431200"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Plant lectins are potent inhibitors of coronaviruses by interfering with two targets in the viral replication cycle",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Keyaerts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Antiviral Res.",
+            "volume": "75",
+            "issn": "",
+            "pages": "179-187",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2007.03.003"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Antiviral activity of carbohydrate-binding agents against Nidovirales in cell culture",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "VANDERMEER",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "DEHAAN",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "SCHUURMAN",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "HAIJEMA",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "PEUMANS",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "VANDAMME",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "DELPUTTE",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "BALZARINI",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "EGBERINK",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Antiviral Research",
+            "volume": "76",
+            "issn": "1",
+            "pages": "21-29",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2007.04.003"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Cyanovirin-N binds to the viral surface glycoprotein, GP1, 2 and inhibits infectivity of Ebola virus",
+            "authors": [
+                {
+                    "first": "LG",
+                    "middle": [],
+                    "last": "Barrientos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Antiviral Res.",
+            "volume": "58",
+            "issn": "",
+            "pages": "47-56",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0166-3542(02)00183-3"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Safety concerns for the potential use of cyanovirin as a microbicidal anti-HIV agent",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Huskens",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Vandemeulebroucke",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Willaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schols",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Abstracts of the 14th Conference on Retroviruses and Opportunistic Infections",
+            "volume": "",
+            "issn": "",
+            "pages": "25-28",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Glycosylation and the immune system",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Rudd",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Elliott",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cresswell",
+                    "suffix": ""
+                },
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Dwek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "291",
+            "issn": "",
+            "pages": "2370-2376",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.291.5512.2370"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "N-glycan processing in ER quality control",
+            "authors": [
+                {
+                    "first": "LW",
+                    "middle": [],
+                    "last": "Ruddock",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Molinari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Cell Sci.",
+            "volume": "119",
+            "issn": "",
+            "pages": "4373-4380",
+            "other_ids": {
+                "DOI": [
+                    "10.1242/jcs.03225"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Dendritic-cell interactions with HIV: infection and viral dissemination",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "KewalRamani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "859-868",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1960"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Carbohydrate-binding agents: a potential future cornerstone for the chemotherapy of enveloped viruses?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Antivir. Chem. Chemother.",
+            "volume": "18",
+            "issn": "",
+            "pages": "1-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/095632020701800101"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Groot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Dendritic cell-mediated HIV-1 transmission",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Structure of an HIV gp120 envelope glycoprotein in complex with the CD4 receptor and a neutralizing human antibody",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Kwong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature",
+            "volume": "393",
+            "issn": "",
+            "pages": "648-659",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/31405"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Hepatitis C virus targets DC-SIGN and L-SIGN to escape lysosomal degradation",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Ludwig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "8322-8332",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.15.8322-8332.2004"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "West Nile virus discriminates between DC-SIGN and DC-SIGNR for cellular attachment and infection",
+            "authors": [
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "1290-1301",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.3.1290-1301.2006"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "The role of DC-SIGN and DC-SIGNR in HIV and Ebola virus infection: can potential therapeutics block virus transmission and dissemination?",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Baribaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Doms",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pohlmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Expert Opin. Ther. Targets",
+            "volume": "6",
+            "issn": "",
+            "pages": "423-431",
+            "other_ids": {
+                "DOI": [
+                    "10.1517/14728222.6.4.423"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "DC-SIGN is a receptor for human herpes virus 8 on dendritic cells and macrophages",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rappocciolo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Immunol.",
+            "volume": "176",
+            "issn": "",
+            "pages": "1741-1749",
+            "other_ids": {
+                "DOI": [
+                    "10.4049/jimmunol.176.3.1741"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Measles virus targets DC-SIGN to enhance dendritic cell infection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "de Witte",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Abt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schneider-Schaulies",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "von Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "3477-3486",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.7.3477-3486.2006"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "DC-SIGN interacts with Mycobacterium leprae but sequence variation in this lectin is not associated with leprosy in the Pakistani population",
+            "authors": [
+                {
+                    "first": "LB",
+                    "middle": [],
+                    "last": "Barreiro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Hum. Immunol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "102-107",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.humimm.2006.02.028"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Role of the mannose-binding lectin in innate immunity",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Ezekowitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Infect. Dis.",
+            "volume": "187",
+            "issn": "",
+            "pages": "S335-S339",
+            "other_ids": {
+                "DOI": [
+                    "10.1086/374746"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "Role of the C-type lectins DC-SIGN and L-SIGN in Leishmania interaction with host phagocytes",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Caparros",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunobiology",
+            "volume": "210",
+            "issn": "",
+            "pages": "185-193",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.imbio.2005.05.013"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "DC-SIGN mediates the binding of Aspergillus fumigatus and keratinophylic fungi by human dendritic cells",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Serrano-Gomez",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Leal",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Corbi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunobiology",
+            "volume": "210",
+            "issn": "",
+            "pages": "175-183",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.imbio.2005.05.011"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "The C-type lectin DC-SIGN (CD209) is an antigen-uptake receptor for Candida albicans on dendritic cells",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cambi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Eur. J. Immunol.",
+            "volume": "33",
+            "issn": "",
+            "pages": "532-538",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/immu.200310029"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Specificity of DC-SIGN for mannose- and fucose-containing glycans",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "van Liempt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "FEBS Lett.",
+            "volume": "580",
+            "issn": "",
+            "pages": "6123-6131",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2006.10.009"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Defensins: natural anti-HIV peptides",
+            "authors": [
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Klotman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "AIDS Res.",
+            "volume": "6",
+            "issn": "",
+            "pages": "161-168",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Carbohydrate recognition systems in autoimmunity",
+            "authors": [
+                {
+                    "first": "EI",
+                    "middle": [],
+                    "last": "Buzas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Autoimmunity",
+            "volume": "39",
+            "issn": "",
+            "pages": "691-704",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/08916930601061470"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Adhesion molecules in leukocyte endothelial interaction",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Etzioni",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Adv. Exp. Med. Biol.",
+            "volume": "408",
+            "issn": "",
+            "pages": "151-157",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4613-0415-9_17"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Discovery of cyanovirin-N, a novel human immunodeficiency virus-inactivating protein that binds viral surface envelope glycoprotein gp120: potential applications to microbicide development",
+            "authors": [
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Boyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "41",
+            "issn": "",
+            "pages": "1521-1530",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.41.7.1521"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Solution structure of cyanovirin-N, a potent HIV-inactivating protein",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bewley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature Struct. Biol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "571-578",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/828"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Progress and obstacles in the development of an AIDS vaccine",
+            "authors": [
+                {
+                    "first": "NL",
+                    "middle": [],
+                    "last": "Letvin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "930-939",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1959"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "Crystal structure of cyanovirin-N, a potent HIV-inactivating protein, shows unexpected domain swapping",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Mol. Biol.",
+            "volume": "288",
+            "issn": "",
+            "pages": "403-412",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1999.2693"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Structures of the complexes of a potent anti-HIV protein cyanovirin-N and high mannose oligosaccharides",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Botos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "34336-34342",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M205909200"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "Solution structure of a cyanovirin-N:Man \u03b11\u20132Man\u03b1 complex: structural basis for high-affinity carbohydrate-mediated binding to gp120",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bewley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Structure",
+            "volume": "9",
+            "issn": "",
+            "pages": "931-940",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0969-2126(01)00653-0"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "Cyanovirin-N defines a new class of antiviral agent targeting N-linked, high-mannose glycans in an oligosaccharide-specific manner",
+            "authors": [
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Bolmstedt",
+                    "suffix": ""
+                },
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "O'Keefe",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Shenoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "McMahon",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Boyd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Pharmacol.",
+            "volume": "59",
+            "issn": "",
+            "pages": "949-954",
+            "other_ids": {
+                "DOI": [
+                    "10.1124/mol.59.5.949"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Isolation and characterization of a mannan-binding lectin from the freshwater Cyanobacterium (blue-green algae) Microcystis viridis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yamaguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "265",
+            "issn": "",
+            "pages": "703-708",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1999.1749"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Crystal structures of the HIV-1 inhibitory cyanobacterial protein MVL free and bound to Man3GlcNAc2: structural basis for specificity and high-affinity binding to the core pentasaccharide from N-linked oligomannoside",
+            "authors": [
+                {
+                    "first": "DC",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "JY",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Bewley",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Clore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "29269-29276",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M504642200"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "A potent novel anti-HIV protein from the cultured cyanobacterium Scytonema varium",
+            "authors": [
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Bokesch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochemistry",
+            "volume": "42",
+            "issn": "",
+            "pages": "2578-2584",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi0205698"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Oligosaccharide and glycoprotein microassays as tools in HIV glycobiology: glycan-dependent gp120/protein interactions",
+            "authors": [
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Adams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chem. Biol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "875-881",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chembiol.2004.04.010"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "Structural studies of algal lectins with anti-HIV activity",
+            "authors": [
+                {
+                    "first": "NE",
+                    "middle": [],
+                    "last": "Ziolkowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wlodawer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Acta Biochim. Pol.",
+            "volume": "53",
+            "issn": "",
+            "pages": "617-626",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "A D-mannose-specific lectin from Gerardia savaglia that inhibits nucleocytoplasmic transport of mRNA",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Kljajic",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Eur. J. Biochem.",
+            "volume": "169",
+            "issn": "",
+            "pages": "97-104",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1987.tb13585.x"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Viral escape by selection of cytotoxic T-cell-resistant variants in influenza A virus pneumonia",
+            "authors": [
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Moskophidis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Exp. Med.",
+            "volume": "191",
+            "issn": "",
+            "pages": "1853-1867",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.191.11.1853"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "Molecular cloning of actinohivin, a novel anti-HIV protein from an actinomycete, and its expression in Escherichia coli",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Inokoshi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "281",
+            "issn": "",
+            "pages": "1261-1265",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.2001.4496"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "Isolation and characterization of griffithsin, a novel HIV-inactivating protein, from the red alga Griffithsia spp",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "9345-9353",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M411122200"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "The D-mannose-specific lectin from Gerardia savaglia blocks binding of human immunodeficiency virus type 1 to H9 cells and human lymphocytes in vitro",
+            "authors": [
+                {
+                    "first": "WE",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Renneisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Kreute",
+                    "suffix": ""
+                },
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "Schroder",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Winkler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Acquir. Immune Defic. Syndr.",
+            "volume": "1",
+            "issn": "",
+            "pages": "453-458",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "Actinohivin, a novel anti-HIV protein from an actinomycete that inhibits syncytium formation: isolation, characterization, and biological activities",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chiba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "282",
+            "issn": "",
+            "pages": "595-601",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.2001.4495"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "EJM",
+                    "middle": [],
+                    "last": "Van Damme",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Peumans",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pusztai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Barocz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Handbook of Plant Lectins: Properties and Biomedical Applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sharon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lectins",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "The mannose-specific bulb lectin from Galanthus nivalis (snowdrop) binds mono- and dimannosides at distinct sites. Structure analysis of refined complexes at 2.3 \u00c5 and 3.0 \u00c5 resolution",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hester",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Mol. Biol.",
+            "volume": "262",
+            "issn": "",
+            "pages": "516-531",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1996.0532"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "Crystal structures of Urtica dioica agglutinin and its complex with tri-acetylchitotriose",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Harata",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Muraki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Mol. Biol.",
+            "volume": "297",
+            "issn": "",
+            "pages": "673-681",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.2000.3594"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "\u03b1-(1\u20133)- and \u03b1-(1\u20136)-D-mannose-specific plant lectins are markedly inhibitory to human immunodeficiency virus and cytomegalovirus infections in vitro",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "35",
+            "issn": "",
+            "pages": "410-416",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.35.3.410"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "The mannose-specific plant lectins from Cymbidium hybrid and Epipactis helleborine and the (N-acetylglucosamine)n-specific plant lectin from Urtica dioica are potent and selective inhibitors of human immunodeficiency virus and cytomegalovirus replication in vitro",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Antiviral Res.",
+            "volume": "18",
+            "issn": "",
+            "pages": "191-207",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0166-3542(92)90038-7"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Antivirals and antiviral strategies",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Clercq",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "704-720",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro975"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Mannose-specific plant lectins from the Amaryllidaceae family qualify as efficient microbicides for prevention of human immunodeficiency virus infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "48",
+            "issn": "",
+            "pages": "3858-3870",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.48.10.3858-3870.2004"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Carbohydrate-binding agents cause deletions of highly conserved glycosylation sites in HIV gp120. A new therapeutic concept to hit the Achilles heel of HIV",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "41005-41014",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M508801200"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "A \u03b2-galactose-specific lectin isolated from the marine worm Chaetopterus variopedatus possesses anti-HIV-1 activity",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Comp. Biochem. Physiol. C. Toxicol. Pharmacol.",
+            "volume": "142",
+            "issn": "",
+            "pages": "111-117",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cbpc.2005.10.019"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "A new C-type lectin similar to the human immunoreceptor DC-SIGN mediates symbiont acquisition by a marine nematode",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bulgheresi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Appl. Environ. Microbiol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "2950-2956",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AEM.72.4.2950-2956.2006"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "Mannose-binding lectin (MBL) and HIV",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gewurz",
+                    "suffix": ""
+                },
+                {
+                    "first": "GT",
+                    "middle": [],
+                    "last": "Spear",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Immunol.",
+            "volume": "42",
+            "issn": "",
+            "pages": "145-152",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molimm.2004.06.015"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Mannose-binding lectin: do we need it?",
+            "authors": [
+                {
+                    "first": "NJ",
+                    "middle": [],
+                    "last": "Klein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Mol. Immunol.",
+            "volume": "42",
+            "issn": "",
+            "pages": "919-924",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.molimm.2004.12.006"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Identification of DC-SIGN, a novel dendritic cell-specific ICAM-3 receptor that supports primary immune responses",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell",
+            "volume": "100",
+            "issn": "",
+            "pages": "575-585",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80693-5"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "DC-SIGN, a dendritic cell-specific HIV-1-binding protein that enhances trans-infection of T cells",
+            "authors": [
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Cell",
+            "volume": "100",
+            "issn": "",
+            "pages": "587-597",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0092-8674(00)80694-7"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "title": "Targeting diversity",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Drickamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nature Struct. Mol. Biol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "830-831",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsmb1005-830"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "The broadly neutralizing anti-human immunodeficiency virus type 1 antibody 2G12 recognizes a cluster of \u03b11\u21922 mannose residues on the outer face of gp120",
+            "authors": [
+                {
+                    "first": "CN",
+                    "middle": [],
+                    "last": "Scanlan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "7306-7321",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.14.7306-7321.2002"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Targeting the glycans of gp120: a novel approach aimed at the Achilles heel of HIV",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Lancet Infect. Dis.",
+            "volume": "5",
+            "issn": "",
+            "pages": "726-731",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(05)70271-1"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "Human monoclonal antibody 2G12 defines a distinctive neutralization epitope on the gp120 glycoprotein of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Trkola",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "1100-1108",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "Dissection of the carbohydrate specificity of the broadly neutralizing anti-HIVHIV-1 antibody 2G12",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Calarese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "13372-13377",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0505763102"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "The mannose-dependent epitope for neutralizing antibody 2G12 on human immunodeficiency virus type 1 glycoprotein gp120",
+            "authors": [
+                {
+                    "first": "RW",
+                    "middle": [],
+                    "last": "Sanders",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "7293-7305",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.14.7293-7305.2002"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Antibody domain exchange is an immunological solution to carbohydrate cluster recognition",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Calarese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "2065-2071",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1083182"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Resistance of HIV-1 to the broadly HIV-1-neutralizing, anti-carbohydrate antibody 2G12",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Huskens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Van Laethem",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Vermeire",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schols",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "360",
+            "issn": "",
+            "pages": "294-304",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.10.027"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "Pradimicin, a novel class of potent antifungal antibiotics",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Oki",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Antibiot.",
+            "volume": "41",
+            "issn": "",
+            "pages": "1701-1704",
+            "other_ids": {
+                "DOI": [
+                    "10.7164/antibiotics.41.1701"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Studies on the mode of antifungal action of pradimicin antibiotics. III. Spectrophotometric sequence analysis of the ternary complex formation of BMY-28864 with D-mannopyranoside and calcium",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ueki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fukagawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Oki",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J. Antibiot. (Tokyo)",
+            "volume": "46",
+            "issn": "",
+            "pages": "465-477",
+            "other_ids": {
+                "DOI": [
+                    "10.7164/antibiotics.46.465"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "New antifungal antibiotics, benanomicins A and B from an actinomycete",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Antibiot. (Tokyo)",
+            "volume": "41",
+            "issn": "",
+            "pages": "807-811",
+            "other_ids": {
+                "DOI": [
+                    "10.7164/antibiotics.41.807"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "New antifungal antibiotics, benanomicins A and B inhibit infection of T-cell with human immunodeficiency virus (HIV) and syncytium formation by HIV",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hoshino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "J. Antibiot. (Tokyo)",
+            "volume": "42",
+            "issn": "",
+            "pages": "344-346",
+            "other_ids": {
+                "DOI": [
+                    "10.7164/antibiotics.42.344"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Pradimicin A inhibition of human immunodeficiency virus: attenuation by mannan",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tanabe-Tochikura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tochikura",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Oki",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yamamoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Virology",
+            "volume": "176",
+            "issn": "",
+            "pages": "467-473",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0042-6822(90)90016-K"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "title": "Database analysis of O-glycosylation sites in proteins",
+            "authors": [
+                {
+                    "first": "THT",
+                    "middle": [],
+                    "last": "Christlet",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Veluraja",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biophys. J.",
+            "volume": "80",
+            "issn": "",
+            "pages": "952-960",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-3495(01)76074-2"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Pradimicin A, a carbohydrate-binding nonpeptidic lead compound for treatment of infections with viruses with highly glycosylated envelopes, such as human immunodeficiency virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "362-373",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01404-06"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "A sugar discriminating binuclear copper (II) complex",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Striegler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dittel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "125",
+            "issn": "",
+            "pages": "11518-11524",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja035561f"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "Molecular recognition of carbohydrates with artificial receptors: mimicking the binding motifs found in the crystal structures of protein-carbohydrate complexes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mazik",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cavqa",
+                    "suffix": ""
+                },
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Am. Chem. Soc.",
+            "volume": "127",
+            "issn": "",
+            "pages": "9045-9052",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja043037i"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Orientation of bound ligands in mannose-binding proteins. Implications for multivalent ligand recognition",
+            "authors": [
+                {
+                    "first": "KK",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "16088-16095",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M200493200"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "Proteins that bind high-mannose sugars of the HIV-1 envelope",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Botos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wlodawer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Prog. Biophys. Mol. Biol.",
+            "volume": "88",
+            "issn": "",
+            "pages": "233-282",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.pbiomolbio.2004.05.001"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Structural basis for selective recognition of oligosaccharides by DC-SIGN and DC-SIGNR",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Feinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Drickamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "WI",
+                    "middle": [],
+                    "last": "Weis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "294",
+            "issn": "",
+            "pages": "2163-2166",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1066371"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Insights into carbohydrate recognition by Narcissus pseudonarcissus lectin: the crystal structure at 2 \u00c5 resolution in complex with \u03b11\u20133 mannobiose",
+            "authors": [
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Sauerborn",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "CD",
+                    "middle": [],
+                    "last": "Reynolds",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Grossmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Rizkallah",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Mol. Biol.",
+            "volume": "290",
+            "issn": "",
+            "pages": "185-199",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1999.2862"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Strucure of mannose-specific snowdrop (Galanthus nivalis) lectin is representative of a new plant lectin family",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hester",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kaku",
+                    "suffix": ""
+                },
+                {
+                    "first": "IJ",
+                    "middle": [],
+                    "last": "Goldstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Nature Struct. Biol.",
+            "volume": "2",
+            "issn": "",
+            "pages": "472-479",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nsb0695-472"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "A novel tetrameric lectin from Lycoris aurea with four mannose binding sites per monomer",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Acta Biochim. Pol.",
+            "volume": "54",
+            "issn": "",
+            "pages": "159-166",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "Mutational pathways, resistance profile, and side effects of Cyanovirin relative to human immunodeficiency virus type 1 strains with N-glycan deletions in their gp120 envelopes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "8411-8421",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00369-06"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "title": "Intracellular functions of N-linked glycans",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helenius",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aebi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Science",
+            "volume": "291",
+            "issn": "",
+            "pages": "2364-2369",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.291.5512.2364"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "Role of envelope glycoprotein carbohydrate in human immunodeficiency virus (HIV-1) infectivity and virus-induced cell fusion",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lifson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Coutre",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Engleman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Exp. Med.",
+            "volume": "164",
+            "issn": "",
+            "pages": "2101-2106",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.164.6.2101"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "Sugar-binding proteins potently inhibit dendritic cell human immunodeficiency virus type 1 (HIV-1) infection and dendritic-cell-directed HIV-1 transfer",
+            "authors": [
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Turville",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Vermeire",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schols",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "13519-13527",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.21.13519-13527.2005"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "Inhibition of HIV entry by carbohydrate-binding proteins",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Antiviral Res.",
+            "volume": "71",
+            "issn": "",
+            "pages": "237-247",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2006.02.004"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Carbohydrate-binding agents efficiently prevent dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin (DC-SIGN)-directed HIVHIV-1-1 transmission to T-lymphocytes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Van Herrewege",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Vermeire",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Vanham",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schols",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol. Pharmacol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "3-11",
+            "other_ids": {
+                "DOI": [
+                    "10.1124/mol.106.030155"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "DC-SIGN: escape mechanism for pathogens",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Van Kooyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "TB",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "697-709",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1182"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "Anti-human immunodeficiency virus (HIV-1) microbicide drug candidates to prevent HIV infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van Damme",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Lancet",
+            "volume": "5",
+            "issn": "",
+            "pages": "726-731",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(05)70271-1"
+                ]
+            }
+        },
+        "BIBREF106": {
+            "title": "Maturation of blood derived dendritic cells enhances HIV-1 capture and transmission",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Izquierdo-Useros",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "7559-7570",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02572-06"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "Dendritic cell-mediated trans-enhancement of human immunodeficiency virus type 1 infectivity is independent of DC-SIGN",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Boggiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Manel",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Littman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "2519-2523",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01661-06"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "CD4 co-expression regulates DC-SIGN-mediated transmission of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Janas",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Olson",
+                    "suffix": ""
+                },
+                {
+                    "first": "VN",
+                    "middle": [],
+                    "last": "KewalRamani",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "2497-2507",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01970-06"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "Langerin is a natural barrier to HIV-1 transmission by Langerhans cells",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "de Witte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Med.",
+            "volume": "13",
+            "issn": "",
+            "pages": "367-371",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm1541"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "Glycosylation: heterogeneity and the 3D structure of proteins",
+            "authors": [
+                {
+                    "first": "PM",
+                    "middle": [],
+                    "last": "Rudd",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Dwek",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Crit. Rev. Biochem. Mol. Biol.",
+            "volume": "32",
+            "issn": "",
+            "pages": "1-100",
+            "other_ids": {
+                "DOI": [
+                    "10.3109/10409239709085144"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "Antibody domain exchange is an immunological solution to carbohydrate cluster recognition",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Calarese",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "2065-2071",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1083182"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "The \u03b1(1, 2)-mannosidase I inhibitor 1-deoxymannojirimycin potentiates the antiviral activity of carbohydrate-binding agents against wild-type and mutant HIV-1 strains containing glycan deletions in gp120",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "FEBS Lett.",
+            "volume": "581",
+            "issn": "",
+            "pages": "2060-2064",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2007.04.039"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Identification of two N-linked glycosylation sites within the core of the simian immunodeficiency virus glycoprotein whose removal enhances sensitivity to soluble CD4",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pikora",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wittish",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Desrosiers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "12575-12583",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.19.12575-12583.2005"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Profile of resistance of human immunodeficiency virus to mannose-specific plant lectins",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "10617-10626",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.19.10617-10627.2004"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Marked depletion of glycosylation sites in HIV-1 gp120 under selection pressure by the mannose-specific plant lectins of Hippeastrum hybrid and",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Balzarini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Galanthus nivalis. Mol. Pharmacol.",
+            "volume": "67",
+            "issn": "",
+            "pages": "1556-1565",
+            "other_ids": {
+                "DOI": [
+                    "10.1124/mol.104.005082"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Resistance of human immunodeficiency virus type 1 to the high-mannose binding agents Cyanovirin N and Concanavalin A",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Witvrouw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "7777-7784",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.12.7777-7784.2005"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Assignment of intrachain disulphide bonds and characterization of potential glycosylation sites of the type 1 recombinant human immunodeficiency virus envelope glycoprotein (gp120) expressed in Chinese hamster ovary cells",
+            "authors": [
+                {
+                    "first": "CK",
+                    "middle": [],
+                    "last": "Leonard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Biol. Chem.",
+            "volume": "265",
+            "issn": "",
+            "pages": "10373-10382",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "A general model for the surface glycoproteins of HIV-1 and other retroviruses",
+            "authors": [
+                {
+                    "first": "WR",
+                    "middle": [],
+                    "last": "Gallaher",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "AIDS Res. Hum. Retroviruses",
+            "volume": "11",
+            "issn": "",
+            "pages": "191-202",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/aid.1995.11.191"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "Enhanced immunogenicity of a human immunodeficiency virus type 1 env DNA vaccine by manipulating N-glycosylation signals. Effects of elimination of the V3 306 glycan",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bolmstedt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Vaccine",
+            "volume": "20",
+            "issn": "",
+            "pages": "397-405",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0264-410X(01)00358-9"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "Biological importance of glycosylation",
+            "authors": [
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Dwek",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Dev. Biol. Stand.",
+            "volume": "96",
+            "issn": "",
+            "pages": "43-47",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Modified HIV envelope proteins with enhanced binding to neutralizing monoclonal antibodies",
+            "authors": [
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "331",
+            "issn": "",
+            "pages": "20-32",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.10.005"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "Specific N-linked and O-linked glycosylation modifications in the envelope VI domain of simian immunodeficiency virus variants that evolve in the host alter recognition by neutralizing antibodies",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chackerian",
+                    "suffix": ""
+                },
+                {
+                    "first": "LM",
+                    "middle": [],
+                    "last": "Rundensey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Overbaugh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "7719-7727",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Selection for neutralization resistance of the simian human immunodeficiency virus sHIVSF33A variant in vivo by virtue of sequence changes in the extracellular envelope glycoprotein that modify N-linked glycosylation",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheng-Mayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Luciw",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Mayer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Virol.",
+            "volume": "73",
+            "issn": "",
+            "pages": "5294-5300",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "Assorted mutations in the envelope gene of simian immunodeficiency virus lead to loss of neutralization resistance against antibodies representing a broad spectrum of specificities",
+            "authors": [
+                {
+                    "first": "WE",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "9993-10003",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.18.9993-10003.2003"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "Removal of N-linked glycosylation sites in the V1 region of simian immunodeficiency virus gp120 results in redirection of B-cell responses to V3",
+            "authors": [
+                {
+                    "first": "KS",
+                    "middle": [],
+                    "last": "Cole",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Steckbeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Rowles",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Desrosiers",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Montelaro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol.",
+            "volume": "78",
+            "issn": "",
+            "pages": "1525-1539",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.3.1525-1539.2004"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "A role for carbohydrates in immune evasion in AIDS",
+            "authors": [
+                {
+                    "first": "JN",
+                    "middle": [],
+                    "last": "Reitter",
+                    "suffix": ""
+                },
+                {
+                    "first": "RE",
+                    "middle": [],
+                    "last": "Means",
+                    "suffix": ""
+                },
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Desrosiers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature Med.",
+            "volume": "4",
+            "issn": "",
+            "pages": "679-684",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0698-679"
+                ]
+            }
+        },
+        "BIBREF128": {
+            "title": "Consistent patterns of change during the divergence of human immunodeficiency virus type 1 envelope from that of the inoculated virus in simian/human immunodeficiency virus-infected macaques",
+            "authors": [
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Blay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "999-1014",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.2.999-1014.2006"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "title": "Evolutionary interactions between N-linked glycosylation sites in the HIV-1 envelope",
+            "authors": [
+                {
+                    "first": "AFY",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "FI",
+                    "middle": [],
+                    "last": "Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Kosakovsky Pond",
+                    "suffix": ""
+                },
+                {
+                    "first": "SDW",
+                    "middle": [],
+                    "last": "Frost",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Comput. Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pcbi.0030011"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "title": "Distinct functions of DC-SIGN and its homologues L-SIGN (DC-SIGNR) and mSIGNR1 in pathogen recognition and immune regulation",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Koppel",
+                    "suffix": ""
+                },
+                {
+                    "first": "KPJM",
+                    "middle": [],
+                    "last": "van Gisbergen",
+                    "suffix": ""
+                },
+                {
+                    "first": "TBH",
+                    "middle": [],
+                    "last": "Geijtenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "van Kooyk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "157-165",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1462-5822.2004.00480.x"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "title": "DC-SIGN (CD209) mediates dengue virus infection of human dendritic cells",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tassaneetrithep",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "197",
+            "issn": "",
+            "pages": "823-829",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.20021840"
+                ]
+            }
+        }
+    }
+}

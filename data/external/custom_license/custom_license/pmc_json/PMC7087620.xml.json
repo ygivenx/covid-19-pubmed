@@ -1,0 +1,1253 @@
+{
+    "paper_id": "PMC7087620",
+    "metadata": {
+        "title": "Virtual screening for finding natural inhibitor against cathepsin-L for SARS therapy",
+        "authors": [
+            {
+                "first": "S.-Q.",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Q.-S.",
+                "middle": [],
+                "last": "Du",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "K.",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "A.-X.",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "D.-Q.",
+                "middle": [],
+                "last": "Wei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "K.-C.",
+                "middle": [],
+                "last": "Chou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus main proteinase (3CL(pro)) structure: Basis for design of anti-SARS drugs",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wadhwani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Mesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1763-1767",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085658"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Prediction of the tertiary structure of the beta-secretase zymogen",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Howe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "292",
+            "issn": "",
+            "pages": "702-708",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.2002.6686"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "A Model of the complex between cyclin-dependent kinase 5(Cdk5) and the activation domain of neuronal Cdk5 activator",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Watenpaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Heinrikson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "259",
+            "issn": "",
+            "pages": "420-428",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.1999.0792"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Prediction of the tertiary structure of a caspase-9/inhibitor complex",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Tomasselli",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Heinrikson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "FEBS Lett",
+            "volume": "470",
+            "issn": "",
+            "pages": "249-256",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(00)01333-8"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Binding mechanism of coronavirus main proteinase with ligands and its implication to drug design against SARS.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "WZ",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "308",
+            "issn": "",
+            "pages": "148-151",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(03)01342-1"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Application of Bioinformatics in search for cleavable peptides of SARS CoV Mpro and chemical modification of octapeptides",
+            "authors": [
+                {
+                    "first": "QS",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "SQ",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZQ",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "WN",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Med Chem",
+            "volume": "1",
+            "issn": "",
+            "pages": "209-213",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1573406053765468"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Dock 4.0: search strategies for automated molecular docking of flexible molecule databases",
+            "authors": [
+                {
+                    "first": "TJ",
+                    "middle": [],
+                    "last": "Ewing",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Skillman",
+                    "suffix": ""
+                },
+                {
+                    "first": "ID",
+                    "middle": [],
+                    "last": "Kuntz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Comput Aided Mol Des",
+            "volume": "15",
+            "issn": "",
+            "pages": "411-428",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1011115820450"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Inhibitors of cathepsin L prevent severe acute respiratory syndrome coronavirus entry",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Dhaval",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Andrew",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Jacqueline",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Paul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci OSA",
+            "volume": "102",
+            "issn": "",
+            "pages": "11876-11881",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0505577102"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "YQ",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "XL",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZX",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "276-278",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1087139"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Crystal structure of Mhc class II associated P41 II fragment bound to cathepsin L reveals the structural basis for differentiation between cathepsins L and S",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Guncar",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pungercic",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Klemencic",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "EMBO J",
+            "volume": "18",
+            "issn": "",
+            "pages": "793-803",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/18.4.793"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Inhibition of /I-amyloid formation identifies proteolytic precursors and SubceUular site of catabolism",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jeffrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Diana",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Barbara",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Neuron",
+            "volume": "14",
+            "issn": "",
+            "pages": "651-659",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0896-6273(95)90322-4"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Use of structure-activity data to compare structure-based clustering: methods and descriptors for use in compound selection",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Bron",
+                    "suffix": ""
+                },
+                {
+                    "first": "YC",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Chem Info Comput Sci",
+            "volume": "36",
+            "issn": "",
+            "pages": "572-584",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci9501047"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Particapation of cathepsin L in bone resorption",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kakegawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "FEBS Lett",
+            "volume": "321",
+            "issn": "",
+            "pages": "247-250",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(93)80118-E"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Lipinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lombardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "BW",
+                    "middle": [],
+                    "last": "Dominy",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Feeney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Adv Drug Deliv Rev",
+            "volume": "23",
+            "issn": "",
+            "pages": "2-25",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0169-409X(96)00423-1"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The lysosomal cysteine proteases",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mary",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "McGrath",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Annu Rev Biophys Biomol Struct",
+            "volume": "28",
+            "issn": "",
+            "pages": "181-204",
+            "other_ids": {
+                "DOI": [
+                    "10.1146/annurev.biophys.28.1.181"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Characterization of a novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Rota",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Oberste",
+                    "suffix": ""
+                },
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Monroe",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Nix",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Campagnoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Icenogle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Penaranda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bankamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maher",
+                    "suffix": ""
+                },
+                {
+                    "first": "MH",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1394-1399",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085952"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Studies on the components of the fatty acid of Artemisia annua",
+            "authors": [
+                {
+                    "first": "XG",
+                    "middle": [],
+                    "last": "Sheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JI",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Grassland Turf",
+            "volume": "4",
+            "issn": "",
+            "pages": "68-70",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Chemical similarity using geometric atom pair descriptors",
+            "authors": [
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Sheridan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Underwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Kearsley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Chem Info Comput Sci",
+            "volume": "36",
+            "issn": "",
+            "pages": "128-136",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci950275b"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shujaath",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Michael",
+                    "suffix": ""
+                },
+                {
+                    "first": "SW",
+                    "middle": [],
+                    "last": "Jeffery",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Philippe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "157",
+            "issn": "",
+            "pages": "1117-1123",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Insights from modeling the 3D structure of H5N1 influenza virus neuraminidase and its binding interactions with ligands",
+            "authors": [
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "QS",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "344",
+            "issn": "",
+            "pages": "1048-1055",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2006.03.210"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "The crystal structures of severe acute respiratory syndrome virus main protease and its complex with an inhibitor",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GF",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bartlam",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZH",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "13190-13195",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1835675100"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Review: Structural bioinformatics and its impact to biomedical science",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Curr Med Chem",
+            "volume": "11",
+            "issn": "",
+            "pages": "2105-2134",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Characterization by NMR and molecular modeling of the binding of polyisoprenols and polyisoprenyl recognition sequence peptides: 3D structure of the complexes reveals sites of specific interactions",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Troy",
+                    "suffix": "2nd"
+                }
+            ],
+            "year": 2003,
+            "venue": "Glycobiology",
+            "volume": "13",
+            "issn": "",
+            "pages": "51-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/glycob/cwg008"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "NMR study of the preferred membrane orientation of polyisoprenols (dolichol) and the impact of their complex with polyisoprenyl recognition sequence peptides on membrane structure",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Troy",
+                    "suffix": "2nd"
+                }
+            ],
+            "year": null,
+            "venue": "Glycobiology",
+            "volume": "15",
+            "issn": "",
+            "pages": "347-359",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/glycob/cwi016"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "NMR studies on how the binding complex of polyisoprenol recognition sequence peptides and polyisoprenols can modulate membrane structure",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "FA",
+                    "middle": [],
+                    "last": "Troy",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Curr Protein Peptide Sci",
+            "volume": "6",
+            "issn": "",
+            "pages": "399-411",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/138920305774329377"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "GR",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Traditional chinese medicines: molecular structures, natural sources and applications",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Modelling extracellular domains of GABA-A receptors: subtypes 1, 2, 3, and 5",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "316",
+            "issn": "",
+            "pages": "636-642",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.02.098"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Insights from modelling three-dimensional structures of the human potassium and sodium channels",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Proteome Res",
+            "volume": "3",
+            "issn": "",
+            "pages": "856-861",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/pr049931q"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Insights from modelling the tertiary structure of BACE2",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Proteome Res",
+            "volume": "3",
+            "issn": "",
+            "pages": "1069-1072",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/pr049905s"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Insights from modelling the 3D structure of the extracellular domain of alpha7 nicotinic acetylcholine receptor",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "319",
+            "issn": "",
+            "pages": "433-438",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.05.016"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Coupling interaction between thromboxane A2 receptor and alpha-13 subunit of guanine nucleotide-binding protein",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Proteome Res",
+            "volume": "4",
+            "issn": "",
+            "pages": "1681-1686",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/pr050145a"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Modeling the tertiary structure of human cathepsin-E",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "331",
+            "issn": "",
+            "pages": "56-60",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2005.03.123"
+                ]
+            }
+        }
+    }
+}

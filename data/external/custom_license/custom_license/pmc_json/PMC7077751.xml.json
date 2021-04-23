@@ -1,0 +1,90 @@
+{
+    "paper_id": "PMC7077751",
+    "metadata": {
+        "title": "Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus (2019-nCoV) Epidemic",
+        "authors": [
+            {
+                "first": "Ashleigh",
+                "middle": [
+                    "R."
+                ],
+                "last": "Tuite",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "N."
+                ],
+                "last": "Fisman",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1.: \nEstimation of cumulative cases with and without implementation of control measures.\n Serial interval is the average time between cases in a chain of transmission and is used to calculate the number of generations in an epidemic (time since epidemic start \u00f7 serial interval duration). In the absence of control measures, the total number of cases after t serial intervals depends on R0 (the number of new cases created by an index case in a completely susceptible population in the absence of intervention) and the number of epidemic generations (left-hand equation). Introduction of control is assumed to reduce the reproduction number to Re. The last generation with uncontrolled growth is indicated by tc, with an incident case count of Itc, and we can use the right-hand equation to calculate case numbers in the presence of control. The difference between the 2 curves shows the effect of introducing control measures vs. continued epidemic growth\nwithout control. R0 = basic reproduction number; Re = effective reproduction number.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2.: \nSimulated epidemic trajectories and reported cumulative case counts for 2019-nCoV.\n The initial growth of the epidemic is based on introduction of the pathogen in mid-November 2019, with R0 = 2.3 and a serial interval of 7 d. The model reproduces estimates of case counts based on volume of internationally exported cases (green squares) (4). Daily cumulative counts of virologically confirmed cases are based on publicly available reports (blue circles) (1, 2). Case counts reported on 3 February 2020 are not compatible with reduction of Re to 1 but could be compatible with reduction to 1.5. If control is achieved, reported case counts will intersect horizontally with the contour lines on this graph. When reported cases move beyond contours vertically, the reproduction numbers represented by those contours become implausible. 2019-nCoV = 2019 novel\ncoronavirus; R0 = basic reproduction number; Re = effective reproduction number.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

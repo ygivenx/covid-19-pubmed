@@ -1,0 +1,308 @@
+{
+    "paper_id": "PMC3680036",
+    "metadata": {
+        "title": "Introducing the Outbreak Threshold in Epidemiology",
+        "authors": [
+            {
+                "first": "Matthew",
+                "middle": [],
+                "last": "Hartfield",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Samuel",
+                "middle": [],
+                "last": "Alizon",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Glenn",
+                "middle": [
+                    "F."
+                ],
+                "last": "Rall",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure 1: (A) A schematic of pathogen emergence. This graph shows the early stages of several strains of an epidemic, where R0 = 1.25. The black line denotes the outbreak threshold (T\n0 = 1/Log(R0) = 4.48). Blue thin lines show cases in which the pathogen goes extinct and does not exceed the threshold; the red thick line shows an epidemic that exceeds the threshold and persists for a long period of time. Simulations were based on the Gillespie algorithm [22]. (B) Outbreak threshold in a homogeneous (black thick line) or in a heterogeneous population, for increasing R0. The threshold was calculated following the method described by Lloyd-Smith et al. [11] and is shown for different values of k, the dispersion parameter of the offspring distribution, as obtained from data on previous epidemics [11]. If the threshold lies below one, this means that around only one infected individual is needed to give a high outbreak probability.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Risk factors for the evolutionary emergence of pathogens",
+            "authors": [],
+            "year": 2010,
+            "venue": "J R Soc Interface",
+            "volume": "7",
+            "issn": "",
+            "pages": "1455-1474",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "The role of evolution in the emergence of infectious diseases",
+            "authors": [],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "658-661",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "The critical community size for measles in the United States",
+            "authors": [],
+            "year": 1960,
+            "venue": "J R Stat Soc Ser A Stat Soc",
+            "volume": "123",
+            "issn": "",
+            "pages": "37-44",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Genetic hitchhiking",
+            "authors": [],
+            "year": 2000,
+            "venue": "Philos Trans R Soc Lond B Biol Sci",
+            "volume": "355",
+            "issn": "",
+            "pages": "1553-1562",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Beneficial mutation-selection balance and the effect of linkage on positive selection",
+            "authors": [],
+            "year": 2007,
+            "venue": "Genetics",
+            "volume": "176",
+            "issn": "",
+            "pages": "1759-1798",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Molecular ecology and emergence of tropical plant viruses",
+            "authors": [],
+            "year": 2006,
+            "venue": "Annu Rev Phytopathol",
+            "volume": "44",
+            "issn": "",
+            "pages": "235-260",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Public health risk from the avian H5N1 influenza epidemic",
+            "authors": [],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "304",
+            "issn": "",
+            "pages": "968-969",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Epidemiology: dimensions of superspreading",
+            "authors": [],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "293-295",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Exact stochastic simulation of coupled chemical reactions",
+            "authors": [],
+            "year": 1977,
+            "venue": "J Phys Chem",
+            "volume": "81",
+            "issn": "",
+            "pages": "2340-2361",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "The \u201chitchhiking effect\u201d revisited",
+            "authors": [],
+            "year": 1989,
+            "venue": "Genetics",
+            "volume": "123",
+            "issn": "",
+            "pages": "887-889",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Insights into the evolution and emergence of a novel infectious disease",
+            "authors": [],
+            "year": 2010,
+            "venue": "PLoS Comput Biol",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Severe acute respiratory syndrome \u2014 Singapore, 2003",
+            "authors": [],
+            "year": 2003,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "52",
+            "issn": "",
+            "pages": "405-411",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Superspreading and the effect of individual variation on disease emergence",
+            "authors": [],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "438",
+            "issn": "",
+            "pages": "355-359",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "The challenge of emerging and re-emerging infectious diseases",
+            "authors": [],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "430",
+            "issn": "",
+            "pages": "242-249",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Human viruses: discovery and emergence",
+            "authors": [],
+            "year": 2012,
+            "venue": "Philos Trans R Soc Lond B Biol Sci",
+            "volume": "367",
+            "issn": "",
+            "pages": "2864-2871",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "How do pathogen evolution and host heterogeneity interact in disease emergence?",
+            "authors": [],
+            "year": 2006,
+            "venue": "Proc Biol Sci",
+            "volume": "273",
+            "issn": "",
+            "pages": "3075-3083",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

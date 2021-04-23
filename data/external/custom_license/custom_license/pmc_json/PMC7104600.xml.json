@@ -1,0 +1,1212 @@
+{
+    "paper_id": "PMC7104600",
+    "metadata": {
+        "title": "Spatial-temporal characteristics of epidemic spread in-out flow\u2014Using SARS epidemic in Beijing as a case study",
+        "authors": [
+            {
+                "first": "BiSong",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "JianHua",
+                "middle": [],
+                "last": "Gong",
+                "suffix": "",
+                "email": "jhgong@irsa.ac.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "JiePing",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jun",
+                "middle": [],
+                "last": "Sun",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "LiYang",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yu",
+                "middle": [],
+                "last": "Xia",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Abdoul",
+                "middle": [
+                    "Nasser"
+                ],
+                "last": "Ibrahim",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Epidemiology modeling the SARS epidemic",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Dye",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Gay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1884-1885",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086925"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Understanding the spatial diffusion process of severe acute respiratory syndrome in Beijing",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Publ Health",
+            "volume": "119",
+            "issn": "",
+            "pages": "1080-1087",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.puhe.2005.02.003"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Spatio-temporal evolution of Beijing 2003 SARS epidemic",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Sci China Earth Sci",
+            "volume": "53",
+            "issn": "",
+            "pages": "1017-1028",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11430-010-0043-x"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Data-driven exploration of \u2019spatial pattern-time process-driving forces\u2019 associations of SARS epidemic in Beijing, China",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Christakos",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Public Health (Oxf)",
+            "volume": "30",
+            "issn": "",
+            "pages": "234-244",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/pubmed/fdn023"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Simulation and analysis of control of severe acute respiratory syndrome (in Chinese)",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Remote Sensing",
+            "volume": "7",
+            "issn": "",
+            "pages": "260-265",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Dynamics model and multi-agent based simulation of SARS transmission (in Chinese)",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Remote Sensing",
+            "volume": "10",
+            "issn": "",
+            "pages": "829-835",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Predict SARS infection with the small world network model (in Chinese)",
+            "authors": [
+                {
+                    "first": "G.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q.",
+                    "middle": [],
+                    "last": "Ouyang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Peking Univ (Health Sci)",
+            "volume": "35",
+            "issn": "Suppl",
+            "pages": "66-69",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Small world and scale free model of transmission of SARS",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Tse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Int J Bifurcation Chaos",
+            "volume": "15",
+            "issn": "",
+            "pages": "1745-1755",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0218127405012776"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Analysis on the multi-distribution and the major influencing factors on severe acute respiratory syndrome in Beijing (in Chinese)",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Chin J Epidemiol",
+            "volume": "26",
+            "issn": "",
+            "pages": "16-20",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Study on population migration characteristics in mainland China and its applications to decision-making for SARS control (in Chinese)",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Remote Sensing",
+            "volume": "7",
+            "issn": "",
+            "pages": "273-276",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Case fatality of SARS in mainland China and associated risk factors",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Trop Med Int Health",
+            "volume": "14",
+            "issn": "Suppl1",
+            "pages": "21-27",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-3156.2008.02147.x"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Stochastic dynamic model of SARS spreading",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chin Sci Bull",
+            "volume": "48",
+            "issn": "",
+            "pages": "1287-1292",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Risk factors for SARS among persons without known contact with SARS patients, Beijing, China",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "210-216",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1002.030730"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "SARS transmission, risk factors, and prevention in Hong Kong",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "T."
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Tsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "587-592",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1004.030628"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "A computer movie simulating urban growth in the detroit region",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [],
+                    "last": "Tobler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Econ Geogr",
+            "volume": "46",
+            "issn": "",
+            "pages": "234-240",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/143141"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "The first law of geography and spatial-temporal proximity (in Chinese)",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "W."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "X."
+                    ],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Chin J Nat",
+            "volume": "29",
+            "issn": "",
+            "pages": "69-71",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "Notes on continuous stochastic phenomena",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Moran",
+                    "suffix": ""
+                }
+            ],
+            "year": 1950,
+            "venue": "Biometrika",
+            "volume": "37",
+            "issn": "",
+            "pages": "17-23",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "The contiguity ratio and statistical mapping",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Geary",
+                    "suffix": ""
+                }
+            ],
+            "year": 1954,
+            "venue": "Incorp Statistician",
+            "volume": "5",
+            "issn": "",
+            "pages": "115-145",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2986645"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "The analysis of spatial association by use of distance statistics",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Getis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Ord",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Geogr Anal",
+            "volume": "24",
+            "issn": "",
+            "pages": "189-206",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1538-4632.1992.tb00261.x"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Local indicators of spatial association-LISA",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Anselin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Geogr Anal",
+            "volume": "27",
+            "issn": "",
+            "pages": "93-115",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1538-4632.1995.tb00338.x"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Local spatial autocorrelation statistics: Distributional issues and application",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "K."
+                    ],
+                    "last": "Ord",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Getis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Geogr Anal",
+            "volume": "27",
+            "issn": "",
+            "pages": "286-306",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1538-4632.1995.tb00912.x"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Anselin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Spatial Analytical Perspectives on GIS",
+            "volume": "",
+            "issn": "",
+            "pages": "111-125",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Epidemic modelling using SARS as a case study",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Tsui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "North Amer Actuar J",
+            "volume": "9",
+            "issn": "",
+            "pages": "28-42",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10920277.2005.10596223"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Levine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "CrimeStat: A spatial statistics program for the analysis of crime incident locations (version 3.3)",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Geographical detectors-based health risk assessment and its application in the neural tube defects study of the Heshun Region, China",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [],
+                    "last": "Christakos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Int J Geogr Inf Sci",
+            "volume": "24",
+            "issn": "",
+            "pages": "107-127",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/13658810802443457"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Collective dynamics of \u2019small-world\u2019 networks",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Strogatz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature",
+            "volume": "393",
+            "issn": "",
+            "pages": "440-442",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/30918"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Emergence of scaling in random networks",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Barabasi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Albert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "286",
+            "issn": "",
+            "pages": "509-512",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.286.5439.509"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Classes of small-world networks",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Amaral",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Scala",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Barthelemy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "11149-11152",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.200327197"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Spatial disease clusters: Detection and inference",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kulldorff",
+                    "suffix": ""
+                },
+                {
+                    "first": "N.",
+                    "middle": [],
+                    "last": "Nagarwalla",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Stat Med",
+            "volume": "14",
+            "issn": "",
+            "pages": "799-810",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/sim.4780140809"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "A spatial scan statistic",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kulldorff",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Commun Stat: Theory Methods",
+            "volume": "26",
+            "issn": "",
+            "pages": "1481-1496",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/03610929708831995"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "A space-time permutation scan statistic for disease outbreak detection",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Kulldorff",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Heffernan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [],
+                    "last": "Hartman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Med",
+            "volume": "2",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.0020059"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Epidemiology, transmission dynamics and control of SARS: The 2002\u20132003 epidemic",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Ghani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Philos Trans R Soc Lond B Biol Sci",
+            "volume": "359",
+            "issn": "",
+            "pages": "1091-1105",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rstb.2004.1490"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Transmission dynamics and control of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1966-1970",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1086616"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Evaluation of control measures implemented in the severe acute respiratory syndrome outbreak in Beijing, 2003",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "JAMA",
+            "volume": "290",
+            "issn": "",
+            "pages": "3215-3221",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.290.24.3215"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Study on risk factors related to severe acute respiratory syndrome among close contactors in Beijing (in Chinese)",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Chin J Epidemiol",
+            "volume": "25",
+            "issn": "",
+            "pages": "35-37",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Geographical spread of SARS in mainland China",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [
+                        "Q."
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "de Vlas",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Trop Med Int Health",
+            "volume": "14",
+            "issn": "Suppl1",
+            "pages": "14-20",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-3156.2008.02189.x"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "Spatial dynamics of an epidemic of severe acute respiratory syndrome in an urban area",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Mcmichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Bull World Health Organ",
+            "volume": "84",
+            "issn": "",
+            "pages": "965-968",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.06.030247"
+                ]
+            }
+        }
+    }
+}

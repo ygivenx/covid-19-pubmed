@@ -1,0 +1,964 @@
+{
+    "paper_id": "PMC7089090",
+    "metadata": {
+        "title": "Integration of small world networks with multi-agent systems for simulating epidemic spatiotemporal transmission",
+        "authors": [
+            {
+                "first": "Tao",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xia",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": "lixia@mail.sysu.edu.cn",
+                "affiliation": {}
+            },
+            {
+                "first": "XiaoPing",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "A contribution to the mathematical theory of epidemics",
+            "authors": [
+                {
+                    "first": "W.",
+                    "middle": [
+                        "O."
+                    ],
+                    "last": "Kermack",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "G."
+                    ],
+                    "last": "McKendrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1927,
+            "venue": "Proceedings of the Royal Society of London (Series A)",
+            "volume": "",
+            "issn": "",
+            "pages": "700-721",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Towards the use of a multi-agents event based design to improve reactivity of production systems",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Chebeane",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Echalier",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Comput Ind Eng",
+            "volume": "37",
+            "issn": "",
+            "pages": "9-13",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0360-8352(99)00013-3"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "G.",
+                        "O."
+                    ],
+                    "last": "Yeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Geography Simulation System: Cellular Automata and Multi-agent (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": "250-258",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Multi-agent systems for simulating spatial decision behaviors and land-use dynamics",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "G.",
+                        "O."
+                    ],
+                    "last": "Yeh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Sci China Ser D-Earth Sci",
+            "volume": "49",
+            "issn": "",
+            "pages": "1184-1194",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11430-006-1184-9"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Urban land expansion model based on multi-agent system and application (in Chinese)",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [
+                        "B."
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Acta Geogr Sin",
+            "volume": "63",
+            "issn": "",
+            "pages": "869-881",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Simulation and analysis on the control of SARS by complexity adaptive system theory (in Chinese)",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Complex Sys Complexity Sci",
+            "volume": "1",
+            "issn": "",
+            "pages": "74-79",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Multiagent-based simulation of disease infection (in Chinese)",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "Z."
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Chi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Comput Sim",
+            "volume": "21",
+            "issn": "",
+            "pages": "167-170",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Spatial aspects of a smallpox epidemic in a small brazilian city",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Morrill",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Angulo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "Geogr Rev",
+            "volume": "69",
+            "issn": "",
+            "pages": "319-330",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/214888"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "A conceptual framework for an individual-based spatially explicit epidemiological model",
+            "authors": [
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Bian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Environ Plann Plann Des",
+            "volume": "31",
+            "issn": "",
+            "pages": "381-395",
+            "other_ids": {
+                "DOI": [
+                    "10.1068/b2833"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Dynamics model and multi-agent based simulation of SARS transmission (in Chinese)",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.",
+                    "middle": [
+                        "P."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Remote Sens",
+            "volume": "10",
+            "issn": "",
+            "pages": "829-835",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "The small world problem",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Milgram",
+                    "suffix": ""
+                }
+            ],
+            "year": 1967,
+            "venue": "Psych Today",
+            "volume": "1",
+            "issn": "",
+            "pages": "60-67",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Z.",
+                    "middle": [
+                        "N."
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "W.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mathematical Modeling and Dynamics of Infectious Diseases (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": "3-9",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Collective dynamics of \u2019small-world\u2019 networks",
+            "authors": [
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Strogatz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Nature",
+            "volume": "393",
+            "issn": "",
+            "pages": "440-442",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/30918"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Spatial Analysis (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": "221-232",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R.",
+                    "middle": [],
+                    "last": "May",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Infectious Diseases of Humans: Dynamics and Control",
+            "volume": "",
+            "issn": "",
+            "pages": "467-630",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Universal behavior in a generalized model of contagion",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [
+                        "S."
+                    ],
+                    "last": "Dodds",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Phys Rev Lett",
+            "volume": "92",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.92.218701"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "X.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Complex Network and Its Application (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": "9-23",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Renormalization group analysis of the small-world network model",
+            "authors": [
+                {
+                    "first": "M.",
+                    "middle": [
+                        "E.",
+                        "J."
+                    ],
+                    "last": "Newman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Watts",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Phys Lett A",
+            "volume": "263",
+            "issn": "",
+            "pages": "341-346",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0375-9601(99)00757-4"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "T.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Bailey",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Norman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "The Mathematical Theory of Infectious Diseases and Its Applications",
+            "volume": "",
+            "issn": "",
+            "pages": "6-42",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Spatial dynamics of an epidemic of severe acute respiratory syndrome in an urban area",
+            "authors": [
+                {
+                    "first": "J.",
+                    "middle": [
+                        "F."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "McMichael",
+                    "suffix": ""
+                },
+                {
+                    "first": "B.",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "B World Health Organ",
+            "volume": "84",
+            "issn": "",
+            "pages": "965-968",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.06.030247"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Population Analysis Method and Its Application (in Chinese)",
+            "volume": "",
+            "issn": "",
+            "pages": "47-124",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Stochastic dynamic model of SARS spreading",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Sci Bull",
+            "volume": "48",
+            "issn": "",
+            "pages": "1287-1292",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Modeling population density using land cover data",
+            "authors": [
+                {
+                    "first": "Y.",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "T.",
+                    "middle": [],
+                    "last": "Yue",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Ecol Model",
+            "volume": "189",
+            "issn": "",
+            "pages": "72-88",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ecolmodel.2005.03.012"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Urban population densities",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                }
+            ],
+            "year": 1951,
+            "venue": "J R Stat Soc A Stat",
+            "volume": "114",
+            "issn": "",
+            "pages": "490-496",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Modeling the spatial distribution of urban population density and its evolution in Guangzhou (in Chinese)",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "H."
+                    ],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Ning",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Appl Stat Manage",
+            "volume": "25",
+            "issn": "",
+            "pages": "518-522",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Control dynamics of severe acute respiratory syndrome transmission",
+            "authors": [
+                {
+                    "first": "H.",
+                    "middle": [
+                        "Y."
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "F.",
+                    "middle": [
+                        "J."
+                    ],
+                    "last": "Ke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Chinese Sci Bull",
+            "volume": "48",
+            "issn": "",
+            "pages": "2684-2687",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Object-oriented implementation of CA/LGCA modelling applied the spread of epidemics",
+            "authors": [
+                {
+                    "first": "B.",
+                    "middle": [
+                        "D."
+                    ],
+                    "last": "Stefano",
+                    "suffix": ""
+                },
+                {
+                    "first": "H.",
+                    "middle": [],
+                    "last": "Fuk\u015b",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.",
+                    "middle": [],
+                    "last": "Lawniczak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proceedings of the IEEE Canadian Conference on Electrical and Computer Engineering",
+            "volume": "",
+            "issn": "",
+            "pages": "26-31",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "S.",
+                    "middle": [
+                        "C."
+                    ],
+                    "last": "Fu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Modelling epidemic spread using cellular automata. Dissertation for the Master Degree",
+            "volume": "",
+            "issn": "",
+            "pages": "27-49",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Modeling infectious diseases using global stochastic cellular automata",
+            "authors": [
+                {
+                    "first": "A.",
+                    "middle": [
+                        "R."
+                    ],
+                    "last": "Mikler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S.",
+                    "middle": [],
+                    "last": "Venkatachalam",
+                    "suffix": ""
+                },
+                {
+                    "first": "K.",
+                    "middle": [],
+                    "last": "Abbas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Biol Syst",
+            "volume": "13",
+            "issn": "",
+            "pages": "421-439",
+            "other_ids": {
+                "DOI": [
+                    "10.1142/S0218339005001604"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Modelling the effect of urbanization on the transmission of an infectious disease",
+            "authors": [
+                {
+                    "first": "P.",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P.",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Atkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Math Biosci",
+            "volume": "211",
+            "issn": "",
+            "pages": "166-185",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2007.10.007"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "Epidemics and percolation in small-world networks",
+            "authors": [
+                {
+                    "first": "C.",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "M.",
+                    "middle": [
+                        "E.",
+                        "J."
+                    ],
+                    "last": "Newman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Phys Rev E",
+            "volume": "61",
+            "issn": "",
+            "pages": "5678-5682",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.61.5678"
+                ]
+            }
+        }
+    }
+}

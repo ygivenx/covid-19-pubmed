@@ -1,0 +1,4129 @@
+{
+    "paper_id": "PMC7097105",
+    "metadata": {
+        "title": "Viroporins: structure and biological functions",
+        "authors": [
+            {
+                "first": "Jos\u00e9",
+                "middle": [
+                    "Luis"
+                ],
+                "last": "Nieva",
+                "suffix": "",
+                "email": "joseluis.nieva@ehu.es",
+                "affiliation": {}
+            },
+            {
+                "first": "Vanesa",
+                "middle": [],
+                "last": "Madan",
+                "suffix": "",
+                "email": "Vanesa_Madan@med.uni-heidelberg.de",
+                "affiliation": {}
+            },
+            {
+                "first": "Luis",
+                "middle": [],
+                "last": "Carrasco",
+                "suffix": "",
+                "email": "lcarrasco@cbm.uam.es",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Viroporin inhibitors\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | Class I viroporins have a single membrane-spanning domain. The A and B subclasses contain proteins that are inserted into the membrane with either a lumenal amino terminus and cytosolic carboxyl terminus (class IA) or a cytosolic amino terminus and lumenal carboxyl terminus (class IB). In addition, class IA members are usually phosphorylated at the C terminus. Known viroporins of each subclass are shown. b | Class II viroporins form helix\u2013turn\u2013helix hairpin motifs that span the membrane. Subclass A members have lumenal N and C termini, whereas members of subclass B have cytosolic N and C termini. Known viroporins of each subclass are shown. CoV, coronavirus; E, envelope small membrane protein; HCV, hepatitis C virus; HRSV, human respiratory syncytial virus; IAV, influenza A virus; M2, matrix protein 2; PV, poliovirus; SH, small hydrophobic protein; SV, Sindbis virus; Vpu, viral protein U.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: The main host cell organelles that are targeted by viroporins, and the cytopathic effects that are induced by viroporins and their functions during the viral life cycle are represented. a | Alteration of plasma membrane potential. Viroporins that are located at the plasma membrane can dissipate the ionic gradient across the membrane, leading to depolarization. b | Alteration of cellular Ca2+ homeostasis. The poliovirus (PV) viroporin protein 2B (P2B) assembles pores in the ER membrane and induces the release of Ca2+ from the ER lumen into the cytosol. Uptake of Ca2+ by the mitochondria can lead to dissipation of the inner-mitochondrial-membrane potential (\u0394\u03a8m), permeabilization of the outer mitochondrial membrane and, finally, the release of cytochrome c. In the cytosol, cytochrome c promotes the formation of the so-called apoptosome, a molecular platform that is involved in apoptosis. c | Certain viroporins, such as P2B, polyprotein P2BC and P3A from PV or envelope small membrane protein (E) from coronavirus (CoV), induce intracellular membrane remodelling to generate new membrane vesicles (called the viroplasm) that serve as viral replication sites. d | Dissipation of the proton gradient in the Golgi and the trans-Golgi network. The viroporins influenza A virus (IAV) matrix protein 2 (M2) and hepatitis C virus (HCV) p7 reduce the acidification of vesicular acidic compartments by equilibrating the proton concentration with the cytosol. Alteration of the intracellular ionic gradient in the vesicular system impairs glycoprotein trafficking. e | During the viral replication cycle, viroporins play an essential part in assembly, budding and release of the viral progeny. ARV, avian reovirus; [Ca2+]i, intracellular Ca2+ concentration; HRSV, human respiratory syncytial virus; JCV, JC polyomavirus; NSP4, non-structural protein 4; RV, rotavirus; SARS-CoV, severe acute respiratory syndrome CoV; SH, small hydrophobic protein; SV, Sindbis virus; Vpu, viral protein U.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: Viroporins localize at the plasma membrane in specific sites surrounding the neck of the budding virus particle, as described for the influenza A virus matrix protein 2 (M2) viroporin80. Viroporins alter membrane permeability by conducting the flux of different ions (for example, Na+ and K+) across the membrane in favour of their concentration gradients and so reducing the transmembrane potential, which is essentially determined by three factors: the concentration of ions inside and outside the cell; the permeability of the cell membrane to those ions (that is, the ion conductance) through specific ion channels; and the activity of electrogenic pumps (for example, the (Na++K+)ATPase and Ca2+ transport pumps) that require energy to maintain the ion gradients across the membrane. Depolarization of the membrane (that is, decreasing the imbalance of charges across the membrane) leads to a reduction in the charge density on the membrane surface. This phenomenon would result in a decrease in the electrical or contact repulsion between opposing monolayers of the membrane at the neck of the budding site (middle) and could provide the stimulus and even the energy to locally promote budding and release21,75, as occurs in depolarization-dependent exocytosis76.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Each viroporin structure is shown both oriented in the membrane bilayer and from a down-top view. a | High-resolution (1.65 \u00c5) X-ray structure of the oligomers formed by a peptide representing the transmembrane region (residues 25\u201346) of the class IA viroporin matrix protein 2 (M2) from influenza A virus. Crystals were obtained at pH 6.5 in the presence of N-octylglucoside (Protein Data Bank (PDB) accession 3LBW). In the ribbon representation (right), constituent helices (H1\u2013H4) are indicated, and side chains of His37 and Trp41 are depicted in blue and green, respectively. Structures were generated using Swiss-PdbViewer. b | Solid-state NMR structure of the transmembrane region (residues 2\u201330) from the class IA viroporin viral protein U (Vpu) from HIV-1, in lipid bilayers (PDB accession 1PI7). The oligomeric form was calculated using energy minimization protocols, and side chains were added to a backbone structure that was generated from solid-state NMR spectroscopy data. Ribbon representations (right) display the constituent helices (H1\u2013H5) and side chains of Ile17 and Trp22 in yellow and green, respectively. Structures were generated using Swiss-PdbViewer. c | Density map contours of oligomers of p7, a class IIA viroporin from hepatitis C virus, solubilized in detergent. Simulated p7 monomers were fitted with their amino and carboxyl termini oriented towards the petal tips29 (right). Structures in part c are modified, with permission, from Ref. 29 \u00a9 (2009) US National Academy of Sciences.",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Modification of membrane permeability by animal viruses",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Adv. Virus Res.",
+            "volume": "45",
+            "issn": "",
+            "pages": "61-112",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(08)60058-5"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Inhibition of cellular protein secretion by poliovirus proteins 2B and 3A",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "894-907",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1995.tb07071.x"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "NMR structure and ion channel activity of the p7 protein from hepatitis C virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Montserret",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Biol. Chem.",
+            "volume": "285",
+            "issn": "",
+            "pages": "31446-31461",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M110.122895"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "The influenza A virus M2 cytoplasmic tail is required for infectious virus production and efficient genome packaging",
+            "authors": [
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "McCown",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pekosz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "3595-3605",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.6.3595-3605.2005"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Influenza virus activates inflammasomes via its intracellular M2 ion channel",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ichinohe",
+                    "suffix": ""
+                },
+                {
+                    "first": "IK",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Iwasaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature Immunol.",
+            "volume": "11",
+            "issn": "",
+            "pages": "404-410",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/ni.1861"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Human annexin A6 interacts with influenza A virus protein M2 and negatively modulates infection",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "1789-1901",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.06003-11"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Matrix protein 2 of influenza A virus blocks autophagosome fusion with lysosomes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gannage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell Host Microbe",
+            "volume": "6",
+            "issn": "",
+            "pages": "367-380",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2009.09.005"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Bundles consisting of extended transmembrane segments of Vpu from HIV-1: computer simulations and conductance measurements",
+            "authors": [
+                {
+                    "first": "FS",
+                    "middle": [],
+                    "last": "Cordes",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Tustian",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Sansom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochemistry",
+            "volume": "41",
+            "issn": "",
+            "pages": "7359-7365",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi025518p"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Cytoplasmic tail determinant in HIV-1 Vpu mediates targeting of tetherin for endosomal degradation and counteracts interferon-induced restriction",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kueck",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJA",
+                    "middle": [],
+                    "last": "Neil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog.",
+            "volume": "8",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1002609"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Transmembrane domain determinants of CD4 downregulation by HIV-1 Vpu",
+            "authors": [
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Magadan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Bonifacino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "757-772",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.05933-11"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "HIV-1 accessory protein Vpu internalizes cell-surface BST-2/tetherin through transmembrane interactions leading to lysosomes",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Iwabu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Biol. Chem.",
+            "volume": "284",
+            "issn": "",
+            "pages": "35060-35072",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M109.058305"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Tetherin inhibits HIV-1 release by directly tethering virions to cells",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Perez-Caballero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "139",
+            "issn": "",
+            "pages": "499-511",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2009.08.039"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Membrane permeabilization by poliovirus proteins 2B and 2BC",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aldabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Biol. Chem.",
+            "volume": "271",
+            "issn": "",
+            "pages": "23134-23137",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.271.38.23134"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "BST-2/tetherin: a new component of the innate immune response to enveloped viruses",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Serra-Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Guatelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Trends Microbiol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "388-396",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2010.06.010"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "An interferon-alpha-induced tethering mechanism inhibits HIV-1 and Ebola virus particle release but is counteracted by the HIV-1 Vpu protein",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Neil",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sandrin",
+                    "suffix": ""
+                },
+                {
+                    "first": "WI",
+                    "middle": [],
+                    "last": "Sundquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Bieniasz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell Host Microbe",
+            "volume": "2",
+            "issn": "",
+            "pages": "193-203",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2007.08.001"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Structure and mechanism of proton transport through the transmembrane tetrameric M2 protein bundle of the influenza A virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Acharya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "15075-15080",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1007071107"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Proton transport through influenza A virus M2 protein reconstituted in vesicles",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Moffat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biophys. J.",
+            "volume": "94",
+            "issn": "",
+            "pages": "434-445",
+            "other_ids": {
+                "DOI": [
+                    "10.1529/biophysj.107.109082"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Structural basis for the function and inhibition of an influenza virus proton channel",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Stouffer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "451",
+            "issn": "",
+            "pages": "596-599",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature06528"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Oligomerization state and supramolecular structure of the HIV-1 Vpu protein transmembrane segment in phospholipid bilayers",
+            "authors": [
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sharpe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ghirlando",
+                    "suffix": ""
+                },
+                {
+                    "first": "WM",
+                    "middle": [],
+                    "last": "Yau",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tycko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Protein Sci.",
+            "volume": "19",
+            "issn": "",
+            "pages": "1877-1896",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/pro.474"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Molecular dynamics investigation of membrane-bound bundles of the channel-forming transmembrane domain of viral protein U from the human immunodeficiency virus HIV-1",
+            "authors": [
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Montal",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Blasie",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "Klein",
+                    "suffix": ""
+                },
+                {
+                    "first": "PB",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biophys. J.",
+            "volume": "83",
+            "issn": "",
+            "pages": "1259-1267",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-3495(02)73898-8"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Secondary structure, dynamics, and architecture of the p7 membrane protein from hepatitis C virus by NMR spectroscopy",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Opella",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1808",
+            "issn": "",
+            "pages": "1448-1453",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbamem.2010.08.010"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Amantadine inhibits an early, M2 protein-dependent event in the replication cycle of avian influenza (H7) viruses",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Kendal",
+                    "suffix": ""
+                },
+                {
+                    "first": "HD",
+                    "middle": [],
+                    "last": "Klenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Arch. Virol.",
+            "volume": "119",
+            "issn": "",
+            "pages": "265-273",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01310675"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Inhibition of hepatitis C virus p7 membrane channels in a liposome-based assay system",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "StGelais",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Antiviral Res.",
+            "volume": "76",
+            "issn": "",
+            "pages": "48-58",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2007.05.001"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Poliovirus protein 2BC increases cytosolic free calcium concentrations",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aldabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Irurzun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "6214-6217",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Combination chemotherapy for influenza",
+            "authors": [
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Govorkova",
+                    "suffix": ""
+                },
+                {
+                    "first": "RG",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Viruses",
+            "volume": "2",
+            "issn": "",
+            "pages": "1510-1529",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v2081510"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "Resistance mutations define specific antiviral effects for inhibitors of the hepatitis C virus p7 ion channel",
+            "authors": [
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Hepatology",
+            "volume": "54",
+            "issn": "",
+            "pages": "79-90",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/hep.24371"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "No beneficial effects of amantadine in treatment of chronic hepatitis C patients",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van Soest",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Dig. Liver Dis.",
+            "volume": "42",
+            "issn": "",
+            "pages": "496-502",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.dld.2009.10.006"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The hepatitis C virus life cycle as a target for new antiviral therapies",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Pawlotsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chevaliez",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "McHutchison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Gastroenterology",
+            "volume": "132",
+            "issn": "",
+            "pages": "1979-1998",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.gastro.2007.03.116"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Hexamethylene amiloride blocks E protein ion channels and inhibits coronavirus replication",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gage",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "353",
+            "issn": "",
+            "pages": "294-30",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.05.028"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "A novel Hepatitis C virus p7 ion channel inhibitor, BIT225, inhibits bovine viral diarrhea virus in vitro and shows synergism with recombinant interferon-\u03b1-2b and nucleoside analogues",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Luscombe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Antiviral Res.",
+            "volume": "86",
+            "issn": "",
+            "pages": "144-153",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2010.02.312"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Antiviral efficacy of the novel compound BIT225 against HIV-1 release from human macrophages",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Khoury",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Luscombe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wilkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Antimicrob. Agents Chemother.",
+            "volume": "54",
+            "issn": "",
+            "pages": "835-845",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AAC.01308-09"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "DIDS blocks a chloride-dependent current that is mediated by the 2B protein of enterovirus 71",
+            "authors": [
+                {
+                    "first": "SQ",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Cell Res.",
+            "volume": "21",
+            "issn": "",
+            "pages": "1271-1275",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/cr.2011.112"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "Development and validation of a high-throughput screening assay for the hepatitis C virus p7 viroporin",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gervais",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Biomol. Screen",
+            "volume": "16",
+            "issn": "",
+            "pages": "363-369",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1087057110396215"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "The SV40 late protein VP4 is a viroporin that forms pores to disrupt membranes for viral release",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Raghava",
+                    "suffix": ""
+                },
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Giorda",
+                    "suffix": ""
+                },
+                {
+                    "first": "FB",
+                    "middle": [],
+                    "last": "Romano",
+                    "suffix": ""
+                },
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Heuck",
+                    "suffix": ""
+                },
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Hebert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog.",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1002116"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "Coxsackievirus protein 2B modifies endoplasmic reticulum membrane and plasma membrane permeability and facilitates virus release",
+            "authors": [
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "EMBO J.",
+            "volume": "16",
+            "issn": "",
+            "pages": "3519-3532",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/emboj/16.12.3519"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "High-risk human papillomavirus E5 oncoprotein displays channel-forming activity sensitive to small-molecule inhibitors",
+            "authors": [
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Wetherill",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "5341-5351",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.06243-11"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "title": "The transmembrane domain of the infectious bronchitis virus E protein is required for efficient virus release",
+            "authors": [
+                {
+                    "first": "CE",
+                    "middle": [],
+                    "last": "Machamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Youn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv. Exp. Med. Biol.",
+            "volume": "581",
+            "issn": "",
+            "pages": "193-198",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-0-387-33012-9_33"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Role of the coronavirus E viroporin protein transmembrane domain in virus assembly",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "BG",
+                    "middle": [],
+                    "last": "Hogue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "3597-3607",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01472-06"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "title": "Regulation of cell death during infection by the severe acute respiratory syndrome coronavirus and other coronaviruses",
+            "authors": [
+                {
+                    "first": "YJ",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell. Microbiol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "2552-2561",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1462-5822.2007.01034.x"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "A potassium channel protein encoded by chlorella virus PBCV-1",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Plugge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Science",
+            "volume": "287",
+            "issn": "",
+            "pages": "1641-1644",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.287.5458.1641"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "title": "Viral proteins function as ion channels",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "SQ",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1808",
+            "issn": "",
+            "pages": "510-515",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbamem.2010.05.006"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Classical swine fever virus p7 protein is a viroporin involved in virulence in swine",
+            "authors": [
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Gladue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Virol.",
+            "volume": "86",
+            "issn": "",
+            "pages": "6778-6791",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00560-12"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "title": "Influenza B virus BM2 protein has ion channel activity that conducts protons across membranes",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Mould",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Dev. Cell",
+            "volume": "5",
+            "issn": "",
+            "pages": "175-184",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1534-5807(03)00190-4"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "title": "Vpr protein of human immunodeficiency virus type 1 forms cation-selective channels in planar lipid bilayers",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Piller",
+                    "suffix": ""
+                },
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Ewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Premkumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "GB",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Gage",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "111-115",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.93.1.111"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "title": "Effects of human T-cell leukemia virus type 1 (HTLV-1) p13 on mitochondrial K+ permeability: a new member of the viroporin family?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Silic-Benussi",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Marin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Biasiotto",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "D'Agostino",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Ciminale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "FEBS Lett.",
+            "volume": "584",
+            "issn": "",
+            "pages": "2070-2075",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2010.02.030"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "A human virus protein, poliovirus protein 2BC, induces membrane proliferation and blocks the exocytic pathway in the yeast Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "3349-3364",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/j.1460-2075.1995.tb07341.x"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "title": "Influenza virus M2 protein has ion channel activity",
+            "authors": [
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Pinto",
+                    "suffix": ""
+                },
+                {
+                    "first": "LJ",
+                    "middle": [],
+                    "last": "Holsinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Cell",
+            "volume": "69",
+            "issn": "",
+            "pages": "517-528",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(92)90452-I"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "title": "The ion channel activity of the influenza virus M2 protein affects transport through the Golgi apparatus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sakaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Leser",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Cell Biol.",
+            "volume": "133",
+            "issn": "",
+            "pages": "733-747",
+            "other_ids": {
+                "DOI": [
+                    "10.1083/jcb.133.4.733"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "title": "The M2 proton channels of influenza A and B viruses",
+            "authors": [
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Pinto",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "8997-9000",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.R500020200"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "title": "Influenza M2 proton channels",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Pielak",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1808",
+            "issn": "",
+            "pages": "522-529",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbamem.2010.04.015"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "title": "Alphavirus 6K proteins form ion channels",
+            "authors": [
+                {
+                    "first": "JV",
+                    "middle": [],
+                    "last": "Melton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "46923-46931",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M207847200"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "title": "Viroporins",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett.",
+            "volume": "552",
+            "issn": "",
+            "pages": "28-34",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(03)00780-4"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "title": "Interfacial domains in Sindbis virus 6K protein. Detection and functional characterization",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Sanz",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Nieva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "2051-2057",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M206611200"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Sanz",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Nieva",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Viral Membrane Proteins: Structure, Function, and Drug Design",
+            "volume": "",
+            "issn": "",
+            "pages": "233-244",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Three-dimensional structure of the channel-forming trans-membrane domain of virus protein \u201cu\u201d (Vpu) from HIV-1",
+            "authors": [
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol.",
+            "volume": "333",
+            "issn": "",
+            "pages": "409-424",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2003.08.048"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "title": "Tetherin inhibits retrovirus release and is antagonized by HIV-1 Vpu",
+            "authors": [
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Neil",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zang",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Bieniasz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "451",
+            "issn": "",
+            "pages": "425-430",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature06553"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "title": "The p7 protein of hepatitis C virus forms an ion channel that is blocked by the antiviral drug, Amantadine",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett.",
+            "volume": "535",
+            "issn": "",
+            "pages": "34-38",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(02)03851-6"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "title": "The hepatitis C virus p7 protein forms an ion channel that is inhibited by long-alkyl-chain iminosugar derivatives",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Pavlovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "6104-6108",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1031527100"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "title": "Hepatitis C virus p7 and NS2 proteins are essential for production of infectious virus",
+            "authors": [
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "DK",
+                    "middle": [],
+                    "last": "Eastman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tassello",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol.",
+            "volume": "81",
+            "issn": "",
+            "pages": "8374-8383",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00690-07"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "title": "Hepatitis C virus p7 protein is crucial for assembly and release of infectious virions",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Steinmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Pathog.",
+            "volume": "3",
+            "issn": "",
+            "pages": "962-971",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0030103"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "title": "Antiviral effects of amantadine and iminosugar derivatives against hepatitis C virus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Steinmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Hepatology",
+            "volume": "46",
+            "issn": "",
+            "pages": "330-338",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/hep.21686"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "title": "The 3-dimensional structure of a hepatitis C virus p7 ion channel by electron microscopy",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Luik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "12712-12716",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0905966106"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "title": "Vpu: A multifunctional protein that enhances the pathogenesis of human immunodeficiency virus type 1",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Hout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. HIV Res.",
+            "volume": "2",
+            "issn": "",
+            "pages": "255-270",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1570162043351246"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "title": "The interferon-induced protein BST-2 restricts HIV-1 release and is downregulated from the cell surface by the viral Vpu protein",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Damme",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell Host Microbe",
+            "volume": "3",
+            "issn": "",
+            "pages": "245-252",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2008.03.001"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "title": "Structure of the amantadine binding site of influenza M2 proton channels in lipid bilayers",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Cady",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nature",
+            "volume": "463",
+            "issn": "",
+            "pages": "689-692",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature08722"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "title": "Intracellular Proton Conductance of the Hepatitis C Virus p7 Protein and Its Contribution to Infectious Virus Production",
+            "authors": [
+                {
+                    "first": "Ann",
+                    "middle": [
+                        "L."
+                    ],
+                    "last": "Wozniak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Stephen",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "David",
+                    "middle": [],
+                    "last": "Rowlands",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mark",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "MinKyung",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Stanley",
+                    "middle": [
+                        "M."
+                    ],
+                    "last": "Lemon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Steven",
+                    "middle": [
+                        "A."
+                    ],
+                    "last": "Weinman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathogens",
+            "volume": "6",
+            "issn": "9",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1001087"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "title": "Amiloride derivatives block ion channel activity and enhancement of virus-like particle budding caused by HIV-1 protein Vpu",
+            "authors": [
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Ewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mills",
+                    "suffix": ""
+                },
+                {
+                    "first": "GB",
+                    "middle": [],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Gage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Eur. Biophys. J.",
+            "volume": "31",
+            "issn": "",
+            "pages": "26-35",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s002490100177"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "title": "Influenza A virus lacking M2 protein as a live attenuated vaccine",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "5947-5950",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00450-09"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "title": "Modulation of HIV-1-host interaction: role of the Vpu accessory protein",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dube",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Bego",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Paquay",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Retrovirology",
+            "volume": "7",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1742-4690-7-114"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "title": "Severe acute respiratory syndrome-associated coronavirus 3a protein forms an ion channel and modulates virus release",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "12540-12545",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0605402103"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "title": "Human immunodeficiency virus type 1 VPU protein affects Sindbis virus glycoprotein processing and enhances membrane permeabilization",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "279",
+            "issn": "",
+            "pages": "201-209",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2000.0708"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "title": "Characterization of determinants important for hepatitis C virus p7 function in morphogenesis by using trans-complementation",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Brohm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol.",
+            "volume": "83",
+            "issn": "",
+            "pages": "11682-11693",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00691-09"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "title": "Substitution of the transmembrane domain of Vpu in simian\u2013human immunodeficiency virus (SHlVKu1bMC33) with that of M2 of influenza A results in a virus that is sensitive to inhibitors of the M2 ion channel and is pathogenic for pig-tailed macaques",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Hout",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "344",
+            "issn": "",
+            "pages": "541-559",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2005.08.022"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "title": "Plugging the holes in hepatitis C virus antiviral therapy",
+            "authors": [
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "12567-12568",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0906760106"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Guinea",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Irurzun",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Molecular Biology of Picornaviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "337-354",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Cell permeabilization by poliovirus 2B viroporin triggers bystander permeabilization in neighbouring cells through a mechanism involving gap junctions",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Redondo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell. Microbiol.",
+            "volume": "12",
+            "issn": "",
+            "pages": "1144-1157",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1462-5822.2010.01460.x"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "title": "The NS3 protein of bluetongue virus exhibits viroporin-like properties",
+            "authors": [
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Harty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "43092-43097",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M403663200"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "title": "Requirement of the vesicular system for membrane permeabilization by Sindbis virus",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Sanz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "332",
+            "issn": "",
+            "pages": "307-315",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.11.001"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "title": "Coronavirus envelope protein: a small membrane protein with multiple functions",
+            "authors": [
+                {
+                    "first": "DX",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Cell. Mol. Life Sci.",
+            "volume": "64",
+            "issn": "",
+            "pages": "2043-2048",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00018-007-7103-1"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "title": "Permeabilization of the plasma membrane by Ebola virus GP2",
+            "authors": [
+                {
+                    "first": "ZY",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Licata",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Paragas",
+                    "suffix": ""
+                },
+                {
+                    "first": "RN",
+                    "middle": [],
+                    "last": "Harty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virus Genes",
+            "volume": "34",
+            "issn": "",
+            "pages": "273-281",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11262-006-0009-4"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "title": "The human polyoma JC virus agnoprotein acts as a viroporin",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog.",
+            "volume": "6",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000801"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "title": "Viroporin-mediated membrane permeabilization. Pore formation by nonstructural poliovirus 2B protein",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Agirre",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Nieva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Biol. Chem.",
+            "volume": "277",
+            "issn": "",
+            "pages": "40434-40441",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M205393200"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "title": "Viral channel-forming proteins",
+            "authors": [
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kruger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Int. Rev. Cell. Mol. Biol.",
+            "volume": "275",
+            "issn": "",
+            "pages": "35-63",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1937-6448(09)75002-6"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "title": "A functionally defined model for the M2 proton channel of influenza A virus suggests a mechanism for its ion selectivity",
+            "authors": [
+                {
+                    "first": "LH",
+                    "middle": [],
+                    "last": "Pinto",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "11301-11306",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.94.21.11301"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "title": "Structural and dynamic mechanisms for the function and inhibition of the M2 proton channel from influenza A virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JX",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Soto",
+                    "suffix": ""
+                },
+                {
+                    "first": "WF",
+                    "middle": [],
+                    "last": "DeGrado",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Curr. Opin. Struct. Biol.",
+            "volume": "21",
+            "issn": "",
+            "pages": "68-80",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.sbi.2010.12.002"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "title": "Identification of an ion channel activity of the Vpu transmembrane domain and its involvement in the regulation of virus release from HIV-1-infected cells",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Schubert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "FEBS Lett.",
+            "volume": "398",
+            "issn": "",
+            "pages": "12-18",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(96)01146-5"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "title": "Biophysical characterization of Vpu from HIV-1 suggests a channel-pore dualism",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mehnert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proteins",
+            "volume": "70",
+            "issn": "",
+            "pages": "1488-1497",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.21642"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "title": "Viroporins from RNA viruses induce caspase-dependent apoptosis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Castello",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Cell. Microbiol.",
+            "volume": "10",
+            "issn": "",
+            "pages": "437-451",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "The human immunodeficiency virus type 1 Vpu protein enhances membrane permeability",
+            "authors": [
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Biochemistry",
+            "volume": "37",
+            "issn": "",
+            "pages": "13710-13719",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi981527f"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "title": "Evidence for the formation of a heptameric ion channel complex by the hepatitis C virus p7 protein in vitro",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Clarke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "37057-37068",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M602434200"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "title": "Viroporin activity of murine hepatitis virus E protein",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Garcia Mde",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Sanz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "FEBS Lett.",
+            "volume": "579",
+            "issn": "",
+            "pages": "3607-3612",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.febslet.2005.05.046"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "title": "SARS coronavirus E protein forms cation-selective ion channels",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "McKinlay",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gage",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "330",
+            "issn": "",
+            "pages": "322-331",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2004.09.033"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "title": "Emerging roles for lipids in shaping membrane-protein function",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Phillips",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ursell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wiggins",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nature",
+            "volume": "459",
+            "issn": "",
+            "pages": "379-385",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature08147"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "title": "Caspase-dependent alterations of Ca2+ signaling in the induction of apoptosis by hepatitis B virus X protein",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chami",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ferrari",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Nicotera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Paterlini-Brechot",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rizzuto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "31745-31755",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M304202200"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "title": "Functional analysis of picornavirus 2B proteins: effects on calcium homeostasis and intracellular protein trafficking",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "de Jong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "3782-3790",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02076-07"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "title": "Viral channel forming proteins\u2014modeling the target",
+            "authors": [
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "HJ",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1808",
+            "issn": "",
+            "pages": "561-571",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbamem.2010.05.014"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "title": "Rotavirus disrupts calcium homeostasis by NSP4 viroporin activity",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Hyser",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Collinson-Pautz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Utama",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Estes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "mBio",
+            "volume": "1",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00265-10"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Below",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ehrenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "The Picornaviruses",
+            "volume": "",
+            "issn": "",
+            "pages": "181-193",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "Expression of nonstructural rotavirus protein NSP4 mimics Ca2+ homeostasis changes induced by rotavirus infection in cultured cells",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Diaz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol.",
+            "volume": "82",
+            "issn": "",
+            "pages": "11331-11343",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00577-08"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "title": "Viral calciomics: interplays between Ca2+ and virus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Frey",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell Calcium",
+            "volume": "46",
+            "issn": "",
+            "pages": "1-17",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ceca.2009.05.005"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "title": "Calcium signaling and apoptosis",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hajnoczky",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Madesh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochem. Biophys. Res. Commun.",
+            "volume": "304",
+            "issn": "",
+            "pages": "445-454",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(03)00616-8"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "title": "The HIV-1 viral protein R induces apoptosis via a direct effect on the mitochondrial permeability transition pore",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jacotot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Exp. Med.",
+            "volume": "191",
+            "issn": "",
+            "pages": "33-46",
+            "other_ids": {
+                "DOI": [
+                    "10.1084/jem.191.1.33"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "title": "Viral reorganization of the secretory pathway generates distinct organelles for RNA replication",
+            "authors": [
+                {
+                    "first": "NY",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "141",
+            "issn": "",
+            "pages": "799-811",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2010.03.050"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "title": "Remodeling the endoplasmic reticulum by poliovirus infection and by individual viral proteins: an autophagy-like origin for virus-induced vesicles",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Suhy",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Virol.",
+            "volume": "74",
+            "issn": "",
+            "pages": "8953-8965",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.19.8953-8965.2000"
+                ]
+            }
+        },
+        "BIBREF104": {
+            "title": "The coxsackievirus 2B protein increases efflux of ions from the endoplasmic reticulum and Golgi, thereby inhibiting protein trafficking through the Golgi",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "de Jong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Biol. Chem.",
+            "volume": "281",
+            "issn": "",
+            "pages": "14144-14150",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M511766200"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "title": "Subversion of the cellular autophagy pathway by viruses",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Curr. Top. Microbiol. Immunol.",
+            "volume": "335",
+            "issn": "",
+            "pages": "323-333",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "Membrane leakiness after viral infection and a new approach to the development of antiviral agents",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Nature",
+            "volume": "272",
+            "issn": "",
+            "pages": "694-699",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/272694a0"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "title": "The Vpu protein: new concepts in virus release and CD4 down-modulation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ruiz",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Guatelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "EB",
+                    "middle": [],
+                    "last": "Stephens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Curr. HIV Res.",
+            "volume": "8",
+            "issn": "",
+            "pages": "240-252",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/157016210791111124"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "title": "HIV-1 Vpu antagonizes BST-2 by interfering mainly with the trafficking of newly synthesized BST-2 to the cell surface",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dube",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Traffic",
+            "volume": "12",
+            "issn": "",
+            "pages": "1714-1729",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1600-0854.2011.01277.x"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "title": "Host factors involved in retroviral budding and release",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Martin-Serrano",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Neil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "9",
+            "issn": "",
+            "pages": "519-531",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro2596"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "title": "Functional role of human immunodeficiency virus type 1 vpu",
+            "authors": [
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Terwilliger",
+                    "suffix": ""
+                },
+                {
+                    "first": "EA",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "YC",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Sodroski",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Haseltine",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "86",
+            "issn": "",
+            "pages": "5163-5167",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.86.13.5163"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "title": "The cytoplasmic tail of the influenza A virus M2 protein plays a role in viral assembly",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Iwatsuki-Horimoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol.",
+            "volume": "80",
+            "issn": "",
+            "pages": "5233-5240",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00049-06"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "title": "Membrane potential depolarization as a triggering mechanism for Vpu-mediated HIV-1 release",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shinlapawittayatorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Deschenes",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Marban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Biophys. J.",
+            "volume": "99",
+            "issn": "",
+            "pages": "1718-1725",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bpj.2010.07.027"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "title": "Background K2P channels KCNK3/9/15 limit the budding of cell membrane-derived vesicles",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chi",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "TY",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Cell Biochem. Biophys.",
+            "volume": "61",
+            "issn": "",
+            "pages": "585-594",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12013-011-9241-1"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "title": "Structure and mechanism of the M2 proton channel of influenza A virus",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Schnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "451",
+            "issn": "",
+            "pages": "591-595",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature06531"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "title": "Proton and cation transport activity of the M2 proton channel from influenza A virus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Leiding",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Martinsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "WF",
+                    "middle": [],
+                    "last": "DeGrado",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Arskold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "107",
+            "issn": "",
+            "pages": "15409-15414",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1009997107"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "title": "Insight into the mechanism of the influenza A proton channel from a structure in a lipid bilayer",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "330",
+            "issn": "",
+            "pages": "509-512",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1191750"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "title": "Sodium ions and the shut-off of host cell protein synthesis by picornaviruses",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "Nature",
+            "volume": "264",
+            "issn": "",
+            "pages": "807-809",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/264807a0"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "title": "Influenza virus M2 protein mediates ESCRT-independent membrane scission",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Rossman",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jing",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Leser",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Cell",
+            "volume": "142",
+            "issn": "",
+            "pages": "902-913",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2010.08.029"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "title": "Entry of animal viruses and macromolecules into cells",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "FEBS Lett.",
+            "volume": "350",
+            "issn": "",
+            "pages": "151-154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0014-5793(94)00780-2"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "title": "Influenza A virus can undergo multiple cycles of replication without M2 ion channel activity",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ito",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kida",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kawaoka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "5656-5662",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.75.12.5656-5662.2001"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "title": "Genotype-dependent sensitivity of hepatitis C virus to inhibitors of the p7 ion channel",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Hepatology",
+            "volume": "48",
+            "issn": "",
+            "pages": "1779-1790",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/hep.22555"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "title": "Viral infection permeabilizes mammalian cells to protein toxins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fernandez-Puentes",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Cell",
+            "volume": "20",
+            "issn": "",
+            "pages": "769-775",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0092-8674(80)90323-2"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "title": "Mechanisms of membrane permeabilization by picornavirus 2B viroporin",
+            "authors": [
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Nieva",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Agirre",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nir",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett.",
+            "volume": "552",
+            "issn": "",
+            "pages": "68-73",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(03)00852-4"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "title": "Coxsackie B3 virus protein 2B contains cationic amphipathic helix that is required for viral RNA replication",
+            "authors": [
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Galama",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "van den Hurk",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Virol.",
+            "volume": "70",
+            "issn": "",
+            "pages": "3876-3886",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "Structure-function analysis of coxsackie B3 virus protein 2B",
+            "authors": [
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "227",
+            "issn": "",
+            "pages": "111-118",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.1996.8320"
+                ]
+            }
+        },
+        "BIBREF126": {
+            "title": "Membrane integration of poliovirus 2B viroporin",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Martinez-Gil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Virol.",
+            "volume": "85",
+            "issn": "",
+            "pages": "11315-11324",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.05421-11"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "title": "Identification of regions of poliovirus 2BC protein that are involved in cytotoxicity",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol.",
+            "volume": "72",
+            "issn": "",
+            "pages": "3560-3570",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Expression of poliovirus nonstructural proteins in Escherichia coli cells. Modification of membrane permeability induced by 2B and 3A",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lama",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carrasco",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Biol. Chem.",
+            "volume": "267",
+            "issn": "",
+            "pages": "15932-15937",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF129": {
+            "title": "Determinants for membrane association and permeabilization of the coxsackievirus 2B protein and the identification of the Golgi complex as the target organelle",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "de Jong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Biol. Chem.",
+            "volume": "278",
+            "issn": "",
+            "pages": "1012-1021",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.M207745200"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "title": "Homomultimerization of the coxsackievirus 2B protein in living cells visualized by fluorescence resonance energy transfer microscopy",
+            "authors": [
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Willems",
+                    "suffix": ""
+                },
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Gadella",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "9446-9456",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.18.9446-9456.2002"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "title": "Model generation of viral channel forming 2B protein bundles from polio and coxsackie viruses",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Patargias",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Barke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Mol. Membr. Biol.",
+            "volume": "26",
+            "issn": "",
+            "pages": "309-320",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/09687680903164101"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "title": "Cytolytic pore-forming proteins and peptides: is there a common structural motif?",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Ojcius",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Young",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Trends Biochem. Sci.",
+            "volume": "16",
+            "issn": "",
+            "pages": "225-229",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0968-0004(91)90090-I"
+                ]
+            }
+        },
+        "BIBREF133": {
+            "title": "Plasma membrane-porating domain in poliovirus 2B protein. A short peptide mimics viroporin activity",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Madan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Mol. Biol.",
+            "volume": "374",
+            "issn": "",
+            "pages": "951-964",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmb.2007.09.058"
+                ]
+            }
+        },
+        "BIBREF134": {
+            "title": "Functional and structural characterization of 2B viroporin membranolytic domains",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sanchez-Martinez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Biochemistry",
+            "volume": "47",
+            "issn": "",
+            "pages": "10731-10739",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/bi800997a"
+                ]
+            }
+        },
+        "BIBREF135": {
+            "title": "Course and outcome of hepatitis C",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Hoofnagle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Hepatology",
+            "volume": "36",
+            "issn": "",
+            "pages": "S21-S29",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF136": {
+            "title": "Replication of hepatitis C virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Moradpour",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Penin",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature Rev. Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "453-463",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro1645"
+                ]
+            }
+        },
+        "BIBREF137": {
+            "title": "Hepatitis C virus P7\u2014a viroporin crucial for virus assembly and an emerging target for antiviral therapy",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Steinmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pietschmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Viruses",
+            "volume": "2",
+            "issn": "",
+            "pages": "2078-2095",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v2092078"
+                ]
+            }
+        },
+        "BIBREF138": {
+            "title": "Cation-selective ion channels formed by p7 of hepatitis C virus are blocked by hexamethylene amiloride",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Premkumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "GD",
+                    "middle": [],
+                    "last": "Ewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "PW",
+                    "middle": [],
+                    "last": "Gage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "FEBS Lett.",
+            "volume": "557",
+            "issn": "",
+            "pages": "99-103",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(03)01453-4"
+                ]
+            }
+        }
+    }
+}

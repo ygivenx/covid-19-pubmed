@@ -1,0 +1,3601 @@
+{
+    "paper_id": "PMC7097709",
+    "metadata": {
+        "title": "Pathogen\u2013endoplasmic-reticulum interactions: in through the out door",
+        "authors": [
+            {
+                "first": "Craig",
+                "middle": [
+                    "R."
+                ],
+                "last": "Roy",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Suzana",
+                "middle": [
+                    "P."
+                ],
+                "last": "Salcedo",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Jean-Pierre",
+                "middle": [
+                    "E."
+                ],
+                "last": "Gorvel",
+                "suffix": "",
+                "email": "gorvel@ciml.univ-mrs.fr",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1: Pathogens that interact with the ER and their cellular and immunological consequences\n",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Figure 1: a | Activation of SAR1 leads to the recruitment of the components of the coat complex COPII to endoplasmic reticulum (ER) membranes. COPII recruits cargo proteins that are to be delivered to other organelles and packages these into membrane tubules and vesicles. Activation of ADP-ribosylation factor 1 (ARF1) leads to recruitment of the components of the coat complex COPI to early secretory vesicles. On these membranes, exchange of the COPII coat for a COPI coat allows further protein sorting to occur and allows transport of cargo proteins away from the ER. Cells can then assemble a functional Golgi apparatus, and the secretory pathway is fully operational. b | In cells that express a particular mutant SAR1 protein (in which a histidine residue is replaced by a glycine residue at position 79) or a particular mutant ARF1 protein (in which a threonine residue is replaced by an asparagine residue at position 31), ER-exit sites are formed, but cargo is not transported away from the ER. c | In cells that express a different mutant SAR1 protein (in which a threonine residue is replaced by an asparagine residue at position 39), recruitment of the components of COPII to membranes is inhibited, and ER-exit sites do not form. ERGIC, endoplasmic-reticulum\u2013Golgi intermediate compartment.",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2: a | In the first model, which is the classical model of phagocytosis and phagosome maturation, the plasma membrane invaginates and fuses, engulfing the extracellular particles and generating a phagosome. The phagosome then undergoes sequential interactions with both early and late endosomes, during which it acquires MHC class II molecules that are ready for peptide loading. b | In a second model of phagocytosis and phagosome maturation, in addition to interacting with the early and late endosomes, the plasma-membrane-derived phagosome undergoes several waves of fusion and fission with endoplasmic reticulum (ER)-derived vesicles. This could account for the delivery of MHC class I molecules and associated molecules to the phagosome and would facilitate cross-presentation of exogenously derived antigens. c | In a third model, recruitment of the ER to the site of phagocytosis provides MHC class I molecules and associated molecules at the beginning of the phagocytic process. The MHC class I molecules are retained in the phagosome until they are loaded with specific antigens that have been processed in the phagosome.",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3: a | Viruses have evolved proteins that interfere with TAP (transporter associated with antigen processing) heterodimers in the lumen of the endoplasmic reticulum (ER): for example, the adenovirus protein E19, the human cytomegalovirus (CMV) proteins US3 and US6, and the herpes simplex virus (HSV) protein ICP47. The adenovirus protein E19 also interferes with retrograde transport, from the Golgi to the ER, and causes peptide-loaded MHC class I molecules to be returned to the ER. By contrast, several other proteins \u2014 such as the human CMV proteins US3 and US10, the hepatitis C virus (HCV) precursor protein non-structural protein 4A (NS4A)\u2013NS4B, poliovirus protein 3A and coxsackievirus protein 3A \u2014 interfere with transport from the ER to the Golgi. b | Brucella-containing vacuoles require the activity of SAR1 for productive interactions with the ER. Cells that express a mutant SAR1 protein in which a threonine residue is replaced by an asparagine residue at position 39 (SAR1T39N) do not allow the replication of Brucella abortus. By contrast, Legionella pneumophila-containing vacuoles require the sequential activity of SAR1 and ADP-ribosylation factor 1 (ARF1) for productive interactions with the ER. Cells that express either a mutant SAR1 protein in which a histidine residue is replaced by a glycine residue at position 79 (SAR1H79G) or a mutant ARF1 protein in which a threonine residue is replaced by an asparagine residue at position 31 (ARF1T31N) do not allow replication of L. pneumophila. In the case of Toxoplasma gondii, the T. gondii proteins dense-granule protein 3 (GRA3) and rhoptry protein 2 (ROP2) might be involved in mediating interactions between the parasitophorous vacuole of T. gondii and the ER of the host. ERGIC, ER\u2013Golgi intermediate compartment; \u03b22m, \u03b22-microglobulin.",
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure 4: Although microbial pathogens have evolved mechanisms to subvert endoplasmic reticulum (ER) functions, the ER also has an important role in combating microorganisms. For example, under starvation conditions or following treatment with interferon-\u03b3 (IFN\u03b3), host cells that are infected with Mycobacterium tuberculosis trigger autophagy, and the ER contributes to the formation of the autophagosome. Autophagosomes can then fuse with lysosomes, resulting in the destruction of M. tuberculosis trapped inside autophagosomes. In addition, infection with a virus, such as herpes simplex virus, induces the ER stress response, and exposure to IFNs induces the upregulation of expression of antimicrobial factors in the ER, including viperin and the p47 GTPases IGTP (IFN\u03b3-induced GTPase) and IIGP1 (IFN-inducible GTPase 1).",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The mechanisms of vesicle budding and fusion",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Bonifacino",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Glick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cell",
+            "volume": "116",
+            "issn": "",
+            "pages": "153-166",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Differential use of endoplasmic reticulum membrane for phagocytosis in J774 macrophages",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Volchuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "Rothman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "4022-4026",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Coronavirus replication complex formation utilizes components of cellular autophagy",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Prentice",
+                    "suffix": ""
+                },
+                {
+                    "first": "WG",
+                    "middle": [],
+                    "last": "Jerome",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yoshimori",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mizushima",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "10136-10141",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Autophagy is a defense mechanism inhibiting BCG and Mycobacterium tuberculosis survival in infected macrophages",
+            "authors": [
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cell",
+            "volume": "119",
+            "issn": "",
+            "pages": "753-766",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "A trip to the ER: coping with stress",
+            "authors": [
+                {
+                    "first": "DT",
+                    "middle": [],
+                    "last": "Rutkowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Kaufman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Trends Cell Biol.",
+            "volume": "14",
+            "issn": "",
+            "pages": "20-28",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Tula hantavirus triggers pro-apoptotic signals of ER stress in Vero E6 cells",
+            "authors": [
+                {
+                    "first": "XD",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lankinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Putkuri",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Vapalahti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vaheri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "333",
+            "issn": "",
+            "pages": "180-199",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Endoplasmic reticulum (ER) stress induced by a neurovirulent mouse retrovirus is associated with prolonged BiP binding and retention of a viral protein in the ER",
+            "authors": [
+                {
+                    "first": "DE",
+                    "middle": [],
+                    "last": "Dimcheff",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Faasse",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "McAtee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Portis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Biol. Chem.",
+            "volume": "279",
+            "issn": "",
+            "pages": "33782-33790",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Herpes simplex virus 1 infection activates the endoplasmic reticulum resident kinase PERK and mediates eIF-2\u03b1 dephosphorylation by the \u03b3134.5 protein",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "1379-1388",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "A selective inhibitor of eIF2\u03b1 dephosphorylation protects cells from ER stress",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boyce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "307",
+            "issn": "",
+            "pages": "935-939",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Caspase-12 and ER-stress-mediated apoptosis: the story so far",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Szegezdi",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Samali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Ann. NY Acad. Sci.",
+            "volume": "1010",
+            "issn": "",
+            "pages": "186-194",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "Caspase-12 mediates endoplasmic-reticulum-specific apoptosis and cytotoxicity by amyloid-\u03b2",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Nature",
+            "volume": "403",
+            "issn": "",
+            "pages": "98-103",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Involvement of caspase-4 in endoplasmic reticulum stress-induced apoptosis and A\u03b2-induced cell death",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hitomi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Cell Biol.",
+            "volume": "165",
+            "issn": "",
+            "pages": "347-356",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Quantitative and dynamic assessment of the contribution of the endoplasmic reticulum to phagosome formation",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Touret",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "123",
+            "issn": "",
+            "pages": "157-170",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Engagement of the cellular receptor for glycoprotein B of human cytomegalovirus activates the interferon-responsive pathway",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Boyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Pietropaolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Compton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol. Cell. Biol.",
+            "volume": "19",
+            "issn": "",
+            "pages": "3607-3613",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "Use of differential display analysis to assess the effect of human cytomegalovirus infection on the accumulation of cellular RNAs: induction of interferon-responsive RNAs",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Cong",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shenk",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "94",
+            "issn": "",
+            "pages": "13985-13990",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Viperin (cig5), an IFN-inducible antiviral protein directly induced by human cytomegalovirus",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cresswell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "98",
+            "issn": "",
+            "pages": "15125-15130",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "p47 GTPases: regulators of immunity to intracellular pathogens",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "100-109",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "IFN-inducible GTPases and immunity to intracellular pathogens",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "MacMicking",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Trends Immunol.",
+            "volume": "25",
+            "issn": "",
+            "pages": "601-609",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "The IRG-47 gene is IFN-\u03b3 induced in B cells and encodes a protein with GTP-binding motifs",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gilly",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wall",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J. Immunol.",
+            "volume": "148",
+            "issn": "",
+            "pages": "3275-3281",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Isolation of a gene encoding a developmentally regulated T cell-specific protein with a guanine nucleotide triphosphate-binding motif",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Carlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Marth",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Clark-Lewis",
+                    "suffix": ""
+                },
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Teh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Immunol.",
+            "volume": "154",
+            "issn": "",
+            "pages": "1724-1734",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Cloning and characterization of a novel cDNA that is IFN-\u03b3-induced in mouse peritoneal macrophages and encodes a putative GTP-binding protein",
+            "authors": [
+                {
+                    "first": "WP",
+                    "middle": [],
+                    "last": "Lafuse",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Castle",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Zwilling",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Leukoc. Biol.",
+            "volume": "57",
+            "issn": "",
+            "pages": "477-483",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Identification of an endotoxin and IFN-inducible cDNA: possible identification of a novel protein family",
+            "authors": [
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Sorace",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DL",
+                    "middle": [],
+                    "last": "Howard",
+                    "suffix": ""
+                },
+                {
+                    "first": "BE",
+                    "middle": [],
+                    "last": "Drysdale",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Leukoc. Biol.",
+            "volume": "58",
+            "issn": "",
+            "pages": "477-484",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Identification of a novel GTPase, the inducibly expressed GTPase, that accumulates in response to interferon \u03b3",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Biol. Chem.",
+            "volume": "271",
+            "issn": "",
+            "pages": "20399-20405",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Phagosomes are competent organelles for antigen cross-presentation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Houde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "425",
+            "issn": "",
+            "pages": "402-406",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Specific antiviral activity demonstrated by TGTP, a member of a new family of interferon-induced GTPases",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Carlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Teh",
+                    "suffix": ""
+                },
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Teh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Immunol.",
+            "volume": "161",
+            "issn": "",
+            "pages": "2348-2355",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Mechanisms regulating the positioning of mouse p47 resistance GTPases LRG-47 and IIGP1 on cellular membranes: retargeting to plasma membrane induced by phagocytosis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Martens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Immunol.",
+            "volume": "173",
+            "issn": "",
+            "pages": "2594-2606",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "The IFN-inducible Golgi- and endoplasmic reticulum-associated 47-kDa GTPase IIGP is transiently expressed during listeriosis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zerrahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "UE",
+                    "middle": [],
+                    "last": "Schaible",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Brinkmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Guhlich",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Kaufmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Immunol.",
+            "volume": "168",
+            "issn": "",
+            "pages": "3428-3436",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "The inducibly expressed GTPase localizes to the endoplasmic reticulum, independently of GTP binding",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Biol. Chem.",
+            "volume": "272",
+            "issn": "",
+            "pages": "10639-10645",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Pathogen-specific loss of host resistance in mice lacking the IFN-\u03b3-inducible gene IGTP",
+            "authors": [
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "751-755",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "The function of \u03b3 interferon-inducible GTP-binding protein IGTP in host resistance to Toxoplasma gondii is Stat1 dependent and requires expression in both hematopoietic and nonhematopoietic cellular compartments",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Collazo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Infect. Immun.",
+            "volume": "70",
+            "issn": "",
+            "pages": "6933-6939",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Inactivation of LRG-47 and IRG-47 reveals a family of interferon \u03b3-inducible genes with essential, pathogen-specific roles in resistance to infection",
+            "authors": [
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Collazo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Exp. Med.",
+            "volume": "194",
+            "issn": "",
+            "pages": "181-188",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Immune control of tuberculosis by IFN-\u03b3-inducible LRG-47",
+            "authors": [
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "MacMicking",
+                    "suffix": ""
+                },
+                {
+                    "first": "GA",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "McKinney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "654-659",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "COPII-coated vesicles: flexible enough for large cargo?",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Fromme",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Schekman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Opin. Cell Biol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "345-352",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "A role for Arf1 in mitotic Golgi disassembly, chromosome segregation, and cytokinesis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Altan-Bonnet",
+                    "suffix": ""
+                },
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Phair",
+                    "suffix": ""
+                },
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Polishchuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weigert",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lippincott-Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "13314-13319",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "ER\u2013phagosome fusion defines an MHC class I cross-presentation compartment in dendritic cells",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Guermonprez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "425",
+            "issn": "",
+            "pages": "397-402",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "ER-mediated phagocytosis: a new membrane for new functions",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Desjardins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature Rev. Immunol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "280-291",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "Phagocytosis and antigen presentation",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Watts",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Amigorena",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Semin. Immunol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "373-379",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Membrane traffic exploited by protein toxins",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sandvig",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "van Deurs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Annu. Rev. Cell Dev. Biol.",
+            "volume": "18",
+            "issn": "",
+            "pages": "1-24",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Phagosome maturation: aging gracefully",
+            "authors": [
+                {
+                    "first": "OV",
+                    "middle": [],
+                    "last": "Vieira",
+                    "suffix": ""
+                },
+                {
+                    "first": "RJ",
+                    "middle": [],
+                    "last": "Botelho",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Grinstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem. J.",
+            "volume": "366",
+            "issn": "",
+            "pages": "689-704",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Hepatitis C virus and the immune system: a concise review",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gremion",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cerny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Rev. Med. Virol.",
+            "volume": "15",
+            "issn": "",
+            "pages": "235-268",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Replication of hepatitis C virus RNA occurs in a membrane-bound replication complex containing nonstructural viral proteins and RNA",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "El-Hage",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Gen. Virol.",
+            "volume": "84",
+            "issn": "",
+            "pages": "2761-2769",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Molecular basis for Golgi maintenance and biogenesis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Altan-Bonnet",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sougrat",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lippincott-Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr. Opin. Cell Biol.",
+            "volume": "16",
+            "issn": "",
+            "pages": "364-372",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Membrane association of hepatitis C virus nonstructural proteins and identification of the membrane alteration that harbors the viral replication complex",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Moradpour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Antiviral Res.",
+            "volume": "60",
+            "issn": "",
+            "pages": "103-109",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Characterization of the hepatitis C virus RNA replication complex associated with lipid rafts",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Aizaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Sung",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ishiko",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Virology",
+            "volume": "324",
+            "issn": "",
+            "pages": "450-461",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Expression of hepatitis C virus proteins induces distinct membrane alterations including a candidate viral replication complex",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Egger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "5974-5984",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Protein synthesis and endoplasmic reticulum stress can be modulated by the hepatitis C virus envelope protein E2 through the eukaryotic initiation factor 2\u03b1 kinase PERK",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Pavio",
+                    "suffix": ""
+                },
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Romano",
+                    "suffix": ""
+                },
+                {
+                    "first": "TM",
+                    "middle": [],
+                    "last": "Graczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Feinstone",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "3578-3585",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Hepatitis C virus, ER stress, and oxidative stress",
+            "authors": [
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Tardif",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Waris",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Siddiqui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Trends Microbiol.",
+            "volume": "13",
+            "issn": "",
+            "pages": "159-163",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Endoplasmic reticulum (ER) stress: hepatitis C virus induces an ER\u2013nucleus signal transduction pathway and activates NF-\u03baB and STAT-3",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Waris",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Tardif",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Siddiqui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Biochem. Pharmacol.",
+            "volume": "64",
+            "issn": "",
+            "pages": "1425-1430",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Evidence that hepatitis C virus resistance to interferon is mediated through repression of the PKR protein kinase by the nonstructural 5A protein",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Gale",
+                    "suffix": "Jr"
+                }
+            ],
+            "year": 1997,
+            "venue": "Virology",
+            "volume": "230",
+            "issn": "",
+            "pages": "217-227",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Inhibition of the interferon-inducible protein kinase PKR by HCV E2 protein",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "ST",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "PR",
+                    "middle": [],
+                    "last": "Romano",
+                    "suffix": ""
+                },
+                {
+                    "first": "GN",
+                    "middle": [],
+                    "last": "Barber",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Science",
+            "volume": "285",
+            "issn": "",
+            "pages": "107-110",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Nonstructural protein precursor NS4A/B from hepatitis C virus alters function and ultrastructure of host secretory apparatus",
+            "authors": [
+                {
+                    "first": "KV",
+                    "middle": [],
+                    "last": "Konan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol.",
+            "volume": "77",
+            "issn": "",
+            "pages": "7843-7855",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "Cellular COPII proteins are involved in production of the vesicles that form the poliovirus replication complex",
+            "authors": [
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Rust",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "9808-9818",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "COPII: a membrane coat formed by Sec proteins that drive vesicle budding from the endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Barlowe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Cell",
+            "volume": "77",
+            "issn": "",
+            "pages": "895-907",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Inhibition of cellular protein secretion by poliovirus proteins 2B and 3A",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "EMBO J.",
+            "volume": "14",
+            "issn": "",
+            "pages": "894-907",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Inhibition of endoplasmic reticulum-to-Golgi traffic by poliovirus protein 3A: genetic and ultrastructural analysis",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Doedens",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Virol.",
+            "volume": "71",
+            "issn": "",
+            "pages": "9054-9064",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF55": {
+            "title": "MHC I-dependent antigen presentation is inhibited by poliovirus protein 3A",
+            "authors": [
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Deitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Dodd",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Parham",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "97",
+            "issn": "",
+            "pages": "13790-13795",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF56": {
+            "title": "Poliovirus protein 3A inhibits tumor necrosis factor (TNF)-induced apoptosis by eliminating the TNF receptor from the cell surface",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Neznanov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "10409-10420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF57": {
+            "title": "Poliovirus 3A protein limits interleukin-6 (IL-6), IL-8, and \u03b2 interferon secretion during viral infection",
+            "authors": [
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Dodd",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Giddings",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol.",
+            "volume": "75",
+            "issn": "",
+            "pages": "8158-8165",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF58": {
+            "title": "Inhibition of cellular protein secretion by picornaviral 3A proteins",
+            "authors": [
+                {
+                    "first": "SS",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Dodd",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kirkegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "337",
+            "issn": "",
+            "pages": "18-29",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF59": {
+            "title": "A proline-rich region in the coxsackievirus 3A protein is required for the protein to inhibit endoplasmic reticulum-to-Golgi transport",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wessels",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Duijsings",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Notebaart",
+                    "suffix": ""
+                },
+                {
+                    "first": "WJ",
+                    "middle": [],
+                    "last": "Melchers",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "van Kuppeveld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol.",
+            "volume": "79",
+            "issn": "",
+            "pages": "5163-5173",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF60": {
+            "title": "The MHC class I antigen presentation pathway: strategies for viral immune evasion",
+            "authors": [
+                {
+                    "first": "EW",
+                    "middle": [],
+                    "last": "Hewitt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Immunology",
+            "volume": "110",
+            "issn": "",
+            "pages": "163-169",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF61": {
+            "title": "Viral immune evasion molecules attack the ER peptide-loading complex and exploit ER-associated degradation pathways",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lybarger",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Hansen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Opin. Immunol.",
+            "volume": "17",
+            "issn": "",
+            "pages": "71-78",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF62": {
+            "title": "Human cytomegalovirus inhibits antigen presentation by a sequential multistep process",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ahn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "93",
+            "issn": "",
+            "pages": "10990-10995",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF63": {
+            "title": "LST1 is a SEC24 homologue used for selective export of the plasma membrane ATPase from the endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Roberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Crotwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Espenshade",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gimeno",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Cell Biol.",
+            "volume": "145",
+            "issn": "",
+            "pages": "659-672",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF64": {
+            "title": "Human cytomegalovirus inhibits tapasin-dependent peptide loading and optimization of the MHC class I peptide cargo for immune evasion",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Immunity",
+            "volume": "20",
+            "issn": "",
+            "pages": "71-85",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF65": {
+            "title": "Inhibition of HLA-DR assembly, transport, and loading by human cytomegalovirus glycoprotein US3: a novel mechanism for evading major histocompatibility complex class II antigen presentation",
+            "authors": [
+                {
+                    "first": "NR",
+                    "middle": [],
+                    "last": "Hegde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol.",
+            "volume": "76",
+            "issn": "",
+            "pages": "10929-10941",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF66": {
+            "title": "Location, location, location: trafficking and function of secreted proteases of Toxoplasma and Plasmodium",
+            "authors": [
+                {
+                    "first": "EM",
+                    "middle": [],
+                    "last": "Binder",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Traffic",
+            "volume": "5",
+            "issn": "",
+            "pages": "914-924",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF67": {
+            "title": "Intracellular fate of vacuoles containing Toxoplasma gondii is determined at the time of formation and depends on the mechanism of entry",
+            "authors": [
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Mordue",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Sibley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Immunol.",
+            "volume": "159",
+            "issn": "",
+            "pages": "4452-4459",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF68": {
+            "title": "Toxoplasma gondii resides in a vacuole that avoids fusion with host cell endocytic and exocytic vesicular trafficking pathways",
+            "authors": [
+                {
+                    "first": "DG",
+                    "middle": [],
+                    "last": "Mordue",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hakansson",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Niesman",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Sibley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Exp. Parasitol.",
+            "volume": "92",
+            "issn": "",
+            "pages": "87-99",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF69": {
+            "title": "The interaction between Toxoplasma gondii and mammalian cells. I. Mechanism of entry and intracellular fate of the parasite",
+            "authors": [
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "JG",
+                    "middle": [],
+                    "last": "Hirsch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "J. Exp. Med.",
+            "volume": "136",
+            "issn": "",
+            "pages": "1157-1172",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF70": {
+            "title": "Association of host cell endoplasmic reticulum and mitochondria with the Toxoplasma gondii parasitophorous vacuole membrane: a high affinity interaction",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Sinai",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Joiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Cell Sci.",
+            "volume": "110",
+            "issn": "",
+            "pages": "2117-2128",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF71": {
+            "title": "Toxoplasma evacuoles: a two-step process of secretion and fusion forms the parasitophorous vacuole",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hakansson",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Charron",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Sibley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "EMBO J.",
+            "volume": "20",
+            "issn": "",
+            "pages": "3132-3144",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF72": {
+            "title": "The Toxoplasma gondii protein ROP2 mediates host organelle association with the parasitophorous vacuole membrane",
+            "authors": [
+                {
+                    "first": "AP",
+                    "middle": [],
+                    "last": "Sinai",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Joiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Cell Biol.",
+            "volume": "154",
+            "issn": "",
+            "pages": "95-108",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF73": {
+            "title": "The Toxoplasma gondii rhoptry protein ROP4 is secreted into the parasitophorous vacuole and becomes phosphorylated in infected cells",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Carey",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Jongco",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Ward",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Eukaryot. Cell",
+            "volume": "3",
+            "issn": "",
+            "pages": "1320-1330",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF74": {
+            "title": "Lst1p and Sec24p cooperate in sorting of the plasma membrane ATPase into COPII vesicles in Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shimoni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Cell Biol.",
+            "volume": "151",
+            "issn": "",
+            "pages": "973-984",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF75": {
+            "title": "Pleiotropic effect due to targeted depletion of secretory rhoptry protein ROP2 in Toxoplasma gondii",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Nakaar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Cell Sci.",
+            "volume": "116",
+            "issn": "",
+            "pages": "2311-2320",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF76": {
+            "title": "Toxoplasma gondii dense granule protein 3 (GRA3) is a type I transmembrane protein that possesses a cytoplasmic dilysine (KKXX) endoplasmic reticulum (ER) retrieval motif",
+            "authors": [
+                {
+                    "first": "FL",
+                    "middle": [],
+                    "last": "Henriquez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Parasitology",
+            "volume": "131",
+            "issn": "",
+            "pages": "169-179",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF77": {
+            "title": "Adaptation of the brucellae to their intracellular niche",
+            "authors": [
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Roop",
+                    "suffix": ""
+                },
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Bellaire",
+                    "suffix": ""
+                },
+                {
+                    "first": "MW",
+                    "middle": [],
+                    "last": "Valderas",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Cardelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Microbiol.",
+            "volume": "52",
+            "issn": "",
+            "pages": "621-630",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF78": {
+            "title": "Brucella lipopolysaccharide acts as a virulence factor",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Lapaque",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Moriyon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Gorvel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr. Opin. Microbiol.",
+            "volume": "8",
+            "issn": "",
+            "pages": "60-66",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF79": {
+            "title": "The sheathed flagellum of Brucella melitensis is involved in persistence in a murine model of infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fretin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell. Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "687-698",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF80": {
+            "title": "Virulent Brucella abortus prevents lysosome fusion and is distributed within autophagosome-like compartments",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pizarro-Cerda",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sanguedolce",
+                    "suffix": ""
+                },
+                {
+                    "first": "JL",
+                    "middle": [],
+                    "last": "Mege",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Gorvel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Infect. Immun.",
+            "volume": "66",
+            "issn": "",
+            "pages": "2387-2392",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF81": {
+            "title": "Intracellular trafficking of Brucella abortus in J774 macrophages",
+            "authors": [
+                {
+                    "first": "GN",
+                    "middle": [],
+                    "last": "Arenas",
+                    "suffix": ""
+                },
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Staskevich",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aballay",
+                    "suffix": ""
+                },
+                {
+                    "first": "LS",
+                    "middle": [],
+                    "last": "Mayorga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Infect. Immun.",
+            "volume": "68",
+            "issn": "",
+            "pages": "4255-4263",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF82": {
+            "title": "Brucella suis-impaired specific recognition of phagosomes by lysosomes due to phagosomal membrane modifications",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Naroeni",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jouy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ouahrani-Bettache",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Liautard",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Porte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infect. Immun.",
+            "volume": "69",
+            "issn": "",
+            "pages": "486-493",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF83": {
+            "title": "Brucella evades macrophage killing via VirB-dependent sustained interactions with the endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Celli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Exp. Med.",
+            "volume": "198",
+            "issn": "",
+            "pages": "545-556",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF84": {
+            "title": "Activation of Rho and Rab GTPases dissociates Brucella abortus internalization from intracellular trafficking",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Chaves-Olarte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell. Microbiol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "663-676",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF85": {
+            "title": "ER-to-Golgi carriers arise through direct en bloc protrusion and multistage maturation of specialized ER exit domains",
+            "authors": [
+                {
+                    "first": "AA",
+                    "middle": [],
+                    "last": "Mironov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Dev. Cell",
+            "volume": "5",
+            "issn": "",
+            "pages": "583-594",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF86": {
+            "title": "Cyclic \u03b2-1,2-glucan is a Brucella virulence factor required for intracellular survival",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Arellano-Reynoso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature Immunol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "618-625",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF87": {
+            "title": "Ultrastructural morphometric analysis of Brucella abortus-infected trophoblasts in experimental placentitis. Bacterial replication occurs in rough endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "TD",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "NF",
+                    "middle": [],
+                    "last": "Cheville",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Am. J. Pathol.",
+            "volume": "124",
+            "issn": "",
+            "pages": "226-237",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF88": {
+            "title": "Penetration and intracellular growth of Brucella abortus in nonphagocytic cells in vitro",
+            "authors": [
+                {
+                    "first": "PG",
+                    "middle": [],
+                    "last": "Detilleux",
+                    "suffix": ""
+                },
+                {
+                    "first": "BL",
+                    "middle": [],
+                    "last": "Deyoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "NF",
+                    "middle": [],
+                    "last": "Cheville",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Infect. Immun.",
+            "volume": "58",
+            "issn": "",
+            "pages": "2320-2328",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF89": {
+            "title": "Brucella abortus transits through the autophagic pathway and replicates in the endoplasmic reticulum of nonprofessional phagocytes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pizarro-Cerda",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Infect. Immun.",
+            "volume": "66",
+            "issn": "",
+            "pages": "5711-5724",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF90": {
+            "title": "Brucella coopts the small GTPase Sar1 for intracellular replication",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Celli",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Salcedo",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Gorvel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "102",
+            "issn": "",
+            "pages": "1673-1678",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF91": {
+            "title": "Essential role of the VirB machinery in the maturation of the Brucella abortus-containing vacuole",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Comerci",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Martinez-Lorenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sieira",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Gorvel",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Ugalde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Cell. Microbiol.",
+            "volume": "3",
+            "issn": "",
+            "pages": "159-168",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF92": {
+            "title": "Diminished production of T helper 1 cytokines correlates with T cell unresponsiveness to Brucella cytoplasmic proteins in chronic human brucellosis",
+            "authors": [
+                {
+                    "first": "GH",
+                    "middle": [],
+                    "last": "Giambartolomei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Infect. Dis.",
+            "volume": "186",
+            "issn": "",
+            "pages": "252-259",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF93": {
+            "title": "Cytokine response of T-cell subsets from Brucella abortus-infected mice to soluble Brucella proteins",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Infect. Immun.",
+            "volume": "61",
+            "issn": "",
+            "pages": "2841-2847",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF94": {
+            "title": "The molecular ecology of legionellae",
+            "authors": [
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Fields",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Trends Microbiol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "286-290",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF95": {
+            "title": "Legionnaires' disease: isolation of a bacterium and demonstration of its role in other respiratory diseases",
+            "authors": [
+                {
+                    "first": "JE",
+                    "middle": [],
+                    "last": "McDade",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "N. Engl. J. Med.",
+            "volume": "297",
+            "issn": "",
+            "pages": "1197-1203",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF96": {
+            "title": "ADP-ribosylation factor/COPI-dependent events at the endoplasmic reticulum\u2013Golgi interface are regulated by the guanine nucleotide exchange factor GBF1",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Garcia-Mata",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Szul",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sztul",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Mol. Biol. Cell",
+            "volume": "14",
+            "issn": "",
+            "pages": "2250-2261",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF97": {
+            "title": "Legionnaires' disease bacterium (Legionella pneumophila) multiplies intracellularly in human monocytes",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Horwitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Silverstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "J. Clin. Invest.",
+            "volume": "66",
+            "issn": "",
+            "pages": "441-450",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF98": {
+            "title": "Interaction between the legionnaires' disease bacterium (Legionella pneumophila) and human alveolar macrophages. Influence of antibody, lymphokines, and hydrocortisone",
+            "authors": [
+                {
+                    "first": "TW",
+                    "middle": [],
+                    "last": "Nash",
+                    "suffix": ""
+                },
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Libby",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Horwitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J. Clin. Invest.",
+            "volume": "74",
+            "issn": "",
+            "pages": "771-782",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF99": {
+            "title": "Formation of a novel phagosome by the legionnaires' disease bacterium (L egionella pneumophila) in human monocytes",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Horwitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "J. Exp. Med.",
+            "volume": "158",
+            "issn": "",
+            "pages": "1319-1331",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF100": {
+            "title": "The legionnaires' disease bacterium (Legionella pneumophila) inhibits phagosome lysosome fusion in human monocytes",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Horwitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "J. Exp. Med.",
+            "volume": "158",
+            "issn": "",
+            "pages": "2108-2126",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF101": {
+            "title": "Conjugative transfer by the virulence system of Legionella pneumophila",
+            "authors": [
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Vogel",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Isberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Science",
+            "volume": "279",
+            "issn": "",
+            "pages": "873-876",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF102": {
+            "title": "Host cell killing and bacterial conjugation require overlapping sets of genes within a 22-kb region of the Legionella pneumophila genome",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Segal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Purcell",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Shuman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "95",
+            "issn": "",
+            "pages": "1669-1674",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF103": {
+            "title": "Identification of a Legionella pneumophila locus required for intracellular multiplication in human macrophages",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Blander",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Horwitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Shuman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "89",
+            "issn": "",
+            "pages": "9607-9611",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF104": {
+            "title": "Two distinct defects in intracellular growth complemented by a single genetic locus in Legionella pneumophila",
+            "authors": [
+                {
+                    "first": "KH",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Isberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Mol. Microbiol.",
+            "volume": "7",
+            "issn": "",
+            "pages": "7-19",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF105": {
+            "title": "How the parasitic bacterium Legionella pneumophila modifies its phagosome and transforms it into rough ER: implications for conversion of plasma membrane to the ER membrane",
+            "authors": [
+                {
+                    "first": "LG",
+                    "middle": [],
+                    "last": "Tilney",
+                    "suffix": ""
+                },
+                {
+                    "first": "OS",
+                    "middle": [],
+                    "last": "Harb",
+                    "suffix": ""
+                },
+                {
+                    "first": "PS",
+                    "middle": [],
+                    "last": "Connelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Cell Sci.",
+            "volume": "114",
+            "issn": "",
+            "pages": "4637-4650",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF106": {
+            "title": "Pore-forming activity is not sufficient for Legionella pneumophila phagosome trafficking and intracellular growth",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Zuckman",
+                    "suffix": ""
+                },
+                {
+                    "first": "JB",
+                    "middle": [],
+                    "last": "Hung",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol. Microbiol.",
+            "volume": "32",
+            "issn": "",
+            "pages": "990-1001",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF107": {
+            "title": "Endoplasmic reticulum-mediated phagocytosis is a mechanism of entry into macrophages",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gagnon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell",
+            "volume": "110",
+            "issn": "",
+            "pages": "119-131",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF108": {
+            "title": "Identification of Icm protein complexes that play distinct roles in the biogenesis of an organelle permissive for Legionella pneumophila intracellular growth",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Coers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mol. Microbiol.",
+            "volume": "38",
+            "issn": "",
+            "pages": "719-736",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF109": {
+            "title": "Association of Legionella pneumophila with the macrophage endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Swanson",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Isberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Infect. Immun.",
+            "volume": "63",
+            "issn": "",
+            "pages": "3609-3620",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF110": {
+            "title": "The phagosome containing Legionella pneumophila within the protozoan Hartmannella vermiformis is surrounded by the rough endoplasmic reticulum",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Abu Kwaik",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Appl. Environ. Microbiol.",
+            "volume": "62",
+            "issn": "",
+            "pages": "2022-2028",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF111": {
+            "title": "Legionella subvert the functions of Rab1 and Sec22b to create a replicative organelle",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Kagan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MP",
+                    "middle": [],
+                    "last": "Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pypaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Exp. Med.",
+            "volume": "199",
+            "issn": "",
+            "pages": "1201-1211",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF112": {
+            "title": "Legionella phagosomes intercept vesicular traffic from endoplasmic reticulum exit sites",
+            "authors": [
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Kagan",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature Cell Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "945-954",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF113": {
+            "title": "Legionella pneumophila replication vacuole formation involves rapid recruitment of proteins of the early secretory system",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Derre",
+                    "suffix": ""
+                },
+                {
+                    "first": "RR",
+                    "middle": [],
+                    "last": "Isberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Infect. Immun.",
+            "volume": "72",
+            "issn": "",
+            "pages": "3048-3053",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF114": {
+            "title": "A bacterial guanine nucleotide exchange factor activates ARF on Legionella phagosomes",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nagai",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Kagan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Kahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Science",
+            "volume": "295",
+            "issn": "",
+            "pages": "679-682",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF115": {
+            "title": "Immunity to vacuolar pathogens: what can we learn from Legionella?",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Neild",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Cell. Microbiol.",
+            "volume": "6",
+            "issn": "",
+            "pages": "1011-1018",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF116": {
+            "title": "Processing and major histocompatibility complex class II presentation of Legionella pneumophila antigens by infected macrophages",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Neild",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Murata",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Infect. Immun.",
+            "volume": "73",
+            "issn": "",
+            "pages": "2336-2343",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF117": {
+            "title": "Early stages of the secretory pathway, but not endosomes, are required for Cvt vesicle and autophagosome assembly in Saccharomyces cerevisiae",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Reggiori",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Biol. Cell",
+            "volume": "15",
+            "issn": "",
+            "pages": "2189-2204",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF118": {
+            "title": "Calreticulin and calnexin in the endoplasmic reticulum are important for phagocytosis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Muller-Taubenberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "EMBO J.",
+            "volume": "20",
+            "issn": "",
+            "pages": "6772-6782",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF119": {
+            "title": "Autophagosome requires specific early Sec proteins for its formation and NSF/SNARE for vacuolar fusion",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ishihara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol. Biol. Cell",
+            "volume": "12",
+            "issn": "",
+            "pages": "3690-3702",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF120": {
+            "title": "Trs85 (Gsg1), a component of the TRAPP complexes is required for the organization of the preautophagosomal structure during selective autophagy via the Cvt pathway",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Meiling-Wesse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Biol. Chem.",
+            "volume": "280",
+            "issn": "",
+            "pages": "33669-33678",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF121": {
+            "title": "Cytokine-induced, nitric oxide-dependent, intracellular antirickettsial activity of mouse endothelial cells",
+            "authors": [
+                {
+                    "first": "DH",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Popov",
+                    "suffix": ""
+                },
+                {
+                    "first": "PA",
+                    "middle": [],
+                    "last": "Crocquet-Valdes",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Welsh",
+                    "suffix": ""
+                },
+                {
+                    "first": "HM",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Lab. Invest.",
+            "volume": "76",
+            "issn": "",
+            "pages": "129-138",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF122": {
+            "title": "Legionella pneumophila replication vacuoles mature into acidic, endocytic organelles",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sturgill-Koszycki",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Swanson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Exp. Med.",
+            "volume": "192",
+            "issn": "",
+            "pages": "1261-1272",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF123": {
+            "title": "Porphyromonas gingivalis traffics to autophagosomes in human coronary artery endothelial cells",
+            "authors": [
+                {
+                    "first": "BR",
+                    "middle": [],
+                    "last": "Dorn",
+                    "suffix": ""
+                },
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Dunn",
+                    "suffix": "Jr."
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Progulske-Fox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infect. Immun.",
+            "volume": "69",
+            "issn": "",
+            "pages": "5698-5708",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF124": {
+            "title": "Cytoplasmic bacteria can be targets for autophagy",
+            "authors": [
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Rich",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Burkett",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Webster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Cell. Microbiol.",
+            "volume": "5",
+            "issn": "",
+            "pages": "455-468",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF125": {
+            "title": "Autophagy defends cells against invading group A Streptococcus",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nakagawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Science",
+            "volume": "306",
+            "issn": "",
+            "pages": "1037-1040",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF126": {
+            "title": "Escape of intracellular Shigella from autophagy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ogawa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "307",
+            "issn": "",
+            "pages": "727-731",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF127": {
+            "title": "Autophagy and related mechanisms of lysosome-mediated protein degradation",
+            "authors": [
+                {
+                    "first": "WA",
+                    "middle": [],
+                    "last": "Dunn",
+                    "suffix": "Jr."
+                }
+            ],
+            "year": 1994,
+            "venue": "Trends Cell Biol.",
+            "volume": "4",
+            "issn": "",
+            "pages": "139-143",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF128": {
+            "title": "Subversion of cellular autophagosomal machinery by RNA viruses",
+            "authors": [
+                {
+                    "first": "WT",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "PLoS Biol.",
+            "volume": "3",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

@@ -1,4 +1,4 @@
-kaggle_cord19
+kaggle_covid19
 ==============================
 
 open data research challenge

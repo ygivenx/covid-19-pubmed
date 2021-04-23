@@ -1,0 +1,921 @@
+{
+    "paper_id": "PMC7087848",
+    "metadata": {
+        "title": "Pandemic simulation of antivirals\u2009+\u2009school closures: buying time until strain-specific vaccine is available",
+        "authors": [
+            {
+                "first": "S.",
+                "middle": [
+                    "M."
+                ],
+                "last": "Mniszewski",
+                "suffix": "",
+                "email": "smm@lanl.gov",
+                "affiliation": {}
+            },
+            {
+                "first": "S.",
+                "middle": [
+                    "Y."
+                ],
+                "last": "Del\u00a0Valle",
+                "suffix": "",
+                "email": "sdelvalle@lanl.gov",
+                "affiliation": {}
+            },
+            {
+                "first": "P.",
+                "middle": [
+                    "D."
+                ],
+                "last": "Stroud",
+                "suffix": "",
+                "email": "stroud@lanl.gov",
+                "affiliation": {}
+            },
+            {
+                "first": "J.",
+                "middle": [
+                    "M."
+                ],
+                "last": "Riese",
+                "suffix": "",
+                "email": "jriese@lanl.gov",
+                "affiliation": {}
+            },
+            {
+                "first": "S.",
+                "middle": [
+                    "J."
+                ],
+                "last": "Sydoriak",
+                "suffix": "",
+                "email": "sxs@lanl.gov",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ackerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "LR",
+                    "middle": [],
+                    "last": "Elveback",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Fox",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Simulation of infectious disease epidemics",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Safety and immunogenicity of an inactivated adjuvanted whole-virion influenza A (H5N1) vaccine: a phase I randomized controlled trial",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Lancet",
+            "volume": "368",
+            "issn": "",
+            "pages": "991-997",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(06)69294-5"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Containing pandemic influenza with antiviral agents",
+            "authors": [
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Longini",
+                    "suffix": ""
+                },
+                {
+                    "first": "ME",
+                    "middle": [],
+                    "last": "Halloran",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nizam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am J Epidemiol",
+            "volume": "159",
+            "issn": "",
+            "pages": "623-633",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/aje/kwh092"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Vaccines and antiviral drugs in pandemic preparedness",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Monto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Emerg Infect Dis",
+            "volume": "12",
+            "issn": "1",
+            "pages": "55-60",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Evaluation of control measures implemented in the severe acute respiratory syndrome outbreak in Beijing",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "JAMA",
+            "volume": "290",
+            "issn": "",
+            "pages": "3215-3221",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.290.24.3215"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Spatial dynamics of pandemic influenza in a massive artificial society",
+            "authors": [
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "Stroud",
+                    "suffix": ""
+                },
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Del\u00a0Valle",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Sydoriak",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Riese",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Mniszewski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "JASSS",
+            "volume": "10",
+            "issn": "4",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Impact of influenza infection in healthy children examined as outpatients and their families",
+            "authors": [
+                {
+                    "first": "MN",
+                    "middle": [],
+                    "last": "Tsolia",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Logotheti",
+                    "suffix": ""
+                },
+                {
+                    "first": "NG",
+                    "middle": [],
+                    "last": "Papadopooulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mavrikou",
+                    "suffix": ""
+                },
+                {
+                    "first": "NP",
+                    "middle": [],
+                    "last": "Spyridis",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Drossatou",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kafetzis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Konstantopoulos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Vaccine",
+            "volume": "24",
+            "issn": "33\u201334",
+            "pages": "5970-5976",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2006.05.006"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Modeling the worldwide spread of pandemic influenza: baseline case and containment interventions",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Colizza",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Barrat",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barthelemy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Valleron",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Med",
+            "volume": "4",
+            "issn": "",
+            "pages": "95-109",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.0040013"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Risk factors of influenza transmission in households",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Viboud",
+                    "suffix": ""
+                },
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Boelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lavenu",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Valleron",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Flahault",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Carrat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Br J Gen Pract",
+            "volume": "54",
+            "issn": "",
+            "pages": "684-689",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Oseltamivir resistance during treatment of Influenza A (H5N1) infection",
+            "authors": [
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "De Jong",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Thanh",
+                    "suffix": ""
+                },
+                {
+                    "first": "TH",
+                    "middle": [],
+                    "last": "Khanh",
+                    "suffix": ""
+                },
+                {
+                    "first": "VM",
+                    "middle": [],
+                    "last": "Hien",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJD",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "N Engl J Med",
+            "volume": "353",
+            "issn": "",
+            "pages": "2667-2672",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa054512"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "Nonpharmaceutical interventions for pandemic influenza, national and community measures",
+            "authors": [],
+            "year": 2006,
+            "venue": "Emerg Infect Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "88-94",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Effects of behavioral changes in a smallpox attack model",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Del Valle",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hethcote",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Hyman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Castillo-Chavez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Math Biosci",
+            "volume": "195",
+            "issn": "",
+            "pages": "228-251",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2005.03.006"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Clinical and economic impact of influenza vaccination on healthy children aged 2\u20135 years",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Esposito",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Marchisio",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bosis",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lambertini",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Claut",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Vaccine",
+            "volume": "25",
+            "issn": "",
+            "pages": "629-635",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Pandemic influenza and the global vaccine supply",
+            "authors": [
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Fedson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin Infect Dis",
+            "volume": "302",
+            "issn": "",
+            "pages": "1519-1522",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Strategies for containing an emerging influenza pandemic in southeast Asia",
+            "authors": [
+                {
+                    "first": "NM",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DA",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Meeyai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Nature",
+            "volume": "437",
+            "issn": "",
+            "pages": "209-214",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature04017"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "Mitigation strategies for pandemic influenza in the United States",
+            "authors": [
+                {
+                    "first": "TC",
+                    "middle": [],
+                    "last": "German",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kadau",
+                    "suffix": ""
+                },
+                {
+                    "first": "IM",
+                    "middle": [],
+                    "last": "Longini",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Macken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "103",
+            "issn": "",
+            "pages": "5935-5940",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0601266103"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Influence of school closure on the incidence of viral respiratory diseases among children and on health care utilization",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Heymann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chodick",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Reichman",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kokia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Laufer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "23",
+            "issn": "",
+            "pages": "675-677",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/01.inf.0000128778.54105.06"
+                ]
+            }
+        }
+    }
+}

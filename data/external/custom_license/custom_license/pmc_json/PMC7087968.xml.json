@@ -1,0 +1,1399 @@
+{
+    "paper_id": "PMC7087968",
+    "metadata": {
+        "title": "Anti-SARS drug screening by molecular docking",
+        "authors": [
+            {
+                "first": "D.-Q.",
+                "middle": [],
+                "last": "Wei",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "R.",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Q.-S.",
+                "middle": [],
+                "last": "Du",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "W.-N.",
+                "middle": [],
+                "last": "Gao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Y.",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "H.",
+                "middle": [],
+                "last": "Gao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "S.-Q.",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "X.",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "A.-X.",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "S.",
+                "middle": [],
+                "last": "Sirois",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "K.-C.",
+                "middle": [],
+                "last": "Chou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Coronavirus main proteinase (3CLpro) structure: basis for design of anti-SARS drugs",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wadhwani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Mesters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1763-1767",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085658"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Studies on the rate of diffusion-controlled reactions of enzymes",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "SP",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Sci Sin",
+            "volume": "17",
+            "issn": "",
+            "pages": "664-680",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Structure of beta-sheets: origin of the right-handed twist and of the increased stability of antiparallel over parallel sheets",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pottle",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Nemethy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ueda",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Scheraga",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Mol Biol",
+            "volume": "162",
+            "issn": "",
+            "pages": "89-112",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-2836(82)90163-2"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Origin of the right-handed twist of beta-sheets of poly-L-valine chains",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "HA",
+                    "middle": [],
+                    "last": "Scheraga",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "79",
+            "issn": "",
+            "pages": "7047-7051",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.79.22.7047"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Binding mechanism of coronavirus main proteinase with ligands and its implication to drug design against SARS",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "WZ",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "308",
+            "issn": "",
+            "pages": "148-151",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(03)01342-1"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Role of the protein outside active site on the diffusion-controlled reaction of enzyme",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Am Chem Soc",
+            "volume": "104",
+            "issn": "",
+            "pages": "1409-1413",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00369a043"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gunther",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Preiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "van der Werf",
+                    "suffix": ""
+                },
+                {
+                    "first": "HR",
+                    "middle": [],
+                    "last": "Brodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rabenau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Panning",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kolesnikova",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967-1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Molecular modelling and chemical modification for finding peptide inhibitor against SARS CoV Mpro",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Anal Biochem",
+            "volume": "337",
+            "issn": "",
+            "pages": "262-270",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ab.2004.10.003"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Application of bioinformatics in search for cleavable peptides of SARS-CoV Mpro and chemical modification of octapeptides",
+            "authors": [
+                {
+                    "first": "QS",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "SQ",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZQ",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "WN",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Med Chem",
+            "volume": "1",
+            "issn": "",
+            "pages": "209-213",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1573406053765468"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Prediction for proteinase cleavage sitess in polyproteins of coronaviruses and its applications in analyzing SARS-CoV genomes",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-Y",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-X",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "FEBS Lett",
+            "volume": "553",
+            "issn": "",
+            "pages": "451-456",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(03)01091-3"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Comer",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Principles that govern folding of protein chains",
+            "authors": [
+                {
+                    "first": "CG",
+                    "middle": [],
+                    "last": "Anfinsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Science",
+            "volume": "181",
+            "issn": "",
+            "pages": "223-230",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "N-terminal domain of the murine coronavirus receptor CEACAM1 is responsible for fusogenic activation and conformational changes of the spike protein",
+            "authors": [
+                {
+                    "first": "HS",
+                    "middle": [],
+                    "last": "Miura",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakagaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "216-223",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.78.1.216-223.2004"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Automated docking using a Lamarckian genetic algorithm and empirical binding free energy function",
+            "authors": [
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "DS",
+                    "middle": [],
+                    "last": "Goodsell",
+                    "suffix": ""
+                },
+                {
+                    "first": "RS",
+                    "middle": [],
+                    "last": "Halliday",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Huey",
+                    "suffix": ""
+                },
+                {
+                    "first": "WE",
+                    "middle": [],
+                    "last": "Hart",
+                    "suffix": ""
+                },
+                {
+                    "first": "RK",
+                    "middle": [],
+                    "last": "Belew",
+                    "suffix": ""
+                },
+                {
+                    "first": "AJ",
+                    "middle": [],
+                    "last": "Olson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Comput Chem",
+            "volume": "19",
+            "issn": "",
+            "pages": "1639-1662",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1096-987X(19981115)19:14<1639::AID-JCC10>3.0.CO;2-B"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Geometric problems and algorithms in computer-aided molecular design",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rayer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Bioinformatics from genomes to drugs",
+            "volume": "",
+            "issn": "",
+            "pages": "318-319",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Chemical similarity using geometric atom pair descriptors",
+            "authors": [
+                {
+                    "first": "RP",
+                    "middle": [],
+                    "last": "Sheridan",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Underwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "SK",
+                    "middle": [],
+                    "last": "Kearsley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Chem Info Comput Sci",
+            "volume": "36",
+            "issn": "",
+            "pages": "128-136",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci950275b"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Severe acute respiratory syndrome and influenza: virus incursions from southern China",
+            "authors": [
+                {
+                    "first": "KF",
+                    "middle": [],
+                    "last": "Shortridge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "168",
+            "issn": "",
+            "pages": "1416-1420",
+            "other_ids": {
+                "DOI": [
+                    "10.1164/rccm.2310005"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Virtual screening for SARS-CoV protease based on KZ7088 pharmacophore points",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Chem Inf Comput Sci",
+            "volume": "44",
+            "issn": "",
+            "pages": "1111-1122",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci034270n"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Assessment of chemical libraries for their druggability",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Hatzakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "DQ",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Comput Biol Chem",
+            "volume": "29",
+            "issn": "",
+            "pages": "55-67",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.compbiolchem.2004.11.003"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "title": "Contribution of hydrophobic interactions to the stability of the globular conformation of proteins",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tanford",
+                    "suffix": ""
+                }
+            ],
+            "year": 1962,
+            "venue": "J Am Chem Soc",
+            "volume": "84",
+            "issn": "",
+            "pages": "4240-4274",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ja00881a009"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "Collagen-ligand interaction in dentinal adhesion: computer visualization and analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vaidyanathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "TK",
+                    "middle": [],
+                    "last": "Vaidyanathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yadav",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Linaras Biomat",
+            "volume": "22",
+            "issn": "",
+            "pages": "2911-2920",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0142-9612(01)00038-2"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Gui",
+                    "suffix": ""
+                },
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HB",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "GW",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "CY",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Yue",
+                    "suffix": ""
+                },
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "TL",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "YX",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "KX",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "XM",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HL",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Acta Pharmacol Sin",
+            "volume": "24",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Use of structure-activity data to compare structure-based clustering. Methods and descriptors for use in compound selection",
+            "authors": [
+                {
+                    "first": "RD",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "YC",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Chem Inf Comput Sci",
+            "volume": "36",
+            "issn": "",
+            "pages": "572-584",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ci9501047"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "The crystal structures of severe acute respiratory syndrome virus main protease and its complex with an inhibitor",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GF",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bartlam",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proc Natl Acad Sci USA",
+            "volume": "100",
+            "issn": "",
+            "pages": "13190-13195",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1835675100"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Diffusion-controlled reactions of enzymes. A comparison between Chou\u2019s model and Alberty-Hammes-Eigen\u2019s model",
+            "authors": [
+                {
+                    "first": "GQ",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "WZ",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Eur J Biochem",
+            "volume": "128",
+            "issn": "",
+            "pages": "383-387",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1432-1033.1982.tb06976.x"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "title": "The flexibility during the juxtaposition of reacting groups and the upper limits of enzyme reactions",
+            "authors": [
+                {
+                    "first": "ZP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "TT",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Biophys Chem",
+            "volume": "14",
+            "issn": "",
+            "pages": "277-281",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0301-4622(81)85028-4"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "ZCURVE_CoV: a new system to recognize protein coding genes in coronavirus genomes, and its applications in analyzing SARS-CoV genomes",
+            "authors": [
+                {
+                    "first": "L-L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-Y",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "307",
+            "issn": "",
+            "pages": "382-388",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0006-291X(03)01192-6"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Studies on the enzyme kinetics of the cavity-active site",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Acta Biochimica Biophys Sin",
+            "volume": "7",
+            "issn": "",
+            "pages": "95-103",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "The kinetics of the combination reaction between enzyme and substrate",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "Sci Sin",
+            "volume": "19",
+            "issn": "",
+            "pages": "505-528",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Energy-optimized structure of antifreeze protein and its binding mechanism",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "J Mol Biol",
+            "volume": "223",
+            "issn": "",
+            "pages": "509-517",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0022-2836(92)90666-8"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Review: structural bioinformatics and its impact to biomedical science",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Curr Med Chem",
+            "volume": "11",
+            "issn": "",
+            "pages": "2105-2134",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Simulated annealing approach to the study of protein structures",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Carlacci",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Protein Eng",
+            "volume": "4",
+            "issn": "",
+            "pages": "661-667",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}

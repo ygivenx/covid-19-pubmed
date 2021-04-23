@@ -1,0 +1,2044 @@
+{
+    "paper_id": "PMC7087151",
+    "metadata": {
+        "title": "Interaction between SARS-CoV helicase and a multifunctional cellular protein (Ddx5) revealed by yeast and mammalian cell two-hybrid systems",
+        "authors": [
+            {
+                "first": "Jin-Yan",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Wan-Nan",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Kwok-Man",
+                "middle": [
+                    "Vincent"
+                ],
+                "last": "Poon",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Bo-Jian",
+                "middle": [],
+                "last": "Zheng",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Xu",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yong-Xiang",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yu-Mei",
+                "middle": [],
+                "last": "Wen",
+                "suffix": "",
+                "email": "ymwen@shmu.edu.cn",
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table\u00a01: Hel-associated peptides identified by yeast two-hybrid screening\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table\u00a02: Relative intracellular firefly luciferase activity detected in A549 cells cotransfected with the seven potential genes\n#The numbers are the measured relative intracellular firefly luciferase activity in each experiment. pACT and pBIND are the names of plasmids used for trasnfection, pBIND-Hel is the recombinant plasmid with the helicase insert, and pACT-m28, m37, m42, m44, m77, m91 and m123, represent recombinant plasmids encoding the clones with numbers relative to Table 1\n * t test between paired samples of pBIND-Hel cotransfected with pACT versus pBIND contransfected with pACT as the control ** t tests between paired samples of each pACT recombinant clone (harboring-m28, m-37, m-42, m-44, m-77, m-91 and m-123 insert, respectively), either contransfected with pBIND or cotransfected with pBIND-Hel",
+            "type": "table"
+        },
+        "FIGREF0": {
+            "text": "Fig.\u00a01: Western blot analysis of SARS-CoV helicase in AH109 cells. pGBKT7-Hel was introduced by transformation into AH109, and the lysates of transformants were transferred to Western blots and probed with GAL4 DNA-BD monoclonal antibodies. The empty vector pGBKT7, encoding a GAL4 BD tag protein, is shown, with a molecular weight of around 20 kDa, while pGBKT7-Hel encoding a GAL4 BD-Hel fusion protein, is shown, with a molecular weight around 87 kDa",
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Fig.\u00a02: In vivo co-immunoprecipitation of SARS-CoV helicase and cellular protein Ddx5 in A549 cells. a Immunoblotting of protein extracts from a cell line co-expressing HA-Hel with c-Myc-Ddx5, using anti-HA and anti-c-Myc antibodies. b Protein extracts from the cells were first subjected to overnight incubation with anti-HA IgG, and the co-precipitated proteins were detected with anti-c-Myc antibodies. IP and ID refer to the antibodies used for immunoprecipitation, and immunodetection, respectively. HA-Hel and/or Myc-Ddx5 proteins loaded into different lanes are indicated. Only lane 4 was loaded with Hel and Ddx5, which showed co-precipitation of both proteins",
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Fig.\u00a03: Inhibition of siRNA on the expression of Ddx5 protein (a) and replication of SARS-CoV (b) in FRhK-4 cells. a FRhK-4 cells were transfected with either Ddx5-specifc siRNA (Ddx5-1144, lane 1) or unrelated siRNA (lane 2), cells were disrupted 72 h post-transfection, and whole-cell lysates were examined by Western blotting using anti-Ddx5 antibody. b FRhK-4 cells were transfected with either Ddx5-1144 (group 1) or unrelated siRNA (group 2), and 16\u201318 h after transfection, the cells were infected with 100 TCID50 of SARS-CoV strain GZ-50. Supernatant was collected 72 h post-infection to measure viral load by real-time RT-PCR and viral titers by back-titration. The relative inhibition rate was compared to those for cells transfected with control siRNA and untreated cells",
+            "type": "figure"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "TG",
+                    "middle": [],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Goldsmith",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Peret",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Emery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Comer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953-1966",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030781"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Novel agents and strategies to treat herpes simplex virus infections",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kleymann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Exp Opin Investig Drugs",
+            "volume": "12",
+            "issn": "",
+            "pages": "165-183",
+            "other_ids": {
+                "DOI": [
+                    "10.1517/13543784.12.2.165"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "Herpes simplex virus helicase-primase inhibitors are active in animal models of human disease",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Crute",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Grygon",
+                    "suffix": ""
+                },
+                {
+                    "first": "KD",
+                    "middle": [],
+                    "last": "Hargrave",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Simoneau",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Faucher",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bolger",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kibler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "MG",
+                    "middle": [],
+                    "last": "Cordingley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat Med",
+            "volume": "8",
+            "issn": "4",
+            "pages": "386-391",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0402-386"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "title": "Nucleotide triphosphatase/helicase of hepatitis C virus as a target for antiviral therapy",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Borowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schalinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Schmitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Antiviral Res",
+            "volume": "55",
+            "issn": "3",
+            "pages": "397-412",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0166-3542(02)00096-7"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "The severe acute respiratory syndrome (SARS) coronavirus NTP/helicase belongs to a distinct class of 5\u2032 to 3\u2032 viral helicase",
+            "authors": [
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Watt",
+                    "suffix": ""
+                },
+                {
+                    "first": "YB",
+                    "middle": [],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "LY",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "LLM",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Kung",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Biol Chem",
+            "volume": "278",
+            "issn": "",
+            "pages": "39578-39582",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.C300328200"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Identification of novel small-molecule inhibitors of severe acute respiratory syndrome-associated coronavirus by chemical genetics",
+            "authors": [
+                {
+                    "first": "RY",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "WH",
+                    "middle": [],
+                    "last": "Tsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "TS",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Watt",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Biol Chem",
+            "volume": "11",
+            "issn": "",
+            "pages": "1293-1299",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chembiol.2004.07.013"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "Synthesis of novel test compounds for antiviral chemotherapy of severe acute respiratory syndrome (SARS)",
+            "authors": [
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Andreas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr Med Chem",
+            "volume": "12",
+            "issn": "",
+            "pages": "2095-2162",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/0929867054637644"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "title": "Analysis of intraviral protein\u2013protein interactions of the SARS coronavirus ORFeome",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Von Albrecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Carola",
+                    "suffix": ""
+                },
+                {
+                    "first": "CS",
+                    "middle": [],
+                    "last": "Jeremy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rainer",
+                    "suffix": ""
+                },
+                {
+                    "first": "CF",
+                    "middle": [],
+                    "last": "Caroline",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ralf",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rhonda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ralph",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "J\u00fcrgen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS ONE",
+            "volume": "2",
+            "issn": "5",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0000459"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Epidemiology and cause of severe acute respiratory syndrome (SARS) in Guangdong, People\u2019s Republic of China, in February, 2003",
+            "authors": [
+                {
+                    "first": "NS",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "YM",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "LLM",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZH",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "PH",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "SY",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JP",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "XQ",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "DX",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "",
+            "pages": "1353-1358",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)14630-2"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "title": "Inhibition of SARS-associated coronavirus infection and replication by RNA interference",
+            "authors": [
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "JSM",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "MCM",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "LLM",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Kung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "JAMA",
+            "volume": "290",
+            "issn": "",
+            "pages": "2665-2666",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.290.20.2665"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Prophylactic and therapeutic effects of small interfering RNA targeting SARS-coronavirus",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "QQ",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "FY",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "KW",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lader",
+                    "suffix": ""
+                },
+                {
+                    "first": "MC",
+                    "middle": [],
+                    "last": "Woodle",
+                    "suffix": ""
+                },
+                {
+                    "first": "PY",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "NS",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Antivir Ther",
+            "volume": "9",
+            "issn": "",
+            "pages": "365-374",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "CM",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "VC",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "KS",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "IF",
+                    "middle": [],
+                    "last": "Hung",
+                    "suffix": ""
+                },
+                {
+                    "first": "LL",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "KI",
+                    "middle": [],
+                    "last": "Law",
+                    "suffix": ""
+                },
+                {
+                    "first": "BS",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "TY",
+                    "middle": [],
+                    "last": "Hon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1767-1772",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(03)13412-5"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Synthetic peptides outside the spike protein heptad repeat regions as potent inhibitors of SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "ML",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "HZ",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "LY",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Watt",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Niccolai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernini",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Spiga",
+                    "suffix": ""
+                },
+                {
+                    "first": "PCY",
+                    "middle": [],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "HF",
+                    "middle": [],
+                    "last": "Kung",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Antivir Ther",
+            "volume": "10",
+            "issn": "",
+            "pages": "393-403",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Three dimensional model of severe acute respiratory syndrome coronavirus helicase ATPase catalytic domain and molecular design of severe acute respiratory syndrome coronavirus helicase inhibitors",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Marcin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Krystian",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Marcinvon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Leszek",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ewa",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tomasz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tomasz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Andrzej",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Comput Aided Mol Des",
+            "volume": "20",
+            "issn": "",
+            "pages": "305-319",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10822-006-9057-z"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Mechanisms and enzymes involved in SARS coronavirus genome expression",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "KA",
+                    "middle": [],
+                    "last": "Ivanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Putics",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Gen Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "2305-2315",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.19424-0"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "SARS coronavirus replicase proteins in pathogenesis",
+            "authors": [
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Sparks",
+                    "suffix": ""
+                },
+                {
+                    "first": "LD",
+                    "middle": [],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "AC",
+                    "middle": [],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "MR",
+                    "middle": [],
+                    "last": "Denison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Virus Res",
+            "volume": "133",
+            "issn": "",
+            "pages": "88-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2007.02.017"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "A novel genetic system to detect protein\u2013protein interactions",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fields",
+                    "suffix": ""
+                },
+                {
+                    "first": "OK",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Nature",
+            "volume": "340",
+            "issn": "",
+            "pages": "245-246",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/340245a0"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "Modeling the early events of severe acute respiratory syndrome coronavirus infection in vitro",
+            "authors": [
+                {
+                    "first": "YT",
+                    "middle": [],
+                    "last": "Yen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "CH",
+                    "middle": [],
+                    "last": "Hsiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "CL",
+                    "middle": [],
+                    "last": "Kao",
+                    "suffix": ""
+                },
+                {
+                    "first": "YC",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "BA",
+                    "middle": [],
+                    "last": "Wu-Hsieh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "2684-2693",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.80.6.2684-2693.2006"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Cellular proteins reactive with monoclonal antibodies directed against simian virus 40 T-antigen",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Crawford",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leppard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Harlow",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Virol",
+            "volume": "42",
+            "issn": "",
+            "pages": "612-620",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "SV40 large T shares an antigenic determinant with a cellular protein of molecular weight 68, 000",
+            "authors": [
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                },
+                {
+                    "first": "WK",
+                    "middle": [],
+                    "last": "Hoeffler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Nature",
+            "volume": "288",
+            "issn": "",
+            "pages": "167-170",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/288167a0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "title": "RNA helicase activity associated with the human p68 protein",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hirling",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Scheffner",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Restle",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stahl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Nature",
+            "volume": "339",
+            "issn": "",
+            "pages": "562-564",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/339562a0"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Nuclear protein with sequence homology to translation initiation factore eIF-4A",
+            "authors": [
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Ford",
+                    "suffix": ""
+                },
+                {
+                    "first": "IA",
+                    "middle": [],
+                    "last": "Anton",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Nature",
+            "volume": "332",
+            "issn": "",
+            "pages": "736-738",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/332736a0"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "The severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "KY",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "AD",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stohr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "349",
+            "issn": "",
+            "pages": "2431-2441",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMra032498"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "title": "DExD/H box RNA helicases: from generic motors to specific dissociation functions",
+            "authors": [
+                {
+                    "first": "NK",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Linder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol Cell",
+            "volume": "8",
+            "issn": "",
+            "pages": "251-262",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1097-2765(01)00329-X"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "title": "Purification and identification of p68 RNA helicase acting as a transcriptional coactivator specific for the activation function 1 of human estrogen receptor \u03b1",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Endoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Maruyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Masuhiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Goto",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yanagisawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Metzger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hashimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Mol Cell Biol",
+            "volume": "19",
+            "issn": "",
+            "pages": "5363-5372",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "The DEAD box protein p68:a novel transcriptional coactivator of the p53 tumour suppressor",
+            "authors": [
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Bates",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Nicol",
+                    "suffix": ""
+                },
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Bourdon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wardrop",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                },
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "Lane",
+                    "suffix": ""
+                },
+                {
+                    "first": "ND",
+                    "middle": [],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "FV",
+                    "middle": [],
+                    "last": "Fuller-Pace",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "EMBO J",
+            "volume": "24",
+            "issn": "",
+            "pages": "543-553",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.emboj.7600550"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "title": "Functional interaction between Smad, CREB binding protein, and p68 RNA helicase",
+            "authors": [
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Warner",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bhattacherjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mukhopadhyay",
+                    "suffix": ""
+                },
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Pisano",
+                    "suffix": ""
+                },
+                {
+                    "first": "RM",
+                    "middle": [],
+                    "last": "Greene",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "324",
+            "issn": "",
+            "pages": "70-76",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.09.017"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "The RNA helicase p68/p72 and noncoding RNA SRA are coregulators of MyoD and skeletal muscle differentiation",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Caretti",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Schiltz",
+                    "suffix": ""
+                },
+                {
+                    "first": "FJ",
+                    "middle": [],
+                    "last": "Dilworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Di Padova",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Ogryzko",
+                    "suffix": ""
+                },
+                {
+                    "first": "FV",
+                    "middle": [],
+                    "last": "Fuller-Pace",
+                    "suffix": ""
+                },
+                {
+                    "first": "EP",
+                    "middle": [],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Tapscott",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sartorelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Dev Cell",
+            "volume": "11",
+            "issn": "",
+            "pages": "547-560",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.devcel.2006.08.003"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Synergism between p68 RNA helicase and the transcriptional coactivators CBP and p300",
+            "authors": [
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Rossow",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Janknecht",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Oncogene",
+            "volume": "22",
+            "issn": "",
+            "pages": "151-156",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.onc.1206067"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "title": "The p68 and p72 DEAD box RNA helicases interact with HDAC1 and repress transcription in a promoter-specific manner",
+            "authors": [
+                {
+                    "first": "BJ",
+                    "middle": [],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "GJ",
+                    "middle": [],
+                    "last": "Bates",
+                    "suffix": ""
+                },
+                {
+                    "first": "SM",
+                    "middle": [],
+                    "last": "Nicol",
+                    "suffix": ""
+                },
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "Gregory",
+                    "suffix": ""
+                },
+                {
+                    "first": "ND",
+                    "middle": [],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "FV",
+                    "middle": [],
+                    "last": "Fuller-Pace",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "BMC Mol Biol",
+            "volume": "5",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1471-2199-5-11"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "The genome sequence of the SARS-associated coronavirus",
+            "authors": [
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "CR",
+                    "middle": [],
+                    "last": "Astell",
+                    "suffix": ""
+                },
+                {
+                    "first": "RA",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brooks-Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Butterfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Khattra",
+                    "suffix": ""
+                },
+                {
+                    "first": "JK",
+                    "middle": [],
+                    "last": "Asano",
+                    "suffix": ""
+                },
+                {
+                    "first": "SA",
+                    "middle": [],
+                    "last": "Barber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "300",
+            "issn": "",
+            "pages": "1399-1404",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1085953"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "MM",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cavanagh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Adv Virus Res",
+            "volume": "48",
+            "issn": "",
+            "pages": "1-100",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3527(08)60286-9"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "title": "The predicted metal-binding region of the Arterivirus Helicase protein is involved in subgenomic mRNA synthesis, genome replication, and virion biogenesis",
+            "authors": [
+                {
+                    "first": "LC",
+                    "middle": [],
+                    "last": "Van Dinten",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "van Tol",
+                    "suffix": ""
+                },
+                {
+                    "first": "AE",
+                    "middle": [],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "EJ",
+                    "middle": [],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Virol",
+            "volume": "74",
+            "issn": "",
+            "pages": "5213-5223",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.74.11.5213-5223.2000"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "title": "Virus-encoded RNA helicases",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kadare",
+                    "suffix": ""
+                },
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Haenni",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Virol",
+            "volume": "71",
+            "issn": "",
+            "pages": "2583-2590",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Tertiary structure prediction of SARS coronavirus helicase",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Andrea",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ottavia",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Vincenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Filippo",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Luisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Neri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "343",
+            "issn": "",
+            "pages": "1101-1104",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2006.03.069"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "title": "New helicase-primase inhibitors as drug candidates for the treatment of herpes simplex disease",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kleymann",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "UA",
+                    "middle": [],
+                    "last": "Betz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hendrix",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Bender",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Handke",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Eckenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hewlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nat Med",
+            "volume": "8",
+            "issn": "",
+            "pages": "392-398",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm0402-392"
+                ]
+            }
+        }
+    }
+}

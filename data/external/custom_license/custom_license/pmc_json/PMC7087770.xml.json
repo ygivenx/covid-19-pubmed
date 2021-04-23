@@ -1,0 +1,1525 @@
+{
+    "paper_id": "PMC7087770",
+    "metadata": {
+        "title": "Using cellular automata images and pseudo amino acid composition to predict protein subcellular location",
+        "authors": [
+            {
+                "first": "X.",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "S.",
+                "middle": [],
+                "last": "Shao",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Y.",
+                "middle": [],
+                "last": "Ding",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Z.",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "K.-C.",
+                "middle": [],
+                "last": "Chou",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [],
+    "ref_entries": {},
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "Automated recognition of patterns characteristic of subcellular structures in fluorescence microscopy images.",
+            "authors": [
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Boland",
+                    "suffix": ""
+                },
+                {
+                    "first": "MK",
+                    "middle": [],
+                    "last": "Markey",
+                    "suffix": ""
+                },
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Cytometry",
+            "volume": "33",
+            "issn": "",
+            "pages": "366-375",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1097-0320(19981101)33:3<366::AID-CYTO12>3.0.CO;2-R"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "title": "Relation between amino acid composition and cellular location of proteins.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cedano",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Aloy",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "P\u2019erez-Pons",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Querol",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Mol Biol",
+            "volume": "266",
+            "issn": "",
+            "pages": "594-600",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jmbi.1996.0804"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "title": "A novel approach to predicting protein structural classes in a (20\u20131)-D amino acid composition space.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proteins: Structure, Function & Genetics",
+            "volume": "21",
+            "issn": "",
+            "pages": "319-344",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Prediction of protein subcellular locations by incorporating quasi-sequence-order effect.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "278",
+            "issn": "",
+            "pages": "477-483",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/bbrc.2000.3815"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "title": "Review: Prediction of protein structural classes and subcellular locations.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Curr Protein Pept Sci",
+            "volume": "1",
+            "issn": "",
+            "pages": "171-208",
+            "other_ids": {
+                "DOI": [
+                    "10.2174/1389203003381379"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "title": "Prediction of protein cellular attributes using pseudo-amino-acid-composition.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "PROTEINS: Structure, Function, and Genetics",
+            "volume": "43",
+            "issn": "",
+            "pages": "246-255",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.1035"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Using amphiphilic pseudo amino acid composition to predict enzyme subfamily classes.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "10-19",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bth466"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "title": "Using functional domain composition and support vector machines for prediction of protein subcellular location.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Biol Chem",
+            "volume": "277",
+            "issn": "",
+            "pages": "45765-45769",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Predicting protein quaternary structure by pseudo amino acid composition.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "PROTEINS: Structure, Function, and Genetics",
+            "volume": "53",
+            "issn": "",
+            "pages": "282-289",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.10500"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "title": "Prediction and classification of protein subcellular location: sequence-order effect and pseudo amino acid composition.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Cell Biochem",
+            "volume": "90",
+            "issn": "",
+            "pages": "1250-1260",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcb.10719"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "title": "Is it a paradox or misinterpretation.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "PROTEINS: Structure, Function, and Genetics",
+            "volume": "43",
+            "issn": "",
+            "pages": "336-338",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.1045"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "title": "Predicting protein structural class by functional domain composition.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Comm",
+            "volume": "321",
+            "issn": "",
+            "pages": "1007-1009",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.07.059"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "title": "Predicting subcellular localization of proteins by hybridizing functional domain composition and pseudo-amino acid composition.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Cell Biochem",
+            "volume": "91",
+            "issn": "",
+            "pages": "1197-1203",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcb.10790"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "title": "Prediction of protein subcellular locations by GO-FunD-PseAA predicor.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "320",
+            "issn": "",
+            "pages": "1236-1239",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.06.073"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "title": "Predicting protein localization in budding yeast.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bioinformatics",
+            "volume": "21",
+            "issn": "",
+            "pages": "944-950",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/bth466"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "title": "Protein subcellular location prediction.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Elrod",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Protein Engineering",
+            "volume": "12",
+            "issn": "",
+            "pages": "107-118",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/protein/12.2.107"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "title": "A joint prediction of the folding types of 1490 human proteins from their genetic codons.",
+            "authors": [
+                {
+                    "first": "JJ",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Theor Biol",
+            "volume": "161",
+            "issn": "",
+            "pages": "251-262",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/jtbi.1993.1053"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "title": "Predicting protein folding types by distance functions that make allowances for amino acid interactions.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Biol Chem",
+            "volume": "269",
+            "issn": "",
+            "pages": "22014-22020",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Review: Prediction of protein structural classes.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Crit Rev Biochem Mol Biol",
+            "volume": "30",
+            "issn": "",
+            "pages": "275-349",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Prediction and classification of domain structural classes.",
+            "authors": [
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GM",
+                    "middle": [],
+                    "last": "Maggiora",
+                    "suffix": ""
+                },
+                {
+                    "first": "CT",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "PROTEINS: Structure, Function, and Genetics",
+            "volume": "31",
+            "issn": "",
+            "pages": "97-103",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/(SICI)1097-0134(19980401)31:1<97::AID-PROT8>3.0.CO;2-E"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "title": "Using pseudo amino acid composition to predict protein subcellular location: approached with Lyapunov index, Bessel function, and Chebyshev filter.",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "SH",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Amino Acids",
+            "volume": "28",
+            "issn": "",
+            "pages": "373-376",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00726-005-0206-9"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "title": "Nearest neighbour algorithm for predicting protein subcellular location by combining functional domain composition and pseudo-amino acid composition.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biochem Biophys Res Comm",
+            "volume": "305",
+            "issn": "",
+            "pages": "407-411",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "A rapid method for detecting interconnections between functionally and/or evolutionary close biological sequences.",
+            "authors": [
+                {
+                    "first": "VD",
+                    "middle": [],
+                    "last": "Gusev",
+                    "suffix": ""
+                },
+                {
+                    "first": "LA",
+                    "middle": [],
+                    "last": "Nemytikova",
+                    "suffix": ""
+                },
+                {
+                    "first": "NA",
+                    "middle": [],
+                    "last": "Chuzhanova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol Biol (Mosk)",
+            "volume": "35",
+            "issn": "",
+            "pages": "1015-1022",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "A neural based human face recognition system using an efficient feature extraction method with pseudo zernike moment.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haddadnia",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Faez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ahmadi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Circuits, Systems, and Computers",
+            "volume": "11",
+            "issn": "",
+            "pages": "283-304",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Towards a systematics for protein subcellular location: quantitative description of protein localization patterns and automated analysis of fluorescence microscope images.",
+            "authors": [
+                {
+                    "first": "RF",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Boland",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Velliste",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Proc Int Conf Intell Syst Mol Biol",
+            "volume": "8",
+            "issn": "",
+            "pages": "251-259",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Protein sorting signals and prediction of subcellular localization.",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Adv Protein Chem",
+            "volume": "54",
+            "issn": "",
+            "pages": "277-344",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0065-3233(00)54009-1"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "title": "Application of pseudo amino acid composition for predicting protein subcellular location: stochastic signal processing approach.",
+            "authors": [
+                {
+                    "first": "YX",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZZ",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZM",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "GY",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Protein Chem",
+            "volume": "22",
+            "issn": "",
+            "pages": "395-402",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1025350409648"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "title": "Prediction of protein subcellular locations by support vector machines using compositions of amino acid and amino acid pairs.",
+            "authors": [
+                {
+                    "first": "KJ",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kanehisa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bioinformatics",
+            "volume": "19",
+            "issn": "",
+            "pages": "1656-1663",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "A parametric texture model based on joint statistics of complex wavelet coefficients.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Portilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "EP",
+                    "middle": [],
+                    "last": "Simoncelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Int J Comput Vision",
+            "volume": "40",
+            "issn": "",
+            "pages": "49-71",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1026553619983"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "title": "Weighted-support vector machines for predicting membrane protein types based on pseudo amino acid composition.",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Protein Eng Des Sel",
+            "volume": "17",
+            "issn": "",
+            "pages": "509-516",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "SLLE for predicting membrane protein types.",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Theor Biol",
+            "volume": "232",
+            "issn": "",
+            "pages": "7-15",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "A new nucleotide-composition based fingerprint of SARS-CoV with visualization analysis.",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "JS",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZD",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "ZJ",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "HY",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "XY",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "YS",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Med Chem",
+            "volume": "1",
+            "issn": "",
+            "pages": "39-47",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Predicting 22 protein localizations in budding yeast.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biochem Biophys Res Comm",
+            "volume": "323",
+            "issn": "",
+            "pages": "425-428",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbrc.2004.08.113"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "title": "",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "Using complexity measure factor to predict protein subcellular location.",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dingl",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Amino Acids",
+            "volume": "28",
+            "issn": "",
+            "pages": "57-61",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "An application of gene comparative image for predicting the effect on replication ratio by HBV virus gene missense mutation.",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Theor Biol",
+            "volume": "235",
+            "issn": "",
+            "pages": "555-565",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2005.02.008"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "title": "Using cellular automata to generate Image representation for biological sequences.",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Amino Acids",
+            "volume": "28",
+            "issn": "",
+            "pages": "29-35",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "An intriguing controversy over protein structural class prediction.",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Protein Chem",
+            "volume": "17",
+            "issn": "",
+            "pages": "729-738",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1020713915365"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "title": "Some insights into protein structural class prediction.",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Assa-Munt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "PROTEINS: Structure, Function, and Genetics",
+            "volume": "44",
+            "issn": "",
+            "pages": "57-59",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Subcellular location prediction of apoptosis proteins.",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Doctor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "PROTEINS: Structure, Function, and Genetics",
+            "volume": "50",
+            "issn": "",
+            "pages": "44-48",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/prot.10251"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "title": "Minimax entropy principle and its application to texture modeling.",
+            "authors": [
+                {
+                    "first": "SC",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mumford",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Neural comput",
+            "volume": "9",
+            "issn": "",
+            "pages": "1627-1660",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "On the complexity of finite sequences.",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziv",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lempel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1976,
+            "venue": "IEEE Trans Inf Theor",
+            "volume": "IT-22",
+            "issn": "",
+            "pages": "75-81",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Predicting subcellular localization of proteins in a hybridization space.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Bioinformatics",
+            "volume": "20",
+            "issn": "",
+            "pages": "1151-1156",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Support vector machines for prediction of protein subcellular location by incorporating quasi-sequence-order effect.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "XB",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Cell Biochem",
+            "volume": "84",
+            "issn": "",
+            "pages": "343-348",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jcb.10030"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "title": "SVM for predicting membrane protein types by incorporating quasi-sequence-order effect. Internet.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "XJ",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "XB",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Electronic Journal of Molecular Design",
+            "volume": "1",
+            "issn": "",
+            "pages": "219-226",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Support vector machines for predicting membrane protein types by using functional domain composition.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Biophys J",
+            "volume": "84",
+            "issn": "",
+            "pages": "3257-3263",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Predicting enzyme family classes by hybridizing gene product composition and pseudo-amino acid composition.",
+            "authors": [
+                {
+                    "first": "YD",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "KC",
+                    "middle": [],
+                    "last": "Chou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Theor Biol",
+            "volume": "234",
+            "issn": "",
+            "pages": "145-149",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jtbi.2004.11.017"
+                ]
+            }
+        }
+    }
+}
